@@ -1,0 +1,14 @@
+{
+  "url": "cgplumbinglasvegas.com",
+  "name": "CG Plumbing Solutions - CG Plumbing Solutions",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "89106",
+    "addressRegion": "NV",
+    "streetAddress": "125 Rosemeade Street",
+    "addressLocality": "Las Vegas"
+  },
+  "@context": "https://schema.org",
+  "telephone": "(702) 843-0899"
+}

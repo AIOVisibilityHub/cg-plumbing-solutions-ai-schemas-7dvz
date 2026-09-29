@@ -1,0 +1,40 @@
+{
+  "url": "cgplumbinglasvegas.com",
+  "name": "Sewer Line Repair",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Las Vegas"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "LocalBusiness",
+    "telephone": "(702) 843-0899"
+  },
+  "telephone": "(702) 843-0899",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    }
+  ],
+  "serviceType": "Sewer Line Repair"
+}
