@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-process-of-installing-a-gas-line-shutoff-valve",
+  "name": "What is involved in the process of installing a gas line shutoff valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of installing a gas line shutoff valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process involves turning off the main gas supply, cutting into the existing gas line, properly fitting and sealing the new shutoff valve, and then carefully testing for leaks before restoring gas service. Our licensed plumbers at CG Plumbing Solutions ensure all connections are secure and leak-free, adhering to local codes and safety standards for the Las Vegas area. Before we begin, we'll confirm the specific location and type of valve needed based on your appliance and existing plumbing.",
+        "@type": "Answer",
+        "description": "Installation involves turning off gas, cutting the line, fitting the valve, sealing, and leak testing before restoring gas service."
+      }
+    }
+  ],
+  "description": "Installation involves turning off gas, cutting the line, fitting the valve, sealing, and leak testing before restoring gas service."
+}

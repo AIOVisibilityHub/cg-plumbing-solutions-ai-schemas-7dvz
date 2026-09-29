@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-rerouting-plumbing-lines-during-a-vanity-installation",
+  "name": "When should I consider rerouting plumbing lines during a vanity installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider rerouting plumbing lines during a vanity installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider rerouting plumbing lines during a vanity installation if the new vanity's design or size significantly differs from the old one, making the existing connections unsuitable. This is common when upgrading from a pedestal sink to a full vanity, or moving from a wall-mounted to a floor-standing unit. Rerouting may also be necessary if you're remodeling and want to achieve a cleaner look by concealing pipes, or if the current lines are corroded or improperly installed. This decision can impact the project's complexity and cost.",
+        "@type": "Answer",
+        "description": "Rerouting plumbing is needed if your new vanity's design makes existing connections unsuitable, or for aesthetic and repair reasons."
+      }
+    }
+  ],
+  "description": "Rerouting plumbing is needed if your new vanity's design makes existing connections unsuitable, or for aesthetic and repair reasons."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-of-a-gas-leak-in-my-home",
+  "name": "What are common signs of a gas leak in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a gas leak in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a gas leak include a distinct sulfur-like or rotten egg odor, often added to natural gas for detection. You might also hear a hissing sound near a gas line or appliance, see a damaged gas pipe or connection, or notice dead or discolored vegetation near outdoor gas lines. For your safety, if you suspect a gas leak, evacuate your property immediately and contact your gas utility company and CG Plumbing Solutions for an inspection.",
+        "@type": "Answer",
+        "description": "Common signs of a gas leak include a rotten egg smell, hissing sounds, or damaged gas lines. Evacuate and call your gas utility and a plumber if you suspect a leak."
+      }
+    }
+  ],
+  "description": "Common signs of a gas leak include a rotten egg smell, hissing sounds, or damaged gas lines. Evacuate and call your gas utility and a plumber if you suspect a l"
+}

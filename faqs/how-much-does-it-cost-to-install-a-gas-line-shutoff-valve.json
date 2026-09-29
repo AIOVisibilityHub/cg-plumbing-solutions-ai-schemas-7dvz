@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-install-a-gas-line-shutoff-valve",
+  "name": "How much does it cost to install a gas line shutoff valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a gas line shutoff valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a gas line shutoff valve can vary based on factors such as the complexity of the installation, the type of valve needed, the location of the gas line, and whether any existing plumbing modifications are required. It typically includes labor and materials. CG Plumbing Solutions provides transparent pricing after an on-site assessment, ensuring you understand the full scope and cost of the work. We factor in your existing setup in Las Vegas, North Las Vegas, or other service areas to give an accurate estimate.",
+        "@type": "Answer",
+        "description": "Cost varies based on complexity, valve type, and location; CG Plumbing Solutions provides an on-site assessment for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Cost varies based on complexity, valve type, and location; CG Plumbing Solutions provides an on-site assessment for an accurate estimate."
+}

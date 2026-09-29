@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-turn-off-the-main-water-supply-for-a-kitchen-faucet-installation",
+  "name": "Do I need to turn off the main water supply for a kitchen faucet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to turn off the main water supply for a kitchen faucet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for any kitchen faucet installation, you will need to turn off the water supply to your sink. Ideally, there are shut-off valves directly underneath the sink for both hot and cold water lines. If these valves are absent or not functioning, the main water supply to your entire home will need to be turned off. Our plumbers always verify water shut-off before beginning work to prevent leaks and ensure a safe installation.",
+        "@type": "Answer",
+        "description": "Yes, you need to turn off the water supply to the sink using the shut-off valves, or the main water supply if sink valves are absent or faulty."
+      }
+    }
+  ],
+  "description": "Yes, you need to turn off the water supply to the sink using the shut-off valves, or the main water supply if sink valves are absent or faulty."
+}

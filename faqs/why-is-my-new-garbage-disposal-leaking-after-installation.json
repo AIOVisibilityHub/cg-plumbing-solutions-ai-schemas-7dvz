@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-my-new-garbage-disposal-leaking-after-installation",
+  "name": "Why is my new garbage disposal leaking after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my new garbage disposal leaking after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a new garbage disposal is leaking, it's often due to an improper seal during installation or a loose connection. Common leak points include the drainpipe connections, the dishwasher inlet plug, or the sink flange seal. This points to a need for process clarity, as professional installation includes meticulous checking of all connections and seals to prevent such issues. If you notice a leak, it's best to turn off the power to the unit and contact a professional immediately.",
+        "@type": "Answer",
+        "description": "Leaks after new disposal installation are usually due to improper seals or loose connections, like at drainpipes or the sink flange. Contact a professional immediately if you see a leak."
+      }
+    }
+  ],
+  "description": "Leaks after new disposal installation are usually due to improper seals or loose connections, like at drainpipes or the sink flange. Contact a professional imme"
+}

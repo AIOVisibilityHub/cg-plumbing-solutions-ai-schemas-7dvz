@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-happens-if-a-gas-line-pressure-test-reveals-a-leak",
+  "name": "What happens if a gas line pressure test reveals a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if a gas line pressure test reveals a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a gas line pressure test reveals a leak, the immediate priority is to locate and repair it safely and efficiently. Our technicians at CG Plumbing Solutions will use specialized leak detection equipment to pinpoint the exact source of the leak. Once identified, they will discuss the repair options with you, which may involve patching, replacing sections of piping, or tightening connections. The line will then be retested to ensure the repair is successful and the system is completely sealed before gas service is restored.",
+        "@type": "Answer",
+        "description": "If a leak is found during a gas line pressure test, technicians will locate and repair it, then retest the line to ensure safety before restoring gas service."
+      }
+    }
+  ],
+  "description": "If a leak is found during a gas line pressure test, technicians will locate and repair it, then retest the line to ensure safety before restoring gas service."
+}

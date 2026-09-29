@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-of-a-gas-leak",
+  "name": "What are the signs of a gas leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of a gas leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a gas leak include a distinct sulfur-like odor (like rotten eggs), a hissing sound near gas appliances or pipes, dead or discolored vegetation over an underground gas line, or an unexplained increase in your gas bill. If you suspect a gas leak, immediately evacuate the premises, do not use electrical switches or phones, and call your gas provider and a licensed plumber from a safe location. CG Plumbing Solutions can respond to such emergencies.",
+        "@type": "Answer",
+        "description": "Signs of a gas leak include a rotten egg smell, hissing sounds, dead plants, or a high gas bill. Evacuate and call for help immediately if suspected."
+      }
+    }
+  ],
+  "description": "Signs of a gas leak include a rotten egg smell, hissing sounds, dead plants, or a high gas bill. Evacuate and call for help immediately if suspected."
+}

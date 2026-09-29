@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-kitchen-sink-repair-take",
+  "name": "How long does a typical kitchen sink repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical kitchen sink repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen sink repair varies significantly based on the problem's complexity. Simple repairs like a minor leak or a basic clog can often be completed within an hour or two. More extensive issues, such as replacing a garbage disposal, addressing significant pipe damage, or diagnosing intermittent problems, might take several hours. Timely service is a priority, and our technicians aim to complete repairs efficiently while ensuring a lasting solution.",
+        "@type": "Answer",
+        "description": "Repair time depends on complexity; minor fixes take 1-2 hours, while complex issues may take several hours."
+      }
+    }
+  ],
+  "description": "Repair time depends on complexity; minor fixes take 1-2 hours, while complex issues may take several hours."
+}

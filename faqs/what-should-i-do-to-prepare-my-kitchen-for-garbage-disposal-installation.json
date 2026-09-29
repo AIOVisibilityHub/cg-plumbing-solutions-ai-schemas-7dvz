@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-to-prepare-my-kitchen-for-garbage-disposal-installation",
+  "name": "What should I do to prepare my kitchen for garbage disposal installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my kitchen for garbage disposal installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your scheduled garbage disposal installation, ensure the area under your sink is clear and easily accessible for our technicians. Remove any items, cleaning supplies, or trash cans from the cabinet. If it's a replacement, you don't typically need to disconnect the old unit yourself. Having a clear workspace allows for a more efficient and smooth installation process by CG Plumbing Solutions, whether you're in Paradise, Spring Valley, or other service areas.",
+        "@type": "Answer",
+        "description": "Clear the area under your sink, ensuring it's accessible for technicians. This prepares your kitchen for an efficient installation process."
+      }
+    }
+  ],
+  "description": "Clear the area under your sink, ensuring it's accessible for technicians. This prepares your kitchen for an efficient installation process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-an-air-gap-for-my-dishwasher-drain-line-in-las-vegas",
+  "name": "Do I need an air gap for my dishwasher drain line in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an air gap for my dishwasher drain line in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many jurisdictions, including parts of Nevada, an air gap is required by plumbing code for dishwashers that drain into a garbage disposal or directly into the drainpipe. Its purpose is to prevent contaminated sink water from siphoning back into the dishwasher, protecting your potable water supply. Even if not strictly mandated in every local code within the Las Vegas metropolitan area, installing an air gap is a highly recommended safety measure to ensure your home's water quality. Our plumbers can advise on local codes and proper installation.",
+        "@type": "Answer",
+        "description": "An air gap is often required by plumbing code in areas like Las Vegas to prevent contaminated water from siphoning back into your dishwasher."
+      }
+    }
+  ],
+  "description": "An air gap is often required by plumbing code in areas like Las Vegas to prevent contaminated water from siphoning back into your dishwasher."
+}

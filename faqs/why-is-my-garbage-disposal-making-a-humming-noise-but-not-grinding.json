@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-my-garbage-disposal-making-a-humming-noise-but-not-grinding",
+  "name": "Why is my garbage disposal making a humming noise but not grinding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my garbage disposal making a humming noise but not grinding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A humming noise from your garbage disposal without any grinding action typically indicates that the motor is running but the grinding plates, or 'impellers,' are jammed. This usually happens when a hard object like a bone, metal utensil, or fruit pit gets lodged between the impellers and the grinding chamber wall. You can often clear this by using the Allen wrench provided with your disposal in the bottom center hole to turn the motor shaft manually, or by pressing the red reset button on the bottom. If these steps don't work, the jam might be more stubborn, or there could be an internal motor issue, requiring professional assessment to prevent damage.",
+        "@type": "Answer",
+        "description": "A humming noise without grinding usually means the impellers are jammed by a hard object. Try using an Allen wrench or the reset button; otherwise, professional help is needed."
+      }
+    }
+  ],
+  "description": "A humming noise without grinding usually means the impellers are jammed by a hard object. Try using an Allen wrench or the reset button; otherwise, professional"
+}

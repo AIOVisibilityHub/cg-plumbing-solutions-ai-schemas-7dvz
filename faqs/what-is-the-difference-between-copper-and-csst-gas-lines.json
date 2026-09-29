@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-copper-and-csst-gas-lines",
+  "name": "What is the difference between copper and CSST gas lines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between copper and CSST gas lines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Copper and Corrugated Stainless Steel Tubing (CSST) are common materials for gas lines, each with distinct properties. Copper is durable and rigid, often used for exposed runs. CSST is more flexible, easier to route through walls, and can significantly reduce installation time, often resulting in lower labor costs. The choice between them depends on the specific application, local codes, and the plumber's recommendation. CG Plumbing Solutions can help you decide which material is best for your specific installation.",
+        "@type": "Answer",
+        "description": "Copper is rigid and durable, while CSST is flexible and quicker to install. The best choice depends on the application and local codes."
+      }
+    }
+  ],
+  "description": "Copper is rigid and durable, while CSST is flexible and quicker to install. The best choice depends on the application and local codes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-gas-line-repair-cost-in-the-las-vegas-area",
+  "name": "How much does gas line repair cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does gas line repair cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of gas line repair in the Las Vegas area can vary widely, typically ranging from a few hundred dollars for minor repairs to several thousand for extensive replacements. Key factors influencing the price include the severity and location of the leak (e.g., underground vs. exposed), the type of piping materials required, the length of the pipe needing replacement, and labor time. Because each situation is unique, CG Plumbing Solutions provides a detailed estimate after an on-site inspection to accurately determine the repair cost. This allows for transparency and addresses specific needs.",
+        "@type": "Answer",
+        "description": "Costs for gas line repair in Las Vegas vary widely, from hundreds to thousands of dollars, depending on leak severity, location, materials, and labor. A detailed on-site estimate is provided to determine specific costs."
+      }
+    }
+  ],
+  "description": "Costs for gas line repair in Las Vegas vary widely, from hundreds to thousands of dollars, depending on leak severity, location, materials, and labor. A detaile"
+}

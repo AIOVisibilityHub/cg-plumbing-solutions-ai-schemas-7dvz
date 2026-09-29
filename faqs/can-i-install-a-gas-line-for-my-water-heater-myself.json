@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-install-a-gas-line-for-my-water-heater-myself",
+  "name": "Can I install a gas line for my water heater myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a gas line for my water heater myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a gas line for your water heater is a complex task that carries significant safety risks if not done correctly. Due to the potential for gas leaks, fires, or explosions, it is strongly recommended that gas line installations and repairs be performed by a licensed and experienced plumbing professional. Many local codes in areas like Paradise and Summerlin also require such work to be completed by a licensed contractor and inspected. Attempting a DIY installation can void warranties, lead to code violations, and, most importantly, compromise the safety of your home and family. For these reasons, we always advise professional installation.",
+        "@type": "Answer",
+        "description": "Due to significant safety risks and local code requirements, installing a gas line yourself is not recommended; it should be done by a licensed plumbing professional."
+      }
+    }
+  ],
+  "description": "Due to significant safety risks and local code requirements, installing a gas line yourself is not recommended; it should be done by a licensed plumbing profess"
+}

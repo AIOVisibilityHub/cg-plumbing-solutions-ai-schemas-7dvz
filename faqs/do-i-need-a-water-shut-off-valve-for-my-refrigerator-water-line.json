@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-a-water-shut-off-valve-for-my-refrigerator-water-line",
+  "name": "Do I need a water shut-off valve for my refrigerator water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a water shut-off valve for my refrigerator water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a dedicated water shut-off valve for your refrigerator water line is highly recommended and often a requirement. This valve allows you to quickly and easily turn off the water supply to your refrigerator for maintenance, repairs, or if a leak occurs, without affecting the water supply to the rest of your home. If your current setup lacks one, CG Plumbing Solutions will install a new shut-off valve to provide this essential control and safety feature.",
+        "@type": "Answer",
+        "description": "Yes, a dedicated shut-off valve is highly recommended and often required. It allows you to turn off water to the refrigerator for maintenance or leaks without affecting the rest of your home."
+      }
+    }
+  ],
+  "description": "Yes, a dedicated shut-off valve is highly recommended and often required. It allows you to turn off water to the refrigerator for maintenance or leaks without a"
+}

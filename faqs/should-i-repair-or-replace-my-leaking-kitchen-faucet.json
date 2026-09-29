@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-repair-or-replace-my-leaking-kitchen-faucet",
+  "name": "Should I repair or replace my leaking kitchen faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my leaking kitchen faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace a leaking kitchen faucet often depends on its age, the severity of the leak, and the overall condition of the faucet. If your faucet is old, frequently leaks, or shows significant wear, replacement might be a more cost-effective long-term solution. However, a relatively new faucet with a minor leak can often be repaired by replacing specific components, extending its lifespan. We can help you assess the most practical tradeoff during an inspection.",
+        "@type": "Answer",
+        "description": "Consider repair for minor leaks on newer faucets, but replacement might be better for older faucets with frequent or severe leaks. We can help you weigh the options."
+      }
+    }
+  ],
+  "description": "Consider repair for minor leaks on newer faucets, but replacement might be better for older faucets with frequent or severe leaks. We can help you weigh the opt"
+}

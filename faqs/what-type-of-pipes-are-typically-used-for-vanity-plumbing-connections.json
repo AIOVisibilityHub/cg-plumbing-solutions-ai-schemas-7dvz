@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-type-of-pipes-are-typically-used-for-vanity-plumbing-connections",
+  "name": "What type of pipes are typically used for vanity plumbing connections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of pipes are typically used for vanity plumbing connections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For vanity plumbing connections, common pipe materials include PEX (cross-linked polyethylene) and copper for water supply lines, and PVC (polyvinyl chloride) or ABS (acrylonitrile butadiene styrene) for drain lines. PEX is popular for its flexibility, ease of installation, and corrosion resistance. Copper is durable and long-lasting but can be more complex to install. PVC and ABS are standard for drains due to their chemical resistance and cost-effectiveness. The choice often depends on existing plumbing, local codes, and homeowner preference, though PEX is increasingly preferred for its efficiency.",
+        "@type": "Answer",
+        "description": "PEX and copper are common for water supply, while PVC or ABS are used for drain lines, chosen based on existing plumbing and local codes."
+      }
+    }
+  ],
+  "description": "PEX and copper are common for water supply, while PVC or ABS are used for drain lines, chosen based on existing plumbing and local codes."
+}

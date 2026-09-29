@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-a-professional-dishwasher-water-line-installation",
+  "name": "What is involved in a professional dishwasher water line installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a professional dishwasher water line installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional dishwasher water line installation involves connecting the appliance to your home's water supply. This typically includes shutting off the main water, routing a new water line (often copper or braided stainless steel) from a nearby supply valve, installing a shut-off valve specific to the dishwasher, and making the final connection to the dishwasher itself. Our technicians ensure all connections are leak-free and meet local plumbing codes. We also confirm the dishwasher is correctly leveled and tested to prevent future issues.",
+        "@type": "Answer",
+        "description": "Professional installation connects your dishwasher to the home's water supply, ensuring leak-free connections and adherence to plumbing codes for optimal performance."
+      }
+    }
+  ],
+  "description": "Professional installation connects your dishwasher to the home's water supply, ensuring leak-free connections and adherence to plumbing codes for optimal perfor"
+}

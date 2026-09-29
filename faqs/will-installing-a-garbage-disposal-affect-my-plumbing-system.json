@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-installing-a-garbage-disposal-affect-my-plumbing-system",
+  "name": "Will installing a garbage disposal affect my plumbing system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will installing a garbage disposal affect my plumbing system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Properly installed, a garbage disposal should not negatively affect your plumbing system. However, incorrect installation or improper use (e.g., grinding hard items like bones, fibrous vegetables, or grease) can lead to clogs and plumbing issues. It's crucial to ensure the unit is correctly vented and connected to the drain. CG Plumbing Solutions ensures professional installation that adheres to all plumbing standards, minimizing any risk to your system and providing advice on proper disposal usage for homes across our service areas, including Anthem and Green Valley.",
+        "@type": "Answer",
+        "description": "Properly installed disposals won't harm plumbing, but incorrect installation or improper use can cause clogs. Professional installation minimizes risks."
+      }
+    }
+  ],
+  "description": "Properly installed disposals won't harm plumbing, but incorrect installation or improper use can cause clogs. Professional installation minimizes risks."
+}

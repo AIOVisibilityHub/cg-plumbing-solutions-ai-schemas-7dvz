@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-i-need-a-new-gas-line-for-my-water-heater",
+  "name": "What are the signs I need a new gas line for my water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs I need a new gas line for my water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs you may need a new gas line for your water heater include visible corrosion or damage to the existing line, a persistent smell of natural gas, or issues with your water heater's performance such as inconsistent hot water supply. If you notice any of these indicators, it's crucial to contact a qualified professional for an inspection. Ignoring these signs can lead to safety hazards or operational failures. A professional assessment can determine if repairs or a full replacement is necessary, ensuring your system operates safely and efficiently.",
+        "@type": "Answer",
+        "description": "Signs include corrosion, gas smell, or inconsistent hot water. A professional inspection is crucial for safety and system performance."
+      }
+    }
+  ],
+  "description": "Signs include corrosion, gas smell, or inconsistent hot water. A professional inspection is crucial for safety and system performance."
+}

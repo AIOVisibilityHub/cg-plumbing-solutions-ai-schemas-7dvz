@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-immediately-if-i-smell-gas-in-my-home",
+  "name": "What should I do immediately if I smell gas in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I smell gas in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you smell gas in your home, it's critical to act quickly and safely. Do not turn on or off any lights, use cell phones, or operate any electrical devices, as a spark could ignite the gas. Immediately evacuate everyone from the building and move to a safe distance. Once outside, call your gas utility provider's emergency line and then contact a licensed plumber, such as CG Plumbing Solutions, from a neighbor's phone or a cell phone far away from the suspected leak source. Wait for professionals to arrive and confirm it's safe to re-enter.",
+        "@type": "Answer",
+        "description": "If you smell gas, evacuate immediately without using any electrical devices. Once safe, call your gas utility and a licensed plumber like CG Plumbing Solutions from an outdoor phone. Do not re-enter until professionals confirm it is safe."
+      }
+    }
+  ],
+  "description": "If you smell gas, evacuate immediately without using any electrical devices. Once safe, call your gas utility and a licensed plumber like CG Plumbing Solutions"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-installation-process-for-a-bidet-seat",
+  "name": "What is the installation process for a bidet seat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for a bidet seat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a bidet seat typically involves several steps. First, we turn off the water supply to your toilet and flush it to empty the tank. Next, the existing toilet seat is removed, and a T-adapter is installed at the toilet's water supply line. The bidet seat is then secured to the toilet bowl, and its hose is connected to the T-adapter. For electric models, a GFCI-protected outlet must be available nearby. Finally, the water supply is restored, and all connections are checked for leaks, ensuring everything functions correctly before we complete the job.",
+        "@type": "Answer",
+        "description": "Bidet seat installation involves turning off water, removing the old seat, installing a T-adapter, securing the bidet seat, connecting hoses, and checking for leaks, with electrical hookup for powered models."
+      }
+    }
+  ],
+  "description": "Bidet seat installation involves turning off water, removing the old seat, installing a T-adapter, securing the bidet seat, connecting hoses, and checking for l"
+}

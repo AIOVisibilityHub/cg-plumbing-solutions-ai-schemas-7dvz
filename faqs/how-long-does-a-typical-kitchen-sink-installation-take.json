@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-kitchen-sink-installation-take",
+  "name": "How long does a typical kitchen sink installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical kitchen sink installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard kitchen sink installation usually takes a few hours, typically between 2 to 4 hours, assuming no major modifications are needed. This includes removing the old sink, preparing the area, installing the new sink, connecting the faucet and drain lines, and testing for leaks. The process can take longer if cabinet modifications are required, if the new sink is a different size or style from the old one, or if new plumbing lines need to be run. CG Plumbing Solutions ensures the process is efficient while maintaining high quality in areas like Las Vegas and Henderson.",
+        "@type": "Answer",
+        "description": "A typical kitchen sink installation takes 2-4 hours, including removal, new sink placement, and plumbing connections. Complex installations may take longer due to modifications."
+      }
+    }
+  ],
+  "description": "A typical kitchen sink installation takes 2-4 hours, including removal, new sink placement, and plumbing connections. Complex installations may take longer due"
+}

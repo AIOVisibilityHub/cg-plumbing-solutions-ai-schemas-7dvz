@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-there-any-common-reasons-why-kitchen-faucets-leak-even-new-ones",
+  "name": "Are there any common reasons why kitchen faucets leak, even new ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any common reasons why kitchen faucets leak, even new ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even new kitchen faucets can leak due to several factors, including faulty installation, manufacturing defects in components like O-rings or cartridges, or issues with water pressure. Incorrectly tightened connections during installation are a frequent cause. For a new faucet experiencing issues, it's important to verify the warranty and consider professional installation if it was a DIY project, as this can affect eligibility for repairs. CG Plumbing Solutions can assess the cause and provide solutions.",
+        "@type": "Answer",
+        "description": "New faucets can leak from faulty installation, manufacturing defects, or water pressure issues. Check warranty or consider professional help if DIY caused it."
+      }
+    }
+  ],
+  "description": "New faucets can leak from faulty installation, manufacturing defects, or water pressure issues. Check warranty or consider professional help if DIY caused it."
+}

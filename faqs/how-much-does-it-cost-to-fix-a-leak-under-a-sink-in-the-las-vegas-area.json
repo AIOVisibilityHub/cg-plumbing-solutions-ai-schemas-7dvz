@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-fix-a-leak-under-a-sink-in-the-las-vegas-area",
+  "name": "How much does it cost to fix a leak under a sink in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a leak under a sink in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of fixing an under-sink leak in the Las Vegas area varies significantly based on the cause and complexity of the repair. A simple fix, like tightening a loose connection or replacing a basic gasket, will be less expensive than replacing corroded pipes, a damaged P-trap, or a faulty garbage disposal. Extensive water damage to the cabinet or floor, requiring remediation, would also add to the overall cost. CG Plumbing Solutions provides transparent, upfront pricing after a professional assessment of the leak, ensuring you understand all costs before any work begins. We aim to provide cost-effective solutions tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "Cost varies by leak type and complexity; simple fixes are cheaper than pipe replacement or garbage disposal repair. CG Plumbing Solutions provides upfront pricing after assessment."
+      }
+    }
+  ],
+  "description": "Cost varies by leak type and complexity; simple fixes are cheaper than pipe replacement or garbage disposal repair. CG Plumbing Solutions provides upfront prici"
+}

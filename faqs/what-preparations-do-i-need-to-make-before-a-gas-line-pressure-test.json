@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preparations-do-i-need-to-make-before-a-gas-line-pressure-test",
+  "name": "What preparations do I need to make before a gas line pressure test?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations do I need to make before a gas line pressure test?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a gas line pressure test, you should ensure that access to your gas meter, all gas-burning appliances (like your water heater, furnace, stove, and dryer), and visible gas lines is clear and unobstructed. It's also helpful to inform our technicians if you've recently had any work done on your gas system or if you've noticed any specific issues like gas odors. While our team will handle the technical aspects, clearing pathways and sharing relevant history can significantly help streamline the testing process and improve efficiency.",
+        "@type": "Answer",
+        "description": "Before a gas line pressure test, ensure clear access to your gas meter, all gas appliances, and visible gas lines, and inform technicians of any recent work or concerns."
+      }
+    }
+  ],
+  "description": "Before a gas line pressure test, ensure clear access to your gas meter, all gas appliances, and visible gas lines, and inform technicians of any recent work or"
+}

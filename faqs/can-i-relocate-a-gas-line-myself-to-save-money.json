@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-relocate-a-gas-line-myself-to-save-money",
+  "name": "Can I relocate a gas line myself to save money?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I relocate a gas line myself to save money?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Relocating a gas line is a complex and hazardous task that should only be performed by a licensed and experienced professional. Attempting to do it yourself can lead to serious risks such as gas leaks, fires, explosions, and carbon monoxide poisoning. Additionally, improper installation can result in significant fines, property damage, and voided insurance claims. It's always safer and more cost-effective in the long run to hire a qualified plumber who can ensure the work is done safely and to code, avoiding potential dangers and costly repairs.",
+        "@type": "Answer",
+        "description": "No, gas line relocation is a dangerous task requiring a licensed professional due to risks like leaks, fires, and explosions, as well as legal and insurance implications."
+      }
+    }
+  ],
+  "description": "No, gas line relocation is a dangerous task requiring a licensed professional due to risks like leaks, fires, and explosions, as well as legal and insurance imp"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preparations-should-i-make-before-a-gas-line-replacement-appointment",
+  "name": "What preparations should I make before a gas line replacement appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before a gas line replacement appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your gas line replacement appointment, ensure clear access to the existing gas meter, gas lines, and any appliances connected to them. Clear pathways and remove any obstacles or personal belongings from the work areas. If you have pets, secure them in a safe location away from the work zone. CG Plumbing Solutions technicians appreciate these preparations, which help them work efficiently and safely within your home or business.",
+        "@type": "Answer",
+        "description": "Ensure clear access to the gas meter, lines, and appliances, clear work pathways, and secure pets before your appointment."
+      }
+    }
+  ],
+  "description": "Ensure clear access to the gas meter, lines, and appliances, clear work pathways, and secure pets before your appointment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-maintain-my-pot-filler-faucet-after-installation",
+  "name": "How do I maintain my pot filler faucet after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain my pot filler faucet after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining your pot filler faucet involves regular cleaning with mild soap and water to prevent mineral buildup and maintain its finish. Periodically check for any leaks at the joints or base. If you notice any drips or reduced water flow, it might indicate a need for seal replacement or professional inspection. In areas like Las Vegas with hard water, using a water softener can significantly reduce mineral deposits and extend the life of your faucet.",
+        "@type": "Answer",
+        "description": "Maintain your pot filler with regular cleaning and check for leaks. In hard water areas like Las Vegas, a water softener can extend its lifespan by reducing mineral buildup."
+      }
+    }
+  ],
+  "description": "Maintain your pot filler with regular cleaning and check for leaks. In hard water areas like Las Vegas, a water softener can extend its lifespan by reducing min"
+}

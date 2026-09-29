@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-new-gas-line-for-a-water-heater",
+  "name": "How long does it take to install a new gas line for a water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new gas line for a water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a new gas line for a water heater can vary significantly, typically ranging from a few hours to a full day. Factors influencing this include the complexity of routing the new line, the distance from the gas meter, and any necessary code upgrades. For instance, if the existing line needs to be fully decommissioned and a new, longer run installed, it will take more time than a simple replacement in an accessible area. We aim to complete installations efficiently while adhering to all safety protocols and local codes in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "Installation typically takes a few hours to a full day, depending on complexity, distance from the gas meter, and required code upgrades."
+      }
+    }
+  ],
+  "description": "Installation typically takes a few hours to a full day, depending on complexity, distance from the gas meter, and required code upgrades."
+}

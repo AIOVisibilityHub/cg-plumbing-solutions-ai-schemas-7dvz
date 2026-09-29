@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-a-vanity-plumbing-installation",
+  "name": "What is involved in a vanity plumbing installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a vanity plumbing installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Vanity plumbing installation involves connecting the water supply lines (hot and cold), drainpipe, and faucet to a new or existing vanity cabinet and sink. This includes ensuring proper sealing to prevent leaks, verifying correct water pressure, and testing the drainage. The complexity can vary based on whether it's a new installation, a replacement, or if existing plumbing lines need relocation or modification, which often requires professional assessment. Our plumbers will ensure all connections meet local codes for optimal function.",
+        "@type": "Answer",
+        "description": "Vanity plumbing installation connects water supply, drain, and faucet to the vanity and sink, ensuring leak-free operation and proper drainage."
+      }
+    }
+  ],
+  "description": "Vanity plumbing installation connects water supply, drain, and faucet to the vanity and sink, ensuring leak-free operation and proper drainage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-repairing-a-gas-line",
+  "name": "What is the process for repairing a gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The gas line repair process typically begins with our technicians safely locating the leak using specialized equipment. After the leak is identified, the gas supply to the affected area is shut off for safety. The damaged section of the pipe is then either repaired using appropriate fittings or completely replaced with new piping material, often flexible corrugated stainless steel tubing (CSST) or black iron pipe, depending on local codes and the application. Before restoring gas service, the repaired line undergoes pressure testing to ensure it is sealed and leak-free, followed by a thorough inspection.",
+        "@type": "Answer",
+        "description": "The process involves leak detection, shutting off gas, repairing or replacing the damaged section, and then pressure testing before restoring service. Materials like CSST or black iron pipe are commonly used for repairs."
+      }
+    }
+  ],
+  "description": "The process involves leak detection, shutting off gas, repairing or replacing the damaged section, and then pressure testing before restoring service. Materials"
+}

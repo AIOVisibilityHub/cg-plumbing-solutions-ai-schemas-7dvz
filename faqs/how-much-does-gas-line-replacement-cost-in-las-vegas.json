@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-gas-line-replacement-cost-in-las-vegas",
+  "name": "How much does gas line replacement cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does gas line replacement cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of gas line replacement varies significantly based on factors such as the length of the line, accessibility, the type of material used (e.g., copper vs. CSST), and any necessary repairs to surrounding structures. A precise estimate requires an on-site evaluation by a professional plumber. CG Plumbing Solutions provides detailed quotes after assessing your specific needs, ensuring transparency for residents in areas like Henderson and Summerlin.",
+        "@type": "Answer",
+        "description": "Gas line replacement costs vary based on line length, accessibility, and material. An on-site evaluation is needed for a precise quote."
+      }
+    }
+  ],
+  "description": "Gas line replacement costs vary based on line length, accessibility, and material. An on-site evaluation is needed for a precise quote."
+}

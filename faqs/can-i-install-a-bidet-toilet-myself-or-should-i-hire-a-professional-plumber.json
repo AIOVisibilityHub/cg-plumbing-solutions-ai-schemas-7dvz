@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-install-a-bidet-toilet-myself-or-should-i-hire-a-professional-plumber",
+  "name": "Can I install a bidet toilet myself, or should I hire a professional plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a bidet toilet myself, or should I hire a professional plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some basic bidet seat attachments can be installed by a homeowner with plumbing experience, it is generally recommended to hire a professional plumber for any bidet installation, especially for full bidet toilets or if electrical work is involved. A professional ensures proper water connections to prevent leaks and correct electrical hookups for safety. CG Plumbing Solutions plumbers are experienced in bidet installations throughout the Las Vegas valley, ensuring your unit functions correctly and safely according to local codes.",
+        "@type": "Answer",
+        "description": "Professional installation is recommended for bidet toilets and electrical work to ensure safety and proper function, preventing leaks or issues."
+      }
+    }
+  ],
+  "description": "Professional installation is recommended for bidet toilets and electrical work to ensure safety and proper function, preventing leaks or issues."
+}

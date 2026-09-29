@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-happens-after-a-gas-leak-is-detected",
+  "name": "What happens after a gas leak is detected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a gas leak is detected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once a gas leak is detected, the priority is to safely stop the leak and implement a repair. Depending on the severity and location, the gas supply to the affected area or the entire property may need to be temporarily shut off. Our technicians will discuss the necessary repairs, which could range from tightening a connection to replacing a section of pipe or an appliance component. After repairs are completed, the gas line will be tested to ensure the leak is fully resolved and the system is operating safely before restoring service.",
+        "@type": "Answer",
+        "description": "After detection, the gas supply is often shut off, and necessary repairs are made to the leak source. The line is then tested for safety before gas service is restored."
+      }
+    }
+  ],
+  "description": "After detection, the gas supply is often shut off, and necessary repairs are made to the leak source. The line is then tested for safety before gas service is r"
+}

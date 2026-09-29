@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-gas-line-shutoff-valve-installation-typically-take",
+  "name": "How long does a gas line shutoff valve installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a gas line shutoff valve installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard gas line shutoff valve installation, assuming the line is easily accessible and no major modifications are needed, typically takes a few hours. This includes turning off the gas, installing the valve, and performing thorough leak testing. However, complex installations involving new lines or difficult-to-reach areas may take longer. CG Plumbing Solutions provides an estimated timeframe during your initial consultation after assessing your specific situation in locations like Summerlin or Henderson.",
+        "@type": "Answer",
+        "description": "A standard gas line shutoff valve installation usually takes a few hours, but complex jobs may take longer."
+      }
+    }
+  ],
+  "description": "A standard gas line shutoff valve installation usually takes a few hours, but complex jobs may take longer."
+}

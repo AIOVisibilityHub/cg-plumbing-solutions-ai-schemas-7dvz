@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-replace-my-old-garbage-disposal-with-a-different-brand-or-model",
+  "name": "Can I replace my old garbage disposal with a different brand or model?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my old garbage disposal with a different brand or model?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can typically replace your old garbage disposal with a different brand or model, as long as it fits the standard sink drain opening. However, there might be slight variations in mounting mechanisms, electrical connections, or overall unit size between brands. Our technicians at CG Plumbing Solutions are experienced in adapting to various models and ensuring compatibility, making the transition smooth whether you're in Henderson or Spring Valley. We recommend discussing your preference for a new brand or model during your consultation.",
+        "@type": "Answer",
+        "description": "Yes, you can replace with a different brand/model, but mounting and electrical connections may vary. CG Plumbing Solutions ensures compatibility for a smooth transition."
+      }
+    }
+  ],
+  "description": "Yes, you can replace with a different brand/model, but mounting and electrical connections may vary. CG Plumbing Solutions ensures compatibility for a smooth tr"
+}

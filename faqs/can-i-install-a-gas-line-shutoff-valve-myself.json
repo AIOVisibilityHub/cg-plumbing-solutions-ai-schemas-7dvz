@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-install-a-gas-line-shutoff-valve-myself",
+  "name": "Can I install a gas line shutoff valve myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a gas line shutoff valve myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a gas line shutoff valve involves working with natural gas, which carries significant safety risks including explosions and carbon monoxide poisoning if not handled correctly. Improper installation can lead to dangerous gas leaks and may not comply with local building codes. Due to these serious hazards, it is strongly recommended that gas line work, including valve installation, be performed by a licensed and experienced professional like CG Plumbing Solutions to ensure safety and compliance in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "Due to serious safety risks and compliance requirements, gas line shutoff valve installation should only be performed by a licensed professional."
+      }
+    }
+  ],
+  "description": "Due to serious safety risks and compliance requirements, gas line shutoff valve installation should only be performed by a licensed professional."
+}

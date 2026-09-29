@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-special-plumbing-or-electrical-work-for-a-bidet-toilet",
+  "name": "Do I need special plumbing or electrical work for a bidet toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special plumbing or electrical work for a bidet toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many bidet toilet seats connect to the existing toilet's water supply, making plumbing relatively straightforward. However, most modern bidet seats and all full bidet toilets require an electrical outlet for features like heated seats, warm water, and air drying. If an outlet isn't near your toilet, an electrician may be needed to install one, which CG Plumbing Solutions can help coordinate. It's important to prepare for this by checking your bathroom's electrical setup before purchasing your bidet.",
+        "@type": "Answer",
+        "description": "Bidet seats typically use existing water lines but usually require an electrical outlet for advanced features. Full bidet toilets also need electrical access."
+      }
+    }
+  ],
+  "description": "Bidet seats typically use existing water lines but usually require an electrical outlet for advanced features. Full bidet toilets also need electrical access."
+}

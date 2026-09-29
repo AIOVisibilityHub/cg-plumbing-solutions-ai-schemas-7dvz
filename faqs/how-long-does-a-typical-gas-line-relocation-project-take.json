@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-gas-line-relocation-project-take",
+  "name": "How long does a typical gas line relocation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical gas line relocation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gas line relocation project can range from a few hours to a full day or more, depending on its complexity and scope. A simple extension for a new appliance might be quick, while rerouting multiple lines or trenching for outdoor lines will take longer. The process often involves an initial assessment, obtaining necessary permits, the actual plumbing work, and final inspections to ensure safety and compliance, all of which contribute to the timeline.",
+        "@type": "Answer",
+        "description": "Project duration varies from a few hours to a full day or more, depending on complexity, scope, and the need for inspections."
+      }
+    }
+  ],
+  "description": "Project duration varies from a few hours to a full day or more, depending on complexity, scope, and the need for inspections."
+}

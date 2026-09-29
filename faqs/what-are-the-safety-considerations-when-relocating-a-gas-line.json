@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-safety-considerations-when-relocating-a-gas-line",
+  "name": "What are the safety considerations when relocating a gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the safety considerations when relocating a gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is paramount during gas line relocation. Key considerations include ensuring the gas supply is properly shut off before work begins, using appropriate materials and techniques to prevent leaks, and conducting rigorous pressure tests after installation. It's crucial to have the work performed by licensed and experienced professionals to guarantee all safety protocols are followed and to comply with all local codes. Our technicians always perform multiple checks for gas leaks using specialized equipment to ensure your safety.",
+        "@type": "Answer",
+        "description": "Safety involves proper gas shut-off, correct materials, rigorous leak testing, and adherence to codes by licensed professionals."
+      }
+    }
+  ],
+  "description": "Safety involves proper gas shut-off, correct materials, rigorous leak testing, and adherence to codes by licensed professionals."
+}

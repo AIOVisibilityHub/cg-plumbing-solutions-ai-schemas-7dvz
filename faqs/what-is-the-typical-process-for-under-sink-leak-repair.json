@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-under-sink-leak-repair",
+  "name": "What is the typical process for under-sink leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for under-sink leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When you call CG Plumbing Solutions for an under-sink leak, our process typically begins with a thorough inspection to identify the exact source and extent of the leak. This might involve checking all supply lines, drainpipes, connections, and fixtures. Once diagnosed, we will explain the necessary repairs and provide an upfront estimate. Repairs can range from tightening connections, replacing seals or gaskets, to more extensive work like pipe section replacement or garbage disposal repair/replacement. We ensure the area is clean and dry upon completion, testing the repair to confirm no further leaks. Our plumbers serving Las Vegas and surrounding areas carry common parts to facilitate timely repairs.",
+        "@type": "Answer",
+        "description": "The process involves inspection, diagnosis, explanation of repairs, an estimate, and then execution of repairs like tightening connections or replacing parts, followed by testing."
+      }
+    }
+  ],
+  "description": "The process involves inspection, diagnosis, explanation of repairs, an estimate, and then execution of repairs like tightening connections or replacing parts, f"
+}

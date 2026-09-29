@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-installation-process-for-a-new-kitchen-faucet",
+  "name": "What is the installation process for a new kitchen faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for a new kitchen faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with shutting off the water supply and disconnecting the old faucet. This involves removing water lines and mounting nuts. Next, the new faucet is positioned and secured to the sink or countertop, followed by connecting the hot and cold water lines and any additional components like a sprayer. Finally, water supply is restored, and the faucet is tested for leaks and proper function. Our technicians perform a thorough leak check to ensure everything is sealed correctly.",
+        "@type": "Answer",
+        "description": "The process involves shutting off water, removing the old faucet, installing and securing the new one, connecting water lines, and testing for leaks."
+      }
+    }
+  ],
+  "description": "The process involves shutting off water, removing the old faucet, installing and securing the new one, connecting water lines, and testing for leaks."
+}

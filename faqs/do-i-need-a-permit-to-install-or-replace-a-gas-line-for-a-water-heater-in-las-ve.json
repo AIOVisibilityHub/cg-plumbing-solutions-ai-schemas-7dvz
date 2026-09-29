@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-a-permit-to-install-or-replace-a-gas-line-for-a-water-heater-in-las-ve",
+  "name": "Do I need a permit to install or replace a gas line for a water heater in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install or replace a gas line for a water heater in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in Las Vegas and surrounding areas like Paradise and Summerlin, a permit is typically required for the installation or replacement of a gas line for a water heater. This is to ensure that the work complies with local building codes and safety standards. Obtaining the correct permit and undergoing inspections are critical steps to guarantee the safety and legality of your gas line installation. We manage the permitting process as part of our service, ensuring all work meets local regulatory requirements.",
+        "@type": "Answer",
+        "description": "Yes, a permit is typically required in Las Vegas and surrounding areas for gas line installation or replacement to ensure code compliance and safety."
+      }
+    }
+  ],
+  "description": "Yes, a permit is typically required in Las Vegas and surrounding areas for gas line installation or replacement to ensure code compliance and safety."
+}

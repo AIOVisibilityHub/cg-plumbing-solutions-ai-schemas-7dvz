@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-plumbing-is-needed-for-a-pot-filler-installation",
+  "name": "What kind of plumbing is needed for a pot filler installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of plumbing is needed for a pot filler installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pot filler installation requires a dedicated cold water line to be run to the faucet's location behind the stove. This often involves extending an existing water line from a nearby sink or other water source. The complexity of this plumbing work depends on your kitchen's current layout and accessibility, determining if walls need to be opened. We always ensure proper shut-off valves are installed for future maintenance.",
+        "@type": "Answer",
+        "description": "Installation requires a dedicated cold water line to be run behind the stove, often extending from a nearby source, with complexity depending on current kitchen layout."
+      }
+    }
+  ],
+  "description": "Installation requires a dedicated cold water line to be run behind the stove, often extending from a nearby source, with complexity depending on current kitchen"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-gas-line-pressure-test-take",
+  "name": "How long does a typical gas line pressure test take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical gas line pressure test take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gas line pressure test can vary depending on the complexity and length of your gas piping system, as well as the initial findings. Generally, the actual pressurization and monitoring phase can take anywhere from 15 minutes to several hours, excluding the setup and disassembly. Factors like the number of appliances, the age of the system, and whether a leak is quickly identified or requires extensive tracing can all affect the overall time needed for a thorough assessment.",
+        "@type": "Answer",
+        "description": "A typical gas line pressure test can take from 15 minutes to several hours, depending on system complexity and whether a leak is present."
+      }
+    }
+  ],
+  "description": "A typical gas line pressure test can take from 15 minutes to several hours, depending on system complexity and whether a leak is present."
+}

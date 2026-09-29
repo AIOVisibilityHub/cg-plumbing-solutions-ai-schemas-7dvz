@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-a-standard-water-filter-faucet-installation",
+  "name": "What is involved in a standard water filter faucet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a standard water filter faucet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard water filter faucet installation typically involves connecting the new faucet to your existing cold water supply line, often with a T-valve, and running a separate line to the filter unit itself, which is usually installed under the sink. The process includes drilling a hole in the countertop for the faucet if one isn't present, securing the faucet, and testing for leaks. Factors like countertop material (granite, laminate) can influence the time and tools needed for drilling.",
+        "@type": "Answer",
+        "description": "A standard installation involves connecting the faucet to the cold water line, installing the filter unit under the sink, and often drilling a hole for the faucet."
+      }
+    }
+  ],
+  "description": "A standard installation involves connecting the faucet to the cold water line, installing the filter unit under the sink, and often drilling a hole for the fauc"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-single-hole-faucet-and-a-widespread-faucet-inst",
+  "name": "What is the difference between a single-hole faucet and a widespread faucet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a single-hole faucet and a widespread faucet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference between single-hole and widespread faucet installation lies in the number and spacing of the drilled holes in the sink or countertop. A single-hole faucet requires one central hole, simplifying its installation. Widespread faucets, however, require three separate holes: one for the hot handle, one for the cold handle, and one for the spout, with adjustable spacing between them. The choice impacts both aesthetics and the complexity of aligning components during installation. Ensure your sink's pre-drilled holes match the faucet type you select.",
+        "@type": "Answer",
+        "description": "Single-hole faucets use one central hole, while widespread faucets use three separate holes for hot, cold, and spout, impacting installation complexity."
+      }
+    }
+  ],
+  "description": "Single-hole faucets use one central hole, while widespread faucets use three separate holes for hot, cold, and spout, impacting installation complexity."
+}

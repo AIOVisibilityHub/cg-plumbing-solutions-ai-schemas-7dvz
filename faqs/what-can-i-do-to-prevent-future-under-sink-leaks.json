@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-can-i-do-to-prevent-future-under-sink-leaks",
+  "name": "What can I do to prevent future under-sink leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can I do to prevent future under-sink leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future under-sink leaks, regularly inspect your plumbing connections and pipes for any signs of corrosion, drips, or wear. Avoid overtightening drain nuts, as this can crack plastic pipes. Do not pour grease down your drains, as it can cause clogs that put pressure on pipes. Consider replacing old, brittle supply lines with newer, more durable braided stainless steel hoses, especially if they are over 5-10 years old. Additionally, annual plumbing checks by a professional from CG Plumbing Solutions can identify potential weak points before they become active leaks. This proactive approach helps extend the life of your plumbing components.",
+        "@type": "Answer",
+        "description": "Regularly inspect pipes, avoid overtightening drain nuts or pouring grease down drains, and consider replacing old supply lines. Annual professional checks can also help."
+      }
+    }
+  ],
+  "description": "Regularly inspect pipes, avoid overtightening drain nuts or pouring grease down drains, and consider replacing old supply lines. Annual professional checks can"
+}

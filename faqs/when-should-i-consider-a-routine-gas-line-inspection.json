@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-a-routine-gas-line-inspection",
+  "name": "When should I consider a routine gas line inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a routine gas line inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While immediate action is necessary for suspected leaks, routine gas line inspections are a proactive measure for safety and peace of mind. Consider an inspection if your home has older gas appliances, if you're moving into an older property, or if you notice any subtle, persistent gas odor even after minor checks. CG Plumbing Solutions recommends routine checks every few years, especially for properties with extensive gas piping, to identify potential issues before they become emergencies and ensure system integrity.",
+        "@type": "Answer",
+        "description": "Consider routine gas line inspections for older homes or appliances, or if you notice subtle odors, even without an active leak. Periodic checks every few years are recommended to ensure system integrity."
+      }
+    }
+  ],
+  "description": "Consider routine gas line inspections for older homes or appliances, or if you notice subtle odors, even without an active leak. Periodic checks every few years"
+}

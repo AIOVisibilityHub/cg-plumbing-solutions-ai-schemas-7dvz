@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-new-water-filter-faucet",
+  "name": "How long does it take to install a new water filter faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new water filter faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most water filter faucet installations can be completed within 1 to 3 hours, assuming no significant plumbing modifications are required. The exact time can vary depending on the complexity of your current plumbing, the type of filter system, and whether a new hole needs to be drilled in your countertop. Having adequate space under the sink and easily accessible shut-off valves can expedite the process.",
+        "@type": "Answer",
+        "description": "Installation typically takes 1 to 3 hours, varying based on plumbing complexity and whether a new hole needs to be drilled."
+      }
+    }
+  ],
+  "description": "Installation typically takes 1 to 3 hours, varying based on plumbing complexity and whether a new hole needs to be drilled."
+}

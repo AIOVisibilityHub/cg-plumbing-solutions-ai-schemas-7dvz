@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-replace-a-gas-line-myself-to-save-money",
+  "name": "Can I replace a gas line myself to save money?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a gas line myself to save money?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas line replacement is complex and carries significant safety risks, including fire, explosion, or carbon monoxide poisoning if not performed correctly. This work requires specialized tools, expertise, and adherence to strict local building codes and safety regulations. It should only be performed by licensed and trained plumbing professionals. Attempting DIY gas line work is not recommended and can void insurance or warranties. CG Plumbing Solutions advises against DIY gas line replacement for safety reasons.",
+        "@type": "Answer",
+        "description": "No, gas line replacement is a dangerous and complex task that requires specialized expertise and should only be performed by licensed plumbing professionals."
+      }
+    }
+  ],
+  "description": "No, gas line replacement is a dangerous and complex task that requires specialized expertise and should only be performed by licensed plumbing professionals."
+}

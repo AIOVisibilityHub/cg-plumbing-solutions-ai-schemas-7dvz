@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-gas-line-pressure-testing-and-why-is-it-important",
+  "name": "What is gas line pressure testing and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is gas line pressure testing and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas line pressure testing is a diagnostic procedure that involves isolating a section of the gas piping system and introducing compressed air or an inert gas to check for leaks. The pressure is monitored over a specific period to detect any drops, which indicate a leak. It's crucial for safety, as gas leaks can lead to carbon monoxide poisoning, explosions, or fires. Regular testing, especially after new installations, repairs, or if you suspect a leak, helps ensure the integrity and safety of your gas lines and home.",
+        "@type": "Answer",
+        "description": "Gas line pressure testing checks for leaks by pressurizing the lines, ensuring safety and preventing hazards like carbon monoxide poisoning or fires."
+      }
+    }
+  ],
+  "description": "Gas line pressure testing checks for leaks by pressurizing the lines, ensuring safety and preventing hazards like carbon monoxide poisoning or fires."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-kitchen-faucet-needs-to-be-replaced",
+  "name": "What are common signs that my kitchen faucet needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my kitchen faucet needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs include persistent leaks, rust or corrosion around the base or handles, low water pressure specific to the faucet, and physical damage like cracks or chips. Frequent repairs or a desire to upgrade to a more modern, efficient model are also good reasons. Consider the age of your faucet; most faucets have a lifespan of 10-15 years, and older models may not be repairable with easily available parts, making replacement a more cost-effective solution in the long run.",
+        "@type": "Answer",
+        "description": "Persistent leaks, rust, low water pressure, or physical damage often indicate a need for kitchen faucet replacement. Older faucets may be difficult to repair, making replacement a practical choice."
+      }
+    }
+  ],
+  "description": "Persistent leaks, rust, low water pressure, or physical damage often indicate a need for kitchen faucet replacement. Older faucets may be difficult to repair, m"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-gas-line-shutoff-valve-and-why-is-it-important",
+  "name": "What is a gas line shutoff valve and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a gas line shutoff valve and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gas line shutoff valve is a safety device that allows you to quickly cut off the natural gas supply to an appliance or your entire home. This is crucial for preventing gas leaks, mitigating damage during an emergency, or performing maintenance safely. Installing readily accessible shutoff valves for each gas appliance, such as water heaters or furnaces, is a vital safety measure. CG Plumbing Solutions emphasizes the importance of easily identifiable and functional shutoff valves to protect your property and family.",
+        "@type": "Answer",
+        "description": "A gas line shutoff valve cuts off gas supply, preventing leaks and enabling safe maintenance or emergency response."
+      }
+    }
+  ],
+  "description": "A gas line shutoff valve cuts off gas supply, preventing leaks and enabling safe maintenance or emergency response."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-existing-gas-lines-need-repair-or-replacement",
+  "name": "How do I know if my existing gas lines need repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my existing gas lines need repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can determine if your existing gas lines need repair or replacement by watching for several key indicators. Common signs include a persistent sulfur or rotten egg smell (which indicates a gas leak), visible corrosion or rust on pipes, or reduced gas appliance performance. Other warning signs include unusual hissing sounds near gas lines or unexpectedly high gas bills. If you suspect any issues, it's critical to contact a professional immediately for an inspection, as gas leaks pose serious safety risks. Regular maintenance checks can also help identify potential problems early.",
+        "@type": "Answer",
+        "description": "Signs your gas lines need repair or replacement include gas odor, visible corrosion, reduced appliance performance, hissing sounds, or high gas bills."
+      }
+    }
+  ],
+  "description": "Signs your gas lines need repair or replacement include gas odor, visible corrosion, reduced appliance performance, hissing sounds, or high gas bills."
+}

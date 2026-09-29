@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-repair-a-dishwasher-drain-line-in-the-las-vegas-area",
+  "name": "How much does it cost to repair a dishwasher drain line in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a dishwasher drain line in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a dishwasher drain line can vary widely depending on the complexity of the clog and whether parts need replacement. Simple unclogging might be less expensive than repairs requiring drain line replacement or addressing issues within the main plumbing system. For an accurate estimate, it's necessary for a plumber to assess the specific issue, as factors like accessibility and the severity of the blockage influence the final price. We offer transparent pricing after a thorough inspection to ensure you understand the scope of work and associated costs.",
+        "@type": "Answer",
+        "description": "Costs vary based on clog complexity and parts needed; a plumber must assess the issue for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on clog complexity and parts needed; a plumber must assess the issue for an accurate estimate."
+}

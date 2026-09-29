@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-my-dishwasher-drain-line-instead-of-repairing-i",
+  "name": "When should I consider replacing my dishwasher drain line instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my dishwasher drain line instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your dishwasher drain line if it's severely damaged, cracked, leaking repeatedly, or if clogs are a persistent and frequent problem despite repairs. Old, brittle, or corroded hoses are often candidates for replacement, especially if they show signs of wear. A practical tradeoff is balancing the cost of repeated repairs against a one-time replacement, which might offer a more long-term solution. Our plumbers can assess the condition of your line and advise whether repair or replacement is the more cost-effective and durable option.",
+        "@type": "Answer",
+        "description": "Consider replacing the drain line if it's severely damaged, leaks repeatedly, or clogs persistently; evaluate the tradeoff between repair costs and a lasting replacement."
+      }
+    }
+  ],
+  "description": "Consider replacing the drain line if it's severely damaged, leaks repeatedly, or clogs persistently; evaluate the tradeoff between repair costs and a lasting re"
+}

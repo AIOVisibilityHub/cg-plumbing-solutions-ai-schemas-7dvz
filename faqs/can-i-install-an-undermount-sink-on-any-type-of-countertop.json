@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-install-an-undermount-sink-on-any-type-of-countertop",
+  "name": "Can I install an undermount sink on any type of countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install an undermount sink on any type of countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, you cannot install an undermount sink on just any type of countertop. Undermount sinks require solid surface countertops like granite, quartz, marble, or solid-surface composites. Laminate or tile countertops are typically not suitable for undermount installations because they lack the structural integrity and smooth, sealed edge needed to support the sink's weight and prevent moisture damage. CG Plumbing Solutions can assess your current countertop material to confirm compatibility and recommend the best installation method for your home in Las Vegas.",
+        "@type": "Answer",
+        "description": "Undermount sinks require solid surface countertops like granite or quartz, not laminate or tile. Countertop material determines suitability for undermount installation."
+      }
+    }
+  ],
+  "description": "Undermount sinks require solid surface countertops like granite or quartz, not laminate or tile. Countertop material determines suitability for undermount insta"
+}

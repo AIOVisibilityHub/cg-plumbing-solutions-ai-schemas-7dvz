@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-choose-a-licensed-plumber-for-gas-leak-inspection-and-repair",
+  "name": "Why choose a licensed plumber for gas leak inspection and repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose a licensed plumber for gas leak inspection and repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a licensed plumber, like those at CG Plumbing Solutions, for gas leak inspection and repair ensures that the work is performed according to safety standards and local codes. Licensed professionals have undergone rigorous training and certification processes specifically for handling gas lines. This expertise is critical for accurate detection, safe repair, and proper system restoration, minimizing risks associated with gas leaks. It also ensures any necessary permits or inspections by the utility company can proceed smoothly after the repair.",
+        "@type": "Answer",
+        "description": "A licensed plumber ensures gas leak inspection and repair meet safety standards and local codes, thanks to their specialized training and certification."
+      }
+    }
+  ],
+  "description": "A licensed plumber ensures gas leak inspection and repair meet safety standards and local codes, thanks to their specialized training and certification."
+}

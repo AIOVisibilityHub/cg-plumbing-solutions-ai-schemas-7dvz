@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-relocating-a-gas-line",
+  "name": "What is the process for relocating a gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for relocating a gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for relocating a gas line typically begins with a consultation and assessment of your specific needs, followed by the generation of a detailed plan. Next, we handle permit acquisition from local authorities. The actual work involves safely shutting off the gas supply, carefully disconnecting and rerouting the existing lines, installing new pipes, and conducting thorough leak tests. Finally, a required inspection by a municipal inspector ensures compliance and safety before the gas supply is restored. One key step our team ensures is proper pressure testing to detect any leaks.",
+        "@type": "Answer",
+        "description": "The process involves consultation, planning, permit acquisition, safe disconnection and rerouting, leak testing, and final inspection before gas restoration."
+      }
+    }
+  ],
+  "description": "The process involves consultation, planning, permit acquisition, safe disconnection and rerouting, leak testing, and final inspection before gas restoration."
+}

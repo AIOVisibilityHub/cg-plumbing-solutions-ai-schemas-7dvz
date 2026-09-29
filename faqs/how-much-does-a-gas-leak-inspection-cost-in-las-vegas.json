@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-a-gas-leak-inspection-cost-in-las-vegas",
+  "name": "How much does a gas leak inspection cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a gas leak inspection cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a gas leak inspection in the Las Vegas area can vary depending on factors like the complexity of your gas system, the time of day (emergency service vs. scheduled appointment), and whether the leak is easily accessible. CG Plumbing Solutions provides upfront pricing after assessing your specific situation. We encourage customers to disclose any known details or prior attempts to locate the leak, as this can help our technicians streamline the inspection process and provide a more accurate estimate.",
+        "@type": "Answer",
+        "description": "The cost of a gas leak inspection in the Las Vegas area varies based on system complexity and urgency. CG Plumbing Solutions provides upfront pricing after an assessment."
+      }
+    }
+  ],
+  "description": "The cost of a gas leak inspection in the Las Vegas area varies based on system complexity and urgency. CG Plumbing Solutions provides upfront pricing after an a"
+}

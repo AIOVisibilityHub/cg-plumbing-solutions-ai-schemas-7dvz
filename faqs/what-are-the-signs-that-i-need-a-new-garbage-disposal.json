@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-that-i-need-a-new-garbage-disposal",
+  "name": "What are the signs that I need a new garbage disposal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that I need a new garbage disposal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key signs you may need a new garbage disposal include frequent clogs, persistent leaks, unusual noises (grinding or humming without grinding), or if the unit fails to turn on. If your disposal is emitting foul odors that won't go away, or if it's over 10-15 years old, it might be time for a replacement. Addressing these issues promptly can prevent more significant plumbing problems. CG Plumbing Solutions can inspect your unit in areas like Enterprise or Southern Highlands to determine if repair or replacement is the best solution.",
+        "@type": "Answer",
+        "description": "Frequent clogs, leaks, strange noises, failure to turn on, or persistent odors indicate you might need a new disposal. Prompt action prevents bigger issues."
+      }
+    }
+  ],
+  "description": "Frequent clogs, leaks, strange noises, failure to turn on, or persistent odors indicate you might need a new disposal. Prompt action prevents bigger issues."
+}

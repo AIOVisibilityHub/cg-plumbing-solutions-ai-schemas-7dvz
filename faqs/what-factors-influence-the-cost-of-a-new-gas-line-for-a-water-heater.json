@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-a-new-gas-line-for-a-water-heater",
+  "name": "What factors influence the cost of a new gas line for a water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a new gas line for a water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new gas line for a water heater is influenced by several factors, including the length of the new line needed, the type of material used (e.g., black iron pipe vs. CSST), and the complexity of the installation. For example, if the gas line needs to be run through difficult-to-access areas or requires significant modifications to existing infrastructure, the labor and material costs will be higher. The need for permits and inspections in specific service areas like Henderson or North Las Vegas also contributes to the overall expense. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Cost factors include line length, material type, installation complexity, and permit requirements, with detailed estimates provided after assessment."
+      }
+    }
+  ],
+  "description": "Cost factors include line length, material type, installation complexity, and permit requirements, with detailed estimates provided after assessment."
+}

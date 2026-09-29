@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-my-kitchen-sink-instead-of-repairing-it",
+  "name": "When should I consider replacing my kitchen sink instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my kitchen sink instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your kitchen sink rather than repairing it if the sink itself is severely damaged (cracks, deep rust), if repairs are becoming frequent and costly, or if you're upgrading your kitchen. A practical tradeoff is balancing the immediate cost of repair versus the long-term value and benefits of replacement. For instance, continually patching an old, worn-out sink might cost more over time than investing in a durable new one, especially if you're experiencing multiple issues.",
+        "@type": "Answer",
+        "description": "Consider replacing if your sink is severely damaged, repairs are frequent, or you're upgrading. It's a tradeoff between short-term repair costs and long-term replacement value."
+      }
+    }
+  ],
+  "description": "Consider replacing if your sink is severely damaged, repairs are frequent, or you're upgrading. It's a tradeoff between short-term repair costs and long-term re"
+}

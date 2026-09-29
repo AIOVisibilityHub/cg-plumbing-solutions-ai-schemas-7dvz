@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-bidets-can-be-installed-in-a-typical-bathroom",
+  "name": "What types of bidets can be installed in a typical bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bidets can be installed in a typical bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several common types of bidets suitable for home installation, including bidet seats, which replace your existing toilet seat, and stand-alone bidets that require their own dedicated space and plumbing. Bidet attachments are also an option, connecting directly to your toilet's water supply line. When choosing, consider your bathroom's layout and available space. For instance, a bidet seat is often the most straightforward upgrade as it utilizes existing toilet plumbing without requiring significant modifications, making it a popular choice for many homeowners in areas like Las Vegas.",
+        "@type": "Answer",
+        "description": "Common bidet types include bidet seats, stand-alone bidets, and bidet attachments, each with different installation requirements."
+      }
+    }
+  ],
+  "description": "Common bidet types include bidet seats, stand-alone bidets, and bidet attachments, each with different installation requirements."
+}

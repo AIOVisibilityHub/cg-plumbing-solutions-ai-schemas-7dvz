@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-repair-an-under-sink-leak-myself-or-should-i-call-a-professional-plumber",
+  "name": "Can I repair an under-sink leak myself, or should I call a professional plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair an under-sink leak myself, or should I call a professional plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Simple leaks, such as a loose nut on a drainpipe, might be tightened by a homeowner. However, more complex issues like corroded pipes, damaged P-traps, or problems with a garbage disposal often require professional expertise. Attempting a DIY fix without proper knowledge or tools can worsen the damage, leading to more expensive repairs down the line. A professional plumber from CG Plumbing Solutions can accurately diagnose the problem, ensure a durable repair, and prevent future issues. Deciding to call a professional often depends on your comfort level with plumbing tasks and the complexity of the leak.",
+        "@type": "Answer",
+        "description": "Minor leaks may be DIY, but complex issues like corroded pipes or garbage disposal problems usually require a professional plumber to prevent further damage."
+      }
+    }
+  ],
+  "description": "Minor leaks may be DIY, but complex issues like corroded pipes or garbage disposal problems usually require a professional plumber to prevent further damage."
+}

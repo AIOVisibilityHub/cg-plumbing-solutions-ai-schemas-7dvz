@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-professional-kitchen-faucet-installation-typically-take",
+  "name": "How long does a professional kitchen faucet installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a professional kitchen faucet installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard kitchen faucet installation by a professional usually takes between one to three hours, depending on the complexity of the existing plumbing and the new faucet. Factors like needing to modify countertop holes for a new faucet type, dealing with corroded water lines, or installing additional features like sprayers or soap dispensers can extend this timeframe. Our technicians at CG Plumbing Solutions ensure a thorough installation while working efficiently to minimize disruption.",
+        "@type": "Answer",
+        "description": "Professional kitchen faucet installation typically takes one to three hours. Complexity of existing plumbing or new features can affect the duration."
+      }
+    }
+  ],
+  "description": "Professional kitchen faucet installation typically takes one to three hours. Complexity of existing plumbing or new features can affect the duration."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-prepare-before-a-professional-dishwasher-water-line-installation",
+  "name": "What should I prepare before a professional dishwasher water line installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a professional dishwasher water line installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our plumbing technicians arrive for a dishwasher water line installation, it's helpful if you clear the area around the dishwasher and the sink cabinet, ensuring there's easy access to the existing plumbing connections and an electrical outlet. Make sure the old dishwasher is already removed if it's a replacement, or the space is ready for a new appliance. Having your new dishwasher on-site can also streamline the process. This preparation helps our team work efficiently and without delays.",
+        "@type": "Answer",
+        "description": "Before installation, clear the area around the dishwasher, ensure access to plumbing, and have the old dishwasher removed or new one ready for our technicians."
+      }
+    }
+  ],
+  "description": "Before installation, clear the area around the dishwasher, ensure access to plumbing, and have the old dishwasher removed or new one ready for our technicians."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-residential-gas-line-installation-take",
+  "name": "How long does a typical residential gas line installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical residential gas line installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a typical residential gas line installation varies significantly based on complexity. Simple installations, like extending a line for a single new appliance, might take a few hours to a full day. More extensive projects, such as running multiple new lines throughout a home or installing a main service line, could take several days, especially if trenching or significant structural modifications are required. Factors like access to existing gas supply, the length of new piping, and the number of appliances being connected all influence the timeline. CG Plumbing Solutions prioritizes clear communication regarding project timelines after a detailed assessment.",
+        "@type": "Answer",
+        "description": "Residential gas line installation can range from a few hours for simple extensions to several days for complex projects, depending on scope and access."
+      }
+    }
+  ],
+  "description": "Residential gas line installation can range from a few hours for simple extensions to several days for complex projects, depending on scope and access."
+}

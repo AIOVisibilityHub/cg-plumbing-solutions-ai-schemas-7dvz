@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-refrigerator-water-line-installation-take",
+  "name": "How long does a typical refrigerator water line installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical refrigerator water line installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard refrigerator water line installations can be completed within 1 to 3 hours. However, the exact time can depend on the complexity of the job. Factors such as the location of the nearest water source, the distance the line needs to run, and any potential obstacles like cabinetry or tight spaces can influence the duration. Our technicians work efficiently to minimize disruption, and we'll provide an estimated timeframe before starting the work.",
+        "@type": "Answer",
+        "description": "A typical installation takes 1 to 3 hours, but complexity, water source location, and routing obstacles can affect the total time."
+      }
+    }
+  ],
+  "description": "A typical installation takes 1 to 3 hours, but complexity, water source location, and routing obstacles can affect the total time."
+}

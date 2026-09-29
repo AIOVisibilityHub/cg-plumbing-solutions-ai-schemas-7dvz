@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-relocating-an-outdoor-gas-line",
+  "name": "When should I consider relocating an outdoor gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider relocating an outdoor gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider relocating an outdoor gas line if it's obstructing a landscaping project, a new patio installation, or if you're adding an outdoor kitchen or fire pit in a new location. Other reasons include improving safety by moving a line away from high-traffic areas or protecting it from potential damage. It's important to assess the current line's exposure and proximity to new outdoor structures or activities during your planning phase.",
+        "@type": "Answer",
+        "description": "Relocate an outdoor gas line if it obstructs landscaping, new construction, or to add outdoor appliances, or for safety improvements."
+      }
+    }
+  ],
+  "description": "Relocate an outdoor gas line if it obstructs landscaping, new construction, or to add outdoor appliances, or for safety improvements."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-i-have-a-leak-under-my-sink",
+  "name": "How do I know if I have a leak under my sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I have a leak under my sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of an under-sink leak include visible water stains on the cabinet base or floor, a musty odor indicating mold growth, warped or discolored cabinet materials, or a drip sound. Even a small, slow drip can cause significant damage over time. To check, first dry the area completely, then place paper towels under all pipes and connections. Check them periodically for moisture, which will help pinpoint the general area of the leak. Early detection is crucial to prevent structural damage and costly repairs, especially in areas like Las Vegas where humidity is typically low, making hidden moisture less obvious.",
+        "@type": "Answer",
+        "description": "Look for visible water stains, a musty odor, warped cabinet materials, or drips. Use paper towels to detect subtle leaks."
+      }
+    }
+  ],
+  "description": "Look for visible water stains, a musty odor, warped cabinet materials, or drips. Use paper towels to detect subtle leaks."
+}

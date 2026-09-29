@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-kitchen-sinks-can-i-choose-from-for-installation",
+  "name": "What types of kitchen sinks can I choose from for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of kitchen sinks can I choose from for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can choose from various kitchen sink types, including undermount, drop-in (top-mount), farmhouse (apron-front), and integrated sinks. Materials range from stainless steel, cast iron, and composite to fireclay and natural stone. The best choice often depends on your countertop material, aesthetic preference, and how you use your sink daily. For instance, an undermount sink offers a seamless look and easy countertop cleaning, while a farmhouse sink can be a focal point. CG Plumbing Solutions can help you assess which type will best integrate with your existing kitchen design and plumbing setup.",
+        "@type": "Answer",
+        "description": "Common kitchen sink types include undermount, drop-in, farmhouse, and integrated, made from materials like stainless steel or cast iron. Your choice depends on your countertop, style, and daily use."
+      }
+    }
+  ],
+  "description": "Common kitchen sink types include undermount, drop-in, farmhouse, and integrated, made from materials like stainless steel or cast iron. Your choice depends on"
+}

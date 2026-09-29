@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-cg-plumbing-solutions-fix-all-types-of-bathroom-sinks-including-pedestal-and",
+  "name": "Can CG Plumbing Solutions fix all types of bathroom sinks, including pedestal and vessel sinks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can CG Plumbing Solutions fix all types of bathroom sinks, including pedestal and vessel sinks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CG Plumbing Solutions is equipped to repair all types of bathroom sinks, including standard drop-in sinks, undermount sinks, pedestal sinks, and vessel sinks. Each type may have unique installation and plumbing configurations, but our technicians have the expertise to diagnose and resolve issues specific to them. We service various sink materials and designs commonly found in homes across Las Vegas and surrounding areas, ensuring comprehensive repair capabilities for your specific fixture.",
+        "@type": "Answer",
+        "description": "Yes, CG Plumbing Solutions repairs all bathroom sink types, including drop-in, undermount, pedestal, and vessel sinks, across the Las Vegas area."
+      }
+    }
+  ],
+  "description": "Yes, CG Plumbing Solutions repairs all bathroom sink types, including drop-in, undermount, pedestal, and vessel sinks, across the Las Vegas area."
+}

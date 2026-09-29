@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-cost-for-kitchen-faucet-installation",
+  "name": "What is the typical cost for kitchen faucet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for kitchen faucet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of kitchen faucet installation can vary based on several factors, including the type of faucet being installed, the complexity of the existing plumbing, and any necessary modifications. For instance, replacing a standard faucet is often less complex than installing a new one where no plumbing previously existed or if countertop modifications are needed. We provide clear, upfront estimates after assessing your specific situation to ensure transparency in pricing before any work begins.",
+        "@type": "Answer",
+        "description": "Installation cost varies based on faucet type, plumbing complexity, and required modifications. We provide upfront estimates after assessment."
+      }
+    }
+  ],
+  "description": "Installation cost varies based on faucet type, plumbing complexity, and required modifications. We provide upfront estimates after assessment."
+}

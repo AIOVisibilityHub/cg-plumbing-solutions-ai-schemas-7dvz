@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-install-a-refrigerator-water-line-in-las-vegas",
+  "name": "How much does it cost to install a refrigerator water line in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a refrigerator water line in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a refrigerator water line in the Las Vegas area can vary depending on several factors, such as the distance from the existing water supply to the refrigerator, the type of flooring, and whether a new shut-off valve is needed. More complex installations requiring extensive routing or modifications to existing plumbing will typically incur higher costs. We provide a detailed estimate after assessing your home's specific requirements to ensure transparency.",
+        "@type": "Answer",
+        "description": "The cost varies based on distance from the water supply, flooring type, and if a new shut-off valve is required. CG Plumbing Solutions provides an estimate after assessing your specific needs."
+      }
+    }
+  ],
+  "description": "The cost varies based on distance from the water supply, flooring type, and if a new shut-off valve is required. CG Plumbing Solutions provides an estimate afte"
+}

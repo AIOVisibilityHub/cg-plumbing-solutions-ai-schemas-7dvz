@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-bidet",
+  "name": "How long does it take to install a bidet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a bidet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a bidet varies by its type and your current plumbing setup. A standard bidet seat or attachment can often be installed within one to two hours by a professional plumber, assuming existing water lines are readily accessible. A full stand-alone bidet or an integrated bidet toilet will take longer, typically half a day or more, as it involves connecting to both hot and cold water lines and potentially modifying drainage. We schedule appointments to minimize disruption, often completing basic installations during a single visit.",
+        "@type": "Answer",
+        "description": "Bidet installation time depends on the bidet type; bidet seats take 1-2 hours, while stand-alone units or integrated toilets can take half a day or more."
+      }
+    }
+  ],
+  "description": "Bidet installation time depends on the bidet type; bidet seats take 1-2 hours, while stand-alone units or integrated toilets can take half a day or more."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-professional-bidet-installation-cost",
+  "name": "How much does professional bidet installation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does professional bidet installation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional bidet installation can vary significantly based on the type of bidet, the complexity of your existing plumbing, and any necessary modifications. Simple bidet seat installations typically cost less as they often only require tapping into the existing cold water line for the toilet. However, stand-alone bidets or integrated bidet toilets may involve more extensive plumbing work, including adding a hot water line and dedicated drainage, which increases labor and material costs. We provide detailed estimates after assessing your specific bathroom setup.",
+        "@type": "Answer",
+        "description": "Professional bidet installation costs vary depending on bidet type and plumbing complexity; extensive work like adding new hot water lines will increase the price."
+      }
+    }
+  ],
+  "description": "Professional bidet installation costs vary depending on bidet type and plumbing complexity; extensive work like adding new hot water lines will increase the pri"
+}

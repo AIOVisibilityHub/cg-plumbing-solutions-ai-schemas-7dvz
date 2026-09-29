@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-cost-for-dishwasher-water-line-installation-in-las-vegas",
+  "name": "What is the typical cost for dishwasher water line installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for dishwasher water line installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical cost for dishwasher water line installation in Las Vegas can vary based on several factors, including the complexity of the job, whether new plumbing lines need to be run, and the type of materials used. A basic installation might cost less, while more involved setups requiring significant modifications or additional shut-off valves could be higher. We provide transparent pricing after an on-site assessment, ensuring you understand the costs involved before any work begins.",
+        "@type": "Answer",
+        "description": "The cost of dishwasher water line installation in Las Vegas varies based on job complexity, new plumbing requirements, and materials used; we offer transparent pricing after assessment."
+      }
+    }
+  ],
+  "description": "The cost of dishwasher water line installation in Las Vegas varies based on job complexity, new plumbing requirements, and materials used; we offer transparent"
+}

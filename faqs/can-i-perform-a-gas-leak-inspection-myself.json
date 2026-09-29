@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-perform-a-gas-leak-inspection-myself",
+  "name": "Can I perform a gas leak inspection myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform a gas leak inspection myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Attempting to perform a gas leak inspection yourself is highly discouraged due to the inherent dangers of natural gas. Professional plumbers have the necessary training, experience, and specialized equipment to safely and accurately detect and repair gas leaks. Even a small error can lead to significant hazards. CG Plumbing Solutions prioritizes safety and recommends leaving all gas line inspections and repairs to certified professionals to ensure the work is done correctly and safely.",
+        "@type": "Answer",
+        "description": "No, gas leak inspections should always be performed by licensed professionals due to safety risks and the need for specialized equipment. We recommend certified plumbers for safety."
+      }
+    }
+  ],
+  "description": "No, gas leak inspections should always be performed by licensed professionals due to safety risks and the need for specialized equipment. We recommend certified"
+}

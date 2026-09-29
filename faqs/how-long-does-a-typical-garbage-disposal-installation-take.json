@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-garbage-disposal-installation-take",
+  "name": "How long does a typical garbage disposal installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical garbage disposal installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard garbage disposal installation typically takes 1 to 3 hours. This timeframe can vary depending on whether it's a new installation requiring electrical and plumbing modifications or a replacement of an existing unit. Factors like the condition of your current plumbing and electrical setup, as well as the type of disposal being installed, can influence the duration. Our technicians ensure a quick and efficient process to minimize disruption to your home in locations such as Summerlin or North Las Vegas.",
+        "@type": "Answer",
+        "description": "A standard installation usually takes 1 to 3 hours, depending on if it's a new setup or a replacement. Plumbing and electrical conditions also affect the timeline."
+      }
+    }
+  ],
+  "description": "A standard installation usually takes 1 to 3 hours, depending on if it's a new setup or a replacement. Plumbing and electrical conditions also affect the timeli"
+}

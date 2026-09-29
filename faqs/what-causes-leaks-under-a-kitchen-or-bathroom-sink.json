@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-leaks-under-a-kitchen-or-bathroom-sink",
+  "name": "What causes leaks under a kitchen or bathroom sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes leaks under a kitchen or bathroom sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Under-sink leaks commonly stem from worn-out seals, loose connections in drainpipes or water supply lines, corroded pipes, or issues with the garbage disposal unit if present. Damage to the P-trap, which holds a small amount of water to prevent sewer gases from entering your home, is another frequent cause. Identifying the exact source usually requires a thorough inspection of all plumbing components in the cabinet. Understanding these common culprits helps in quickly addressing the problem before it escalates, preventing further water damage to your cabinetry and flooring.",
+        "@type": "Answer",
+        "description": "Leaks often result from worn seals, loose connections, corroded pipes, or issues with the P-trap or garbage disposal."
+      }
+    }
+  ],
+  "description": "Leaks often result from worn seals, loose connections, corroded pipes, or issues with the P-trap or garbage disposal."
+}

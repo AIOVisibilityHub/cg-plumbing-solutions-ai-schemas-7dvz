@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-repairing-a-clogged-kitchen-sink-drain",
+  "name": "What is the process for repairing a clogged kitchen sink drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a clogged kitchen sink drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for repairing a clogged kitchen sink drain typically starts with a professional assessment to determine the clog's location and severity, often using a camera inspection. Depending on the findings, we might use a plumbing snake to break up the clog, or for more stubborn blockages, hydro-jetting to thoroughly clean the pipes. Process clarity involves understanding that the method chosen depends directly on the clog type; grease build-ups often require different approaches than foreign objects.",
+        "@type": "Answer",
+        "description": "The process involves assessing the clog's location and severity, then using a snake or hydro-jetting to clear it, depending on the clog type."
+      }
+    }
+  ],
+  "description": "The process involves assessing the clog's location and severity, then using a snake or hydro-jetting to clear it, depending on the clog type."
+}

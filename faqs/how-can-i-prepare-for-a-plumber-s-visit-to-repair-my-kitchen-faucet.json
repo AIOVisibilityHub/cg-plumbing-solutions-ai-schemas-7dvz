@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prepare-for-a-plumber-s-visit-to-repair-my-kitchen-faucet",
+  "name": "How can I prepare for a plumber's visit to repair my kitchen faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare for a plumber's visit to repair my kitchen faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a plumber's visit, clear the area around and under your kitchen sink, removing any cleaning supplies, garbage cans, or stored items. This provides our technician with easy access to the faucet and the plumbing connections. If possible, have the make and model of your faucet ready, as this can sometimes help expedite the diagnosis and part identification, especially if it's a specialty fixture.",
+        "@type": "Answer",
+        "description": "Clear the area around and under your sink for easy access. If possible, have your faucet's make and model ready to assist with diagnosis."
+      }
+    }
+  ],
+  "description": "Clear the area around and under your sink for easy access. If possible, have your faucet's make and model ready to assist with diagnosis."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-kitchen-sink-needs-repair",
+  "name": "What are common signs that my kitchen sink needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my kitchen sink needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs your kitchen sink needs repair include slow drainage, recurring clogs, visible leaks under the sink, strange noises like gurgling, and persistent foul odors. Addressing these issues promptly can prevent more extensive damage to your plumbing system or cabinetry. As a first-party insight, our technicians often find that what seems like a simple slow drain can indicate a build-up in the trap or further down the main line, requiring professional hydro-jetting to fully clear and prevent recurrence.",
+        "@type": "Answer",
+        "description": "Slow drainage, recurring clogs, leaks, gurgling noises, and foul odors are common signs your kitchen sink needs repair. Prompt action can prevent further damage."
+      }
+    }
+  ],
+  "description": "Slow drainage, recurring clogs, leaks, gurgling noises, and foul odors are common signs your kitchen sink needs repair. Prompt action can prevent further damage"
+}

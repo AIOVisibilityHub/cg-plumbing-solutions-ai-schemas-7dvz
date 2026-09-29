@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-repair-a-dishwasher-drain-line",
+  "name": "How long does it take to repair a dishwasher drain line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a dishwasher drain line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard dishwasher drain line repairs can be completed within 1 to 3 hours, depending on the complexity of the issue. A simple clog removal might be quicker, while diagnosing and repairing a more stubborn blockage or replacing a damaged section of the line could take longer. Factors like easy access to the drain line and the absence of additional underlying plumbing problems can speed up the process. Our technicians aim for efficient service to minimize disruption to your household routine in areas like Henderson or Summerlin.",
+        "@type": "Answer",
+        "description": "Most dishwasher drain line repairs take 1-3 hours; complexity, access, and additional issues can affect timing."
+      }
+    }
+  ],
+  "description": "Most dishwasher drain line repairs take 1-3 hours; complexity, access, and additional issues can affect timing."
+}

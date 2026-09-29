@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-an-ice-maker-water-line-repair-usually-take",
+  "name": "How long does an ice maker water line repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an ice maker water line repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most ice maker water line repairs can be completed within 1 to 2 hours. However, the exact duration can vary depending on the complexity of the issue, such as difficult access to the line, the extent of damage, or if additional parts need to be sourced. Customers can help expedite the process by clearing the area around the refrigerator and providing any details about when they first noticed the problem, which aids in quicker diagnosis.",
+        "@type": "Answer",
+        "description": "Repairs typically take 1 to 2 hours, but complexity and access can affect the timeline. Clearing the area beforehand can help."
+      }
+    }
+  ],
+  "description": "Repairs typically take 1 to 2 hours, but complexity and access can affect the timeline. Clearing the area beforehand can help."
+}

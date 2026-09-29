@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-i-need-a-new-dishwasher-water-line",
+  "name": "What are the signs I need a new dishwasher water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs I need a new dishwasher water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might need a new dishwasher water line if you notice visible leaks around the dishwasher, dampness in the cabinet below, or unusually low water pressure to the appliance. Frayed, cracked, or corroded hoses are also clear indicators that replacement is necessary. Ignoring these signs can lead to significant water damage or even mold growth. If you observe any of these issues, especially in the dry climate of Las Vegas where undetected leaks can cause extensive damage, it's advisable to have it inspected promptly.",
+        "@type": "Answer",
+        "description": "Signs you need a new dishwasher water line include leaks, dampness, low water pressure, or visible damage like fraying or cracks on the hose."
+      }
+    }
+  ],
+  "description": "Signs you need a new dishwasher water line include leaks, dampness, low water pressure, or visible damage like fraying or cracks on the hose."
+}

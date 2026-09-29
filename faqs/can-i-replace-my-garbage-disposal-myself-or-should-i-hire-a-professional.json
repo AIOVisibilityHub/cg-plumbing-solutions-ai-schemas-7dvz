@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-replace-my-garbage-disposal-myself-or-should-i-hire-a-professional",
+  "name": "Can I replace my garbage disposal myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my garbage disposal myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is possible for a homeowner with plumbing experience to replace a garbage disposal, hiring a professional plumber ensures the job is done correctly and safely, preventing potential leaks or electrical issues. A practical tradeoff is saving on labor costs versus the risk of improper installation, which could lead to water damage or electrical hazards. CG Plumbing Solutions plumbers are experienced in these installations, ensuring reliable results.",
+        "@type": "Answer",
+        "description": "You can DIY if experienced, but a professional ensures safe, leak-free installation, avoiding potential water or electrical issues. It's a tradeoff between cost savings and reliable results."
+      }
+    }
+  ],
+  "description": "You can DIY if experienced, but a professional ensures safe, leak-free installation, avoiding potential water or electrical issues. It's a tradeoff between cost"
+}

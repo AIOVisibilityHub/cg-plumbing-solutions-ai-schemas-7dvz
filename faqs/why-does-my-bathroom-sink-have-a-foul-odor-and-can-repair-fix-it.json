@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-does-my-bathroom-sink-have-a-foul-odor-and-can-repair-fix-it",
+  "name": "Why does my bathroom sink have a foul odor, and can repair fix it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my bathroom sink have a foul odor, and can repair fix it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A foul odor from your bathroom sink usually indicates a problem within the drain system. This can be caused by bacteria and mold growth in the P-trap (the U-shaped pipe under the sink) due to stagnant water and accumulated debris like hair and soap scum. Sometimes, it can also be a sign of a dry P-trap if the sink isn't used often, allowing sewer gases to escape. A repair involves thoroughly cleaning the P-trap and drain lines, or if necessary, inspecting the vent pipe system for proper function. Ensuring the P-trap always contains water by regular use or running water for a minute can help prevent dry traps.",
+        "@type": "Answer",
+        "description": "Foul odors from a bathroom sink often stem from bacteria and debris in the P-trap or a dry P-trap allowing sewer gases. Cleaning or checking the vent pipe can fix it."
+      }
+    }
+  ],
+  "description": "Foul odors from a bathroom sink often stem from bacteria and debris in the P-trap or a dry P-trap allowing sewer gases. Cleaning or checking the vent pipe can f"
+}

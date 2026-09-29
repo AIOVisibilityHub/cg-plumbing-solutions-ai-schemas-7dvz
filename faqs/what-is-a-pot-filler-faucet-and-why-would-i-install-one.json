@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-pot-filler-faucet-and-why-would-i-install-one",
+  "name": "What is a pot filler faucet and why would I install one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pot filler faucet and why would I install one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pot filler faucet is a swing-out, articulated faucet mounted directly over a stovetop or cooktop, designed to fill large pots with water right where you need them. This eliminates the need to carry heavy, water-filled pots from the sink to the stove, reducing strain and spills. It adds convenience and efficiency to your kitchen, especially for those who frequently cook large meals or boil pasta.",
+        "@type": "Answer",
+        "description": "A pot filler faucet is a swing-out faucet over your stove, offering convenience by filling pots directly, eliminating the need to carry heavy pots from the sink."
+      }
+    }
+  ],
+  "description": "A pot filler faucet is a swing-out faucet over your stove, offering convenience by filling pots directly, eliminating the need to carry heavy pots from the sink"
+}

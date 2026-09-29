@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-kitchen-faucet-repair-take",
+  "name": "How long does a typical kitchen faucet repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical kitchen faucet repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard kitchen faucet repairs, such as fixing a drip or replacing a faulty cartridge, can be completed within 1 to 2 hours. However, the exact timing can vary based on the complexity of the issue, the type of faucet, and whether specialized parts are needed. More involved repairs or those requiring access to difficult areas might take longer. Our technicians work efficiently to minimize disruption.",
+        "@type": "Answer",
+        "description": "Most repairs take 1-2 hours, but timing varies based on complexity and faucet type. More involved repairs may take longer."
+      }
+    }
+  ],
+  "description": "Most repairs take 1-2 hours, but timing varies based on complexity and faucet type. More involved repairs may take longer."
+}

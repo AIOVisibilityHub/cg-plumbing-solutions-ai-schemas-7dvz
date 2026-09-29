@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-a-hot-water-connection-for-my-bidet",
+  "name": "Do I need a hot water connection for my bidet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a hot water connection for my bidet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need a hot water connection depends on the type of bidet you choose and your comfort preferences. Basic bidet attachments and some bidet seats only use cold water. However, many advanced bidet seats and stand-alone bidets offer warm water washing, which requires a connection to your bathroom's hot water supply line. If a hot water line isn't readily available near the toilet, installing one will add to the complexity and cost of the installation, often requiring additional plumbing work to extend the line from a nearby sink.",
+        "@type": "Answer",
+        "description": "Hot water is optional for bidets; basic models use cold water, but warm water features require a dedicated hot water connection, which may increase installation complexity if not already available."
+      }
+    }
+  ],
+  "description": "Hot water is optional for bidets; basic models use cold water, but warm water features require a dedicated hot water connection, which may increase installation"
+}

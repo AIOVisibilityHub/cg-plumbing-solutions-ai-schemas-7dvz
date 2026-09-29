@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-installing-new-gas-lines",
+  "name": "When should I consider installing new gas lines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider installing new gas lines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider installing new gas lines when adding or upgrading gas-powered appliances, such as stoves, water heaters, dryers, or outdoor grills, and your current lines are insufficient or non-existent. Another common reason is during a home renovation or new construction project where gas service is desired in new areas. If you notice signs of an outdated or damaged gas line, like persistent gas odors or corrosion, immediate professional assessment and potential replacement are crucial for safety. The decision often depends on your long-term energy needs and appliance choices.",
+        "@type": "Answer",
+        "description": "Consider new gas line installation when adding or upgrading gas appliances, during home renovations, or if existing lines show signs of damage or obsolescence."
+      }
+    }
+  ],
+  "description": "Consider new gas line installation when adding or upgrading gas appliances, during home renovations, or if existing lines show signs of damage or obsolescence."
+}

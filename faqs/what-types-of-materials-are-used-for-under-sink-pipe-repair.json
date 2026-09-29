@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-materials-are-used-for-under-sink-pipe-repair",
+  "name": "What types of materials are used for under-sink pipe repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for under-sink pipe repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The materials used for under-sink pipe repair depend on the existing plumbing and the nature of the leak. Common materials include PVC for drain lines, often connected with solvent cement or compression fittings. For water supply lines, copper, PEX, or flexible stainless steel braided hoses are frequently used. Gaskets and O-rings, made of rubber or silicone, are essential for sealing connections. Our technicians at CG Plumbing Solutions prioritize using high-quality, durable materials that are compatible with your current plumbing system to ensure a long-lasting and reliable repair. The choice of material often depends on the specific component that has failed and local plumbing codes.",
+        "@type": "Answer",
+        "description": "Repair materials include PVC for drains, copper, PEX, or braided hoses for supply lines, and rubber/silicone gaskets for seals, chosen for durability and compatibility."
+      }
+    }
+  ],
+  "description": "Repair materials include PVC for drains, copper, PEX, or braided hoses for supply lines, and rubber/silicone gaskets for seals, chosen for durability and compat"
+}

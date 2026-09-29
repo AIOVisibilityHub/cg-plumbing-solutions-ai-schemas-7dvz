@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-water-line-is-best-for-a-dishwasher",
+  "name": "What kind of water line is best for a dishwasher?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of water line is best for a dishwasher?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For dishwasher water lines, braided stainless steel supply lines are generally recommended due to their durability and flexibility, reducing the risk of kinks and leaks compared to older plastic or rubber hoses. Copper tubing is another highly reliable option for its longevity and resistance to corrosion. When choosing, consider the ease of installation and the long-term reliability. Our plumbers typically use high-quality, durable materials that comply with safety standards for installations in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "Braided stainless steel or copper lines are best for dishwashers due to their durability and leak resistance, often preferred in the Las Vegas area for reliability."
+      }
+    }
+  ],
+  "description": "Braided stainless steel or copper lines are best for dishwashers due to their durability and leak resistance, often preferred in the Las Vegas area for reliabil"
+}

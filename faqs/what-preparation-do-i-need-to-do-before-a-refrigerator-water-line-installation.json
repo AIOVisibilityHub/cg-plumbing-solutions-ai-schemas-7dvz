@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preparation-do-i-need-to-do-before-a-refrigerator-water-line-installation",
+  "name": "What preparation do I need to do before a refrigerator water line installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before a refrigerator water line installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your refrigerator water line installation, please ensure the area around your refrigerator is clear and accessible for our technicians. This includes moving the refrigerator away from the wall and clearing any items from cabinets or pathways where the line might be routed. Having a clear path allows for a smoother and quicker installation process. If possible, consider the approximate location of your nearest cold water supply line before we arrive, as this can streamline our assessment.",
+        "@type": "Answer",
+        "description": "Before installation, clear the area around the refrigerator, including moving it and clearing any cabinets or pathways, to ensure easy access for technicians."
+      }
+    }
+  ],
+  "description": "Before installation, clear the area around the refrigerator, including moving it and clearing any cabinets or pathways, to ensure easy access for technicians."
+}

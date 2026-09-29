@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-maintenance-is-required-for-a-bidet-toilet-after-installation",
+  "name": "What maintenance is required for a bidet toilet after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a bidet toilet after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bidet toilets generally require minimal maintenance, primarily regular cleaning of the nozzle and exterior surfaces. Many models feature self-cleaning nozzles or replaceable filters that simplify upkeep. It's important to use non-abrasive cleaners to protect the bidet's finish and ensure proper hygiene. CG Plumbing Solutions can provide guidance on specific cleaning recommendations for your bidet model during installation, helping you maintain its functionality and appearance for years to come.",
+        "@type": "Answer",
+        "description": "Maintenance involves regular cleaning of the nozzle and exterior with non-abrasive cleaners. Many models include self-cleaning features."
+      }
+    }
+  ],
+  "description": "Maintenance involves regular cleaning of the nozzle and exterior with non-abrasive cleaners. Many models include self-cleaning features."
+}

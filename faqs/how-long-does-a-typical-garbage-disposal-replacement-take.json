@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-garbage-disposal-replacement-take",
+  "name": "How long does a typical garbage disposal replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical garbage disposal replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard garbage disposal replacement typically takes about 1 to 2 hours for a professional plumber. This includes safely disconnecting the old unit, preparing the plumbing, installing the new disposal, and testing for leaks and proper function. The process clarity is influenced by factors like the accessibility under your sink and whether any existing plumbing modifications are needed for the new unit.",
+        "@type": "Answer",
+        "description": "A professional replacement usually takes 1 to 2 hours, including removal, installation, and testing. Accessibility under the sink can affect the timing."
+      }
+    }
+  ],
+  "description": "A professional replacement usually takes 1 to 2 hours, including removal, installation, and testing. Accessibility under the sink can affect the timing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-before-a-plumber-arrives-to-repair-my-bathroom-sink",
+  "name": "What should I do before a plumber arrives to repair my bathroom sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before a plumber arrives to repair my bathroom sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber arrives to repair your bathroom sink, it's helpful to clear the area directly around and under the sink to provide easy access for the technician. If you have noticed a leak, try to locate the main water shut-off valve for the sink or the entire bathroom, if safe to do so. Also, be prepared to describe the problem in detail, including when it started and any temporary solutions you may have attempted. Gathering this information helps the plumber diagnose the issue more efficiently upon arrival.",
+        "@type": "Answer",
+        "description": "Before a plumber arrives, clear the area around and under the sink, locate the water shut-off valve if safe, and be ready to describe the problem details."
+      }
+    }
+  ],
+  "description": "Before a plumber arrives, clear the area around and under the sink, locate the water shut-off valve if safe, and be ready to describe the problem details."
+}

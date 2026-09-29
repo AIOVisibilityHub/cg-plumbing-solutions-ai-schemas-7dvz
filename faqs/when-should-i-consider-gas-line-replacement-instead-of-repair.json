@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-gas-line-replacement-instead-of-repair",
+  "name": "When should I consider gas line replacement instead of repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider gas line replacement instead of repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider gas line replacement instead of repair if your gas lines are old, corroded, or have multiple leaks, indicating systemic failure. Frequent repairs on aging infrastructure can become more costly and less reliable over time than a full replacement. Additionally, if existing lines are improperly sized for new appliances or do not meet current safety codes, replacement is often the safer and more efficient long-term solution. A professional assessment can help you weigh the cost-effectiveness and safety benefits of replacement versus repeated repairs.",
+        "@type": "Answer",
+        "description": "Consider replacement if lines are old, corroded, have multiple leaks, are improperly sized for new appliances, or don't meet current safety codes. Replacement can be more cost-effective and safer long-term than frequent repairs."
+      }
+    }
+  ],
+  "description": "Consider replacement if lines are old, corroded, have multiple leaks, are improperly sized for new appliances, or don't meet current safety codes. Replacement c"
+}

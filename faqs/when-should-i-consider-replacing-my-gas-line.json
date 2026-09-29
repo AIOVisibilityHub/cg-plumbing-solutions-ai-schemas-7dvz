@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-my-gas-line",
+  "name": "When should I consider replacing my gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your gas line if you notice persistent leaks, corrosion, or if your home is older with original galvanized steel piping, which is prone to deterioration. An inspection by a qualified plumbing company like CG Plumbing Solutions can identify these issues. Regular maintenance can extend the life of your gas lines, but eventually, replacement becomes necessary for safety and reliability.",
+        "@type": "Answer",
+        "description": "Replace your gas line if you notice leaks, corrosion, or have older galvanized steel pipes. An inspection can confirm the need for replacement."
+      }
+    }
+  ],
+  "description": "Replace your gas line if you notice leaks, corrosion, or have older galvanized steel pipes. An inspection can confirm the need for replacement."
+}

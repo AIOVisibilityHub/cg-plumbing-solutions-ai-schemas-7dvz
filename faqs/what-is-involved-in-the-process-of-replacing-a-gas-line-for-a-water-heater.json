@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-process-of-replacing-a-gas-line-for-a-water-heater",
+  "name": "What is involved in the process of replacing a gas line for a water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of replacing a gas line for a water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a gas line for a water heater involves several key steps to ensure safety and compliance. First, the gas supply to the property is safely shut off. Next, the old line is disconnected and removed. Our technicians then measure and cut new piping, often using materials like black iron pipe or flexible corrugated stainless steel tubing (CSST) as permitted by local codes. The new line is installed, fittings are securely tightened, and a thorough leak test is performed using a manometer. Finally, the gas supply is restored, and the water heater's operation is verified. The exact materials and methods used depend on local regulations in areas like Henderson and North Las Vegas, as well as the specific installation requirements.",
+        "@type": "Answer",
+        "description": "The process includes shutting off gas, removing the old line, installing new piping, leak testing, and restoring gas, with materials and methods depending on local codes."
+      }
+    }
+  ],
+  "description": "The process includes shutting off gas, removing the old line, installing new piping, leak testing, and restoring gas, with materials and methods depending on lo"
+}

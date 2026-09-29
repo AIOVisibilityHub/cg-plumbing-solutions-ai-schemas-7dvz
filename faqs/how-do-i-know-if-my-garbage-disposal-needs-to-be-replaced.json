@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-garbage-disposal-needs-to-be-replaced",
+  "name": "How do I know if my garbage disposal needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my garbage disposal needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs your garbage disposal needs replacement include persistent leaks that can't be repaired, loud grinding noises without an obvious cause, frequent clogs, or complete failure to turn on. If your unit is older than 8-10 years and exhibits these issues, replacement is often more cost-effective than continuous repairs. A decision factor for replacement is if the repair cost approaches or exceeds the cost of a new, more efficient unit.",
+        "@type": "Answer",
+        "description": "Signs include persistent leaks, loud noises, frequent clogs, or complete failure to turn on. If it's old and constantly problematic, replacement is usually best."
+      }
+    }
+  ],
+  "description": "Signs include persistent leaks, loud noises, frequent clogs, or complete failure to turn on. If it's old and constantly problematic, replacement is usually best"
+}

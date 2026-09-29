@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preparations-do-i-need-to-make-before-my-vanity-plumbing-installation-appoi",
+  "name": "What preparations do I need to make before my vanity plumbing installation appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations do I need to make before my vanity plumbing installation appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your vanity plumbing installation appointment, ensure the new vanity cabinet and sink are on-site and easily accessible in the bathroom. Clear the work area of any personal items or obstructions to allow the plumber sufficient space to work. If it's a replacement, have the old vanity and sink already removed if possible, or arrange for its disposal. Having these items ready streamlines the installation process and helps our team complete the job efficiently.",
+        "@type": "Answer",
+        "description": "Prepare by having the new vanity and sink on-site, clearing the work area, and removing the old vanity if it's a replacement."
+      }
+    }
+  ],
+  "description": "Prepare by having the new vanity and sink on-site, clearing the work area, and removing the old vanity if it's a replacement."
+}

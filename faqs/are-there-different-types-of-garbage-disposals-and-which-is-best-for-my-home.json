@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-there-different-types-of-garbage-disposals-and-which-is-best-for-my-home",
+  "name": "Are there different types of garbage disposals, and which is best for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of garbage disposals, and which is best for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are two main types: continuous feed and batch feed. Continuous feed disposals run until turned off, allowing you to add waste while it's operating. Batch feed disposals only operate when a stopper is inserted into the drain, offering an added safety feature. The best type for your home depends on your family's needs, such as safety preferences and how frequently you dispose of food waste. CG Plumbing Solutions can discuss the pros and cons of each type to help you make an informed decision for your residence in Las Vegas or surrounding communities.",
+        "@type": "Answer",
+        "description": "Continuous feed allows adding waste while running, while batch feed requires a stopper for safety. The best choice depends on your family's needs and preferences."
+      }
+    }
+  ],
+  "description": "Continuous feed allows adding waste while running, while batch feed requires a stopper for safety. The best choice depends on your family's needs and preference"
+}

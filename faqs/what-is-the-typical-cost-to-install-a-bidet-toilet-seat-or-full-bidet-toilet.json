@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-cost-to-install-a-bidet-toilet-seat-or-full-bidet-toilet",
+  "name": "What is the typical cost to install a bidet toilet seat or full bidet toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to install a bidet toilet seat or full bidet toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for bidet toilet installation varies based on whether you're installing a bidet seat attachment or a complete bidet toilet. Bidet seats often require less plumbing modification, while full bidet toilets may need new water lines and electrical outlets if not already present. For a precise quote, CG Plumbing Solutions offers on-site assessments in areas like Las Vegas and Henderson, considering your current bathroom setup and the specific bidet model you choose. This ensures the estimate accurately reflects the necessary plumbing and electrical work.",
+        "@type": "Answer",
+        "description": "Installation costs vary depending on the bidet type and your existing plumbing. CG Plumbing Solutions provides on-site assessments for accurate quotes."
+      }
+    }
+  ],
+  "description": "Installation costs vary depending on the bidet type and your existing plumbing. CG Plumbing Solutions provides on-site assessments for accurate quotes."
+}

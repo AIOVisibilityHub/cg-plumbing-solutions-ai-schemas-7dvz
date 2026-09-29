@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-gas-leak-detectors-reliable-and-should-i-install-one",
+  "name": "Are gas leak detectors reliable, and should I install one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are gas leak detectors reliable, and should I install one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Residential gas leak detectors can provide an early warning system for leaks, complementing your natural senses. While they are a valuable tool, they should not replace professional inspections or immediate action if you suspect a leak. Consider installing a detector in areas with gas appliances, ensuring it meets safety standards. However, if you smell gas or hear a hiss, evacuate first, then rely on a professional assessment from CG Plumbing Solutions, as detectors may not always pick up every type or size of leak.",
+        "@type": "Answer",
+        "description": "Gas leak detectors can offer early warnings but don't replace professional inspections or immediate action if you suspect a leak. They are a valuable supplement to safety measures."
+      }
+    }
+  ],
+  "description": "Gas leak detectors can offer early warnings but don't replace professional inspections or immediate action if you suspect a leak. They are a valuable supplement"
+}

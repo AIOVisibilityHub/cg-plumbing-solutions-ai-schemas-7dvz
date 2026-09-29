@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-a-dedicated-shut-off-valve-for-my-dishwasher",
+  "name": "Do I need a dedicated shut-off valve for my dishwasher?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a dedicated shut-off valve for my dishwasher?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to have a dedicated shut-off valve for your dishwasher. This allows you to easily turn off the water supply to the appliance for maintenance or in case of a leak without affecting the water supply to the rest of your home. It’s a critical safety feature that helps prevent potential water damage. During our installation process, we ensure a dedicated shut-off valve is properly installed and accessible, if not already present.",
+        "@type": "Answer",
+        "description": "A dedicated shut-off valve for your dishwasher is highly recommended for easy maintenance and to prevent water damage without affecting your home's main water supply."
+      }
+    }
+  ],
+  "description": "A dedicated shut-off valve for your dishwasher is highly recommended for easy maintenance and to prevent water damage without affecting your home's main water s"
+}

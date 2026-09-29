@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-installation-process-for-a-bidet-toilet-or-bidet-seat",
+  "name": "What is the installation process for a bidet toilet or bidet seat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for a bidet toilet or bidet seat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with shutting off the water supply to your existing toilet and draining the tank. For bidet seats, the old seat is removed, and the new bidet seat is mounted, connecting its water line to the toilet's fill valve and plugging it into an electrical outlet. Full bidet toilets involve removing the old toilet, installing the new unit, connecting dedicated water lines, and ensuring proper electrical hookup. CG Plumbing Solutions plumbers ensure all connections are secure and test the bidet's functionality before completing the job, explaining its operation as part of the process.",
+        "@type": "Answer",
+        "description": "Installation involves removing the old seat/toilet, connecting water lines, and securing electrical connections, followed by testing and function explanation."
+      }
+    }
+  ],
+  "description": "Installation involves removing the old seat/toilet, connecting water lines, and securing electrical connections, followed by testing and function explanation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-choose-a-qualified-plumbing-company-for-gas-line-relocation-in-the-las",
+  "name": "How do I choose a qualified plumbing company for gas line relocation in the Las Vegas Valley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a qualified plumbing company for gas line relocation in the Las Vegas Valley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a plumbing company for gas line relocation in the Las Vegas Valley, look for a licensed, insured, and experienced company with a strong track record. Verify they are familiar with local building codes specific to Las Vegas, Henderson, or your specific area, and that they handle all necessary permits and inspections. Ask for references and ensure they provide a detailed, written estimate. Our team at CG Plumbing Solutions focuses specifically on residential plumbing, ensuring our expertise is directly applicable to home gas line needs.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, and experienced company familiar with local codes in the Las Vegas Valley, handles permits, and provides detailed estimates."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, and experienced company familiar with local codes in the Las Vegas Valley, handles permits, and provides detailed estimates."
+}

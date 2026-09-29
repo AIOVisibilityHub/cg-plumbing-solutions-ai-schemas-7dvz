@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-dishwasher-water-line-installation-take",
+  "name": "How long does a typical dishwasher water line installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical dishwasher water line installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard dishwasher water line installation usually takes between 1 to 3 hours. This timeframe can vary depending on factors such as the accessibility of existing plumbing, the need to install a new shut-off valve, and any modifications required for the connection. Our technicians aim to complete the work efficiently while maintaining high standards, minimizing disruption to your home. We'll provide a more precise estimate after assessing your specific setup.",
+        "@type": "Answer",
+        "description": "Most dishwasher water line installations take 1-3 hours, but this can vary based on plumbing accessibility and the need for new valve installations."
+      }
+    }
+  ],
+  "description": "Most dishwasher water line installations take 1-3 hours, but this can vary based on plumbing accessibility and the need for new valve installations."
+}

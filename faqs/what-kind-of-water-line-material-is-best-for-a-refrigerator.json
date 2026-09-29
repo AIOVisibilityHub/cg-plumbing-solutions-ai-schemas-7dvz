@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-water-line-material-is-best-for-a-refrigerator",
+  "name": "What kind of water line material is best for a refrigerator?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of water line material is best for a refrigerator?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For refrigerator water lines, copper and PEX (cross-linked polyethylene) are the most common and recommended materials. Copper lines are durable and resistant to crimping, offering a long-lasting solution. PEX is flexible, easier to install, and also highly durable, resisting corrosion and scaling. The best choice often depends on the specific layout of your home and the installer's preference for ease of routing. CG Plumbing Solutions technicians will discuss the pros and cons of each material with you to help make an informed decision based on your home's needs.",
+        "@type": "Answer",
+        "description": "Copper and PEX are the best materials; copper is durable, and PEX is flexible and easy to install. The best choice depends on home layout and routing needs."
+      }
+    }
+  ],
+  "description": "Copper and PEX are the best materials; copper is durable, and PEX is flexible and easy to install. The best choice depends on home layout and routing needs."
+}

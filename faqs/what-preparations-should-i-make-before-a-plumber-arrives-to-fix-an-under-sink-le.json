@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preparations-should-i-make-before-a-plumber-arrives-to-fix-an-under-sink-le",
+  "name": "What preparations should I make before a plumber arrives to fix an under-sink leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before a plumber arrives to fix an under-sink leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber from CG Plumbing Solutions arrives, it's helpful to clear out the cabinet under the sink completely, removing all items like cleaning supplies, garbage bins, or stored goods. This provides the plumber with clear access to the plumbing and allows them to work efficiently. If the leak is active, placing a bucket or towels under the leak can help manage any dripping water until repairs can be made. Having the area clear upon arrival helps our technicians quickly assess and repair the leak, saving you time and potentially reducing service duration.",
+        "@type": "Answer",
+        "description": "Clear out the under-sink cabinet completely to provide plumbers with clear access, and if the leak is active, place a bucket or towels to manage water."
+      }
+    }
+  ],
+  "description": "Clear out the under-sink cabinet completely to provide plumbers with clear access, and if the leak is active, place a bucket or towels to manage water."
+}

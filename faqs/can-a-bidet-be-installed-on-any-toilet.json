@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-a-bidet-be-installed-on-any-toilet",
+  "name": "Can a bidet be installed on any toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a bidet be installed on any toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most bidet seats and attachments are designed to be compatible with standard one-piece and two-piece toilets, but there can be exceptions. Specific factors like the toilet's shape (round vs. elongated), the distance between mounting holes, and the availability of space behind the toilet for plumbing connections can affect compatibility. Some skirted toilets may also present challenges for bidet seat installation due to limited access. Before purchase, it's wise to measure your toilet and consult with a plumber to confirm compatibility and avoid issues during installation.",
+        "@type": "Answer",
+        "description": "While most bidets fit standard toilets, compatibility depends on toilet shape, mounting hole distance, and space behind the bowl, making pre-purchase measurements important."
+      }
+    }
+  ],
+  "description": "While most bidets fit standard toilets, compatibility depends on toilet shape, mounting hole distance, and space behind the bowl, making pre-purchase measuremen"
+}

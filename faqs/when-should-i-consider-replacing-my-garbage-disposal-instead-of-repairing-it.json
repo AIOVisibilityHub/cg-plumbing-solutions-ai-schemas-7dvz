@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-my-garbage-disposal-instead-of-repairing-it",
+  "name": "When should I consider replacing my garbage disposal instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my garbage disposal instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your garbage disposal rather than repairing it if the unit is more than 10-12 years old, experiences frequent and severe jams, leaks persistently, or if the motor has completely burned out. The cost of a major repair on an older, less efficient unit might approach or exceed the cost of a new, more powerful, and quieter model. Our technicians can assess the age and condition of your current unit during a service visit to provide an honest recommendation, helping you weigh the short-term cost of repair against the long-term benefits of a new installation, including potential energy and water efficiency improvements.",
+        "@type": "Answer",
+        "description": "Consider replacing your garbage disposal if it's over 10-12 years old, frequently jams, leaks constantly, or has a burned-out motor, especially if repair costs are high."
+      }
+    }
+  ],
+  "description": "Consider replacing your garbage disposal if it's over 10-12 years old, frequently jams, leaks constantly, or has a burned-out motor, especially if repair costs"
+}

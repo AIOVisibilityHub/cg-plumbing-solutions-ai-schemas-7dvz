@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-of-a-gas-line-leak",
+  "name": "What are common signs of a gas line leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a gas line leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a gas line leak include a distinct sulfur-like odor, often described as rotten eggs. You might also hear a hissing or whistling sound near a gas line, see discolored vegetation near outdoor gas lines, or notice a sudden increase in your gas bill without increased usage. If you suspect a leak, evacuate the area immediately and contact your gas provider and a licensed plumber like CG Plumbing Solutions to assess the situation safely. Delaying action can increase risks, so prompt reporting is crucial.",
+        "@type": "Answer",
+        "description": "Signs include a rotten egg smell, hissing sounds, discolored vegetation, or an unexplained increase in your gas bill. Immediately evacuate and call your gas provider and a plumber if you suspect a leak."
+      }
+    }
+  ],
+  "description": "Signs include a rotten egg smell, hissing sounds, discolored vegetation, or an unexplained increase in your gas bill. Immediately evacuate and call your gas pro"
+}

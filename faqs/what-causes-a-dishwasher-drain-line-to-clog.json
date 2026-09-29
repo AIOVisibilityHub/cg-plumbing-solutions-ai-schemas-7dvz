@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-a-dishwasher-drain-line-to-clog",
+  "name": "What causes a dishwasher drain line to clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a dishwasher drain line to clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Dishwasher drain lines typically clog due to an accumulation of food particles, grease, soap scum, and mineral deposits over time. Hard water in areas like Las Vegas can contribute to faster mineral buildup. Sometimes, foreign objects like small pieces of plastic or broken dishes can also get lodged in the drain hose. A common first-party insight we observe is improper pre-rinsing of dishes, leading to more debris entering the drain system. Regularly scraping food off plates before loading can significantly reduce the likelihood of clogs.",
+        "@type": "Answer",
+        "description": "Dishwasher drain lines clog from food particles, grease, soap scum, mineral deposits, or foreign objects. Improper pre-rinsing is a common cause."
+      }
+    }
+  ],
+  "description": "Dishwasher drain lines clog from food particles, grease, soap scum, mineral deposits, or foreign objects. Improper pre-rinsing is a common cause."
+}

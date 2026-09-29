@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-a-permit-for-gas-line-installation-in-las-vegas",
+  "name": "Do I need a permit for gas line installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for gas line installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in Las Vegas and surrounding areas like Henderson, a permit is typically required for any new gas line installation or significant modification to an existing gas system. This ensures that the work complies with local building codes and safety standards. Obtaining the proper permits protects homeowners by verifying the installation meets strict regulations designed to prevent hazards. CG Plumbing Solutions assists with navigating the permit application process to ensure all installations are fully compliant with local jurisdiction requirements.",
+        "@type": "Answer",
+        "description": "Yes, a permit is generally required for gas line installation or modifications in Las Vegas and surrounding areas like Henderson to ensure code compliance and safety."
+      }
+    }
+  ],
+  "description": "Yes, a permit is generally required for gas line installation or modifications in Las Vegas and surrounding areas like Henderson to ensure code compliance and s"
+}

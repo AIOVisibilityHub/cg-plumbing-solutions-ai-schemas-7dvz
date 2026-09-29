@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-lifespan-of-a-garbage-disposal",
+  "name": "What is the typical lifespan of a garbage disposal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of a garbage disposal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical lifespan of a garbage disposal is generally between 8 and 15 years, depending on the model, usage frequency, and maintenance. Higher-quality units and those properly maintained tend to last longer. A first-party insight we've observed at CG Plumbing Solutions is that consistent grinding of non-food items or neglecting to run cold water during operation can significantly shorten a disposal's effective life.",
+        "@type": "Answer",
+        "description": "A garbage disposal typically lasts 8 to 15 years, depending on model, usage, and maintenance. Avoiding non-food items and using cold water prolongs its life."
+      }
+    }
+  ],
+  "description": "A garbage disposal typically lasts 8 to 15 years, depending on model, usage, and maintenance. Avoiding non-food items and using cold water prolongs its life."
+}

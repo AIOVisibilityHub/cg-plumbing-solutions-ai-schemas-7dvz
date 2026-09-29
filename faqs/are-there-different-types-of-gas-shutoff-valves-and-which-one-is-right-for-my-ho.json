@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-there-different-types-of-gas-shutoff-valves-and-which-one-is-right-for-my-ho",
+  "name": "Are there different types of gas shutoff valves, and which one is right for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of gas shutoff valves, and which one is right for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are several types, primarily ball valves and plug valves, each designed to safely control gas flow. Ball valves are most common due to their durability and quick quarter-turn operation. The right valve for your home depends on factors like the specific gas appliance, the gas line size, and local plumbing codes in areas like Las Vegas or Henderson. CG Plumbing Solutions helps you choose the appropriate valve, ensuring it meets safety standards and provides reliable performance for your specific needs.",
+        "@type": "Answer",
+        "description": "Different types of gas shutoff valves exist, like ball or plug valves; the best one depends on your appliance, line size, and local codes."
+      }
+    }
+  ],
+  "description": "Different types of gas shutoff valves exist, like ball or plug valves; the best one depends on your appliance, line size, and local codes."
+}

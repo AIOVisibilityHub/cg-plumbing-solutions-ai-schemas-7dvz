@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preparation-do-i-need-to-do-before-a-plumber-arrives-to-install-a-water-fil",
+  "name": "What preparation do I need to do before a plumber arrives to install a water filter faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before a plumber arrives to install a water filter faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your plumber arrives, please clear the area under your kitchen sink, ensuring easy access to the plumbing connections and adequate space for the new filter unit. Also, ensure the chosen location for the filter faucet on your countertop is accessible. If you have any specific filter system model you'd like installed, have it ready. This preparation helps our technicians complete the installation efficiently.",
+        "@type": "Answer",
+        "description": "Before installation, clear the under-sink area for access, ensure the countertop faucet location is clear, and have your filter system ready."
+      }
+    }
+  ],
+  "description": "Before installation, clear the under-sink area for access, ensure the countertop faucet location is clear, and have your filter system ready."
+}

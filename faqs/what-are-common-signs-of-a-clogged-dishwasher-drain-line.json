@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-of-a-clogged-dishwasher-drain-line",
+  "name": "What are common signs of a clogged dishwasher drain line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a clogged dishwasher drain line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a clogged dishwasher drain line include standing water at the bottom of the dishwasher after a cycle, the dishwasher not draining completely, or water backing up into your sink. You might also notice a foul odor coming from the dishwasher or sink, indicating stagnant water and food debris. Early detection is crucial; if you notice any of these issues, addressing them promptly can prevent further damage to your appliance or plumbing system. Ignoring these signs can lead to more significant blockages or even water damage to your kitchen.",
+        "@type": "Answer",
+        "description": "Signs of a clogged dishwasher drain line include standing water, incomplete draining, water backing up into the sink, or foul odors."
+      }
+    }
+  ],
+  "description": "Signs of a clogged dishwasher drain line include standing water, incomplete draining, water backing up into the sink, or foul odors."
+}

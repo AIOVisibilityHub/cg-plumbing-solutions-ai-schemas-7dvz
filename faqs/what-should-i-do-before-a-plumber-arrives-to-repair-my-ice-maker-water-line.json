@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-before-a-plumber-arrives-to-repair-my-ice-maker-water-line",
+  "name": "What should I do before a plumber arrives to repair my ice maker water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before a plumber arrives to repair my ice maker water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber arrives, it's helpful to clear the area around your refrigerator to allow easy access to the back and sides. If you know how, locate and turn off the main water supply to your home or the specific shut-off valve for the ice maker. Note down any specific observations you've made about the leak or malfunction, such as when it started or if it's intermittent, as this information can significantly assist our technicians in diagnosing the problem efficiently upon arrival.",
+        "@type": "Answer",
+        "description": "Clear the area around the refrigerator, turn off the water supply if possible, and note down details about the leak or malfunction."
+      }
+    }
+  ],
+  "description": "Clear the area around the refrigerator, turn off the water supply if possible, and note down details about the leak or malfunction."
+}

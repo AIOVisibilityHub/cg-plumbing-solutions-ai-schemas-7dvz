@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-pot-filler-faucet",
+  "name": "How long does it take to install a pot filler faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a pot filler faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a pot filler faucet can vary, typically ranging from a few hours to a full day. This depends on factors such as the accessibility of existing water lines, whether new plumbing lines need to be routed through walls, and the type of wall material (e.g., drywall, tile, stone). More complex installations involving significant wall modifications will naturally take longer. A consultation allows us to assess your specific situation and provide a more accurate time estimate.",
+        "@type": "Answer",
+        "description": "Installation typically takes a few hours to a full day, depending on plumbing accessibility, new line routing, and wall material, with more complex jobs taking longer."
+      }
+    }
+  ],
+  "description": "Installation typically takes a few hours to a full day, depending on plumbing accessibility, new line routing, and wall material, with more complex jobs taking"
+}

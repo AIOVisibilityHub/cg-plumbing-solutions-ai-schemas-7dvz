@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-a-bidet-toilet-be-installed-in-a-small-bathroom",
+  "name": "Can a bidet toilet be installed in a small bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a bidet toilet be installed in a small bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, bidet toilet seats can be installed in most small bathrooms as they simply replace the existing toilet seat and do not require additional space. Full bidet toilets, being integrated units, take up the same footprint as a standard toilet. The key consideration in a small bathroom is often the proximity of an electrical outlet for powered bidet features. CG Plumbing Solutions can assess your small bathroom in areas like North Las Vegas or Enterprise to confirm suitability and advise on the best approach for installation, ensuring proper function within your space.",
+        "@type": "Answer",
+        "description": "Bidet seats fit most small bathrooms by replacing the existing seat. Full bidets have the same footprint as standard toilets, with electrical outlet proximity as the main consideration."
+      }
+    }
+  ],
+  "description": "Bidet seats fit most small bathrooms by replacing the existing seat. Full bidets have the same footprint as standard toilets, with electrical outlet proximity a"
+}

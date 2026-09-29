@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-consider-when-choosing-a-new-vanity-and-sink-for-plumbing-compatib",
+  "name": "What should I consider when choosing a new vanity and sink for plumbing compatibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a new vanity and sink for plumbing compatibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a new vanity and sink, consider the placement of the drain and water supply lines relative to the vanity's structure. Some vanity designs, especially those with drawers, may require specific plumbing configurations to allow the drawers to close properly around the pipes. Also, verify that the faucet hole configuration on the sink matches the faucet you intend to install. This upfront consideration can prevent installation delays or the need for costly modifications, ensuring a smooth process.",
+        "@type": "Answer",
+        "description": "Consider the drain and water supply line placement relative to the vanity's design, especially with drawers, and ensure faucet hole compatibility."
+      }
+    }
+  ],
+  "description": "Consider the drain and water supply line placement relative to the vanity's design, especially with drawers, and ensure faucet hole compatibility."
+}

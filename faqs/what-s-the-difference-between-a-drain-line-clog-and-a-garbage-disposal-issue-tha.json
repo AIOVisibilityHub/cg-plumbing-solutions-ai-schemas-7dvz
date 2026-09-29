@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-drain-line-clog-and-a-garbage-disposal-issue-tha",
+  "name": "What's the difference between a drain line clog and a garbage disposal issue that affects dishwasher drainage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a drain line clog and a garbage disposal issue that affects dishwasher drainage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both can prevent proper dishwasher drainage, a drain line clog is typically an obstruction within the dishwasher's hose or the shared drain pipe. A garbage disposal issue, however, often means the disposal itself is clogged or the knockout plug, if a new disposal was installed, was not removed, preventing water from reaching the main drain. If your dishwasher drains into a garbage disposal, checking the disposal for clogs or ensuring the knockout plug is removed is a crucial first step. A plumber can quickly differentiate between these two common problems to ensure the correct repair.",
+        "@type": "Answer",
+        "description": "A drain line clog is in the hose or pipe, while a garbage disposal issue relates to the disposal unit itself, often an internal clog or unremoved knockout plug."
+      }
+    }
+  ],
+  "description": "A drain line clog is in the hose or pipe, while a garbage disposal issue relates to the disposal unit itself, often an internal clog or unremoved knockout plug."
+}

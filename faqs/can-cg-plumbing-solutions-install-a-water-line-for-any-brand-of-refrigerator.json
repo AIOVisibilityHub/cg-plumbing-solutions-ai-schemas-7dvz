@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-cg-plumbing-solutions-install-a-water-line-for-any-brand-of-refrigerator",
+  "name": "Can CG Plumbing Solutions install a water line for any brand of refrigerator?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can CG Plumbing Solutions install a water line for any brand of refrigerator?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CG Plumbing Solutions can install water lines for virtually any brand and model of refrigerator that requires a water connection for ice makers and water dispensers. Our experienced plumbers are familiar with the various connection types and installation requirements across different manufacturers. The crucial factor is typically the accessibility of a cold water supply within a reasonable distance, rather than the refrigerator brand itself. We ensure compatibility and proper function for your specific appliance.",
+        "@type": "Answer",
+        "description": "Yes, CG Plumbing Solutions can install water lines for nearly any refrigerator brand requiring a water connection, focusing on water supply accessibility rather than appliance brand."
+      }
+    }
+  ],
+  "description": "Yes, CG Plumbing Solutions can install water lines for nearly any refrigerator brand requiring a water connection, focusing on water supply accessibility rather"
+}

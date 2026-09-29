@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-gas-line-relocation-and-why-might-i-need-it",
+  "name": "What is gas line relocation and why might I need it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is gas line relocation and why might I need it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas line relocation involves moving or rerouting existing natural gas lines to a new position. This service is typically needed for home renovations, kitchen or laundry room remodels, landscaping projects that interfere with underground lines, or when installing new gas appliances that require a different gas hookup point. For example, if you're moving a gas range to a new spot in your kitchen, the gas line will need to be safely extended or rerouted to the new appliance location to ensure proper and safe operation.",
+        "@type": "Answer",
+        "description": "Gas line relocation moves or reroutes existing gas lines, often needed for home renovations, appliance installation, or landscaping projects."
+      }
+    }
+  ],
+  "description": "Gas line relocation moves or reroutes existing gas lines, often needed for home renovations, appliance installation, or landscaping projects."
+}

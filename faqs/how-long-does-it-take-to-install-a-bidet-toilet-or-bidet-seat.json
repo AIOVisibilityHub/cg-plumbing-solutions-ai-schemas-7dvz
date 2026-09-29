@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-bidet-toilet-or-bidet-seat",
+  "name": "How long does it take to install a bidet toilet or bidet seat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a bidet toilet or bidet seat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most bidet seat installations can be completed within 1-2 hours if existing water and electrical connections are readily available. For a full bidet toilet, the process might take longer, ranging from 2-4 hours, especially if new electrical outlets or significant plumbing adjustments are needed to accommodate the unit. CG Plumbing Solutions schedules installations efficiently, aiming to minimize disruption to your home in locations such as Summerlin or Paradise, with clear communication about the estimated duration beforehand.",
+        "@type": "Answer",
+        "description": "Bidet seat installation typically takes 1-2 hours, while full bidet toilets may take 2-4 hours, depending on plumbing and electrical needs."
+      }
+    }
+  ],
+  "description": "Bidet seat installation typically takes 1-2 hours, while full bidet toilets may take 2-4 hours, depending on plumbing and electrical needs."
+}

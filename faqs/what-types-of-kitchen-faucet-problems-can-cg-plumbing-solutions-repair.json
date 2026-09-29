@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-kitchen-faucet-problems-can-cg-plumbing-solutions-repair",
+  "name": "What types of kitchen faucet problems can CG Plumbing Solutions repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of kitchen faucet problems can CG Plumbing Solutions repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions is equipped to repair a wide range of kitchen faucet problems, including constant drips, leaks at the base or handles, low water pressure, squealing or grinding noises, and issues with sprayer functionality. We service all major faucet brands and types, from single-handle to pull-down models. Our technicians carry common replacement parts, allowing for efficient resolution of most issues during the initial visit.",
+        "@type": "Answer",
+        "description": "We repair drips, leaks, low pressure, noises, and sprayer issues for all major faucet brands and types, often with parts on hand."
+      }
+    }
+  ],
+  "description": "We repair drips, leaks, low pressure, noises, and sprayer issues for all major faucet brands and types, often with parts on hand."
+}

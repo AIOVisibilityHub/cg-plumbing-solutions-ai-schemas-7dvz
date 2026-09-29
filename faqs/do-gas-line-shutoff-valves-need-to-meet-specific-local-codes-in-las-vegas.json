@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-gas-line-shutoff-valves-need-to-meet-specific-local-codes-in-las-vegas",
+  "name": "Do gas line shutoff valves need to meet specific local codes in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do gas line shutoff valves need to meet specific local codes in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, all gas line installations, including shutoff valves, must comply with specific local building and safety codes enforced in Las Vegas, North Las Vegas, Henderson, and other surrounding areas. These codes dictate factors like valve type, placement, and installation procedures to ensure public safety. CG Plumbing Solutions is well-versed in these local regulations and ensures that every gas line shutoff valve installation meets or exceeds all necessary requirements, preventing potential issues during inspections.",
+        "@type": "Answer",
+        "description": "Yes, gas line shutoff valves must meet specific local building and safety codes in Las Vegas and surrounding areas."
+      }
+    }
+  ],
+  "description": "Yes, gas line shutoff valves must meet specific local building and safety codes in Las Vegas and surrounding areas."
+}

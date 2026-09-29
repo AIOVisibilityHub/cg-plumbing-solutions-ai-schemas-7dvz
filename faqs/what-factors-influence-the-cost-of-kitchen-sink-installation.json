@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-kitchen-sink-installation",
+  "name": "What factors influence the cost of kitchen sink installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of kitchen sink installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of kitchen sink installation is influenced by several factors. These include the type of sink (e.g., undermount installations are generally more complex than drop-in), the material of your countertop, the need for new plumbing lines or modifications to existing ones, and the removal and disposal of your old sink. Faucet installation and garbage disposal hook-up are often separate considerations. Providing clear details about your current setup and desired new sink helps us provide an accurate estimate. For residents in Summerlin or Paradise, we offer transparent pricing based on the specifics of your project.",
+        "@type": "Answer",
+        "description": "Installation costs depend on sink type, countertop material, plumbing modifications, and old sink removal. Additional services like faucet and garbage disposal hook-up can also affect the total price."
+      }
+    }
+  ],
+  "description": "Installation costs depend on sink type, countertop material, plumbing modifications, and old sink removal. Additional services like faucet and garbage disposal"
+}

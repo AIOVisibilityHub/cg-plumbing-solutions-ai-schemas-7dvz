@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-gas-line-repairs-be-done-on-existing-galvanized-pipes",
+  "name": "Can gas line repairs be done on existing galvanized pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can gas line repairs be done on existing galvanized pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While galvanized steel pipes were once common for gas lines, they are not typically used for new installations today, and repairs on existing galvanized gas lines are approached with caution. Galvanized pipes can corrode internally over time, leading to flaking and blockages, which can compromise safety and gas flow. For repairs, our technicians may recommend replacing the entire galvanized section or even the entire line with modern, safer materials like black iron pipe or CSST, especially if corrosion is extensive. This ensures long-term safety and compliance with current standards.",
+        "@type": "Answer",
+        "description": "Repairs on existing galvanized gas pipes are approached cautiously due to potential internal corrosion. Technicians often recommend replacing the galvanized section or the entire line with modern materials like black iron pipe or CSST for long-term safety and compliance."
+      }
+    }
+  ],
+  "description": "Repairs on existing galvanized gas pipes are approached cautiously due to potential internal corrosion. Technicians often recommend replacing the galvanized sec"
+}

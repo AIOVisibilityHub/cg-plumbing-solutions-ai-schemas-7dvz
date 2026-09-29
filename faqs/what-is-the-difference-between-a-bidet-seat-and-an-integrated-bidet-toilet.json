@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-bidet-seat-and-an-integrated-bidet-toilet",
+  "name": "What is the difference between a bidet seat and an integrated bidet toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a bidet seat and an integrated bidet toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bidet seat is an accessory that replaces your existing toilet seat, converting a standard toilet into a bidet-toilet combination. It's generally easier and less expensive to install as it primarily uses existing water lines. An integrated bidet toilet, also known as a smart toilet, is a single, complete unit where the bidet functions are built directly into the toilet itself. These units offer a more seamless look and often include advanced features, but they typically require more extensive plumbing modifications, potentially including new hot water lines and dedicated electrical outlets, similar to installing a new toilet fixture entirely.",
+        "@type": "Answer",
+        "description": "A bidet seat replaces your toilet seat for easier installation, while an integrated bidet toilet is a complete unit with built-in functions requiring more extensive plumbing and electrical work."
+      }
+    }
+  ],
+  "description": "A bidet seat replaces your toilet seat for easier installation, while an integrated bidet toilet is a complete unit with built-in functions requiring more exten"
+}

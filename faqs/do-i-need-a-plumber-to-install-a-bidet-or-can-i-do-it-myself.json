@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-a-plumber-to-install-a-bidet-or-can-i-do-it-myself",
+  "name": "Do I need a plumber to install a bidet, or can I do it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a plumber to install a bidet, or can I do it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some basic bidet attachments and non-electric bidet seats come with DIY instructions, professional installation is strongly recommended, especially for electric models, integrated bidet toilets, or stand-alone units. A plumber ensures correct water connections to prevent leaks, handles electrical wiring safely if needed, and ensures proper drainage. Attempting complex installations without experience can lead to leaks, water damage, or electrical hazards. For properties in Las Vegas and surrounding areas, our licensed plumbers guarantee a safe and compliant installation.",
+        "@type": "Answer",
+        "description": "Professional bidet installation is recommended for electric models, integrated units, or stand-alone bidets to ensure safety, prevent leaks, and comply with local plumbing codes."
+      }
+    }
+  ],
+  "description": "Professional bidet installation is recommended for electric models, integrated units, or stand-alone bidets to ensure safety, prevent leaks, and comply with loc"
+}

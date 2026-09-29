@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preparation-do-i-need-to-do-before-gas-line-relocation-work-begins",
+  "name": "What preparation do I need to do before gas line relocation work begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before gas line relocation work begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before gas line relocation work begins, you should clear the area around the existing gas line and where the new line will be installed. This includes moving furniture, appliances, or outdoor obstacles to provide plumbers with clear access. It's also helpful to discuss your exact appliance needs or renovation plans with the plumber beforehand. If the work requires the gas to be temporarily shut off, plan for any necessary adjustments like cooking or heating alternatives for your household members.",
+        "@type": "Answer",
+        "description": "Clear the work area, discuss your renovation plans with the plumber, and plan for potential temporary gas shut-off and its impact on your household."
+      }
+    }
+  ],
+  "description": "Clear the work area, discuss your renovation plans with the plumber, and plan for potential temporary gas shut-off and its impact on your household."
+}

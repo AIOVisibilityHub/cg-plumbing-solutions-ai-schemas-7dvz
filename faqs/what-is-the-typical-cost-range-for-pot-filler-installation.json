@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-cost-range-for-pot-filler-installation",
+  "name": "What is the typical cost range for pot filler installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for pot filler installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of pot filler installation varies significantly based on factors such as the type of faucet chosen, the complexity of running new water lines, and whether any wall modifications (like cutting into tile or drywall) are required. Basic installations where a water line is easily accessible will be less expensive than those requiring extensive plumbing work. We provide detailed, transparent quotes after an on-site assessment to give you an accurate understanding of the total investment.",
+        "@type": "Answer",
+        "description": "Installation cost varies based on faucet type, new water line complexity, and wall modifications; extensive plumbing work increases the price."
+      }
+    }
+  ],
+  "description": "Installation cost varies based on faucet type, new water line complexity, and wall modifications; extensive plumbing work increases the price."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-continuous-feed-and-batch-feed-garbage-disposals",
+  "name": "What's the difference between continuous feed and batch feed garbage disposals?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between continuous feed and batch feed garbage disposals?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Continuous feed disposals operate by turning on a switch and feeding waste while it runs, offering convenience for larger volumes of food. Batch feed disposals require the drain stopper to be inserted and turned to activate, processing food in batches and providing an added safety feature as they won't run without the stopper in place. The decision factor often comes down to convenience versus enhanced safety, as both types are effective.",
+        "@type": "Answer",
+        "description": "Continuous feed runs with a switch and processes waste continuously. Batch feed activates with a stopper for added safety, processing food in portions. Choose based on convenience versus safety preference."
+      }
+    }
+  ],
+  "description": "Continuous feed runs with a switch and processes waste continuously. Batch feed activates with a stopper for added safety, processing food in portions. Choose b"
+}

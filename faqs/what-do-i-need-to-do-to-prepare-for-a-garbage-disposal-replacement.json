@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-do-i-need-to-do-to-prepare-for-a-garbage-disposal-replacement",
+  "name": "What do I need to do to prepare for a garbage disposal replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What do I need to do to prepare for a garbage disposal replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a garbage disposal replacement, you should clear out the cabinet under your sink to provide easy access for the plumber. Remove any items, cleaning supplies, or trash cans. You might also want to have an idea of the type or brand of disposal you prefer, although our technicians can provide recommendations. This preparation helps ensure a smooth and efficient installation process for our team.",
+        "@type": "Answer",
+        "description": "Clear out the cabinet under your sink to allow the plumber easy access. Having a preferred disposal type in mind can also be helpful."
+      }
+    }
+  ],
+  "description": "Clear out the cabinet under your sink to allow the plumber easy access. Having a preferred disposal type in mind can also be helpful."
+}

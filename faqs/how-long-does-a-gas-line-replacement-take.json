@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-gas-line-replacement-take",
+  "name": "How long does a gas line replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a gas line replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gas line replacement varies based on the project's complexity, the length of the line, and the accessibility of existing piping. A minor replacement might take a few hours, while a more extensive project involving multiple appliances or difficult access could take one to two days. CG Plumbing Solutions strives to complete projects efficiently while maintaining high safety standards, minimizing disruption to your home or business in areas like Summerlin or Enterprise.",
+        "@type": "Answer",
+        "description": "The duration of gas line replacement varies from a few hours to a couple of days, depending on project complexity and line length."
+      }
+    }
+  ],
+  "description": "The duration of gas line replacement varies from a few hours to a couple of days, depending on project complexity and line length."
+}

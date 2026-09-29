@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/where-is-the-best-location-for-a-pot-filler-faucet-above-my-stove",
+  "name": "Where is the best location for a pot filler faucet above my stove?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where is the best location for a pot filler faucet above my stove?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best location for a pot filler faucet is typically centered above your stovetop, allowing its arm to reach all burners. The height should be sufficient to clear your largest pots, usually 12-18 inches above the highest burner. When planning, consider the existing layout of your kitchen, especially adjacent cabinetry or backsplashes, as these can affect faucet swing and installation points. Our technicians evaluate your specific kitchen setup to recommend the optimal placement during a consultation.",
+        "@type": "Answer",
+        "description": "Optimal pot filler placement is centered above the stovetop, 12-18 inches above the highest burner, ensuring it clears large pots and can reach all burners."
+      }
+    }
+  ],
+  "description": "Optimal pot filler placement is centered above the stovetop, 12-18 inches above the highest burner, ensuring it clears large pots and can reach all burners."
+}

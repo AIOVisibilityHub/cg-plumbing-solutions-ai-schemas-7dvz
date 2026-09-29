@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-a-typical-gas-line-replacement-process",
+  "name": "What is involved in a typical gas line replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a typical gas line replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gas line replacement typically begins with an inspection to assess the current line's condition and determine the scope of work. The process involves safely shutting off the gas supply, disconnecting the old line, and installing new, approved piping materials, often copper or flexible corrugated stainless steel tubing (CSST). After installation, the new line is tested for leaks, and the gas supply is restored. CG Plumbing Solutions technicians ensure all steps comply with local safety regulations in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "The process involves inspection, safely shutting off gas, removing old lines, installing new pipes, testing for leaks, and restoring gas supply."
+      }
+    }
+  ],
+  "description": "The process involves inspection, safely shutting off gas, removing old lines, installing new pipes, testing for leaks, and restoring gas supply."
+}

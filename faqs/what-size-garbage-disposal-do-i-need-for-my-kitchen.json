@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-size-garbage-disposal-do-i-need-for-my-kitchen",
+  "name": "What size garbage disposal do I need for my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What size garbage disposal do I need for my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The size of garbage disposal you need depends on your household's waste habits and the size of your family. Standard disposals range from 1/3 HP to 1 HP. Smaller households or those with light food waste might manage with 1/2 HP, while larger families or those who dispose of more fibrous foods benefit from 3/4 HP or 1 HP units. A practical tradeoff is balancing motor power with noise level; higher HP models tend to be quieter and more efficient but can be more expensive.",
+        "@type": "Answer",
+        "description": "Choose based on household size and waste habits; 1/2 HP for light use, 3/4 HP or 1 HP for heavier use. Higher HP offers more power and quiet operation."
+      }
+    }
+  ],
+  "description": "Choose based on household size and waste habits; 1/2 HP for light use, 3/4 HP or 1 HP for heavier use. Higher HP offers more power and quiet operation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-before-a-plumber-arrives-to-fix-my-garbage-disposal",
+  "name": "What should I do before a plumber arrives to fix my garbage disposal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before a plumber arrives to fix my garbage disposal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber arrives to fix your garbage disposal, it's helpful to clear the area under your sink, removing any cleaning supplies, trash cans, or other items that might obstruct access to the disposal and plumbing. If possible, unplug the unit or turn off the power to the disposal at your circuit breaker for safety. Also, be prepared to describe the symptoms you've observed, such as specific noises, when the problem started, and any attempts you've made to fix it. This preparation helps our technicians quickly diagnose the issue and begin the repair process efficiently, saving you time and potentially reducing labor costs.",
+        "@type": "Answer",
+        "description": "Before a plumber arrives, clear the area under the sink, turn off power to the disposal, and be ready to describe the symptoms to help expedite the repair."
+      }
+    }
+  ],
+  "description": "Before a plumber arrives, clear the area under the sink, turn off power to the disposal, and be ready to describe the symptoms to help expedite the repair."
+}

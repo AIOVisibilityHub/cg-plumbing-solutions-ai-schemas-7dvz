@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-should-i-consider-when-choosing-a-new-garbage-disposal",
+  "name": "What factors should I consider when choosing a new garbage disposal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a new garbage disposal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a new garbage disposal, consider its horsepower, noise level, and grinding chamber capacity. Higher horsepower (e.g., 3/4 HP or 1 HP) is better for handling tougher food waste and can prevent clogs. Continuous feed models are convenient for larger quantities, while batch feed models offer added safety. CG Plumbing Solutions can help assess your household's needs, such as the typical volume and type of food waste, to recommend a suitable model for your home in areas like Las Vegas or Henderson.",
+        "@type": "Answer",
+        "description": "Consider horsepower, noise level, and grinding capacity. Higher HP handles tough waste better. CG Plumbing Solutions helps assess needs for areas like Las Vegas."
+      }
+    }
+  ],
+  "description": "Consider horsepower, noise level, and grinding capacity. Higher HP handles tough waste better. CG Plumbing Solutions helps assess needs for areas like Las Vegas"
+}

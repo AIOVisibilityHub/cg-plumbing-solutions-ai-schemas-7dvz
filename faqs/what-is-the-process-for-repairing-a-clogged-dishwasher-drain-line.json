@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-repairing-a-clogged-dishwasher-drain-line",
+  "name": "What is the process for repairing a clogged dishwasher drain line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a clogged dishwasher drain line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with a diagnosis to identify the clog's location and severity. This might involve checking the air gap, garbage disposal connection, and the drain hose itself. For simple clogs, a plumber might use a snake or specialized tools to clear the obstruction. If the drain line is damaged or severely corroded, replacement may be necessary. After clearing or replacing, we always test the dishwasher to ensure proper drainage and check for leaks, ensuring the repair is effective and complete. This thorough process clarifies what to expect.",
+        "@type": "Answer",
+        "description": "The repair process involves diagnosis, clearing the clog with tools or replacing the line if damaged, followed by testing for proper drainage."
+      }
+    }
+  ],
+  "description": "The repair process involves diagnosis, clearing the clog with tools or replacing the line if damaged, followed by testing for proper drainage."
+}

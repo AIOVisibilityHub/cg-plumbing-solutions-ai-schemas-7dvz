@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-does-a-gas-leak-inspection-involve",
+  "name": "What does a gas leak inspection involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a gas leak inspection involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gas leak inspection typically involves a licensed plumber using specialized equipment, such as electronic gas detectors, to pinpoint the source of a suspected leak. They will check all visible gas lines, connections, and appliances. The process includes verifying gas pressure and integrity. CG Plumbing Solutions technicians are trained to identify not only the leak but also potential contributing factors to prevent future issues, providing a thorough assessment of your gas system.",
+        "@type": "Answer",
+        "description": "A gas leak inspection involves a plumber using specialized detectors to find the leak source, checking gas lines and appliances, and verifying pressure and integrity."
+      }
+    }
+  ],
+  "description": "A gas leak inspection involves a plumber using specialized detectors to find the leak source, checking gas lines and appliances, and verifying pressure and inte"
+}

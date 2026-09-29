@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-to-prepare-my-kitchen-for-a-faucet-installation",
+  "name": "What should I do to prepare my kitchen for a faucet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my kitchen for a faucet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a kitchen faucet installation, clear out everything from under your sink to provide clear access for the plumber. Remove any items from the countertop around the sink area to prevent damage and allow space for tools. If you are supplying the new faucet, ensure it's unboxed and readily available. Having a clear workspace allows our technicians to work efficiently and safely, speeding up the installation process.",
+        "@type": "Answer",
+        "description": "Clear out under your sink and remove items from the countertop around the sink area. If you're supplying the faucet, have it unboxed and ready."
+      }
+    }
+  ],
+  "description": "Clear out under your sink and remove items from the countertop around the sink area. If you're supplying the faucet, have it unboxed and ready."
+}

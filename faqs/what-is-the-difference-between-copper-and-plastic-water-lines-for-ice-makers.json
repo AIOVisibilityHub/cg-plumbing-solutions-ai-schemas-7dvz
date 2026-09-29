@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-copper-and-plastic-water-lines-for-ice-makers",
+  "name": "What is the difference between copper and plastic water lines for ice makers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between copper and plastic water lines for ice makers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Copper water lines are generally more durable and less prone to kinking or damage from pests, offering a longer lifespan. Plastic lines, often PEX or braided stainless steel, are more flexible, easier to install, and less susceptible to corrosion. When considering a replacement, the choice often comes down to budget and specific installation needs. Our plumbers often recommend braided stainless steel lines for their durability and flexibility in modern installations, balancing cost with reliability for Las Vegas homes.",
+        "@type": "Answer",
+        "description": "Copper lines are durable but rigid, while plastic (like PEX or braided stainless steel) are flexible and easier to install. Braided stainless steel is a common recommendation for durability and flexibility."
+      }
+    }
+  ],
+  "description": "Copper lines are durable but rigid, while plastic (like PEX or braided stainless steel) are flexible and easier to install. Braided stainless steel is a common"
+}

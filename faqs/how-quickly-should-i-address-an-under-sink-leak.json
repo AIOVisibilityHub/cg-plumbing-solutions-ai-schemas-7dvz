@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-quickly-should-i-address-an-under-sink-leak",
+  "name": "How quickly should I address an under-sink leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address an under-sink leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should address an under-sink leak as soon as you discover it. Even small, slow leaks can lead to significant problems over time, including mold growth, wood rot in your cabinets and flooring, and structural damage. The longer a leak persists, the more extensive and costly the damage becomes. Prompt action can limit water damage, prevent health hazards from mold, and save you from more complex and expensive repairs later. Our team can typically schedule service quickly in our service areas, including Henderson and Summerlin, to mitigate damage promptly.",
+        "@type": "Answer",
+        "description": "Address any leak immediately to prevent mold growth, wood rot, structural damage, and more expensive repairs."
+      }
+    }
+  ],
+  "description": "Address any leak immediately to prevent mold growth, wood rot, structural damage, and more expensive repairs."
+}

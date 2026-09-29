@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-garbage-disposal-repair-take",
+  "name": "How long does a typical garbage disposal repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical garbage disposal repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical garbage disposal repair usually takes between 30 minutes to 2 hours, depending on the complexity of the problem. Simple issues like clearing a jam or resetting the unit can be resolved quickly. More involved repairs, such as replacing internal components, addressing significant leaks, or troubleshooting electrical problems, will naturally take longer. When scheduling, provide as much detail as possible about the symptoms you're experiencing; this can help our technicians come prepared with the right tools and potential parts, potentially speeding up the repair process and ensuring a single visit resolution.",
+        "@type": "Answer",
+        "description": "Most garbage disposal repairs take 30 minutes to 2 hours, varying with complexity. Providing detailed symptoms upfront helps expedite the process."
+      }
+    }
+  ],
+  "description": "Most garbage disposal repairs take 30 minutes to 2 hours, varying with complexity. Providing detailed symptoms upfront helps expedite the process."
+}

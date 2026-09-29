@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-install-gas-lines-myself-to-save-money",
+  "name": "Can I install gas lines myself to save money?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install gas lines myself to save money?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, attempting to install gas lines yourself is strongly discouraged and can be extremely dangerous. Gas line installation requires specialized knowledge, tools, and strict adherence to safety codes and regulations that vary by jurisdiction. Improper installation can lead to hazardous gas leaks, carbon monoxide poisoning, explosions, and severe property damage. Furthermore, most local building departments, including those in the Las Vegas area, require gas line work to be performed by licensed and certified professionals. Prioritizing safety by hiring a professional prevents catastrophic risks and ensures compliance.",
+        "@type": "Answer",
+        "description": "No, self-installation of gas lines is dangerous and illegal; it requires licensed professionals due to safety risks and strict local codes."
+      }
+    }
+  ],
+  "description": "No, self-installation of gas lines is dangerous and illegal; it requires licensed professionals due to safety risks and strict local codes."
+}

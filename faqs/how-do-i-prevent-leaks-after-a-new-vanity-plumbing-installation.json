@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-prevent-leaks-after-a-new-vanity-plumbing-installation",
+  "name": "How do I prevent leaks after a new vanity plumbing installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prevent leaks after a new vanity plumbing installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent leaks after a new vanity plumbing installation, ensure all connections—faucet, supply lines, and drain assembly—are properly tightened and sealed. Check for any drips immediately after the water supply is turned back on. Pay close attention to the P-trap connection, which is a common spot for leaks if not correctly aligned or sealed. Regular visual inspections under the sink, especially in the weeks following installation, can help detect small drips before they become significant issues. Our professional installation includes thorough testing to minimize leak risks.",
+        "@type": "Answer",
+        "description": "Ensure all connections are tightened and sealed, check for drips immediately after turning on water, and perform regular visual inspections under the sink."
+      }
+    }
+  ],
+  "description": "Ensure all connections are tightened and sealed, check for drips immediately after turning on water, and perform regular visual inspections under the sink."
+}

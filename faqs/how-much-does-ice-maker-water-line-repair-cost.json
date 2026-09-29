@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-ice-maker-water-line-repair-cost",
+  "name": "How much does ice maker water line repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does ice maker water line repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of ice maker water line repair varies depending on the specific issue, the type of line (e.g., copper, plastic, braided), and the extent of the damage. A simple repair like tightening a connection will be less expensive than replacing an entire line or addressing significant water damage. We provide transparent, upfront estimates after diagnosing the problem, so you understand the full cost before any work begins, ensuring no hidden fees.",
+        "@type": "Answer",
+        "description": "Cost varies based on the issue's complexity, line type, and damage extent. We provide upfront estimates after diagnosis."
+      }
+    }
+  ],
+  "description": "Cost varies based on the issue's complexity, line type, and damage extent. We provide upfront estimates after diagnosis."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-gas-line-pressure-test-and-a-routine-gas-applian",
+  "name": "What's the difference between a gas line pressure test and a routine gas appliance inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a gas line pressure test and a routine gas appliance inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gas line pressure test specifically assesses the integrity of the gas piping system itself, checking for leaks within the pipes and connections. It isolates the entire line from the gas meter to the appliances. A routine gas appliance inspection, however, focuses on the safe operation and maintenance of individual gas-burning appliances like furnaces, water heaters, and stoves. While both are important for safety, the pressure test targets the distribution system, while the inspection focuses on the end-use points. You may need both for comprehensive gas safety.",
+        "@type": "Answer",
+        "description": "A gas line pressure test checks for leaks in the gas piping system, while an appliance inspection focuses on the safe operation of individual gas appliances."
+      }
+    }
+  ],
+  "description": "A gas line pressure test checks for leaks in the gas piping system, while an appliance inspection focuses on the safe operation of individual gas appliances."
+}

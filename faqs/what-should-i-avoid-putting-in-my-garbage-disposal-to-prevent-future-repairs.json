@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-avoid-putting-in-my-garbage-disposal-to-prevent-future-repairs",
+  "name": "What should I avoid putting in my garbage disposal to prevent future repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I avoid putting in my garbage disposal to prevent future repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future repairs, avoid putting fibrous foods like celery stalks, onion skins, and corn husks into your garbage disposal, as they can tangle around the impellers. Also, never dispose of coffee grounds, pasta, rice, or potato peels, as these expand with water and can create clogs. Grease, fats, and oils should always be avoided as they solidify in pipes and cause blockages. Hard items like bones, fruit pits, and non-food items can damage the grinding components. Proper usage, including running cold water while operating the disposal and for a few seconds afterward, helps flush the system and reduces wear.",
+        "@type": "Answer",
+        "description": "Avoid fibrous foods, expanding starches, grease, and hard items like bones to prevent future garbage disposal repairs. Always run cold water during and after use."
+      }
+    }
+  ],
+  "description": "Avoid fibrous foods, expanding starches, grease, and hard items like bones to prevent future garbage disposal repairs. Always run cold water during and after us"
+}

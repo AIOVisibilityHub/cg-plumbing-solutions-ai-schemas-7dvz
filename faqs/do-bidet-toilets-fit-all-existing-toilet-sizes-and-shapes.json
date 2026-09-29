@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-bidet-toilets-fit-all-existing-toilet-sizes-and-shapes",
+  "name": "Do bidet toilets fit all existing toilet sizes and shapes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do bidet toilets fit all existing toilet sizes and shapes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bidet toilet seats come in various sizes and shapes, primarily elongated and round, to fit most standard toilet bowls. However, some toilets, particularly those with unique designs or concealed trapways, may not be compatible with all bidet seats. Full bidet toilets are standalone units and do not rely on existing toilet dimensions. Before purchasing, it's crucial to measure your toilet bowl accurately (from bolt holes to the front rim, and the distance between bolt holes) to ensure compatibility. CG Plumbing Solutions can advise on measurements during an initial consultation.",
+        "@type": "Answer",
+        "description": "Bidet seats must match your toilet's shape and size (elongated/round). Full bidet toilets are standalone. Measure your toilet before purchasing."
+      }
+    }
+  ],
+  "description": "Bidet seats must match your toilet's shape and size (elongated/round). Full bidet toilets are standalone. Measure your toilet before purchasing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-there-any-permits-required-for-bidet-installation-in-las-vegas",
+  "name": "Are there any permits required for bidet installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any permits required for bidet installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most standard bidet seat or attachment installations that utilize existing plumbing and do not require significant electrical or structural modifications, a specific permit is typically not required in the Las Vegas area. However, if the installation involves extensive new plumbing lines, relocating existing fixtures, or significant electrical work beyond simply plugging into an existing GFCI outlet, then a permit may be necessary. Our plumbers are knowledgeable about local building codes and can advise if your specific installation project requires one, ensuring compliance with all regulations.",
+        "@type": "Answer",
+        "description": "Most simple bidet installations in Las Vegas do not require permits, but extensive new plumbing or electrical work may, and our plumbers can advise on local code compliance."
+      }
+    }
+  ],
+  "description": "Most simple bidet installations in Las Vegas do not require permits, but extensive new plumbing or electrical work may, and our plumbers can advise on local cod"
+}

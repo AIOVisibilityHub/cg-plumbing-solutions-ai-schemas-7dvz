@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-i-need-a-new-refrigerator-water-line-or-repair",
+  "name": "What are the signs I need a new refrigerator water line or repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs I need a new refrigerator water line or repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that you might need a new refrigerator water line or repair include visible leaks around the refrigerator or along the water line, reduced water flow to the dispenser, strange noises from the water line, or your ice maker producing less ice than usual. Additionally, if your existing line is old, kinked, or made of plastic tubing that has become brittle, it's a good idea to have it inspected. Addressing these issues promptly can prevent significant water damage.",
+        "@type": "Answer",
+        "description": "Signs you need a new or repaired water line include visible leaks, reduced water flow, strange noises, or decreased ice production. Old or brittle lines also warrant inspection."
+      }
+    }
+  ],
+  "description": "Signs you need a new or repaired water line include visible leaks, reduced water flow, strange noises, or decreased ice production. Old or brittle lines also wa"
+}

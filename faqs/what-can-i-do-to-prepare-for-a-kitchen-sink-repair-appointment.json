@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-can-i-do-to-prepare-for-a-kitchen-sink-repair-appointment",
+  "name": "What can I do to prepare for a kitchen sink repair appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can I do to prepare for a kitchen sink repair appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a kitchen sink repair appointment, please clear out the cabinet under your sink to allow our plumbers easy access to the plumbing. Remove any items, cleaners, or trash cans. If possible, ensure the area around the sink is also accessible. This preparation step helps our technicians efficiently diagnose and fix the issue without delays, ensuring a smoother and quicker service call. This preparation reduces setup time for our team.",
+        "@type": "Answer",
+        "description": "Clear out the cabinet under and around your kitchen sink to provide plumbers easy access for efficient repair service."
+      }
+    }
+  ],
+  "description": "Clear out the cabinet under and around your kitchen sink to provide plumbers easy access for efficient repair service."
+}

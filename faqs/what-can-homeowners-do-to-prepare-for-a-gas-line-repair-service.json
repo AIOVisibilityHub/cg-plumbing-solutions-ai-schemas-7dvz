@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-can-homeowners-do-to-prepare-for-a-gas-line-repair-service",
+  "name": "What can homeowners do to prepare for a gas line repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can homeowners do to prepare for a gas line repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a gas line repair service, ensure clear and unobstructed access to your gas meter and any known gas lines, especially in utility closets, basements, or areas where appliances are located. Clear personal belongings from around the work area to provide ample space for technicians and their tools. If you have pets, secure them in a separate room or outside for their safety and to prevent interference. Being prepared can significantly streamline the repair process, allowing our technicians to work efficiently and safely without delays.",
+        "@type": "Answer",
+        "description": "Prepare by ensuring clear access to your gas meter and gas lines, clearing the work area of personal items, and securing pets. This streamlines the repair process for technicians."
+      }
+    }
+  ],
+  "description": "Prepare by ensuring clear access to your gas meter and gas lines, clearing the work area of personal items, and securing pets. This streamlines the repair proce"
+}

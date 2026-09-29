@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-installing-or-replacing-a-gas-line-shutoff-valve",
+  "name": "When should I consider installing or replacing a gas line shutoff valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider installing or replacing a gas line shutoff valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider installing a new gas shutoff valve whenever you add a new gas appliance, relocate an existing one, or if your current valve is old, damaged, or difficult to operate. Replacing a valve is also crucial if it shows signs of corrosion, leakage, or if you are upgrading to newer, more efficient gas appliances. As part of our service, CG Plumbing Solutions can assess your current gas lines and valves to recommend necessary upgrades or new installations for optimal safety and compliance.",
+        "@type": "Answer",
+        "description": "Consider installing or replacing a gas shutoff valve when adding a new appliance, relocating one, or if your current valve is old, damaged, or leaking."
+      }
+    }
+  ],
+  "description": "Consider installing or replacing a gas shutoff valve when adding a new appliance, relocating one, or if your current valve is old, damaged, or leaking."
+}

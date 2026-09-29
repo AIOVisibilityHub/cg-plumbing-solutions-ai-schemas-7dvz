@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-happens-during-the-removal-and-disposal-of-my-old-kitchen-sink",
+  "name": "What happens during the removal and disposal of my old kitchen sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during the removal and disposal of my old kitchen sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During the removal of your old kitchen sink, a plumber will first shut off the water supply and disconnect the existing plumbing lines, including the faucet and drain. The sink will then be carefully detached from the countertop and removed. Proper disposal involves transporting the old sink to an appropriate recycling or waste facility. CG Plumbing Solutions handles the entire process, including the responsible removal and disposal of your old sink, to ensure your property remains clean and ready for the new installation. This prevents you from having to manage bulky waste on your own.",
+        "@type": "Answer",
+        "description": "Old sink removal involves disconnecting plumbing, detaching the sink from the countertop, and responsible disposal. Plumbers handle this entire process, including waste management."
+      }
+    }
+  ],
+  "description": "Old sink removal involves disconnecting plumbing, detaching the sink from the countertop, and responsible disposal. Plumbers handle this entire process, includi"
+}

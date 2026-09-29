@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-new-vanity-plumbing",
+  "name": "How long does it take to install new vanity plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install new vanity plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for new vanity plumbing installation typically ranges from 2 to 4 hours for a straightforward replacement. However, if the existing plumbing needs significant rerouting, new lines need to be run, or structural modifications are necessary within the wall, the process can take longer. Factors like access to existing pipes and the type of faucet being installed also influence the duration. Our team in Las Vegas can provide a more accurate estimate after a site assessment.",
+        "@type": "Answer",
+        "description": "Standard vanity plumbing installation takes 2-4 hours, but can be longer if significant rerouting or modifications are needed."
+      }
+    }
+  ],
+  "description": "Standard vanity plumbing installation takes 2-4 hours, but can be longer if significant rerouting or modifications are needed."
+}

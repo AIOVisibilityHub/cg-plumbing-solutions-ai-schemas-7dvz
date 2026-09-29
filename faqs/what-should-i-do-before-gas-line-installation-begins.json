@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-before-gas-line-installation-begins",
+  "name": "What should I do before gas line installation begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before gas line installation begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before gas line installation begins, several preparations can help streamline the process. Clear the access areas where the technicians will be working, both inside and outside your home, ensuring pathways are unobstructed. Discuss the placement of new appliances and desired line routes with your plumber beforehand to avoid last-minute changes. If trenches are needed, ensure the area is accessible and marked for any underground utilities. Having a clear understanding of the project scope and discussing any specific concerns with the installer will ensure a smooth process.",
+        "@type": "Answer",
+        "description": "Before installation, clear work areas, confirm appliance placement and line routes, and address any concerns with the installer."
+      }
+    }
+  ],
+  "description": "Before installation, clear work areas, confirm appliance placement and line routes, and address any concerns with the installer."
+}

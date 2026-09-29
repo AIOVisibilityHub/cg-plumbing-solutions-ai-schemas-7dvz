@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-garbage-disposal-needs-repair",
+  "name": "What are common signs that my garbage disposal needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my garbage disposal needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your garbage disposal needs repair include unusual noises like humming or grinding, foul odors that persist even after cleaning, leaks from the unit, or a complete failure to turn on. If your disposal frequently jams, struggles to grind food, or drains slowly, it's also a strong indicator that professional attention is needed. Often, a humming sound without grinding indicates a jammed flywheel, which can sometimes be cleared by the homeowner, but persistent issues require a plumber to diagnose the underlying mechanical or electrical problem.",
+        "@type": "Answer",
+        "description": "Unusual noises, leaks, foul odors, or a failure to turn on are common signs your garbage disposal needs repair. A humming sound might indicate a jam."
+      }
+    }
+  ],
+  "description": "Unusual noises, leaks, foul odors, or a failure to turn on are common signs your garbage disposal needs repair. A humming sound might indicate a jam."
+}

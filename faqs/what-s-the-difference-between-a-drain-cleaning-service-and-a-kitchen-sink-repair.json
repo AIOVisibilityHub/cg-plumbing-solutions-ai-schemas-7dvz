@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-drain-cleaning-service-and-a-kitchen-sink-repair",
+  "name": "What's the difference between a drain cleaning service and a kitchen sink repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a drain cleaning service and a kitchen sink repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drain cleaning primarily focuses on removing blockages to restore proper water flow, often addressing issues like slow drains or clogs. Kitchen sink repair, on the other hand, is a broader service that can encompass fixing leaks, repairing or replacing faucets, garbage disposals, P-traps, or addressing pipe damage related to the sink. A practical tradeoff is understanding that while a clog might need a drain cleaning, a persistent leak or a broken component requires a more comprehensive repair to fix the underlying hardware issue.",
+        "@type": "Answer",
+        "description": "Drain cleaning removes clogs, while kitchen sink repair addresses broader issues like leaks, faulty faucets, or damaged components."
+      }
+    }
+  ],
+  "description": "Drain cleaning removes clogs, while kitchen sink repair addresses broader issues like leaks, faulty faucets, or damaged components."
+}

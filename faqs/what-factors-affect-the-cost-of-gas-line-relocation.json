@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-affect-the-cost-of-gas-line-relocation",
+  "name": "What factors affect the cost of gas line relocation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of gas line relocation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of gas line relocation varies significantly based on several factors, including the length of the new gas line needed, whether it's an interior or exterior relocation, the complexity of accessing the existing pipes, and the need for permits and inspections. For example, relocating an exterior line underground for a new outdoor kitchen might involve excavation and different materials than rerouting an interior line for a new dryer, influencing the overall project cost.",
+        "@type": "Answer",
+        "description": "Cost factors include line length, interior vs. exterior work, access complexity, and permit requirements."
+      }
+    }
+  ],
+  "description": "Cost factors include line length, interior vs. exterior work, access complexity, and permit requirements."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-water-filter-systems-can-be-installed-with-a-dedicated-faucet",
+  "name": "What types of water filter systems can be installed with a dedicated faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of water filter systems can be installed with a dedicated faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Dedicated water filter faucets are compatible with various under-sink filtration systems, including reverse osmosis (RO) systems, activated carbon filters, and sediment filters. The type of filter chosen often depends on the specific contaminants you want to remove from your water. CG Plumbing Solutions can help you assess your water quality and recommend a system that addresses your specific concerns, such as chlorine taste or sediment.",
+        "@type": "Answer",
+        "description": "Dedicated faucets work with under-sink systems like reverse osmosis, activated carbon, and sediment filters, chosen based on desired contaminant removal."
+      }
+    }
+  ],
+  "description": "Dedicated faucets work with under-sink systems like reverse osmosis, activated carbon, and sediment filters, chosen based on desired contaminant removal."
+}

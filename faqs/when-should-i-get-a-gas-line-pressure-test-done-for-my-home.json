@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-get-a-gas-line-pressure-test-done-for-my-home",
+  "name": "When should I get a gas line pressure test done for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a gas line pressure test done for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a gas line pressure test done if you suspect a leak, such as smelling gas, or if your gas bill is unusually high. It's also required after any significant gas line repairs, modifications, or new appliance installations to ensure the new connections are sealed correctly. In Las Vegas, local regulations often require pressure testing as part of the permitting process for new construction or major renovations involving gas lines. This ensures compliance and safety before the gas meter is set or turned on.",
+        "@type": "Answer",
+        "description": "Schedule a gas line pressure test if you suspect a leak, have unusually high gas bills, or after gas line repairs or new appliance installations."
+      }
+    }
+  ],
+  "description": "Schedule a gas line pressure test if you suspect a leak, have unusually high gas bills, or after gas line repairs or new appliance installations."
+}

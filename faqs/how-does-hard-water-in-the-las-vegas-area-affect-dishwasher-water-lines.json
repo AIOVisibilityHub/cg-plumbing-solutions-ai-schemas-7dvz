@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-does-hard-water-in-the-las-vegas-area-affect-dishwasher-water-lines",
+  "name": "How does hard water in the Las Vegas area affect dishwasher water lines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does hard water in the Las Vegas area affect dishwasher water lines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The hard water prevalent in the Las Vegas area can impact dishwasher water lines over time by leading to mineral buildup (scale) inside the pipes and at connection points. This buildup can reduce water flow, potentially affecting dishwasher performance, and in severe cases, contribute to corrosion or blockages. Regular maintenance or the installation of appropriate water treatment solutions can mitigate these effects. Our plumbing experts can assess your water quality and recommend suitable measures to protect your new water line.",
+        "@type": "Answer",
+        "description": "Hard water in Las Vegas can cause mineral buildup in dishwasher lines, reducing flow and potentially leading to corrosion; water treatment can mitigate this."
+      }
+    }
+  ],
+  "description": "Hard water in Las Vegas can cause mineral buildup in dishwasher lines, reducing flow and potentially leading to corrosion; water treatment can mitigate this."
+}

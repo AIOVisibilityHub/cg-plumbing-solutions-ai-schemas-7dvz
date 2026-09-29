@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-maintenance-do-gas-line-shutoff-valves-require",
+  "name": "What kind of maintenance do gas line shutoff valves require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance do gas line shutoff valves require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas line shutoff valves generally require minimal maintenance, but it's important to periodically check them for signs of corrosion, leaks, or difficulty turning. During routine plumbing inspections, CG Plumbing Solutions can examine your valves to ensure they are in good working order and easily accessible. Keeping the area around the valve clear of obstructions is a simple step you can take. If a valve is stiff or appears damaged, it should be serviced or replaced by a professional promptly.",
+        "@type": "Answer",
+        "description": "Gas line shutoff valves require minimal maintenance, primarily periodic checks for corrosion, leaks, or operational difficulty during plumbing inspections."
+      }
+    }
+  ],
+  "description": "Gas line shutoff valves require minimal maintenance, primarily periodic checks for corrosion, leaks, or operational difficulty during plumbing inspections."
+}

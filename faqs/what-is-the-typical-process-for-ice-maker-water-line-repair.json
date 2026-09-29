@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-ice-maker-water-line-repair",
+  "name": "What is the typical process for ice maker water line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for ice maker water line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with a diagnostic assessment to identify the exact source of the leak or malfunction. Once identified, our plumbers will shut off the water supply, drain any remaining water, and then proceed with the necessary repair, which might involve replacing a section of tubing, tightening connections, or installing a new shut-off valve. After the repair, we always test the line thoroughly for leaks and proper ice maker function, ensuring everything is sealed and working correctly before concluding the service.",
+        "@type": "Answer",
+        "description": "The process involves diagnosis, shutting off water, repairing or replacing components, and then thoroughly testing the line for leaks and function."
+      }
+    }
+  ],
+  "description": "The process involves diagnosis, shutting off water, repairing or replacing components, and then thoroughly testing the line for leaks and function."
+}

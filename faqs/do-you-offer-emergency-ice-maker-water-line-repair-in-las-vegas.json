@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-you-offer-emergency-ice-maker-water-line-repair-in-las-vegas",
+  "name": "Do you offer emergency ice maker water line repair in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency ice maker water line repair in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CG Plumbing Solutions understands that water line issues can arise unexpectedly and cause significant inconvenience or damage. We provide emergency plumbing services for urgent ice maker water line repairs across our service areas, including Las Vegas, North Las Vegas, Henderson, and Summerlin. We prioritize quick response times for emergency calls to minimize water damage and restore functionality promptly. Contact us directly for immediate assistance.",
+        "@type": "Answer",
+        "description": "Yes, we offer emergency ice maker water line repair in Las Vegas, North Las Vegas, Henderson, and Summerlin to address urgent issues quickly."
+      }
+    }
+  ],
+  "description": "Yes, we offer emergency ice maker water line repair in Las Vegas, North Las Vegas, Henderson, and Summerlin to address urgent issues quickly."
+}

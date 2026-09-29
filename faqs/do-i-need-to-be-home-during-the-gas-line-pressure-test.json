@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-be-home-during-the-gas-line-pressure-test",
+  "name": "Do I need to be home during the gas line pressure test?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the gas line pressure test?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly mandatory for you to be present for the entire duration of the gas line pressure test, it is highly recommended to be available at the beginning for access and at the end for a debrief. This allows our technicians to understand any specific concerns you have, explain the findings, and discuss any necessary next steps or repair options. Being available to grant access to appliances and gas connections also streamlines the process, helping us complete the test efficiently.",
+        "@type": "Answer",
+        "description": "While not strictly mandatory, it's highly recommended to be home at the start and end of a gas line pressure test to discuss findings and access."
+      }
+    }
+  ],
+  "description": "While not strictly mandatory, it's highly recommended to be home at the start and end of a gas line pressure test to discuss findings and access."
+}

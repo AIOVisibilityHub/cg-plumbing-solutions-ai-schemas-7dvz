@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-quickly-should-i-act-if-i-suspect-a-gas-leak",
+  "name": "How quickly should I act if I suspect a gas leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I act if I suspect a gas leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you suspect a gas leak, immediate action is crucial for safety. Natural gas is highly flammable and can pose serious health risks. Evacuate all occupants from the building, and from a safe distance, immediately call your gas utility company's emergency line and then CG Plumbing Solutions. Do not use electrical devices, light switches, or anything that could create a spark before leaving the property, as this could ignite accumulated gas.",
+        "@type": "Answer",
+        "description": "Act immediately if you suspect a gas leak. Evacuate the property, and from a safe distance, call your gas utility and a plumber like CG Plumbing Solutions."
+      }
+    }
+  ],
+  "description": "Act immediately if you suspect a gas leak. Evacuate the property, and from a safe distance, call your gas utility and a plumber like CG Plumbing Solutions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-replace-my-sink-when-replacing-the-garbage-disposal",
+  "name": "Do I need to replace my sink when replacing the garbage disposal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my sink when replacing the garbage disposal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, you typically do not need to replace your sink when replacing a garbage disposal. Most disposals are designed to fit standard sink drain openings. However, if your existing sink flange is damaged or heavily corroded, it might be recommended to replace just the flange portion that connects to the disposal, not the entire sink. This maintains the structural integrity and prevents leaks.",
+        "@type": "Answer",
+        "description": "No, you usually don't need a new sink. Disposals fit standard drains. Only if the sink flange is damaged might it need replacement."
+      }
+    }
+  ],
+  "description": "No, you usually don't need a new sink. Disposals fit standard drains. Only if the sink flange is damaged might it need replacement."
+}

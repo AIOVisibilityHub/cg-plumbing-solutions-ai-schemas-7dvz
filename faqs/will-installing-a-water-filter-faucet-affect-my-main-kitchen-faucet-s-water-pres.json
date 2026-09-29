@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-installing-a-water-filter-faucet-affect-my-main-kitchen-faucet-s-water-pres",
+  "name": "Will installing a water filter faucet affect my main kitchen faucet's water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will installing a water filter faucet affect my main kitchen faucet's water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A properly installed water filter faucet typically will not significantly affect the water pressure of your main kitchen faucet. The filtered water line is usually a separate, smaller line designed for drinking and cooking water, drawing from your cold water supply before it reaches your main faucet. CG Plumbing Solutions ensures that new installations are integrated smoothly to maintain optimal pressure for both faucets.",
+        "@type": "Answer",
+        "description": "No, a properly installed water filter faucet usually won't affect your main kitchen faucet's water pressure as it uses a separate, smaller line."
+      }
+    }
+  ],
+  "description": "No, a properly installed water filter faucet usually won't affect your main kitchen faucet's water pressure as it uses a separate, smaller line."
+}

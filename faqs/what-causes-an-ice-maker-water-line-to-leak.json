@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-an-ice-maker-water-line-to-leak",
+  "name": "What causes an ice maker water line to leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes an ice maker water line to leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ice maker water line leaks are often caused by loose connections, cracked tubing, or corrosion at the connection points to the water supply or refrigerator. Freezing within the line can also cause it to burst if proper expansion isn't accommodated. During our inspection, we prioritize checking common stress points like the saddle valve connection or flexible copper/plastic lines for signs of wear and tear, as these are frequent culprits for leaks in Las Vegas homes.",
+        "@type": "Answer",
+        "description": "Leaks are commonly caused by loose connections, cracked tubing, corrosion, or freezing within the line."
+      }
+    }
+  ],
+  "description": "Leaks are commonly caused by loose connections, cracked tubing, corrosion, or freezing within the line."
+}

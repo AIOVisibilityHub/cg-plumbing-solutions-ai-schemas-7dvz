@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-an-emergency-gas-leak-service-and-a-routine-inspe",
+  "name": "What is the difference between an emergency gas leak service and a routine inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an emergency gas leak service and a routine inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An emergency gas leak service addresses an active, suspected leak where immediate action is required due to safety concerns. This typically involves rapid response to contain the hazard. A routine inspection, on the other hand, is a proactive measure performed without an immediate emergency, aimed at identifying potential issues before they escalate. CG Plumbing Solutions provides both services across our service areas including Las Vegas, North Las Vegas, and Henderson. If you smell gas, always treat it as an emergency and call immediately, rather than scheduling a routine check.",
+        "@type": "Answer",
+        "description": "Emergency gas leak service is for active, suspected leaks requiring immediate action due to safety. Routine inspections are proactive checks to prevent future issues. If you smell gas, it's an emergency."
+      }
+    }
+  ],
+  "description": "Emergency gas leak service is for active, suspected leaks requiring immediate action due to safety. Routine inspections are proactive checks to prevent future i"
+}

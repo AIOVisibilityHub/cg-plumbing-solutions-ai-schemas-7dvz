@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-consider-before-hiring-a-company-for-gas-line-shutoff-valve-instal",
+  "name": "What should I consider before hiring a company for gas line shutoff valve installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before hiring a company for gas line shutoff valve installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before hiring, verify that the company is licensed, insured, and has specific experience with gas line work. Check for positive customer reviews and inquire about their warranty for labor and parts. It's also wise to get a detailed, written estimate that outlines all costs. With CG Plumbing Solutions, you can expect licensed professionals, clear communication, and adherence to safety standards for your gas line shutoff valve installation, ensuring peace of mind for residents in our service areas like Paradise or Summerlin.",
+        "@type": "Answer",
+        "description": "Before hiring, verify the company is licensed, insured, experienced in gas line work, and provides a detailed estimate and warranty."
+      }
+    }
+  ],
+  "description": "Before hiring, verify the company is licensed, insured, experienced in gas line work, and provides a detailed estimate and warranty."
+}

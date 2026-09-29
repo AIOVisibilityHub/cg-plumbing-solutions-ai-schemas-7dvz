@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-a-water-filter-faucet-be-installed-on-any-kitchen-sink",
+  "name": "Can a water filter faucet be installed on any kitchen sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a water filter faucet be installed on any kitchen sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most kitchen sinks can accommodate a water filter faucet, provided there is an available hole in the sink or countertop, or space to drill one. Modern sinks often have extra knockout holes, or a new hole can be drilled in suitable countertop materials like laminate or solid surface. CG Plumbing Solutions can assess your specific sink and countertop during a service call to confirm feasibility and discuss the best placement options.",
+        "@type": "Answer",
+        "description": "Most kitchen sinks can accommodate a filter faucet if there's an existing hole or space to drill one in the sink or countertop."
+      }
+    }
+  ],
+  "description": "Most kitchen sinks can accommodate a filter faucet if there's an existing hole or space to drill one in the sink or countertop."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-flexible-and-rigid-gas-lines",
+  "name": "What is the difference between flexible and rigid gas lines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between flexible and rigid gas lines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flexible and rigid gas lines each have distinct applications in installation. Rigid lines, typically made of black iron pipe or copper tubing, are durable, offer superior protection against physical damage, and are often used for main runs and exposed areas. Flexible connectors, usually corrugated stainless steel (CSST), are easier to route around obstacles and are commonly used for connecting individual appliances to a rigid line. The choice between them often depends on code requirements, ease of installation for specific situations, and the desired level of protection. A professional can advise on the best material for each section of your installation.",
+        "@type": "Answer",
+        "description": "Rigid lines are durable for main runs, while flexible lines are easier for appliance connections; choice depends on application and code."
+      }
+    }
+  ],
+  "description": "Rigid lines are durable for main runs, while flexible lines are easier for appliance connections; choice depends on application and code."
+}

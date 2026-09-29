@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preparation-is-needed-before-plumbers-arrive-for-a-kitchen-sink-installatio",
+  "name": "What preparation is needed before plumbers arrive for a kitchen sink installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before plumbers arrive for a kitchen sink installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your plumbers arrive for a kitchen sink installation, you should clear out the cabinet space beneath the sink entirely. Remove all cleaning supplies, waste bins, and any items stored in the surrounding cabinets that might obstruct access. Ensure the area around the sink is free from clutter and easily accessible. Having your new sink and faucet on-site and ready to go will also streamline the process. This preparation helps our team from CG Plumbing Solutions work efficiently and minimizes installation time.",
+        "@type": "Answer",
+        "description": "Before installation, clear out the cabinet space under the sink and ensure the surrounding area is free from clutter. Have your new sink and faucet readily available."
+      }
+    }
+  ],
+  "description": "Before installation, clear out the cabinet space under the sink and ensure the surrounding area is free from clutter. Have your new sink and faucet readily avai"
+}
