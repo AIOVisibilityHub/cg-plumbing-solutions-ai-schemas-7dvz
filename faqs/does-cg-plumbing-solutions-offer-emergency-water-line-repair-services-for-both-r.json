@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/does-cg-plumbing-solutions-offer-emergency-water-line-repair-services-for-both-r",
+  "name": "Does CG Plumbing Solutions offer emergency water line repair services for both residential and commercial properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does CG Plumbing Solutions offer emergency water line repair services for both residential and commercial properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CG Plumbing Solutions provides emergency water line repair services for both residential and commercial properties across our service areas, including Las Vegas, North Las Vegas, Henderson, Paradise, and Summerlin. We understand that water line emergencies can be disruptive for homes and businesses alike, which is why our experienced technicians are equipped to handle the varying complexities of both types of systems to restore water service promptly and efficiently.",
+        "@type": "Answer",
+        "description": "Yes, CG Plumbing Solutions offers emergency water line repair services for both residential and commercial properties in its service areas."
+      }
+    }
+  ],
+  "description": "Yes, CG Plumbing Solutions offers emergency water line repair services for both residential and commercial properties in its service areas."
+}

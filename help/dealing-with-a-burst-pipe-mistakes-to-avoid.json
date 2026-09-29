@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Dealing with a Burst Pipe: Mistakes to Avoid",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a burst pipe unleashes water into your home or business, it's easy to panic. But making the wrong moves in those initial moments can escalate the problem and the cost. Knowing what not to do is just as important as knowing what to do.\n\nCommon Mistakes to Avoid\nContinuing to use the water supply is a big no-no; always turn off your main shutoff valve first. Another common mistake is touching wet electrical equipment without ensuring the power is off – electricity and water are a dangerous combination. Don't force a seized shutoff valve either, as you could cause more damage; if it's stuck, call for help. Starting demolition or extensive cleanup before documenting the damage for insurance can also complicate claims down the road. Finally, many folks treat visible drying as proof that wall cavities or flooring are truly dry, but moisture can linger, leading to mold. A professional plumber will fix the leak, and often coordinate with restoration experts for thorough drying. When in doubt, especially with significant leaks or hidden damage, calling a licensed and insured plumber like CG Plumbing Solutions in the Las Vegas Valley is always the safest bet.",
+  "datePublished": "2026-09-28"
+}

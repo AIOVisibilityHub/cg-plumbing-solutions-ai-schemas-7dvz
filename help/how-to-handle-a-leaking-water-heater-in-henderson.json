@@ -1,0 +1,129 @@
+{
+  "name": "How to Handle a Leaking Water Heater in Henderson",
+  "step": [
+    {
+      "name": "Step 1: Isolate the Water Supply. First thing's first: you need to stop water from continuously feeding into the leaking tank. Find the cold water inlet valve, usually located at the top of your water heater, and turn it clockwise until it's completely closed. This will prevent more water from entering the unit and spreading.",
+      "text": "Step 1: Isolate the Water Supply. First thing's first: you need to stop water from continuously feeding into the leaking tank. Find the cold water inlet valve, usually located at the top of your water heater, and turn it clockwise until it's completely closed. This will prevent more water from entering the unit and spreading.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Shut Off the Energy Source. For electric water heaters, head to your electrical panel and switch off the breaker labeled for your water heater. For gas heaters, locate the gas shutoff valve on the gas line leading to the unit and turn it to the 'off' position. If you smell gas at any point, evacuate immediately and contact emergency services and your gas utility from a safe location. Do not attempt to re-light or service the appliance if you suspect a gas leak.",
+      "text": "Step 2: Shut Off the Energy Source. For electric water heaters, head to your electrical panel and switch off the breaker labeled for your water heater. For gas heaters, locate the gas shutoff valve on the gas line leading to the unit and turn it to the 'off' position. If you smell gas at any point, evacuate immediately and contact emergency services and your gas utility from a safe location. Do not attempt to re-light or service the appliance if you suspect a gas leak.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Contain the Leak. Once the water and energy are off, place buckets or towels around the base of the water heater to contain any remaining water. Be very careful not to touch any electrical components if there's standing water around, as this can be extremely dangerous. You're just trying to prevent water from damaging your floors or walls.",
+      "text": "Step 3: Contain the Leak. Once the water and energy are off, place buckets or towels around the base of the water heater to contain any remaining water. Be very careful not to touch any electrical components if there's standing water around, as this can be extremely dangerous. You're just trying to prevent water from damaging your floors or walls.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Assess the Situation Safely. Now that the immediate danger is handled, you can safely look at where the leak is coming from. Is it a loose connection, a corroded tank, or the temperature-pressure relief valve? Knowing this can help when you call for professional help. However, avoid trying to tighten pipes or make repairs yourself if you're not experienced.",
+      "text": "Step 4: Assess the Situation Safely. Now that the immediate danger is handled, you can safely look at where the leak is coming from. Is it a loose connection, a corroded tank, or the temperature-pressure relief valve? Knowing this can help when you call for professional help. However, avoid trying to tighten pipes or make repairs yourself if you're not experienced.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Call for Professional Diagnosis. A leaking water heater often indicates a significant issue that needs a licensed plumber. CG Plumbing Solutions can diagnose whether your unit needs a repair or a full replacement, and we handle both tank and tankless units. We'll make sure the diagnosis is thorough and explain your options clearly.",
+      "text": "What to Do Next For any water heater issue, especially a leak, contacting a professional plumber is crucial. CG Plumbing Solutions serves Henderson and the wider Las Vegas Valley, providing expert water heater repair and replacement services. Give us a call, and we'll help get your hot water back safely.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Isolate the Water Supply. First thing's first: you need to stop water from continuously feeding into the leaking tank. Find the cold water inlet valve, usually located at the top of your water"
+}

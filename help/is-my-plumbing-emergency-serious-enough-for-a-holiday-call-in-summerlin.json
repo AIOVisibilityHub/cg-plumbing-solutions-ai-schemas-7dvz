@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is My Plumbing Emergency Serious Enough for a Holiday Call in Summerlin?",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "The holidays are for family and fun, not plumbing nightmares! But sometimes, a plumbing problem just doesn't respect the calendar. If you're in Summerlin and wondering if your issue warrants a holiday call to an emergency plumber, you're not alone. It's smart to know the difference between something that can wait and something that needs immediate attention, even on Christmas Day or New Year's Eve. CG Plumbing Solutions offers 24/7 emergency service, and we can help you figure out if your situation is truly urgent.\n\n**When Professional Guidance Helps**\n\nA true holiday plumbing emergency usually involves situations that can cause significant property damage, pose a health risk, or make your home unlivable. Think burst or actively leaking pipes where water is gushing out, an uncontrolled fixture overflow that just won't stop, or sewage backing up into your toilets, showers, or drains. These types of problems need a licensed plumber on-site as quickly as possible to prevent extensive damage to your home’s structure, flooring, and personal belongings. If the water leak is near electrical outlets or appliances, that's an immediate safety hazard requiring professional intervention to avoid electrocution or fire.\n\nOn the other hand, a slow, contained drip from a faucet that you can put a bucket under, or a single toilet that’s running but not overflowing, might be suitable for scheduled service after the holidays. While annoying, these usually don't pose an immediate threat to your property or health. The key is the volume of water, its location, and the potential for rapid spread or safety hazards. If you can contain the water, it's not near electricity, and it's not sewage, you might have a bit more breathing room. If you're unsure, it's always better to call and ask. Our team can help you assess the severity over the phone.\n\nA qualified professional is especially important during holidays when plumbing issues often become more complex due to increased usage or colder weather conditions. They have the expertise to diagnose hidden problems, address issues that involve gas lines (like with a water heater), or deal with major pipework that shouldn't be attempted by an amateur. Plus, they ensure repairs are code-compliant, giving you peace of mind. Trying to DIY a holiday emergency can lead to bigger, more expensive problems down the line, so trust the experts when it really counts. We're here to make sure your holidays are as stress-free as possible, even when plumbing throws a curveball.\n\nWorried about a holiday plumbing issue in Summerlin? Call CG Plumbing Solutions at (702) 843-0899 for expert advice and emergency service.",
+  "datePublished": "2026-09-28"
+}

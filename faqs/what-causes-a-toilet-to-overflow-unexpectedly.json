@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-a-toilet-to-overflow-unexpectedly",
+  "name": "What causes a toilet to overflow unexpectedly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a toilet to overflow unexpectedly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A toilet typically overflows due to a clog in the drainpipe or a malfunctioning fill valve that doesn't stop water flow. Common culprits for clogs include excessive toilet paper, non-flushable items like wipes or feminine hygiene products, and sometimes issues in the main sewer line. A faulty fill valve can continuously run water into the bowl, eventually causing it to overflow if the drain is slow. Understanding the cause helps determine if it's a simple fix or requires professional intervention. For instance, a persistent gurgling from other drains often indicates a deeper main line issue.",
+        "@type": "Answer",
+        "description": "Toilet overflows are usually caused by clogs from non-flushable items or excessive toilet paper, or a malfunctioning fill valve."
+      }
+    }
+  ],
+  "description": "Toilet overflows are usually caused by clogs from non-flushable items or excessive toilet paper, or a malfunctioning fill valve."
+}

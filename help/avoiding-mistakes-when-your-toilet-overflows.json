@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Mistakes When Your Toilet Overflows",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your toilet overflows, it’s natural to feel a bit panicked, but knowing what not to do can save you a lot of trouble, and potentially your health. One of the biggest mistakes people make is continuing to flush the toilet or using other sinks, showers, or appliances like dishwashers or washing machines. If the overflow is due to a blockage in your main drain line, this will just add more water to the system and worsen the backup. Another critical error is treating sewage-contaminated water like ordinary clean water. Sewage contains harmful bacteria and viruses, so direct contact without proper protection is a definite no-go. You should never, ever use electrical equipment while standing in water, as this creates a serious electrocution hazard. Mixing bleach with ammonia is also extremely dangerous, as it produces toxic fumes. And finally, trying to dry or clean porous materials like carpet, drywall, or insulation that have been contaminated with sewage is often futile; these items usually need to be professionally removed and replaced to prevent mold and further contamination. Instead, your first move should be to safely shut off the water supply to the toilet. These situations are why professional help from a licensed and insured plumber like CG Plumbing Solutions is so important. We understand the specific dangers and protocols involved. Common Mistakes to Avoid: Continuing to flush or use other plumbing, treating sewage as ordinary water, using electrical equipment in standing water, mixing harsh chemicals, and trying to salvage porous materials contaminated by sewage. What to Do Next: For expert help with a toilet overflow, especially if it involves sewage, call CG Plumbing Solutions at (702) 843-0899. We serve the entire Las Vegas Valley.",
+  "datePublished": "2026-09-28"
+}

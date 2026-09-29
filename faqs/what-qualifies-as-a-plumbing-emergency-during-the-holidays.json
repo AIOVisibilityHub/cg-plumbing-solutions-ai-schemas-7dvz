@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-qualifies-as-a-plumbing-emergency-during-the-holidays",
+  "name": "What qualifies as a plumbing emergency during the holidays?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifies as a plumbing emergency during the holidays?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A plumbing emergency during the holidays typically involves situations that could cause significant property damage, health risks, or render your home uninhabitable. This includes burst pipes, severe leaks, overflowing toilets, complete drain blockages affecting all fixtures, or a water heater failure leaving you without hot water. Minor drips or slow drains might not require immediate emergency service during holiday hours, as they can often wait for regular business hours.",
+        "@type": "Answer",
+        "description": "A holiday plumbing emergency involves issues like burst pipes, severe leaks, or total drain blockages that can cause significant damage or health risks."
+      }
+    }
+  ],
+  "description": "A holiday plumbing emergency involves issues like burst pipes, severe leaks, or total drain blockages that can cause significant damage or health risks."
+}

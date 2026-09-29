@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Water Heater Failure at Night: What Are My Options?",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Waking up to no hot water, especially in the middle of the night, is definitely an emergency no one wants. When your water heater decides to quit, it can feel like a huge problem, but you do have options, and a 24/7 emergency plumber can help. First, if you notice a leak, try to shut off the water supply to the water heater itself, or if that's not possible, turn off the main water supply to your home. This prevents further water damage. If it's a gas water heater and you smell gas, evacuate immediately and call your gas utility, not a plumber first. Assuming it's a typical failure or leak, your next step is to contact a reliable 24/7 emergency plumbing service like CG Plumbing Solutions. We're here around the clock for these kinds of urgent issues in Las Vegas and surrounding areas. Our licensed technicians can diagnose the problem, whether it's a repairable issue or if you need a full replacement. We'll explain your options clearly, including temporary fixes versus permanent solutions, and give you written estimates before any work begins. Sometimes a temporary repair can get you through the night until a more extensive replacement can be scheduled during regular hours, potentially saving you on after-hours labor for bigger jobs. We also handle both conventional and tankless water heater issues, so you're covered no matter your system. \n\n### What to Expect During the Process\nWhen our technician arrives for a water heater emergency, they will first secure the area, stopping any leaks. Then, they'll thoroughly diagnose the problem, explaining whether it's a repairable issue or if replacement is necessary. You'll receive clear, written options and pricing before any work starts, allowing you to make an informed decision.",
+  "datePublished": "2026-09-28"
+}

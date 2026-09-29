@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-a-trenchless-water-line-repair-versus-traditional-excavat",
+  "name": "When should I consider a trenchless water line repair versus traditional excavation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a trenchless water line repair versus traditional excavation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider trenchless water line repair if you want to minimize disruption to your landscaping, driveway, or other hardscapes. Trenchless methods, like pipe bursting or pipe lining, require only small access points, significantly reducing restoration costs and time compared to traditional excavation. However, trenchless repair isn't suitable for all situations, such as severely collapsed pipes or certain pipe materials. We evaluate your specific situation to determine the most effective and least invasive method.",
+        "@type": "Answer",
+        "description": "Consider trenchless repair to minimize yard disruption, but it's not suitable for all situations; traditional excavation might be needed for severely damaged pipes."
+      }
+    }
+  ],
+  "description": "Consider trenchless repair to minimize yard disruption, but it's not suitable for all situations; traditional excavation might be needed for severely damaged pi"
+}

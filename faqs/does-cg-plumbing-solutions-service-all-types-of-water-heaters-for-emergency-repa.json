@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/does-cg-plumbing-solutions-service-all-types-of-water-heaters-for-emergency-repa",
+  "name": "Does CG Plumbing Solutions service all types of water heaters for emergency repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does CG Plumbing Solutions service all types of water heaters for emergency repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions is equipped to handle emergency repairs for most common types of residential water heaters, including conventional tank-style gas and electric units, and tankless water heaters. Our technicians are trained to diagnose and repair issues across various brands and models. We aim to provide comprehensive emergency service for the water heater systems typically found in homes across the Las Vegas area. However, highly specialized or commercial-grade systems may require a more detailed assessment.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions services most residential water heater types, including tank-style gas/electric and tankless units, for emergency repairs."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions services most residential water heater types, including tank-style gas/electric and tankless units, for emergency repairs."
+}

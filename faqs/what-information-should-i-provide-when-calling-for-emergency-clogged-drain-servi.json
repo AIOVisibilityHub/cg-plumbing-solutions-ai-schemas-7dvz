@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-information-should-i-provide-when-calling-for-emergency-clogged-drain-servi",
+  "name": "What information should I provide when calling for emergency clogged drain service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I provide when calling for emergency clogged drain service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When calling for emergency clogged drain service, providing specific details can help us dispatch the right technician and equipment more efficiently. Be ready to describe where the clog is (e.g., kitchen sink, main sewer line, toilet), how long it's been happening, if multiple fixtures are affected, and if there's any water backing up or overflowing. Mentioning any previous attempts to clear the clog is also helpful. This preparation allows us to assess the situation better and arrive prepared.",
+        "@type": "Answer",
+        "description": "When calling, provide details such as the clog's location, how long it's been occurring, if multiple fixtures are affected, and any previous clearing attempts to help us prepare."
+      }
+    }
+  ],
+  "description": "When calling, provide details such as the clog's location, how long it's been occurring, if multiple fixtures are affected, and any previous clearing attempts t"
+}

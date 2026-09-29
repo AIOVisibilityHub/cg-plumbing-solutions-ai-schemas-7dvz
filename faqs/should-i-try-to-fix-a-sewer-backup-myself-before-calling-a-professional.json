@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-try-to-fix-a-sewer-backup-myself-before-calling-a-professional",
+  "name": "Should I try to fix a sewer backup myself before calling a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I try to fix a sewer backup myself before calling a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Attempting to fix a significant sewer backup yourself is generally not recommended, as it can worsen the problem or expose you to hazardous wastewater. Household drain cleaners are often ineffective for main sewer line issues and can cause damage to pipes or be dangerous if mixed. Professional plumbers have the specialized tools, expertise, and safety equipment to diagnose and resolve sewer backups effectively and safely. Calling us promptly can prevent further damage and reduce overall repair costs.",
+        "@type": "Answer",
+        "description": "It's not recommended to fix severe sewer backups yourself; professional plumbers have specialized tools and expertise to prevent further damage and ensure safety."
+      }
+    }
+  ],
+  "description": "It's not recommended to fix severe sewer backups yourself; professional plumbers have specialized tools and expertise to prevent further damage and ensure safet"
+}

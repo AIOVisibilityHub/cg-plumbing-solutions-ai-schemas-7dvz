@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-clean-up-the-water-myself-before-a-plumber-arrives",
+  "name": "Do I need to clean up the water myself before a plumber arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to clean up the water myself before a plumber arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's important to stop the water flow immediately, you don't necessarily need to perform extensive cleanup before a plumber arrives for the repair itself. However, removing standing water and setting up fans to begin drying the area can help mitigate further damage, especially to porous materials. For health and safety, wear gloves, especially if it's an unsanitary overflow, and avoid contact with electrical outlets. Your primary focus should be on shutting off the water and ensuring safety, leaving the plumbing diagnosis and repair to the professional. We prioritize fixing the source of the problem, and can offer guidance on cleanup after the plumbing repair is complete.",
+        "@type": "Answer",
+        "description": "You should stop the water flow immediately and can begin basic cleanup if safe, but the plumber focuses on repairing the source of the overflow."
+      }
+    }
+  ],
+  "description": "You should stop the water flow immediately and can begin basic cleanup if safe, but the plumber focuses on repairing the source of the overflow."
+}

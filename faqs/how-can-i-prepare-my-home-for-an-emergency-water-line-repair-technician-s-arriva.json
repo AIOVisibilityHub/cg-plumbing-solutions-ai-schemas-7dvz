@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prepare-my-home-for-an-emergency-water-line-repair-technician-s-arriva",
+  "name": "How can I prepare my home for an emergency water line repair technician's arrival?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for an emergency water line repair technician's arrival?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for an emergency water line repair technician, ensure the area around your main water shut-off valve is clear and accessible. If possible, move any obstructions from the suspected leak area in your yard. Be ready to explain any observations, such as when you first noticed the issue or any specific signs like pooling water. This preparation helps our technicians quickly assess the situation and begin work without delay.",
+        "@type": "Answer",
+        "description": "Prepare by ensuring access to your main water shut-off valve, clearing obstructions from the leak area, and being ready to explain the issue to the technician."
+      }
+    }
+  ],
+  "description": "Prepare by ensuring access to your main water shut-off valve, clearing obstructions from the leak area, and being ready to explain the issue to the technician."
+}

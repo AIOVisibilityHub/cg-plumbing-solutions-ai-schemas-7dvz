@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Water Line Needs Professional Help: Key Signals",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to dismiss a small drip, but when it comes to your water line, some issues definitely signal it's time to call in the pros. We're talking about situations where a quick DIY fix just won't cut it, and you need the expertise of a licensed and insured plumbing company like CG Plumbing Solutions, serving the Las Vegas Valley.\n\n**Signs It's Time to Call a Professional**\n\n*   **Spraying or Rapidly Spreading Water:** If you have a forceful spray or water is spreading quickly, you've got an emergency that requires immediate professional attention. This indicates a significant breach in your water line that can cause massive damage fast.\n*   **Loss of Main Water Supply:** If your entire property loses water pressure or supply unexpectedly, especially without a utility notice, it could point to a serious main water line issue, possibly even a break.\n*   **Water Near Electrical Equipment:** Any water pooling or flowing near electrical outlets, panels, or appliances creates a significant safety hazard. Do NOT try to address this yourself; call an emergency plumber immediately after safely cutting power if you can.\n*   **Concealed or Underground Leaks:** If you suspect a leak but can't see it – perhaps you have unexplained high water bills, wet spots in your yard, or mildew odors indoors – it’s likely a concealed or underground pipe issue. These require specialized leak detection equipment and expertise to locate and repair.\n*   **Shutoff Valve Problems:** If your main water shutoff valve is seized, leaking, or won't operate correctly, you’ll need professional help to safely address it without causing further damage.\n\nWhen you see these signs, it's not just about stopping the water; it's about making sure the repair is done correctly and safely. A professional will have the right tools for leak detection, repair, and can coordinate with utilities if the issue extends beyond your property line. CG Plumbing Solutions offers 24/7 emergency service and code-compliant workmanship to address these critical situations.",
+  "datePublished": "2026-09-28"
+}

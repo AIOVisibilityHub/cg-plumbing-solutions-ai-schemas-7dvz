@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-burst-pipe-repair",
+  "name": "What factors influence the cost of burst pipe repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of burst pipe repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of burst pipe repair is influenced by several factors, including the location of the burst (e.g., behind a wall, under a slab), the extent of the damage, the type of pipe material, and the need for any additional restoration work. Easily accessible repairs are typically less costly than those requiring significant demolition or specialized equipment. Understanding these decision factors can help you anticipate the scope of the repair and the potential expenses involved.",
+        "@type": "Answer",
+        "description": "Repair cost depends on the burst's location, damage extent, pipe material, and any necessary restoration work, which are key decision factors."
+      }
+    }
+  ],
+  "description": "Repair cost depends on the burst's location, damage extent, pipe material, and any necessary restoration work, which are key decision factors."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-steps-should-i-take-before-a-holiday-emergency-plumber-arrives",
+  "name": "What steps should I take before a holiday emergency plumber arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take before a holiday emergency plumber arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our holiday emergency plumber arrives, you should take immediate steps to mitigate damage if safe to do so. This often includes turning off the main water supply to your home, which is typically located near your water meter or where the main water line enters the house. If it's an electrical issue involving water, turn off the power to the affected area. Clear the space around the affected plumbing to allow the technician easy access, and be ready to explain the symptoms you observed.",
+        "@type": "Answer",
+        "description": "Before a holiday emergency plumber arrives, turn off your main water supply if there's a leak, clear the area, and be ready to describe the problem."
+      }
+    }
+  ],
+  "description": "Before a holiday emergency plumber arrives, turn off your main water supply if there's a leak, clear the area, and be ready to describe the problem."
+}

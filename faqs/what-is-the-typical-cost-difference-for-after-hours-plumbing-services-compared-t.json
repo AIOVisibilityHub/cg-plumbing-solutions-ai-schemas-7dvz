@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-cost-difference-for-after-hours-plumbing-services-compared-t",
+  "name": "What is the typical cost difference for after-hours plumbing services compared to regular hours?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost difference for after-hours plumbing services compared to regular hours?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After-hours plumbing services generally incur higher costs than services during standard business hours. This is due to increased operational expenses for technicians working outside of regular shifts. The exact cost difference varies depending on the type of repair and time of night or weekend. Customers can expect a service call fee plus labor and parts; it's advisable to inquire about the pricing structure when you call to understand the potential costs upfront.",
+        "@type": "Answer",
+        "description": "After-hours plumbing services typically cost more due to increased operational expenses; inquire about the pricing structure when calling."
+      }
+    }
+  ],
+  "description": "After-hours plumbing services typically cost more due to increased operational expenses; inquire about the pricing structure when calling."
+}

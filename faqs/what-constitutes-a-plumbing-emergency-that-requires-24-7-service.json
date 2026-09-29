@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-constitutes-a-plumbing-emergency-that-requires-24-7-service",
+  "name": "What constitutes a plumbing emergency that requires 24/7 service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What constitutes a plumbing emergency that requires 24/7 service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A plumbing emergency typically involves situations that can cause significant property damage, health hazards, or interrupt essential services. This includes burst pipes, severe water leaks, overflowing toilets that cannot be stopped, main sewer line backups, and water heater failures leading to flooding or no hot water. Deciding if it's an emergency often depends on the potential for immediate harm or damage if not addressed quickly. If a problem is actively causing damage or making your home uninhabitable, it generally warrants immediate professional attention.",
+        "@type": "Answer",
+        "description": "A plumbing emergency is any situation causing significant property damage, health risks, or service interruption, such as burst pipes, severe leaks, or sewer backups, requiring immediate professional help."
+      }
+    }
+  ],
+  "description": "A plumbing emergency is any situation causing significant property damage, health risks, or service interruption, such as burst pipes, severe leaks, or sewer ba"
+}

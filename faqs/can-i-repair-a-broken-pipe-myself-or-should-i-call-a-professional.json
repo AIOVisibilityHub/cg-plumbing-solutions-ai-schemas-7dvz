@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-repair-a-broken-pipe-myself-or-should-i-call-a-professional",
+  "name": "Can I repair a broken pipe myself, or should I call a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a broken pipe myself, or should I call a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor leaks might seem manageable, repairing a broken pipe often requires specialized tools and expertise to ensure a permanent, leak-free solution. Improper repairs can lead to recurring leaks, further water damage, and potential mold growth. We strongly recommend contacting a licensed plumber for broken pipe repairs to ensure the job is done correctly and safely, preventing future issues that might arise from an amateur repair.",
+        "@type": "Answer",
+        "description": "Professional help is advised for broken pipes, as DIY repairs can lead to recurring leaks and more damage. Licensed plumbers ensure correct, safe repairs."
+      }
+    }
+  ],
+  "description": "Professional help is advised for broken pipes, as DIY repairs can lead to recurring leaks and more damage. Licensed plumbers ensure correct, safe repairs."
+}

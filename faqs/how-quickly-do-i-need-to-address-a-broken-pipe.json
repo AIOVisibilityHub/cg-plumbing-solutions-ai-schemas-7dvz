@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-quickly-do-i-need-to-address-a-broken-pipe",
+  "name": "How quickly do I need to address a broken pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly do I need to address a broken pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A broken pipe should be addressed immediately to prevent significant water damage, mold growth, and structural issues to your property. Delays can escalate repair costs and cause health hazards from mold. As part of our process, we recommend shutting off the main water supply to your home as soon as you suspect a break to minimize ongoing damage while you await professional assistance.",
+        "@type": "Answer",
+        "description": "Address a broken pipe immediately to prevent water damage, mold, and structural issues. Shut off your main water supply right away."
+      }
+    }
+  ],
+  "description": "Address a broken pipe immediately to prevent water damage, mold, and structural issues. Shut off your main water supply right away."
+}

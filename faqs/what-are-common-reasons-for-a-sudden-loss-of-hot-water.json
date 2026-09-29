@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-reasons-for-a-sudden-loss-of-hot-water",
+  "name": "What are common reasons for a sudden loss of hot water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons for a sudden loss of hot water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sudden loss of hot water can stem from several common issues. For gas water heaters, a pilot light going out or a faulty thermocouple is often the culprit. Electric water heaters might experience a tripped circuit breaker or a failed heating element. Tankless units could have ignition problems or sediment buildup. In some cases, it might be a larger issue like a leaking tank or a faulty thermostat. Our technicians will conduct a thorough inspection to accurately identify the cause.",
+        "@type": "Answer",
+        "description": "Common reasons for no hot water include pilot light issues, tripped breakers, faulty heating elements, or ignition problems in tankless units."
+      }
+    }
+  ],
+  "description": "Common reasons for no hot water include pilot light issues, tripped breakers, faulty heating elements, or ignition problems in tankless units."
+}

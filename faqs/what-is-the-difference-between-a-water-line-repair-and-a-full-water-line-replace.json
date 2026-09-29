@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-water-line-repair-and-a-full-water-line-replace",
+  "name": "What is the difference between a water line repair and a full water line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a water line repair and a full water line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water line repair addresses a specific damaged section of the pipe, often suitable for minor leaks or isolated issues in otherwise healthy plumbing. A full water line replacement involves installing an entirely new water line from the meter to your home. The decision between repair and replacement often depends on the age and condition of the existing pipes, the frequency of past leaks, and the overall integrity of the system. We assess these factors to recommend the most cost-effective long-term solution.",
+        "@type": "Answer",
+        "description": "Repair fixes a specific damaged section, while replacement installs an entirely new water line; the choice depends on pipe condition and extent of damage."
+      }
+    }
+  ],
+  "description": "Repair fixes a specific damaged section, while replacement installs an entirely new water line; the choice depends on pipe condition and extent of damage."
+}

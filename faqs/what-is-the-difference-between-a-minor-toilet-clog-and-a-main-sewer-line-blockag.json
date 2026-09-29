@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-minor-toilet-clog-and-a-main-sewer-line-blockag",
+  "name": "What is the difference between a minor toilet clog and a main sewer line blockage causing an overflow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a minor toilet clog and a main sewer line blockage causing an overflow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor toilet clog is typically isolated to the toilet drain and can often be cleared with a plunger or a small auger. You'll usually only see the toilet struggle to flush or overflow. In contrast, a main sewer line blockage affects multiple drains in your home. Signs of a main line issue include water backing up in showers or sinks when you flush the toilet, gurgling noises from other drains, or sewage odors emanating from multiple fixtures. While you might tackle a minor clog yourself, a main line blockage almost always requires professional equipment and expertise to prevent widespread sewage backup into your home, representing a significant practical tradeoff in DIY versus professional service.",
+        "@type": "Answer",
+        "description": "A minor clog affects only the toilet, while a main sewer line blockage causes water backup and gurgling in multiple drains throughout the home."
+      }
+    }
+  ],
+  "description": "A minor clog affects only the toilet, while a main sewer line blockage causes water backup and gurgling in multiple drains throughout the home."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-try-to-fix-a-plumbing-issue-myself-before-calling-an-after-hours-plumbe",
+  "name": "Should I try to fix a plumbing issue myself before calling an after-hours plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I try to fix a plumbing issue myself before calling an after-hours plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Attempting to fix complex plumbing issues yourself, especially during an emergency, can sometimes worsen the problem or cause further damage. While minor issues like a small drip might be manageable, burst pipes or significant leaks are best handled by professionals. Before calling, you can safely turn off your home's main water supply to prevent further water damage. However, for anything beyond that, contacting an after-hours plumber is recommended to avoid escalating the emergency.",
+        "@type": "Answer",
+        "description": "Only attempt minor fixes; for emergencies like burst pipes, turn off the water supply and call an after-hours plumber to prevent further damage."
+      }
+    }
+  ],
+  "description": "Only attempt minor fixes; for emergencies like burst pipes, turn off the water supply and call an after-hours plumber to prevent further damage."
+}

@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Weekend Plumber: Signs You Need Immediate Service",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's Saturday morning, you're enjoying your coffee, and suddenly, you hear the unmistakable sound of running water where it shouldn't be. Or maybe the toilet won't flush, or the shower is barely trickling. Deciding whether to call a plumber right away on the weekend, or if it can wait until Monday, is a common dilemma. While some minor issues might be able to hold off, there are definitely situations that scream \"call a professional now!\" Ignoring these signs can lead to bigger headaches, more expensive repairs, and even potential damage to your home. Knowing these critical indicators can help you protect your property and peace of mind. We're here to help you figure out when it's really time to make that call.\n\n### When Professional Guidance Helps\n*   **Burst or concealed pipes:** Any sign of water coming from inside walls, ceilings, or under floors needs immediate attention to prevent significant structural damage.\n*   **Sewer backups:** If sewage is backing up into your drains, toilets, or tubs, this is a major health hazard and requires urgent professional service.\n*   **Water heater failures:** No hot water on a cold weekend, especially if there's a leak involved, is often a sign of a failing water heater. A professional can diagnose and often repair or replace it promptly.\n*   **Gas-related issues:** If you smell gas near any plumbing appliance, evacuate immediately and call the gas company or emergency services, then a plumber specializing in gas lines.\n*   **Extensive flooding:** Any uncontrolled flooding, even after you've shut off the main water supply, indicates a serious problem that needs expert mitigation.\n*   **Recurring blockages:** If a drain keeps clogging, especially multiple drains at once, it could be a sign of a deeper main line issue that DIY solutions can't fix.\n*   **Work involving building systems:** For complex repairs that involve altering your home's main plumbing infrastructure, professional expertise ensures code compliance and safety.\n\n### What to Do Next\nIf you're experiencing any of these urgent plumbing problems over the weekend in the Las Vegas Valley, don't delay. Contact CG Plumbing Solutions right away for reliable, licensed service. We’re here to help.",
+  "datePublished": "2026-09-28"
+}

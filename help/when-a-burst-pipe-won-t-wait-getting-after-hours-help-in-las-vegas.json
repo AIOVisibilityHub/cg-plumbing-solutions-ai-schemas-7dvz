@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When a Burst Pipe Won't Wait: Getting After-Hours Help in Las Vegas",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering a burst pipe or a serious leak after normal business hours can be incredibly stressful, but knowing what to do next can save you a lot of headache and potential property damage. When you've got an urgent plumbing issue in Las Vegas, quick action and reliable professional help are key. Often, these situations require immediate attention to prevent further damage to your home or business.\n\nWhat to Do Before Your Plumber Arrives:\n\n*   **Locate your main water shut-off valve:** This is probably the most crucial step. Turning off the main water supply to your property can stop the flooding and limit damage significantly. For an isolated leak, you might be able to use a fixture shut-off, but if not, go for the main.\n*   **Clear the affected area:** Move anything valuable or electronic away from standing water. Safety first – avoid wet areas, especially if electrical outlets or appliances are nearby.\n*   **Document the damage:** Take photos or videos of the issue as it is. This documentation can be super helpful for insurance claims later on.\n*   **Understand common issues:** After-hours calls often deal with burst pipes, water heater failures, or significant sewer backups. Knowing these can help you describe your situation clearly.\n\nWhen a qualified professional matters:\n\nHiring a licensed plumber is essential for hidden leaks, burst pipes, sewer problems, water heater faults, or anything involving gas. They've got the expertise to diagnose the problem correctly and fix it to code. For residents and businesses across the Las Vegas Valley, CG Plumbing Solutions offers 24/7 emergency dispatch, ensuring a licensed technician can get to you to protect your property and explain repair options in English or Spanish. We communicate next steps and help protect your property.\n\nDon't let a plumbing emergency ruin your night or weekend. Give CG Plumbing Solutions a call anytime at (702) 843-0899 for prompt and professional after-hours plumbing service in Las Vegas.",
+  "datePublished": "2026-09-28"
+}

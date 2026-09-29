@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is My Toilet Constantly Running in North Las Vegas?",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "That persistent running sound from your toilet can be incredibly annoying, and it's also a major waste of water and money! If your North Las Vegas home has a toilet that just won't quit running, it's usually a sign of a common internal issue. Luckily, most of these problems are fixable, but knowing what's actually causing the sound is the first step to a quiet, efficient toilet.\n\nRunning toilets typically mean that water is continuously flowing from the tank into the bowl, even after you've flushed. This constant flow often indicates a problem with one of the internal components not sealing properly. It's like your toilet is perpetually trying to refill, using gallons of water unnecessarily each day.\n\nOne of the most frequent culprits is a worn-out flapper. The flapper is that rubber seal at the bottom of your tank that lifts when you flush and then drops back down to seal the drain. Over time, these can become brittle, lose their shape, or get gunked up, preventing a watertight seal and allowing water to sneak into the bowl.\n\nAnother common issue is a faulty fill valve. This valve controls the water coming into the tank after a flush. If it's not adjusted correctly, or if it's damaged, it might not shut off properly, leading to continuous filling and the running sound you hear. Sometimes, the float arm or cup that tells the fill valve when to stop can also get stuck or misaligned.\n\nFinally, a high water level in the tank can cause problems. If the water level is too high, it can spill into the overflow tube, mimicking a running toilet. This is usually an easy fix involving adjusting the float mechanism so the water stops filling before it reaches the top of the overflow pipe.\n\nWhat Can Change the Right Choice\nWhile some running toilet issues are simple DIY fixes, recurring problems or a toilet that's constantly running could point to a more complex issue, possibly even affecting your water bill significantly. If you've tried basic adjustments and the sound persists, or if you're unsure about tackling internal tank components, it's smart to call a professional. They can quickly diagnose the exact cause and recommend the best repair, ensuring everything is sealed and working correctly. This is especially true if you find yourself frequently dealing with clogs alongside the running, as that could signal a deeper drain issue.\n\nIf you're tired of the sound and the wasted water, contact CG Plumbing Solutions for reliable toilet repair in North Las Vegas. We'll get your toilet running silently again.",
+  "datePublished": "2026-09-28"
+}

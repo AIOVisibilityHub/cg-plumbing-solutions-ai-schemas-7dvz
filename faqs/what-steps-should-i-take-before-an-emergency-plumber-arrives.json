@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-steps-should-i-take-before-an-emergency-plumber-arrives",
+  "name": "What steps should I take before an emergency plumber arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take before an emergency plumber arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an emergency plumber arrives, the most crucial step is to locate and shut off your home's main water supply to prevent further water damage. If it's a sewage backup, avoid using any water fixtures. Clear the area around the problem so the plumber has easy access. Gathering any relevant information, such as when the problem started or if you attempted any DIY fixes, can also help the technician diagnose and resolve the issue more efficiently upon their arrival.",
+        "@type": "Answer",
+        "description": "Before an emergency plumber arrives, shut off your main water supply and clear the area around the problem. Gather information about when the issue started."
+      }
+    }
+  ],
+  "description": "Before an emergency plumber arrives, shut off your main water supply and clear the area around the problem. Gather information about when the issue started."
+}

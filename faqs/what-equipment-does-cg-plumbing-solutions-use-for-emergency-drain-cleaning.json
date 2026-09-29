@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-equipment-does-cg-plumbing-solutions-use-for-emergency-drain-cleaning",
+  "name": "What equipment does CG Plumbing Solutions use for emergency drain cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What equipment does CG Plumbing Solutions use for emergency drain cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions utilizes advanced equipment for emergency drain cleaning to effectively clear even the most stubborn blockages. This includes powerful hydro-jetting machines that use high-pressure water to scour pipe interiors and clear debris, as well as specialized drain snakes and augers of various sizes to tackle solid obstructions. For precise diagnosis, we also employ sewer camera inspection tools. The choice of equipment depends on the type, location, and severity of the clog, ensuring the most effective solution.",
+        "@type": "Answer",
+        "description": "We use hydro-jetting, drain snakes, augers, and sewer camera inspections to effectively clear various types of emergency drain blockages."
+      }
+    }
+  ],
+  "description": "We use hydro-jetting, drain snakes, augers, and sewer camera inspections to effectively clear various types of emergency drain blockages."
+}

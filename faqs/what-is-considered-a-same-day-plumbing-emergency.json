@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-considered-a-same-day-plumbing-emergency",
+  "name": "What is considered a same-day plumbing emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a same-day plumbing emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A same-day plumbing emergency typically involves situations that can cause significant damage to your property, pose a health risk, or prevent the use of essential plumbing fixtures. This includes burst pipes, severe leaks, overflowing toilets that won't stop, complete loss of water, or a water heater malfunction leaving you without hot water. CG Plumbing Solutions prioritizes these issues to ensure quick resolution and minimize disruption or potential harm to your home in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "Same-day plumbing emergencies are urgent issues like burst pipes, severe leaks, or a complete loss of water that can cause significant damage or health risks."
+      }
+    }
+  ],
+  "description": "Same-day plumbing emergencies are urgent issues like burst pipes, severe leaks, or a complete loss of water that can cause significant damage or health risks."
+}

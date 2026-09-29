@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-causes-of-drain-emergencies-that-cg-plumbing-solutions-sees",
+  "name": "What are the common causes of drain emergencies that CG Plumbing Solutions sees?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of drain emergencies that CG Plumbing Solutions sees?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many drain emergencies we encounter are caused by a buildup of grease, hair, food particles, and foreign objects that accumulate over time. In Las Vegas homes, hard water can also contribute to mineral buildup inside pipes, restricting flow. Tree roots infiltrating sewer lines are another common culprit, especially in older plumbing systems. Recognizing these common causes can help homeowners take preventative steps to reduce the likelihood of a sudden blockage.",
+        "@type": "Answer",
+        "description": "Common causes of drain emergencies include grease and hair buildup, food particles, foreign objects, mineral deposits from hard water, and tree root intrusion."
+      }
+    }
+  ],
+  "description": "Common causes of drain emergencies include grease and hair buildup, food particles, foreign objects, mineral deposits from hard water, and tree root intrusion."
+}

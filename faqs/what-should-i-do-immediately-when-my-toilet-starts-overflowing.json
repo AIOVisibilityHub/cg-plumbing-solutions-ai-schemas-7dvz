@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-immediately-when-my-toilet-starts-overflowing",
+  "name": "What should I do immediately when my toilet starts overflowing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately when my toilet starts overflowing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When a toilet overflows, immediately lift the tank lid and push down on the flapper to stop water from entering the bowl. Then, reach for the shut-off valve located on the wall behind or beneath the toilet, turning it clockwise until the water flow completely stops. This prevents further water damage while you assess the situation or wait for a plumber. Delaying these first steps can significantly increase the extent of water damage to your flooring and subfloor, leading to more costly repairs. Having a basic understanding of your home's shut-off valves is a valuable preparation step for any homeowner.",
+        "@type": "Answer",
+        "description": "Immediately shut off the water supply to the toilet using the valve behind or beneath it to prevent further flooding."
+      }
+    }
+  ],
+  "description": "Immediately shut off the water supply to the toilet using the valve behind or beneath it to prevent further flooding."
+}

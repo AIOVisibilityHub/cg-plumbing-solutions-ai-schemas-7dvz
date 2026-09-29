@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-qualifies-as-an-emergency-water-heater-repair",
+  "name": "What qualifies as an emergency water heater repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifies as an emergency water heater repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An emergency water heater repair typically involves situations where your water heater has completely stopped producing hot water, is leaking significantly, or is emitting unusual noises that suggest a dangerous malfunction. These issues can cause immediate inconvenience, property damage, or safety risks. Prompt attention is needed to prevent further damage or resolve safety concerns. For example, a large leak could quickly damage your flooring or cabinetry, requiring immediate professional intervention to mitigate water damage.",
+        "@type": "Answer",
+        "description": "An emergency repair is for immediate issues like a complete loss of hot water, significant leaks, or dangerous noises. These require urgent attention to prevent damage or safety risks."
+      }
+    }
+  ],
+  "description": "An emergency repair is for immediate issues like a complete loss of hot water, significant leaks, or dangerous noises. These require urgent attention to prevent"
+}

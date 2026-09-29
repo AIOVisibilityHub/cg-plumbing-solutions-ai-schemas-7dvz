@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-my-homeowner-s-insurance-cover-emergency-leak-repair-costs",
+  "name": "Will my homeowner's insurance cover emergency leak repair costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover emergency leak repair costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers sudden and accidental water damage, but coverage for the repair of the source leak itself can vary. For example, damage from a burst pipe is often covered, but the cost to repair the pipe might not be if it was due to poor maintenance. It is advisable to review your policy or contact your insurance provider directly to understand your specific coverage limits and deductibles. We can provide detailed invoices for your claim submission.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance may cover water damage from a sudden leak, but coverage for the leak repair itself varies. Check your policy or contact your provider for details."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance may cover water damage from a sudden leak, but coverage for the leak repair itself varies. Check your policy or contact your provider for"
+}

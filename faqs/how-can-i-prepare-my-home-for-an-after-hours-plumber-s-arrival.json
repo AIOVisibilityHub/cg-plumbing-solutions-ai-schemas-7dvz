@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prepare-my-home-for-an-after-hours-plumber-s-arrival",
+  "name": "How can I prepare my home for an after-hours plumber's arrival?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for an after-hours plumber's arrival?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for an after-hours plumber's arrival, ensure the area around the plumbing issue is clear and accessible. If you know where your main water shut-off valve is, turn it off to minimize water damage. Secure pets in another room, especially if they are protective. Good lighting in the affected area can also help the technician work efficiently upon arrival. These steps help our plumbers quickly assess and begin work without delay.",
+        "@type": "Answer",
+        "description": "Clear the area, turn off the main water supply if possible, secure pets, and ensure good lighting for the plumber's arrival."
+      }
+    }
+  ],
+  "description": "Clear the area, turn off the main water supply if possible, secure pets, and ensure good lighting for the plumber's arrival."
+}

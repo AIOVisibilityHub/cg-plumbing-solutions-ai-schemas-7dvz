@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-emergency-plumbing-repair-cost",
+  "name": "How much does emergency plumbing repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does emergency plumbing repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of emergency plumbing repair varies significantly based on the nature and severity of the problem, the parts required, and the labor involved. Complex issues like main sewer line repairs will naturally cost more than a minor leak. At CG Plumbing Solutions, we provide upfront pricing after diagnosing the issue, ensuring transparency. We recommend discussing potential costs and your budget with our technician before any work begins to understand the investment fully.",
+        "@type": "Answer",
+        "description": "Emergency plumbing repair costs vary by problem severity, parts, and labor. CG Plumbing Solutions provides upfront pricing after diagnosis."
+      }
+    }
+  ],
+  "description": "Emergency plumbing repair costs vary by problem severity, parts, and labor. CG Plumbing Solutions provides upfront pricing after diagnosis."
+}

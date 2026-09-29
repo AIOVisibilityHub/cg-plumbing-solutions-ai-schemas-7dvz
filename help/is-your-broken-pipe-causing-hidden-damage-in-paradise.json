@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Broken Pipe Causing Hidden Damage in Paradise?",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A broken pipe, even a small leak, can be much more than just an annoyance for your Paradise home or business; it can be a silent destroyer, causing hidden damage that's costly to fix if left unchecked. A pinhole leak or a slow drip might not seem like a big deal, but over time, that water can seep into walls, flooring, and ceilings, leading to mold growth, wood rot, and compromised structural integrity. These issues aren't always obvious until they've become extensive. Keep an eye out for tell-tale signs like discolored spots on walls or ceilings, musty odors, or unexplained increases in your water bill. These could all point to a broken pipe that's slowly, but surely, causing trouble behind the scenes. It's crucial not to underestimate these subtle indicators. If you suspect a broken pipe, even if you can't see the break, it's best to have a professional plumber investigate. We can use specialized leak detection equipment to find the source of the problem without tearing apart your home, helping you prevent minor issues from becoming major disasters. What to Do Next: Contact CG Plumbing Solutions for a thorough inspection if you suspect a hidden broken pipe.",
+  "datePublished": "2026-09-28"
+}

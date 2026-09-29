@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-my-yard-be-damaged-during-an-emergency-water-line-repair",
+  "name": "Will my yard be damaged during an emergency water line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my yard be damaged during an emergency water line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emergency water line repairs often require excavation to access the damaged pipe, which may result in some disruption to your yard. Our technicians at CG Plumbing Solutions aim to minimize landscape disturbance by using precise digging techniques and restoring the area as much as possible after the repair is complete. The extent of yard damage depends on the leak's location and depth, and we will discuss potential impacts with you beforehand.",
+        "@type": "Answer",
+        "description": "Yard damage during emergency water line repair is possible due to excavation, but CG Plumbing Solutions aims to minimize disruption and restore the area."
+      }
+    }
+  ],
+  "description": "Yard damage during emergency water line repair is possible due to excavation, but CG Plumbing Solutions aims to minimize disruption and restore the area."
+}

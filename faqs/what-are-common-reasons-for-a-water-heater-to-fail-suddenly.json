@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-reasons-for-a-water-heater-to-fail-suddenly",
+  "name": "What are common reasons for a water heater to fail suddenly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons for a water heater to fail suddenly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sudden water heater failure can be caused by several factors, including a faulty heating element (electric), a pilot light issue or thermocouple failure (gas), a substantial leak due to a rusted tank, or a malfunctioning thermostat. Sediment buildup in the tank can also lead to inefficiency and premature failure. Understanding these common causes can help diagnose the problem, though professional assessment is crucial for accurate repair or replacement recommendations.",
+        "@type": "Answer",
+        "description": "Common causes for sudden water heater failure include faulty heating elements, pilot light issues, leaks from a rusted tank, or thermostat malfunctions."
+      }
+    }
+  ],
+  "description": "Common causes for sudden water heater failure include faulty heating elements, pilot light issues, leaks from a rusted tank, or thermostat malfunctions."
+}

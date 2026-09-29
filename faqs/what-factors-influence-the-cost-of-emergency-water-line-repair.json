@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-emergency-water-line-repair",
+  "name": "What factors influence the cost of emergency water line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of emergency water line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of emergency water line repair is influenced by several factors, including the location and accessibility of the leak, the extent of the damage, the type of pipe material, and whether excavation is required. For instance, a leak under a concrete slab will generally be more complex and costly to repair than one in an easily accessible yard. Understanding these variables helps us provide an accurate estimate after a thorough assessment.",
+        "@type": "Answer",
+        "description": "Cost factors for emergency water line repair include leak location, damage extent, pipe material, and whether excavation is needed."
+      }
+    }
+  ],
+  "description": "Cost factors for emergency water line repair include leak location, damage extent, pipe material, and whether excavation is needed."
+}

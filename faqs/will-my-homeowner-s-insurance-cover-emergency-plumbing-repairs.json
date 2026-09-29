@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-my-homeowner-s-insurance-cover-emergency-plumbing-repairs",
+  "name": "Will my homeowner's insurance cover emergency plumbing repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover emergency plumbing repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether homeowner's insurance covers emergency plumbing repairs depends on your specific policy and the cause of the damage. Generally, sudden and accidental water damage may be covered, while damage from neglect or lack of maintenance typically is not. We advise you to contact your insurance provider immediately to understand your coverage details and any requirements for filing a claim. Our technicians can provide documentation of the repair work for your records, which may assist with your claim.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance may cover sudden water damage, but it varies by policy. Contact your insurer directly for coverage specifics, and we can provide repair documentation."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance may cover sudden water damage, but it varies by policy. Contact your insurer directly for coverage specifics, and we can provide repair do"
+}

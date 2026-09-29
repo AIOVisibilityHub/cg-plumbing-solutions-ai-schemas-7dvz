@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-process-for-scheduling-a-weekend-plumbing-repair",
+  "name": "What's the process for scheduling a weekend plumbing repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the process for scheduling a weekend plumbing repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for scheduling a weekend plumbing repair typically involves contacting the plumbing company by phone to describe your emergency. A dispatcher will gather details about the issue and your location. Depending on the severity and type of plumbing problem, a technician will be dispatched promptly. CG Plumbing Solutions aims to provide clear communication regarding estimated arrival times and the next steps once on-site for assessment and repair.",
+        "@type": "Answer",
+        "description": "Schedule by calling the plumbing company, describing your emergency, and a technician will be dispatched with an estimated arrival time."
+      }
+    }
+  ],
+  "description": "Schedule by calling the plumbing company, describing your emergency, and a technician will be dispatched with an estimated arrival time."
+}

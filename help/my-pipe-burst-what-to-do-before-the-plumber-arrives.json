@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Pipe Burst: What to Do Before the Plumber Arrives",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you have a burst pipe, it can feel like chaos, but there are a few key steps you can take immediately to minimize damage before professional help arrives. First, and most importantly, you need to stop the water flow. If the burst pipe is near a specific fixture, try to locate and turn off its individual shut-off valve. If that's not possible or the leak is widespread, head straight for your main water supply valve and turn it off completely. This is crucial for preventing further water damage to your home. Next, prioritize safety. If the water is near electrical outlets, appliances, or your electrical panel, stay clear of it; don't try to move anything or touch switches. Containing the water might seem like a good idea, but only do so if it's safe and won't put you in contact with electrical hazards. You can grab buckets or towels to catch what you can, but don't delay shutting off the water. Finally, take a quick picture or video of the damage – this can be helpful for your plumber and any insurance claims later on. Then, give CG Plumbing Solutions a call. We're here 24/7 to dispatch a licensed technician to the Las Vegas Valley, assess the situation, and explain your repair options without any surprise charges. Knowing these steps can make a big difference in the moments following a pipe burst, keeping your home safer until we get there. \n\n### What to Do Next\nIf you're dealing with a burst pipe in Las Vegas, North Las Vegas, or surrounding areas, don't wait. Call CG Plumbing Solutions at (702) 843-0899 for immediate assistance. We'll guide you through the next steps and get a technician dispatched.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-information-should-i-provide-when-requesting-same-day-plumbing-service",
+  "name": "What information should I provide when requesting same-day plumbing service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I provide when requesting same-day plumbing service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When requesting same-day plumbing service, it's crucial to provide a clear description of the problem, including where it's located, any visible damage, and when it started. This preparation helps our technicians understand the potential issue before arrival, allowing them to bring the most relevant tools and parts. Mentioning if water is actively leaking, if you've turned off your main water supply, or if you hear unusual noises can significantly aid in a quicker diagnosis and repair.",
+        "@type": "Answer",
+        "description": "Provide a clear description of the problem, its location, visible damage, and when it started to help technicians prepare for your same-day service."
+      }
+    }
+  ],
+  "description": "Provide a clear description of the problem, its location, visible damage, and when it started to help technicians prepare for your same-day service."
+}

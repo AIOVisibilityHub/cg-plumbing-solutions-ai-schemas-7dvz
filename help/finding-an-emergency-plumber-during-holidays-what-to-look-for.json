@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Finding an Emergency Plumber During Holidays: What to Look For",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a plumbing disaster strikes on a holiday, the last thing you want is to scramble for a reliable plumber. You need someone who can respond fast, even when others are closed. It's smart to know what to look for ahead of time, or at least quickly assess when you're in a bind. The biggest thing is confirmed holiday availability. Not every plumber offers 24/7 service, let alone during holidays, but CG Plumbing Solutions does, across the Las Vegas Valley.\n\n### Questions to Ask Before You Decide\nWhen you call, ask about their after-hours pricing to avoid surprises. A good company will be transparent about any surcharges. You'll also want to confirm they're licensed and insured – that's non-negotiable for your peace of mind and protection. Make sure they can handle your specific issue, whether it's a burst pipe, a water heater failure, or a sewer backup. A reputable plumber will also provide a clear, documented scope of work. They should be able to tell you how they plan to fix the problem and what the difference is between a temporary stabilization and a permanent repair. We make sure to give you written options before any work begins, so you're always in the loop. Don't hesitate to ask these important questions before you commit.",
+  "datePublished": "2026-09-28"
+}

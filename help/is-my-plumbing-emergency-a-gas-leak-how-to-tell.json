@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is My Plumbing Emergency a Gas Leak? How to Tell",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super important to know the difference between a regular plumbing emergency and a suspected gas leak, because how you react can literally be life-saving. While a burst pipe is urgent, a gas leak requires a different, faster response. If you smell gas, hear a hissing sound, or notice dying vegetation near gas lines, these are strong indicators of a potential gas leak, not just a plumbing issue. In this scenario, don't mess around; your top priority is getting everyone out of the house immediately. Once you're safely outside and away from the building, call your gas utility or emergency services – do not call a plumber first for a suspected gas leak. Never use electrical switches, light matches, or even use your phone inside if you suspect gas, as a spark could ignite it. A common mistake people make is treating a suspected gas leak as an ordinary plumbing call or trying to locate the source themselves, which can be incredibly dangerous. Only after the gas utility has confirmed the area is safe can a plumber like CG Plumbing Solutions come in to address any related gas-line plumbing work that's needed. We are skilled in gas-line plumbing and adhere to all safety requirements and codes, but safety has to come first with a suspected leak. Knowing these critical distinctions protects you and your family. \n\n### Common Mistakes to Avoid\nDon't delay evacuating the premises if you smell gas. Never use any electrical devices, switches, or open flames while inside a building with a suspected gas leak. Don't call a plumber before contacting your gas utility or emergency services if a gas leak is suspected. Always prioritize getting to safety first.",
+  "datePublished": "2026-09-28"
+}

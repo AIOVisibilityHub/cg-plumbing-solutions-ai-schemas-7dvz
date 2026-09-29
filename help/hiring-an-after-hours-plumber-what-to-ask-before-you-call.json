@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring an After-Hours Plumber: What to Ask Before You Call",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a plumbing emergency strikes late at night or early morning, getting quick, reliable help is key. But before you panic and call the first number you see, it's really smart to know what to ask. Many folks wonder if their issue is a true emergency and how fast someone can actually get there. You'll also want to understand the service-call fee, whether it's a flat rate or hourly, and if it'll be applied to the repair cost. Knowing these details upfront can save you a lot of headache and unexpected charges. We're talking about getting clear on the practicalities so you're not caught off guard.\n\n### Questions to Ask Before You Decide\nFirst, always confirm the plumber's 24/7 availability. Not every company advertising '24/7' truly dispatches at 3 AM. Ask for a specific arrival window; general estimates like 'soon' aren't helpful when water is gushing. Inquire about transparent call-out and after-hours charges – get them in writing if possible. It’s important to ask for a written estimate for the actual repair work before they start. Lastly, verify their current licensing and insurance, and confirm they have experience with the specific type of problem you're facing, whether it's a burst pipe or a backed-up sewer. This helps ensure you're getting a qualified expert who stands behind their work.\n\n### What to Do Next\nIf you're facing an after-hours plumbing issue in the Las Vegas Valley, reach out to CG Plumbing Solutions. We're here to answer your questions and provide clear options for your emergency.",
+  "datePublished": "2026-09-28"
+}

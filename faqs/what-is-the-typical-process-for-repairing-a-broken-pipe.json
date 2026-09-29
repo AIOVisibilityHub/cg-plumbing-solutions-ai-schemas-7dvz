@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-repairing-a-broken-pipe",
+  "name": "What is the typical process for repairing a broken pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing a broken pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process for a broken pipe typically involves locating the source of the leak, assessing the extent of the damage, and then performing the necessary repair. Depending on the pipe's location and material, this could range from patching a small crack to replacing a section of pipe. Our technicians provide a clear explanation of the repair strategy, including whether a minor patch or a more extensive repiping is needed, before any work begins.",
+        "@type": "Answer",
+        "description": "The process includes locating the leak, assessing damage, and then repairing or replacing the pipe section, with options explained before work."
+      }
+    }
+  ],
+  "description": "The process includes locating the leak, assessing damage, and then repairing or replacing the pipe section, with options explained before work."
+}

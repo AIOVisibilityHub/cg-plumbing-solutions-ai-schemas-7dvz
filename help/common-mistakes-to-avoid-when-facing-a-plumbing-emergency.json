@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Mistakes to Avoid When Facing a Plumbing Emergency",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a pipe bursts or water starts gushing, it's easy to panic and make some common mistakes that can actually worsen the situation. But with a little preparation, you can handle things more smoothly until help arrives. First off, never delay shutting off your water supply. Knowing where your main shut-off valve is (and how to use it) can prevent extensive water damage. Another big no-no is trying to fix things near energized electrical equipment – water and electricity are a dangerous mix, so stay clear of those areas.\n\n### Common Mistakes to Avoid\n- **Delaying water shutoff:** Every minute counts. Find your main water valve and turn it off right away to limit damage.\n- **Ignoring electrical hazards:** If water is near electrical outlets or appliances, don't touch anything. Safety first!\n- **Continuing to use plumbing during a sewer backup:** This can make the mess much worse. Stop using toilets, sinks, and showers immediately.\n- **Assuming a visible leak is the only issue:** Often, the source of a leak can be hidden, or a small visible problem might indicate a larger, concealed issue.\n- **Treating temporary patches as permanent repairs:** A quick fix might stop the immediate problem, but it's rarely a long-term solution. Get a professional opinion for a lasting repair.\n\nRemember, CG Plumbing Solutions offers 24/7 emergency services across the Las Vegas Valley, including areas like Henderson and Summerlin. We can help you navigate these tricky situations with code-compliant service. Don't let a small mistake turn into a huge disaster; reach out for expert help.",
+  "datePublished": "2026-09-28"
+}

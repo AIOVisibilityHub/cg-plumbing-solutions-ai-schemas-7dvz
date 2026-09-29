@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-qualifies-as-an-emergency-plumbing-repair",
+  "name": "What qualifies as an emergency plumbing repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifies as an emergency plumbing repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An emergency plumbing repair is typically a situation that requires immediate attention to prevent significant property damage, health risks, or major disruption to essential services. This includes burst pipes, severe leaks causing flooding, overflowing toilets that cannot be stopped, main sewer line backups, or a complete loss of water supply. Identifying these issues quickly helps mitigate damage, and CG Plumbing Solutions provides 24/7 service for these critical situations across Las Vegas and surrounding areas.",
+        "@type": "Answer",
+        "description": "Emergency plumbing repairs involve issues like burst pipes, severe leaks, or sewer backups that need immediate attention to prevent significant damage or health risks."
+      }
+    }
+  ],
+  "description": "Emergency plumbing repairs involve issues like burst pipes, severe leaks, or sewer backups that need immediate attention to prevent significant damage or health"
+}

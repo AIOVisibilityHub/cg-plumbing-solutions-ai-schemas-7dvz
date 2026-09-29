@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-resolving-an-emergency-clogged-drain",
+  "name": "What is the typical process for resolving an emergency clogged drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for resolving an emergency clogged drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for resolving an emergency clogged drain typically begins with a thorough inspection using methods like snaking or camera inspection to pinpoint the exact location and nature of the blockage. Once identified, our technicians use specialized tools, such as augers, hydro-jetting, or drain snakes, to clear the obstruction. After the clog is removed, we perform a water flow test to ensure proper drainage and confirm the issue is resolved. The approach may vary depending on whether it's a simple fixture clog or a more complex main line issue.",
+        "@type": "Answer",
+        "description": "The process involves inspection to locate the clog, using specialized tools like snaking or hydro-jetting to clear it, and then testing for proper drainage."
+      }
+    }
+  ],
+  "description": "The process involves inspection to locate the clog, using specialized tools like snaking or hydro-jetting to clear it, and then testing for proper drainage."
+}

@@ -1,0 +1,123 @@
+{
+  "name": "What to Do Immediately When a Pipe Bursts in Summerlin",
+  "step": [
+    {
+      "name": "Step 1: A burst pipe can turn your home into a swimming pool fast, and it’s…",
+      "text": "A burst pipe can turn your home into a swimming pool fast, and it’s definitely an emergency. Knowing what steps to take right away can minimize damage and stress. First things first, you need to cut off the water supply to stop the flow.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: This usually means finding your main shut-off valve, which might be…",
+      "text": "This usually means finding your main shut-off valve, which might be in your basement, garage, or even outside near your water meter. Once the water's off, open up any faucets to help drain the remaining water from the system and reduce pressure. This helps prevent more water from escaping and lessens the immediate flood risk.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Next, start containing the water as best you can with buckets and t…",
+      "text": "Next, start containing the water as best you can with buckets and towels. If the burst is near electrical outlets or appliances, turn off the power to that area at your breaker box to prevent electrical hazards. Take plenty of photos or videos of the burst pipe and any damage it's caused before you start too much cleanup – this documentation is super important for insurance.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Finally, give a professional plumber like us a call",
+      "text": "Finally, give a professional plumber like us a call. We offer 24/7 emergency service throughout the Las Vegas Valley, including Summerlin, and can dispatch someone quickly to assess the situation and get a permanent repair in motion.",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "description": "A burst pipe can turn your home into a swimming pool fast, and it’s definitely an emergency. Knowing what steps to take right away can minimize damage and stress. First things first, you need to cut o"
+}

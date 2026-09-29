@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-i-need-a-water-heater-repair-versus-a-full-replacement",
+  "name": "How do I know if I need a water heater repair versus a full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a water heater repair versus a full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on several factors, including the age of your water heater, the severity of the problem, and the cost of repair. If your water heater is more than 10-12 years old, frequently needs repairs, or has a leaking tank, replacement is often more cost-effective in the long run. A technician can provide an assessment to help you weigh the immediate repair cost against the long-term benefits of a new, more energy-efficient unit. This evaluation involves considering both immediate functionality and future operational costs.",
+        "@type": "Answer",
+        "description": "Consider repair if your water heater is relatively new and the issue is minor; opt for replacement if it's old, frequently breaks down, or has a leaking tank."
+      }
+    }
+  ],
+  "description": "Consider repair if your water heater is relatively new and the issue is minor; opt for replacement if it's old, frequently breaks down, or has a leaking tank."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-cg-plumbing-solutions-handle-commercial-plumbing-emergencies",
+  "name": "Can CG Plumbing Solutions handle commercial plumbing emergencies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can CG Plumbing Solutions handle commercial plumbing emergencies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CG Plumbing Solutions is equipped to handle both residential and commercial plumbing emergencies across our service areas, including Las Vegas, North Las Vegas, and Henderson. Commercial plumbing systems are often more complex and require specialized knowledge and equipment. Our technicians have the experience to address the unique challenges presented by commercial properties, from large-scale pipe bursts to complex drainage issues, minimizing downtime and disruption to your business operations.",
+        "@type": "Answer",
+        "description": "Yes, CG Plumbing Solutions handles both residential and commercial plumbing emergencies, addressing the unique complexities of business plumbing systems."
+      }
+    }
+  ],
+  "description": "Yes, CG Plumbing Solutions handles both residential and commercial plumbing emergencies, addressing the unique complexities of business plumbing systems."
+}

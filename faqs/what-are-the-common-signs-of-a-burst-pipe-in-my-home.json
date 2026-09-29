@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-of-a-burst-pipe-in-my-home",
+  "name": "What are the common signs of a burst pipe in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a burst pipe in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a burst pipe include a sudden drop in water pressure, visible water stains on walls or ceilings, damp carpets or flooring, or the sound of running water behind walls when no fixtures are in use. You might also notice an unexplained increase in your water bill. If you detect any of these issues, it's crucial to act quickly to minimize potential water damage to your property. Knowing these signs can help you identify a problem early, which is a key preparation step before contacting a professional.",
+        "@type": "Answer",
+        "description": "Signs of a burst pipe include water pressure drops, visible water damage, unexplained sounds of running water, or a sudden increase in your water bill."
+      }
+    }
+  ],
+  "description": "Signs of a burst pipe include water pressure drops, visible water damage, unexplained sounds of running water, or a sudden increase in your water bill."
+}

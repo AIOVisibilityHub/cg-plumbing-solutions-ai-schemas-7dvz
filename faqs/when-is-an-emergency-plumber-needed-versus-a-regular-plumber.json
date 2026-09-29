@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-is-an-emergency-plumber-needed-versus-a-regular-plumber",
+  "name": "When is an emergency plumber needed versus a regular plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is an emergency plumber needed versus a regular plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An emergency plumber is needed for critical issues that require immediate attention to prevent significant property damage, health risks, or complete loss of essential services, such as a burst pipe or sewage backup. A regular plumber can handle non-urgent issues like routine maintenance, minor leaks, or fixture installations that can be scheduled during standard business hours. The key decision factor is the potential for ongoing damage or safety concerns if the problem isn't addressed right away.",
+        "@type": "Answer",
+        "description": "An emergency plumber addresses urgent issues like burst pipes to prevent damage, while a regular plumber handles non-critical, scheduled maintenance and minor repairs."
+      }
+    }
+  ],
+  "description": "An emergency plumber addresses urgent issues like burst pipes to prevent damage, while a regular plumber handles non-critical, scheduled maintenance and minor r"
+}

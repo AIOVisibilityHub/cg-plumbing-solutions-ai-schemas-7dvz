@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-qualifies-as-an-after-hours-plumbing-emergency",
+  "name": "What qualifies as an after-hours plumbing emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifies as an after-hours plumbing emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An after-hours plumbing emergency is typically any plumbing issue that poses an immediate risk of property damage, health hazard, or significant inconvenience, occurring outside of standard business hours. This includes severe leaks that cannot be contained, burst pipes, overflowing toilets, or a complete lack of water supply. Identifying the severity helps determine if immediate dispatch is necessary versus waiting for standard service appointments. If the issue can cause water damage or a health risk, it usually warrants emergency service.",
+        "@type": "Answer",
+        "description": "An after-hours plumbing emergency is any issue posing immediate risk of property damage, health hazard, or significant inconvenience outside standard hours."
+      }
+    }
+  ],
+  "description": "An after-hours plumbing emergency is any issue posing immediate risk of property damage, health hazard, or significant inconvenience outside standard hours."
+}

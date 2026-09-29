@@ -1,0 +1,175 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Your Sewer Backup Cleanup Checklist in Enterprise",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Your Sewer Backup Cleanup Checklist in Enterprise",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 10,
+    "itemListElement": [
+      {
+        "name": "Stop using all water and electricity — why this is essential for safety, preventing further contamination a…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Stop using all water and electricity — why this is essential for safety, preventing further contamination and electrical hazards."
+      },
+      {
+        "name": "Keep people and pets away from contaminated areas — why preventing exposure to raw sewage is paramount for…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Keep people and pets away from contaminated areas — why preventing exposure to raw sewage is paramount for health."
+      },
+      {
+        "name": "Contact your plumbing professional for repair — why the underlying issue needs to be addressed quickly to p…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Contact your plumbing professional for repair — why the underlying issue needs to be addressed quickly to prevent recurrence and further damage."
+      },
+      {
+        "name": "Document affected areas with photos/videos — why this helps with insurance claims and provides a record of…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Document affected areas with photos/videos — why this helps with insurance claims and provides a record of the damage."
+      },
+      {
+        "name": "Assess electrical systems with a professional before reuse — why electrical components that have been expos…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Assess electrical systems with a professional before reuse — why electrical components that have been exposed to water can be extremely dangerous if not properly inspected."
+      },
+      {
+        "name": "Safely remove sewage and standing water — why prompt removal minimizes property damage and reduces mold risk.",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Safely remove sewage and standing water — why prompt removal minimizes property damage and reduces mold risk."
+      },
+      {
+        "name": "Clean and disinfect all non-porous surfaces — why proper sanitation is vital to eliminate bacteria and path…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Clean and disinfect all non-porous surfaces — why proper sanitation is vital to eliminate bacteria and pathogens from hard surfaces."
+      },
+      {
+        "name": "Discard porous items that cannot be thoroughly disinfected — why materials like carpets, drywall, and uphol…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Discard porous items that cannot be thoroughly disinfected — why materials like carpets, drywall, and upholstered furniture often cannot be saved due to deep contamination."
+      },
+      {
+        "name": "Ensure affected areas are completely dried — why thorough drying prevents mold growth and structural damage.",
+        "@type": "ListItem",
+        "position": 9,
+        "description": "Ensure affected areas are completely dried — why thorough drying prevents mold growth and structural damage."
+      },
+      {
+        "name": "Keep records of all services and communications — why maintaining a paper trail is important for insurance,…",
+        "@type": "ListItem",
+        "position": 10,
+        "description": "Keep records of all services and communications — why maintaining a paper trail is important for insurance, future reference, and accountability."
+      }
+    ]
+  },
+  "articleBody": "A sewer backup in your Enterprise property is an emergency that requires immediate and careful attention. Beyond just fixing the pipe, dealing with the aftermath is crucial for health and safety. This checklist helps you manage the cleanup process and ensure you're addressing all the critical steps.\n\n- [ ] Stop using all water and electricity — why this is essential for safety, preventing further contamination and electrical hazards.\n- [ ] Keep people and pets away from contaminated areas — why preventing exposure to raw sewage is paramount for health.\n- [ ] Contact your plumbing professional for repair — why the underlying issue needs to be addressed quickly to prevent recurrence and further damage.\n- [ ] Document affected areas with photos/videos — why this helps with insurance claims and provides a record of the damage.\n- [ ] Assess electrical systems with a professional before reuse — why electrical components that have been exposed to water can be extremely dangerous if not properly inspected.\n- [ ] Safely remove sewage and standing water — why prompt removal minimizes property damage and reduces mold risk.\n- [ ] Clean and disinfect all non-porous surfaces — why proper sanitation is vital to eliminate bacteria and pathogens from hard surfaces.\n- [ ] Discard porous items that cannot be thoroughly disinfected — why materials like carpets, drywall, and upholstered furniture often cannot be saved due to deep contamination.\n- [ ] Ensure affected areas are completely dried — why thorough drying prevents mold growth and structural damage.\n- [ ] Keep records of all services and communications — why maintaining a paper trail is important for insurance, future reference, and accountability.\n\nHow to use this checklist:\nThis checklist serves as a guide for managing the immediate aftermath of a sewer backup. It's critical to prioritize safety first, then focus on stopping the source of the backup and beginning cleanup. For the repair of the plumbing issue itself and for comprehensive contamination remediation, always rely on licensed and insured professionals. CG Plumbing Solutions can help with the plumbing repairs and guide you on necessary next steps for cleanup in Enterprise.",
+  "datePublished": "2026-09-28"
+}

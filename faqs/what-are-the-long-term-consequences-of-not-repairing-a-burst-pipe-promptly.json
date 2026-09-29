@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-long-term-consequences-of-not-repairing-a-burst-pipe-promptly",
+  "name": "What are the long-term consequences of not repairing a burst pipe promptly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the long-term consequences of not repairing a burst pipe promptly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ignoring a burst pipe can lead to severe and costly long-term consequences. These include extensive water damage to your home's structure, potential mold growth which poses health risks, compromised electrical systems, and damage to personal belongings. Continuous water leakage can also erode foundations or create sinkholes over time. Prompt repair is a crucial decision factor to prevent escalating damages and maintain your home's safety and integrity.",
+        "@type": "Answer",
+        "description": "Not repairing a burst pipe promptly can cause extensive water damage, mold growth, electrical hazards, and structural issues, escalating repair costs."
+      }
+    }
+  ],
+  "description": "Not repairing a burst pipe promptly can cause extensive water damage, mold growth, electrical hazards, and structural issues, escalating repair costs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-immediately-if-i-discover-a-plumbing-leak",
+  "name": "What should I do immediately if I discover a plumbing leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I discover a plumbing leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover a plumbing leak, first and foremost, locate and shut off your main water supply to prevent further damage. Then, try to contain the water with buckets or towels. Clear any valuables from the affected area. Finally, contact CG Plumbing Solutions immediately for professional assistance. Our technicians can guide you through these initial steps over the phone and will arrive equipped to address the issue safely and efficiently.",
+        "@type": "Answer",
+        "description": "Immediately shut off your main water supply, contain the leak, clear valuables, and then call CG Plumbing Solutions for professional help."
+      }
+    }
+  ],
+  "description": "Immediately shut off your main water supply, contain the leak, clear valuables, and then call CG Plumbing Solutions for professional help."
+}

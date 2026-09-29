@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-plumbing-problems-can-cg-plumbing-solutions-handle-after-regular-bu",
+  "name": "What kind of plumbing problems can CG Plumbing Solutions handle after regular business hours?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of plumbing problems can CG Plumbing Solutions handle after regular business hours?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions provides after-hours services for a wide range of urgent plumbing problems. This includes burst pipes, severe leaks, clogged drains or toilets causing overflow, water heater malfunctions, and issues with sewer lines backing up. Our technicians are equipped to address critical situations that cannot wait until morning. We focus on stabilizing the emergency and performing necessary repairs to prevent further damage to your property.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions handles after-hours emergencies like burst pipes, severe leaks, clogged drains, water heater malfunctions, and sewer backups."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions handles after-hours emergencies like burst pipes, severe leaks, clogged drains, water heater malfunctions, and sewer backups."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-warranty-or-guarantee-do-you-offer-on-broken-pipe-repairs",
+  "name": "What kind of warranty or guarantee do you offer on broken pipe repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee do you offer on broken pipe repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We stand behind the quality of our broken pipe repairs with a satisfaction guarantee on our workmanship and parts. The specific terms of the warranty can vary depending on the type of repair performed and the materials used. We provide a detailed explanation of the applicable warranty for your specific repair, ensuring you understand the coverage for the work completed on your plumbing system.",
+        "@type": "Answer",
+        "description": "We offer a satisfaction guarantee on our broken pipe repair workmanship and parts. Specific warranty terms vary by repair type and materials, which we will detail."
+      }
+    }
+  ],
+  "description": "We offer a satisfaction guarantee on our broken pipe repair workmanship and parts. Specific warranty terms vary by repair type and materials, which we will deta"
+}

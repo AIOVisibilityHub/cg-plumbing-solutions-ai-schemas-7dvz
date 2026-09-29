@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-sewer-backup-and-a-simple-clogged-drain",
+  "name": "What is the difference between a sewer backup and a simple clogged drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a sewer backup and a simple clogged drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A simple clogged drain typically affects only one fixture, such as a sink or toilet, and is usually caused by localized debris. A sewer backup, however, indicates a blockage or issue in the main sewer line affecting multiple fixtures throughout your property, often manifesting in lower-level drains first. The key decision factor is the scope of the problem: if multiple drains are affected or you see sewage backing up in unusual places, it points to a main sewer line issue requiring professional intervention.",
+        "@type": "Answer",
+        "description": "A simple clog affects one drain, while a sewer backup impacts multiple fixtures due to a main sewer line issue, requiring professional service."
+      }
+    }
+  ],
+  "description": "A simple clog affects one drain, while a sewer backup impacts multiple fixtures due to a main sewer line issue, requiring professional service."
+}

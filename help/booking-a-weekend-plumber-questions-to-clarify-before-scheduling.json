@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Booking a Weekend Plumber: Questions to Clarify Before Scheduling",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Plumbing problems don't punch a time clock, and sometimes they decide to show up on a Saturday morning or Sunday afternoon. When you need a plumber on the weekend, it's smart to go in with a clear idea of what to ask to avoid any surprises. Folks often wonder if a company really dispatches on Saturdays, Sundays, and holidays, or if weekend service is only for emergencies. Getting a handle on potential weekend surcharges and the available arrival window can make a huge difference in your planning and budget. You want to feel confident that you're getting a professional who's transparent about their services and costs, not just someone claiming '24/7' without the backup to prove it.\n\n### Questions to Ask Before You Decide\nWhen you call for weekend service, always ask if they dispatch on the specific day you need, whether it’s a Saturday, Sunday, or even a holiday. Clarify if their weekend service is just for emergencies or if you can schedule routine work. A crucial question is about weekend surcharges – ask for clear pricing for the service call and any additional fees. Get a specific arrival window; 'sometime this afternoon' isn't helpful when you have plans. Importantly, ask if they can provide a written quote for the work *before* they begin. You should also verify their licensing and insurance to ensure you're working with a reputable professional. Understanding these points upfront helps you make an informed decision and manage expectations.\n\n### What to Do Next\nIf you're dealing with a plumbing issue on the weekend in areas like Summerlin, Henderson, or North Las Vegas, CG Plumbing Solutions is ready to help. Give us a call to discuss your needs and get your questions answered.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is a Plumbing Problem a True Emergency?",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's tough to know when a plumbing issue crosses the line from annoying to 'drop everything and call a pro' urgent. You definitely don't want to overreact, but ignoring real emergencies can lead to way bigger headaches and costs down the road. Generally, if water is actively flooding your home, coming through ceilings or walls, or if you're dealing with a sewer backup, it's emergency time. Things like repeated toilet overflows or a sudden loss of water throughout the house also signal you need immediate help.\n\n### What Can Change the Right Choice\nSometimes, what seems like a small issue can escalate quickly. A slow leak might be manageable, but if it's concealed behind a wall, it could be doing serious structural damage. Similarly, issues involving gas lines are never a 'wait and see' situation – those require immediate, professional attention. The best bet is always to err on the side of caution, especially when safety or significant property damage are on the line. For example, if you smell gas, don't wait for a plumber; leave the area and contact your gas utility immediately.\n\nWhen it comes to emergencies, having a licensed and insured plumber like CG Plumbing Solutions ready to go is crucial. We handle those critical situations and can help you figure out if what you're seeing needs immediate 24/7 attention. We're here for the Las Vegas Valley, so don't hesitate to reach out if you're unsure.",
+  "datePublished": "2026-09-28"
+}

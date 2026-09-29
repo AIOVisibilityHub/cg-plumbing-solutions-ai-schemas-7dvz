@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-can-cause-an-emergency-drain-clog-in-a-main-sewer-line",
+  "name": "What can cause an emergency drain clog in a main sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can cause an emergency drain clog in a main sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emergency drain clogs in a main sewer line are often caused by a combination of factors. Common culprits include tree root intrusion, which can grow into pipes and create blockages; accumulation of grease, hair, and non-flushable items over time; or even structural issues like collapsed or broken pipes. These types of clogs are particularly problematic as they can affect all plumbing fixtures in a property and often require professional intervention, such as hydro-jetting or pipe repair, to resolve. Understanding the cause is key to preventing future occurrences.",
+        "@type": "Answer",
+        "description": "Main sewer line clogs are often caused by tree roots, grease/debris buildup, or structural pipe damage, impacting all fixtures and requiring professional resolution."
+      }
+    }
+  ],
+  "description": "Main sewer line clogs are often caused by tree roots, grease/debris buildup, or structural pipe damage, impacting all fixtures and requiring professional resolu"
+}

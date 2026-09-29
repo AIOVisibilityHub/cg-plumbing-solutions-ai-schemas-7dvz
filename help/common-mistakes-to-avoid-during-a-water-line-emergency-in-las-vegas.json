@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Mistakes to Avoid During a Water Line Emergency in Las Vegas",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a water line emergency hits your Las Vegas property, it’s easy to panic and make common mistakes that can worsen the situation or even create safety hazards. One of the biggest no-nos is continuing to use water once you've spotted a significant leak. Every flush, every faucet turn, just adds more pressure to the compromised line and can lead to more extensive damage. Another frequent error is trying to force a seized shutoff valve. If it won't budge, don't muscle it; you could break it and turn a bad situation into a catastrophe. Also, never, ever enter standing water near electrical equipment without first ensuring the power is off from a dry, safe location. Your safety is paramount.\n\n### Common Mistakes to Avoid\n- **Continuing to use water:** Even a small leak can become a flood if you keep using your plumbing. Shut off the main water valve immediately to prevent further damage.\n- **Forcing a stubborn shutoff valve:** If a valve is stuck, forcing it can cause it to break entirely, creating a new, uncontrollable leak. It's better to call a professional.\n- **Ignoring potential electrical hazards:** Water and electricity are a dangerous mix. Always shut off power to affected areas if water is pooling near outlets or appliances before approaching.\n- **Assuming a visible leak is the only problem:** Sometimes, what you see is just the tip of the iceberg. A professional can detect hidden damage or other weak points.\n- **Delaying professional help:** For main line issues or concealed leaks, a licensed plumber like CG Plumbing Solutions can address the problem safely and effectively, minimizing long-term damage and ensuring code-compliant repairs.\n\nFor expert emergency water line repair and guidance in Las Vegas, contact CG Plumbing Solutions.",
+  "datePublished": "2026-09-28"
+}

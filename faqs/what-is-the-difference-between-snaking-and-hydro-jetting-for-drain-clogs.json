@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-snaking-and-hydro-jetting-for-drain-clogs",
+  "name": "What is the difference between snaking and hydro-jetting for drain clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between snaking and hydro-jetting for drain clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Snaking, also known as drain cabling, involves inserting a long, flexible auger into the drain to break apart or retrieve a blockage. It's effective for common clogs like hair or small obstructions. Hydro-jetting, on the other hand, uses a high-pressure stream of water to thoroughly clean the inside of pipes, removing stubborn blockages, grease buildup, and tree roots. Hydro-jetting is a more comprehensive cleaning method, often used for severe clogs or main sewer lines, while snaking is usually a first step for less complex issues. Both are tools CG Plumbing Solutions employs depending on the clog's nature.",
+        "@type": "Answer",
+        "description": "Snaking uses an auger to break up clogs, while hydro-jetting uses high-pressure water to clean pipes thoroughly. Hydro-jetting is for severe clogs, snaking for simpler ones."
+      }
+    }
+  ],
+  "description": "Snaking uses an auger to break up clogs, while hydro-jetting uses high-pressure water to clean pipes thoroughly. Hydro-jetting is for severe clogs, snaking for"
+}

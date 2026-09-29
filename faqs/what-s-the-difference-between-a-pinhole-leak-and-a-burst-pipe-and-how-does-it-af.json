@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-pinhole-leak-and-a-burst-pipe-and-how-does-it-af",
+  "name": "What's the difference between a pinhole leak and a burst pipe, and how does it affect repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a pinhole leak and a burst pipe, and how does it affect repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pinhole leak is a small, often insidious leak that develops over time, typically from corrosion, causing minimal but continuous water loss. A burst pipe is a sudden, catastrophic failure, usually due to freezing, high pressure, or impact, leading to rapid and significant flooding. Pinhole leaks may require section replacement, while burst pipes often demand immediate and more extensive repair or replacement of the damaged section. The severity dictates the immediate actions and repair complexity.",
+        "@type": "Answer",
+        "description": "Pinhole leaks are small, slow drips from corrosion, while burst pipes are sudden, large failures. Burst pipes require more urgent and extensive repairs."
+      }
+    }
+  ],
+  "description": "Pinhole leaks are small, slow drips from corrosion, while burst pipes are sudden, large failures. Burst pipes require more urgent and extensive repairs."
+}

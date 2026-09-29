@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-if-my-emergency-plumbing-issue-requires-parts-that-aren-t-readily-available",
+  "name": "What if my emergency plumbing issue requires parts that aren't readily available on a holiday?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my emergency plumbing issue requires parts that aren't readily available on a holiday?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In cases where a holiday emergency plumbing issue requires a specific part that is not immediately available, our technicians will do their best to implement a temporary solution to prevent further damage and restore essential services if possible. We carry a wide range of common parts on our service vehicles. If a specialized part is needed, we will order it for delivery on the next available business day and schedule a follow-up appointment to complete the permanent repair, keeping you informed throughout the process.",
+        "@type": "Answer",
+        "description": "If a specific part is unavailable on a holiday, we'll provide a temporary fix and schedule a follow-up for permanent repairs when the part arrives."
+      }
+    }
+  ],
+  "description": "If a specific part is unavailable on a holiday, we'll provide a temporary fix and schedule a follow-up for permanent repairs when the part arrives."
+}

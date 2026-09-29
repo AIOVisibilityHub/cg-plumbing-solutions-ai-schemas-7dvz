@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-before-an-emergency-plumber-arrives",
+  "name": "What should I do before an emergency plumber arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before an emergency plumber arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an emergency plumber arrives, your first step should be to shut off the main water supply to your property to prevent further damage, if the issue is water-related. If you have a water heater issue, you might also need to turn off its power source. Clear the area around the leak or affected fixture to provide easy access for the technician. Documenting the problem with photos or videos can also be helpful for the plumber and for any potential insurance claims.",
+        "@type": "Answer",
+        "description": "Before an emergency plumber arrives, shut off your main water supply, clear the affected area, and consider taking photos of the damage."
+      }
+    }
+  ],
+  "description": "Before an emergency plumber arrives, shut off your main water supply, clear the affected area, and consider taking photos of the damage."
+}

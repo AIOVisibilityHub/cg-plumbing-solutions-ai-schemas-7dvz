@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-does-cg-plumbing-solutions-typically-diagnose-a-water-line-leak",
+  "name": "How does CG Plumbing Solutions typically diagnose a water line leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does CG Plumbing Solutions typically diagnose a water line leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions uses various methods to accurately diagnose water line leaks. These can include visual inspection for obvious signs like wet spots, using listening devices to pinpoint underground leaks, or conducting pressure tests to identify drops in system pressure. In some cases, specialized equipment like camera inspections might be used for hard-to-reach areas. Accurate diagnosis is crucial for effective and minimally invasive repair.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions diagnoses water line leaks using visual inspections, listening devices, pressure tests, and sometimes camera inspections for precision."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions diagnoses water line leaks using visual inspections, listening devices, pressure tests, and sometimes camera inspections for precision."
+}

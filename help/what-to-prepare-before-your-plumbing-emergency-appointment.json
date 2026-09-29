@@ -1,0 +1,145 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Prepare Before Your Plumbing Emergency Appointment",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "What to Prepare Before Your Plumbing Emergency Appointment",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 5,
+    "itemListElement": [
+      {
+        "name": "Shut off the main water supply: This is paramount to prevent further damage. If you don't know where it is,…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Shut off the main water supply: This is paramount to prevent further damage. If you don't know where it is, locate it now for future reference."
+      },
+      {
+        "name": "Clear the area around the problem: Make it easy for the plumber to access the affected pipes, fixtures, or…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Clear the area around the problem: Make it easy for the plumber to access the affected pipes, fixtures, or appliances."
+      },
+      {
+        "name": "Document the damage: Take photos or videos. This can be helpful for both diagnosis and potential insurance…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Document the damage: Take photos or videos. This can be helpful for both diagnosis and potential insurance claims."
+      },
+      {
+        "name": "Have an explanation ready: Be prepared to describe exactly what happened, when it started, and any symptoms…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Have an explanation ready: Be prepared to describe exactly what happened, when it started, and any symptoms you've noticed."
+      },
+      {
+        "name": "Ask about arrival times and diagnostic fees: Get clarity on what to expect, including any after-hours charg…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Ask about arrival times and diagnostic fees: Get clarity on what to expect, including any after-hours charges if applicable, especially from 24/7 services."
+      }
+    ]
+  },
+  "articleBody": "Facing a plumbing emergency is stressful enough without scrambling when the plumber arrives. Getting a few things ready beforehand can really help speed up the process and get your home back to normal faster. Think of it as your emergency plumbing checklist! First, locate your main water shut-off valve and turn it off if you haven't already. This is usually the first thing any plumber will ask about. Also, try to contain any active leaks as best you can with buckets or towels, but only if it's safe to do so and away from electrical hazards.\n\n### What to Prepare Before You Start\n- **Shut off the main water supply:** This is paramount to prevent further damage. If you don't know where it is, locate it now for future reference.\n- **Clear the area around the problem:** Make it easy for the plumber to access the affected pipes, fixtures, or appliances.\n- **Document the damage:** Take photos or videos. This can be helpful for both diagnosis and potential insurance claims.\n- **Have an explanation ready:** Be prepared to describe exactly what happened, when it started, and any symptoms you've noticed.\n- **Ask about arrival times and diagnostic fees:** Get clarity on what to expect, including any after-hours charges if applicable, especially from 24/7 services.\n\nBeing prepared helps us at CG Plumbing Solutions diagnose and address your issue more efficiently. We're a local Las Vegas company providing 24/7 emergency service, and we're ready to help residents and businesses in areas like North Las Vegas and Spring Valley. Knowing you've done what you can helps us do our job effectively. Give us a call when you need us.",
+  "datePublished": "2026-09-28"
+}

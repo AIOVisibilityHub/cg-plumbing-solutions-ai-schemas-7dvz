@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-qualifies-as-an-emergency-plumbing-leak",
+  "name": "What qualifies as an emergency plumbing leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifies as an emergency plumbing leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An emergency plumbing leak is typically one that causes immediate property damage, poses a risk to safety, or disrupts essential services. This includes burst pipes, severe water heater leaks, overflowing toilets that cannot be stopped, or active leaks that are flooding your property. Non-emergencies, like a slow drip under a sink, can usually wait for a scheduled repair. Understanding this distinction helps determine the urgency of your service request.",
+        "@type": "Answer",
+        "description": "An emergency leak causes immediate damage, safety risks, or disrupts essential services, such as burst pipes or flooding. Non-emergencies like slow drips can often wait."
+      }
+    }
+  ],
+  "description": "An emergency leak causes immediate damage, safety risks, or disrupts essential services, such as burst pipes or flooding. Non-emergencies like slow drips can of"
+}

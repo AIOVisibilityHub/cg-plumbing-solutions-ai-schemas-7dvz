@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Dealing with a Burst Pipe: When to Call for Emergency Help in Las Vegas",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a pipe bursts, it’s not just a minor inconvenience; it's an urgent situation that can cause significant damage to your Las Vegas home or business. While you can handle some immediate steps yourself, knowing when to bring in the pros is critical. If the burst pipe is concealed behind a wall, ceiling, or under a floor, that’s a clear sign you need expert help. Trying to find and fix it yourself could cause more damage or lead to an incomplete repair. Similarly, if multiple sections of your plumbing are affected, or if the water has caused extensive damage to drywall, flooring, or ceilings, a qualified plumber can properly assess and address the structural concerns. Professional plumbers like us have the tools to detect the exact location of the burst and perform code-compliant repairs, ensuring everything is put back together safely and effectively. We're licensed and insured, which means you're protected, and we can guide you through the process, even coordinating with necessary inspections if required. Don't risk a DIY fix when the problem is complex or involves potential freezing issues; our 24/7 emergency team in Las Vegas is ready to help.",
+  "datePublished": "2026-09-28"
+}

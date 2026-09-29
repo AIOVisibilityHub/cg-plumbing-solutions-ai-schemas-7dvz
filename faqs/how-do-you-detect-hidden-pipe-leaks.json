@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-you-detect-hidden-pipe-leaks",
+  "name": "How do you detect hidden pipe leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you detect hidden pipe leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Detecting hidden pipe leaks involves using specialized equipment such as acoustic leak detectors, thermal imaging cameras, and moisture meters. These tools allow us to pinpoint the exact location of a leak behind walls, under floors, or underground without unnecessary demolition. Our trained technicians use these methods to accurately diagnose the problem, minimizing invasive procedures and reducing the overall impact on your property.",
+        "@type": "Answer",
+        "description": "Hidden leaks are detected using specialized equipment like acoustic detectors, thermal cameras, and moisture meters to precisely locate the source without extensive demolition."
+      }
+    }
+  ],
+  "description": "Hidden leaks are detected using specialized equipment like acoustic detectors, thermal cameras, and moisture meters to precisely locate the source without exten"
+}

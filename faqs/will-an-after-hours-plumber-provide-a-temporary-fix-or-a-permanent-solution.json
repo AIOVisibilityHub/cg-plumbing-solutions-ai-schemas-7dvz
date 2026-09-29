@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-an-after-hours-plumber-provide-a-temporary-fix-or-a-permanent-solution",
+  "name": "Will an after-hours plumber provide a temporary fix or a permanent solution?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an after-hours plumber provide a temporary fix or a permanent solution?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An after-hours plumber typically aims to provide a permanent solution to the immediate plumbing emergency whenever possible. However, if a permanent repair requires specialized parts that are not readily available after hours or extensive work, a temporary fix may be implemented to stop the immediate issue and prevent further damage. In such cases, the technician will discuss options for a follow-up appointment during regular business hours to complete any remaining work. Our priority is to secure your property from immediate harm.",
+        "@type": "Answer",
+        "description": "After-hours plumbers aim for permanent solutions, but may provide temporary fixes if specialized parts are needed, with follow-up options."
+      }
+    }
+  ],
+  "description": "After-hours plumbers aim for permanent solutions, but may provide temporary fixes if specialized parts are needed, with follow-up options."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-look-for-in-an-emergency-plumbing-service-guarantee",
+  "name": "What should I look for in an emergency plumbing service guarantee?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in an emergency plumbing service guarantee?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When evaluating an emergency plumbing service guarantee, look for clarity on what is covered, the duration of the guarantee, and the specific conditions that apply. A robust guarantee typically covers the workmanship and parts for a reasonable period after the repair. Understanding the scope of the guarantee is a practical tradeoff: a more comprehensive guarantee might indicate higher initial service quality, providing peace of mind against recurring issues, while a limited one might come with a lower immediate cost but less long-term assurance.",
+        "@type": "Answer",
+        "description": "Look for clarity on what an emergency plumbing guarantee covers, its duration, and conditions. A robust guarantee typically covers workmanship and parts for a reasonable period."
+      }
+    }
+  ],
+  "description": "Look for clarity on what an emergency plumbing guarantee covers, its duration, and conditions. A robust guarantee typically covers workmanship and parts for a r"
+}

@@ -1,0 +1,135 @@
+{
+  "name": "What Happens During a Burst Pipe Repair",
+  "step": [
+    {
+      "name": "Step 1: Emergency Shutoff. The first thing a plumber will do is ensure the water supply to your property is fully isolated, if you haven't already. This stops the active leak and prevents further damage. They'll also make sure the area is safe, especially concerning electrical hazards.",
+      "text": "Step 1: Emergency Shutoff. The first thing a plumber will do is ensure the water supply to your property is fully isolated, if you haven't already. This stops the active leak and prevents further damage. They'll also make sure the area is safe, especially concerning electrical hazards.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Locate and Assess. Next, they'll pinpoint the exact location of the burst and evaluate the extent of the damage. This might involve looking behind walls or under floors, especially if the leak is concealed. They'll determine the pipe material and the best repair method.",
+      "text": "Step 2: Locate and Assess. Next, they'll pinpoint the exact location of the burst and evaluate the extent of the damage. This might involve looking behind walls or under floors, especially if the leak is concealed. They'll determine the pipe material and the best repair method.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Remove Damaged Section. The burst section of the pipe will be carefully removed. This ensures that any compromised material is gone and a clean surface is available for the new connection. Depending on the pipe type and location, this might require some access work.",
+      "text": "Step 3: Remove Damaged Section. The burst section of the pipe will be carefully removed. This ensures that any compromised material is gone and a clean surface is available for the new connection. Depending on the pipe type and location, this might require some access work.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Install New Section. A compatible repair section is then installed. This could be a new piece of pipe with couplings, or a specialized fitting designed for burst repairs. Licensed plumbers like CG Plumbing Solutions use code-compliant methods and materials to ensure a durable fix.",
+      "text": "Step 4: Install New Section. A compatible repair section is then installed. This could be a new piece of pipe with couplings, or a specialized fitting designed for burst repairs. Licensed plumbers like CG Plumbing Solutions use code-compliant methods and materials to ensure a durable fix.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Pressure Test and Restore. After the repair, the plumber will pressure-test the new section to confirm there are no leaks before restoring the water supply. If the repair holds, water service is slowly brought back online. Any necessary cleanup of the work area will also occur.",
+      "text": "Step 5: Pressure Test and Restore. After the repair, the plumber will pressure-test the new section to confirm there are no leaks before restoring the water supply. If the repair holds, water service is slowly brought back online. Any necessary cleanup of the work area will also occur.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Water Damage Remediation. While the plumber fixes the pipe, addressing the resulting water damage is a separate but critical step. CG Plumbing Solutions can repair the source of the leak, and for extensive water damage, coordinating with a water damage restoration contractor for extraction and drying is often necessary. They handle the extraction of standing water and drying of affected materials, which can take 2-5 days depending on the scope. For dependable burst pipe repair in Las Vegas, reach out to CG Plumbing Solutions.",
+      "text": "Step 6: Water Damage Remediation. While the plumber fixes the pipe, addressing the resulting water damage is a separate but critical step. CG Plumbing Solutions can repair the source of the leak, and for extensive water damage, coordinating with a water damage restoration contractor for extraction and drying is often necessary. They handle the extraction of standing water and drying of affected materials, which can take 2-5 days depending on the scope. For dependable burst pipe repair in Las Vegas, reach out to CG Plumbing Solutions.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Emergency Shutoff. The first thing a plumber will do is ensure the water supply to your property is fully isolated, if you haven't already. This stops the active leak and prevents further dama"
+}

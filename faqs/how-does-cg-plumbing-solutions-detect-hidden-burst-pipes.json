@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-does-cg-plumbing-solutions-detect-hidden-burst-pipes",
+  "name": "How does CG Plumbing Solutions detect hidden burst pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does CG Plumbing Solutions detect hidden burst pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions utilizes advanced detection methods to locate hidden burst pipes, even those not visible behind walls or under floors. This often involves using specialized equipment like acoustic leak detectors, thermal imaging cameras, or moisture meters to precisely pinpoint the source of the leak. Our process clarity ensures we minimize the need for unnecessary demolition, focusing precisely on the affected area to reduce repair time and costs.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions uses acoustic detectors, thermal imaging, and moisture meters to precisely locate hidden burst pipes and minimize demolition."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions uses acoustic detectors, thermal imaging, and moisture meters to precisely locate hidden burst pipes and minimize demolition."
+}

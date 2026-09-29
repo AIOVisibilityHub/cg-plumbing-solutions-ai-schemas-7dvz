@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-a-24-7-emergency-plumbing-service-call",
+  "name": "What is the typical process for a 24/7 emergency plumbing service call?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a 24/7 emergency plumbing service call?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When you call CG Plumbing Solutions for an emergency, our dispatcher will gather details about your plumbing issue. Upon arrival, our technician will conduct an immediate assessment to identify the problem's source and severity. They will then explain the necessary repairs and provide an upfront estimate. Once approved, the plumber will proceed with the repair. After the repair is complete, they will test the system to ensure it's functioning correctly and advise you on any preventative measures. This process ensures transparent communication and effective resolution during stressful situations.",
+        "@type": "Answer",
+        "description": "An emergency plumbing service call involves an initial assessment, explanation of repairs with an upfront estimate, immediate repair, and post-repair testing and advice from our technician."
+      }
+    }
+  ],
+  "description": "An emergency plumbing service call involves an initial assessment, explanation of repairs with an upfront estimate, immediate repair, and post-repair testing an"
+}

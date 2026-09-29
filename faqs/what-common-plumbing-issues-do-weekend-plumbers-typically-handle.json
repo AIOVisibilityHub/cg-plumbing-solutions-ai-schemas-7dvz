@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-common-plumbing-issues-do-weekend-plumbers-typically-handle",
+  "name": "What common plumbing issues do weekend plumbers typically handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common plumbing issues do weekend plumbers typically handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Weekend plumbers commonly handle emergencies such as burst pipes, severe leaks, clogged drains causing backups, overflowing toilets, and water heater failures. These are often issues that cannot wait until regular business hours without causing significant inconvenience or damage. CG Plumbing Solutions is equipped to address a wide range of these critical plumbing problems across the Las Vegas area during weekends.",
+        "@type": "Answer",
+        "description": "Weekend plumbers address emergencies like burst pipes, severe leaks, major clogs, overflowing toilets, and water heater failures."
+      }
+    }
+  ],
+  "description": "Weekend plumbers address emergencies like burst pipes, severe leaks, major clogs, overflowing toilets, and water heater failures."
+}

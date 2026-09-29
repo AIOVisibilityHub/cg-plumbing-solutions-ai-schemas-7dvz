@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-qualifies-as-an-emergency-clogged-drain",
+  "name": "What qualifies as an emergency clogged drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifies as an emergency clogged drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An emergency clogged drain typically involves a complete blockage preventing water from draining, often affecting multiple fixtures or causing wastewater to back up into sinks, tubs, or toilets. This can lead to unsanitary conditions or water damage if not addressed quickly. Issues like a single slow-draining sink are usually not emergencies, but a sewage backup into your home is a critical situation requiring immediate plumbing attention. CG Plumbing Solutions prioritizes these urgent issues to minimize disruption and potential damage to your property.",
+        "@type": "Answer",
+        "description": "An emergency clogged drain involves a complete blockage, often affecting multiple fixtures or causing sewage backup, requiring immediate attention to prevent damage or unsanitary conditions."
+      }
+    }
+  ],
+  "description": "An emergency clogged drain involves a complete blockage, often affecting multiple fixtures or causing sewage backup, requiring immediate attention to prevent da"
+}

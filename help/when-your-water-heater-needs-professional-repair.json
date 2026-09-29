@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Water Heater Needs Professional Repair",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s not always obvious when a water heater issue crosses the line from a minor annoyance to a situation demanding professional attention. But for your safety and to prevent further damage, it's really important to know when to call in the experts. You should definitely contact a qualified plumber if you observe active water flow from the unit or substantial water on the floor around it. If the tank itself is leaking, especially from the base or a seam, that's a strong indicator that the tank has failed and likely needs replacement, which is a job for a professional. Another urgent sign is if the temperature-and-pressure relief (T&P) valve is continuously discharging water; this isn't normal and suggests a problem with pressure or temperature inside the tank. If you ever smell gas near your water heater or suspect a gas leak, leave the area immediately and contact your gas utility or emergency services from a safe distance before calling a plumber. Issues related to combustion venting for gas units also require professional diagnosis. If any electrical components are wet, or if the source of a leak or problem is unclear, it’s best to call in a pro. And, of course, any repair involving pressurized, gas, or high-voltage components is inherently risky and should only be handled by a licensed and insured plumber. At CG Plumbing Solutions, we have the expertise to safely diagnose and repair or replace all types of water heaters. When Professional Guidance Helps: When your tank is leaking, the relief valve discharges continuously, gas or venting issues are suspected, electrical components are wet, the source of the problem is unclear, or if corrosion is present, professional help is essential. What to Do Next: For any of these serious water heater concerns, call CG Plumbing Solutions at (702) 843-0899 for expert service throughout the Las Vegas Valley.",
+  "datePublished": "2026-09-28"
+}

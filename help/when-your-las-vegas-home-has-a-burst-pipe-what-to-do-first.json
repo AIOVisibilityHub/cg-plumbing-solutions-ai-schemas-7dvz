@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Las Vegas Home has a Burst Pipe: What to Do First",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering a burst pipe can be really stressful, especially if water is gushing out. Your first few actions are crucial to minimize damage and ensure safety. It's not just about the water, but also potential electrical hazards. The good news is, a quick response can make a huge difference.\n\nWhat to Do Next\nFirst, isolate the water supply immediately. Find your main shutoff valve and turn it off. This stops the flow and buys you time. Next, make sure the affected area is electrically safe. If there's standing water near outlets or appliances, avoid contact and consider turning off power to that section of your home at the breaker. After that, open faucets and flush toilets to relieve any remaining pressure in the system. Documenting the damage with photos or videos right away is also super helpful, especially for insurance purposes. Don't start major cleanup or demolition before you've captured the initial state. Finally, once the immediate crisis is under control, reach out to a licensed professional, like CG Plumbing Solutions, who can handle the repair and guide you through the next steps, including coordinating with water-damage restoration if needed. We’re available 24/7 in Las Vegas and surrounding areas.",
+  "datePublished": "2026-09-28"
+}

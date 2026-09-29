@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-information-should-i-have-ready-before-calling-for-emergency-water-heater-r",
+  "name": "What information should I have ready before calling for emergency water heater repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before calling for emergency water heater repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before calling for emergency water heater repair, it's helpful to have information about your water heater's type (gas or electric), approximate age, and a description of the problem. Note any unusual sounds, smells, or visible leaks, and if possible, the brand and model number. This information helps our technicians understand the potential issue even before arrival, allowing them to prepare and bring appropriate tools or parts, which can streamline the repair process.",
+        "@type": "Answer",
+        "description": "Have your water heater's type, age, and a description of the problem ready. This helps technicians prepare and ensures a more efficient repair."
+      }
+    }
+  ],
+  "description": "Have your water heater's type, age, and a description of the problem ready. This helps technicians prepare and ensures a more efficient repair."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-plumbing-issues-are-common-during-the-holidays",
+  "name": "What plumbing issues are common during the holidays?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing issues are common during the holidays?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During the holidays, common plumbing issues often arise from increased household activity and usage. This includes clogged kitchen drains from food waste, backed-up garbage disposals, overloaded toilets due to more guests, and water heater failures from increased demand. Frozen or burst pipes can also occur in colder temperatures, especially if homes are left unheated while residents travel. Understanding these common problems can help you take preventative measures.",
+        "@type": "Answer",
+        "description": "Common holiday plumbing issues include clogged kitchen drains, backed-up disposals, overloaded toilets, and water heater failures from increased use."
+      }
+    }
+  ],
+  "description": "Common holiday plumbing issues include clogged kitchen drains, backed-up disposals, overloaded toilets, and water heater failures from increased use."
+}

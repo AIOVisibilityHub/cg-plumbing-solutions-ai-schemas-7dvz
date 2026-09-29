@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-prevent-common-plumbing-emergencies",
+  "name": "Can I prevent common plumbing emergencies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent common plumbing emergencies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not all plumbing emergencies are preventable, many common issues can be avoided through regular maintenance and mindful habits. Avoid pouring grease down drains, be careful about what goes into your garbage disposal, and periodically check for leaks under sinks and around appliances. During colder months, insulating exposed pipes can prevent freezing and bursting, a particularly relevant consideration for homes in areas like Las Vegas where temperatures can drop unexpectedly. Regular inspections by a professional can also identify potential problems before they become emergencies.",
+        "@type": "Answer",
+        "description": "Many plumbing emergencies can be prevented by avoiding grease in drains, being careful with disposals, checking for leaks, and insulating pipes in cold weather."
+      }
+    }
+  ],
+  "description": "Many plumbing emergencies can be prevented by avoiding grease in drains, being careful with disposals, checking for leaks, and insulating pipes in cold weather."
+}

@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Water Heater Burst in Las Vegas — What Now?",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering a burst water heater is definitely one of those 'Oh no!' moments, especially if it happens out of the blue in your Las Vegas home. Don't panic, though; taking quick action can save you a lot of trouble and damage. The immediate goal is to stop the water flow and assess the situation safely. CG Plumbing Solutions is here 24/7 to help, but there are a couple of things you can do right away to get things under control.\n\n**What to Do Next**\n\nFirst, if it’s safe to do so, try to shut off the water supply to the water heater. There should be a cold water shut-off valve on the pipe leading into the top of the unit. Turn it clockwise until the water stops. If you can't find it or it's not working, you'll need to turn off the main water supply to your entire house. This is usually near your water meter or where the main water line enters your home. Once the water is off, open a few faucets in your house to relieve any remaining pressure in the pipes. This helps drain any lingering water in the system.\n\nNext, assess if there’s any electrical risk. If water is near electrical outlets, appliances, or your electrical panel, stay clear and don't touch any switches. It’s always safer to turn off the power to the water heater at your electrical breaker box if you know how to do so safely. Start soaking up the water with towels and buckets to minimize damage, and move any valuables away from the affected area. Documenting the damage with photos can also be really helpful for insurance later on. Remember, forcing valves or trying to patch a burst pipe yourself can often make things worse.\n\nA qualified plumber becomes super important here. A burst water heater isn't just about the immediate leak; it often points to a larger issue with the unit itself, or perhaps even your home's water pressure. You'll need an expert to properly diagnose the cause, recommend whether it's a repair or replacement job, and ensure everything is up to code. This isn't a DIY situation, especially with gas lines or electrical components involved. CG Plumbing Solutions can help you get this resolved quickly and correctly, with clear options before work begins.\n\nReady for professional help? Call CG Plumbing Solutions at (702) 843-0899 to get a licensed technician to your Las Vegas property.",
+  "datePublished": "2026-09-28"
+}

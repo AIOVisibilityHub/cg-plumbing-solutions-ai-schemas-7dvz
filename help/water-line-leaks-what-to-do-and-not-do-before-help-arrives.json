@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Water Line Leaks: What to Do (and Not Do) Before Help Arrives",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering a water line leak, especially an emergency one, can be quite startling. Your first priority is always safety and minimizing water damage. The very first step is to shut off the water supply. If it’s a localized leak, like under a sink, close the fixture valve. But if it's a larger issue, or you can't find the specific valve, you need to turn off the main water supply to your home or business. Knowing where this main valve is located before an emergency hits can save you a lot of stress and damage. Remember, never try to force a valve that's stuck or seems like it might break; it's better to call for professional help right away.\n\nOnce the water is off, keep everyone, especially kids and pets, away from any standing water, especially if it’s near electrical outlets, appliances, or wiring. Water and electricity are a dangerous combination, so exercise extreme caution. Avoid operating any electrical equipment in the affected area.\n\n**Common Mistakes to Avoid**\n\nOne big mistake people often make is confusing a local fixture valve with the whole-house shutoff. Another is waiting until an emergency to actually locate or test their main shutoff valve – do it now, not later! Don’t turn the water back on until a professional has clearly identified and repaired the source of the leak and confirmed it’s safe. Attempting DIY repairs on main water lines, especially if they are concealed or underground, without the proper tools and expertise can lead to bigger, more costly problems down the road. When the main line is involved, or the leak is hidden, that's when a licensed professional like CG Plumbing Solutions truly matters. They're equipped to handle complex leak detection and repair, ensuring everything is done correctly and to code.",
+  "datePublished": "2026-09-28"
+}

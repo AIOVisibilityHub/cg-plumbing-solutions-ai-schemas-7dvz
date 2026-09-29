@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Suddenly No Hot Water: After-Hours Fixes You Can Try in Enterprise",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Waking up to no hot water, especially after hours or on a weekend, can throw a wrench in your whole day. While a sudden lack of hot water often points to a water heater issue needing professional attention, there are a few simple things you can check yourself in Enterprise before making that after-hours call. Sometimes, the fix is easier than you think, saving you time and stress. This is particularly true if it's a conventional water heater that's been working fine until now.\n\nWhat to Do Next:\n\n*   **Check the power supply:** For electric water heaters, check your home's circuit breaker panel. A tripped breaker is a common culprit. For gas water heaters, ensure the pilot light is lit. If it's out, carefully follow your manufacturer's instructions to relight it. If you're uncomfortable with gas appliances, don't hesitate to call a professional.\n*   **Look for error codes:** Many modern water heaters, especially tankless models, have digital displays that show error codes. Jot down any codes you see; this information is invaluable for a plumber.\n*   **Listen for unusual noises:** Gurgling, popping, or rumbling can indicate sediment buildup, which can affect heating efficiency. While you can't fix this yourself after hours, noting it helps the plumber.\n*   **Inspect for leaks:** Check around the base of your water heater for any signs of leaking. Even a small leak can indicate a bigger problem that needs immediate attention, particularly if it's growing.\n\nWhen Professional Guidance Helps:\n\nIf you've checked these basics and still have no hot water, or if you notice any leaks, strange odors, or other serious issues, it's definitely time to call a qualified plumber. Water heater failures can lead to significant damage or safety hazards if not handled correctly. CG Plumbing Solutions provides 24/7 emergency service across Enterprise for water heater issues. We'll send a licensed technician to diagnose the problem, explain your options for repair or replacement, and get your hot water flowing again. Don't risk DIY fixes on a potentially dangerous appliance. Call us at (702) 843-0899 for expert help.",
+  "datePublished": "2026-09-28"
+}

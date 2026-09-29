@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-qualifies-as-a-no-hot-water-emergency",
+  "name": "What qualifies as a 'no hot water emergency'?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifies as a 'no hot water emergency'?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 'no hot water emergency' typically means a complete and unexpected loss of hot water throughout your home, especially if it affects critical needs like showering, cleaning, or sanitation. While an inconvenience, issues like a pilot light going out or a simple circuit breaker trip might be easily resolvable by the homeowner. However, if these basic checks don't restore hot water, or if you notice leaks, strange noises, or any other unusual signs, it's best to contact a professional. CG Plumbing Solutions can help assess whether the situation requires immediate emergency service.",
+        "@type": "Answer",
+        "description": "A 'no hot water emergency' is the complete and unexpected loss of hot water; if basic checks fail or you notice leaks, professional help is advised."
+      }
+    }
+  ],
+  "description": "A 'no hot water emergency' is the complete and unexpected loss of hot water; if basic checks fail or you notice leaks, professional help is advised."
+}

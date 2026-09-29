@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-damage-can-a-toilet-overflow-cause-to-my-home",
+  "name": "What kind of damage can a toilet overflow cause to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can a toilet overflow cause to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A toilet overflow can cause significant water damage to floors, subfloors, baseboards, and even ceilings on lower levels. Beyond visible damage, it can lead to mold and mildew growth if not dried and treated promptly, posing health risks and requiring extensive remediation. Electrical systems near the affected area could also be compromised. The severity of damage often depends on how quickly the water flow is stopped and the type of flooring material. For example, porous materials like carpet or hardwood can absorb water quickly, leading to more extensive and costly restoration compared to tile.",
+        "@type": "Answer",
+        "description": "Toilet overflows can cause water damage to floors, subfloors, and ceilings, leading to mold growth and potential electrical issues."
+      }
+    }
+  ],
+  "description": "Toilet overflows can cause water damage to floors, subfloors, and ceilings, leading to mold growth and potential electrical issues."
+}

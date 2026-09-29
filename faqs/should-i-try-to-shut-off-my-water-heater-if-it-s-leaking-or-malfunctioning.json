@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-try-to-shut-off-my-water-heater-if-it-s-leaking-or-malfunctioning",
+  "name": "Should I try to shut off my water heater if it's leaking or malfunctioning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I try to shut off my water heater if it's leaking or malfunctioning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if your water heater is leaking significantly or exhibiting signs of electrical or gas malfunction, you should attempt to safely shut off its power and water supply. For gas water heaters, turn the gas valve to the 'off' position and the thermostat to 'pilot' or 'off.' For electric, switch off the corresponding circuit breaker in your home's electrical panel. Turning off the water supply at the cold water inlet valve can minimize property damage from leaks until a professional arrives.",
+        "@type": "Answer",
+        "description": "If your water heater is leaking or malfunctioning, safely shut off its power/gas and water supply to prevent further damage or safety hazards."
+      }
+    }
+  ],
+  "description": "If your water heater is leaking or malfunctioning, safely shut off its power/gas and water supply to prevent further damage or safety hazards."
+}

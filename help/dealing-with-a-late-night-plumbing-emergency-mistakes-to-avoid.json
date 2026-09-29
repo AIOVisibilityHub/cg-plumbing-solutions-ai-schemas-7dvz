@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Dealing with a Late-Night Plumbing Emergency: Mistakes to Avoid",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a plumbing disaster hits in the middle of the night, it's easy to make mistakes in the rush and stress of the moment. We've seen it all, from homeowners trying to tackle complex repairs themselves to not knowing the first thing about shutting off their water. One of the biggest errors is failing to shut off the water supply right away, which can turn a small leak into a major flood. Another common misstep is forcing a stuck valve, which can cause even more damage. And please, never attempt a complex repair without isolating the water supply first, or allow water to get near electrical equipment. Your safety, and the integrity of your home, are paramount.\n\n### Common Mistakes to Avoid\n*   **Not shutting off the main water supply:** In a major emergency, find your main water shutoff valve and turn it off immediately. Don't just rely on fixture shutoffs if the problem is widespread or severe.\n*   **Ignoring potential electrical hazards:** If water is pooling near electrical outlets or appliances, don't touch anything. Leave the area and call for help. Safety first!\n*   **Attempting DIY repairs beyond your skill level:** While a temporary fix might seem appealing, trying to fix a complex issue like a sewer line or a gas leak without proper training can be dangerous and costly in the long run.\n*   **Delaying a professional call:** Don't wait until morning for a serious issue like a burst pipe or a significant leak. Prompt action can prevent extensive water damage.\n*   **Forgetting to document the damage:** Before any cleanup or repairs begin, if it's safe to do so, take photos or videos of the leak and any damage. This is super helpful for insurance purposes later.\n\n### What to Do Next\nIf you're dealing with a plumbing emergency in Las Vegas, North Las Vegas, Henderson, or surrounding areas, CG Plumbing Solutions offers 24/7 emergency service. Call us anytime for professional, code-compliant help.",
+  "datePublished": "2026-09-28"
+}

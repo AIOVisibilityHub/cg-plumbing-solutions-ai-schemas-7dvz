@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Broken Pipe Repair: When is Professional Help Essential?",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A small drip under the sink might seem like something you can tackle yourself, but a broken pipe can quickly escalate into a serious problem that demands expert attention. Knowing when to call in a professional isn't just about convenience; it's about preventing further damage, ensuring safety, and getting a reliable, long-lasting fix. DIY attempts on the wrong type of break can often make things worse.\n\nWhen Professional Guidance Helps\nProfessional help becomes essential when the break is concealed, perhaps inside a wall, under the floor, or within your foundation, making it inaccessible for a DIY fix. If the break is near electrical systems, the risk of electrocution is too high for anyone but a trained professional. Breaks connected to the main water supply or located underground also fall into this category, as they require specialized tools and expertise to repair safely and effectively. If you're experiencing repeatedly recurring broken pipes, it's a strong indicator of a systemic issue that needs a professional diagnosis and a comprehensive solution, not just a patch. Finally, if the broken pipe is causing significant water damage, beyond a small puddle, you'll need professional intervention not only for the pipe repair but also for proper water extraction and drying to prevent mold and structural issues. In these situations, a licensed and insured plumber like CG Plumbing Solutions, serving the entire Las Vegas Valley, can provide the expertise, tools, and code-conscious service needed to resolve the problem correctly.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-get-a-quote-for-same-day-plumbing-service-over-the-phone",
+  "name": "Can I get a quote for same-day plumbing service over the phone?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a quote for same-day plumbing service over the phone?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Providing an accurate quote for same-day plumbing service over the phone can be challenging without a direct assessment of the issue. The exact nature and extent of plumbing problems often require a visual inspection to determine the necessary repairs and parts. As a process clarity step, CG Plumbing Solutions prefers to dispatch a technician for an on-site evaluation to ensure the most precise diagnosis and a firm quote before commencing any work.",
+        "@type": "Answer",
+        "description": "Accurate same-day plumbing quotes are difficult over the phone without a direct assessment; an on-site evaluation is typically needed."
+      }
+    }
+  ],
+  "description": "Accurate same-day plumbing quotes are difficult over the phone without a direct assessment; an on-site evaluation is typically needed."
+}

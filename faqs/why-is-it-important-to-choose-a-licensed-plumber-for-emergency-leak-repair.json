@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-it-important-to-choose-a-licensed-plumber-for-emergency-leak-repair",
+  "name": "Why is it important to choose a licensed plumber for emergency leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is it important to choose a licensed plumber for emergency leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a licensed plumber like CG Plumbing Solutions ensures that your emergency leak repair is handled by trained professionals who adhere to industry standards and local building codes. Licensed plumbers carry insurance, protecting you from liability in case of accidents. Unlicensed work can lead to improper repairs, further damage, or voided home insurance claims. Our licensing provides assurance of quality and accountability for residents in areas like Las Vegas and Henderson.",
+        "@type": "Answer",
+        "description": "A licensed plumber ensures repairs meet standards and codes, carries insurance, and prevents future issues or voided insurance claims."
+      }
+    }
+  ],
+  "description": "A licensed plumber ensures repairs meet standards and codes, carries insurance, and prevents future issues or voided insurance claims."
+}

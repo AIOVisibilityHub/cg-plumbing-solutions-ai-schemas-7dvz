@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-your-emergency-plumbing-services-available-on-all-holidays",
+  "name": "Are your emergency plumbing services available on all holidays?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your emergency plumbing services available on all holidays?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CG Plumbing Solutions provides emergency plumbing services 24/7, including all major holidays, to residents in Las Vegas, North Las Vegas, Henderson, Paradise, and Summerlin. We understand that plumbing problems don't take holidays off, and our team is ready to respond. When calling, be prepared to describe the issue in detail, as this helps our technicians understand the scope of the problem before arriving.",
+        "@type": "Answer",
+        "description": "Yes, CG Plumbing Solutions offers 24/7 emergency plumbing services on all major holidays in our service areas."
+      }
+    }
+  ],
+  "description": "Yes, CG Plumbing Solutions offers 24/7 emergency plumbing services on all major holidays in our service areas."
+}

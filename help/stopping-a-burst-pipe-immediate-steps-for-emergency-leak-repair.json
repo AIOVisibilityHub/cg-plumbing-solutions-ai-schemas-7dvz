@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Stopping a Burst Pipe: Immediate Steps for Emergency Leak Repair",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A burst pipe or significant leak can quickly turn into a nightmare, especially when water starts damaging your home. Knowing what to do in those critical first moments can save you a lot of headache and expense. The most immediate and vital step is to shut off the water supply to minimize damage. If it's a specific fixture that's leaking, try its dedicated shutoff valve. If not, head straight for your home's main water shutoff valve and turn it off completely. This is usually located in a basement, garage, or near your water meter.\n\n### What to Expect During the Process\nOnce the water is off, the next step is to assess the situation and prepare for repair. Avoid contact with any wet areas if electrical outlets or appliances are nearby; electricity and water don't mix! Start containing or collecting the water with buckets and towels to prevent further spread. Move any vulnerable belongings out of the affected area. Take photos or videos of the damage, which can be useful for insurance purposes later. Next, call CG Plumbing Solutions. We're available 24/7 for emergency leak repair across the Las Vegas Valley. We'll dispatch a licensed technician to identify the source of the leak, explain your repair options, and get your plumbing back in working order, protecting your property throughout the process.",
+  "datePublished": "2026-09-28"
+}

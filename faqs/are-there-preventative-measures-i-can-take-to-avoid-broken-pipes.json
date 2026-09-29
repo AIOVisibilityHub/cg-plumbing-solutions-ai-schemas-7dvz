@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-there-preventative-measures-i-can-take-to-avoid-broken-pipes",
+  "name": "Are there preventative measures I can take to avoid broken pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there preventative measures I can take to avoid broken pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, several preventative measures can reduce the risk of broken pipes. These include insulating exposed pipes in unheated areas, monitoring water pressure to ensure it's not too high, and promptly addressing minor leaks. Regular plumbing inspections can also help identify potential weaknesses in your system before they lead to a major break. During our service calls, we can advise on specific preventative steps relevant to your home's plumbing.",
+        "@type": "Answer",
+        "description": "Preventative measures include insulating pipes, monitoring water pressure, and addressing small leaks. Regular inspections can identify potential weaknesses."
+      }
+    }
+  ],
+  "description": "Preventative measures include insulating pipes, monitoring water pressure, and addressing small leaks. Regular inspections can identify potential weaknesses."
+}

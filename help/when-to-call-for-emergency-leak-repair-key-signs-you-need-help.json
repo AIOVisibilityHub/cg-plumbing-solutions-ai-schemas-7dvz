@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call for Emergency Leak Repair: Key Signs You Need Help",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Sometimes a small drip seems manageable, but often, what looks minor can indicate a bigger, hidden problem. Knowing when a leak escalates from a DIY concern to an urgent call for professional emergency leak repair can save you from significant damage and costly remediation down the line. It's about recognizing the warning signs.\n\n### Signs it is Time to Call a Professional\n\n*   **Visible or actively spreading water:** If you see water actively leaking from a pipe, ceiling, or wall, especially if it's pooling quickly, that's an emergency. It indicates a significant breach that needs immediate attention.\n*   **Sudden drop in water pressure:** This can sometimes signal a major leak somewhere in your system, diverting water away from your fixtures.\n*   **Unexplained spikes in your water bill:** A hidden leak, even a small one, can waste an enormous amount of water over time, leading to a surprisingly high utility bill.\n*   **Damp spots, discoloration, or moldy smells on walls, ceilings, or floors:** These are classic signs of a concealed leak that has been slowly doing damage. Addressing these quickly is essential to prevent structural issues and health concerns.\n*   **Pipes that are visibly corroded or damaged:** If you notice rust, discoloration, or obvious damage on your pipes, a leak could be imminent or already present, even if not yet visible. It’s better to get it checked out before it becomes an emergency. CG Plumbing Solutions is here 24/7 across the Las Vegas Valley for these urgent situations, ready to diagnose and repair.",
+  "datePublished": "2026-09-28"
+}

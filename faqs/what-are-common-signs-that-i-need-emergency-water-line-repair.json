@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-i-need-emergency-water-line-repair",
+  "name": "What are common signs that I need emergency water line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that I need emergency water line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating an emergency water line repair include a sudden drop in water pressure, visible leaks or puddles in your yard or near the foundation, discolored water, or an unexplained increase in your water bill. If you notice any of these issues, especially significant water pooling or a sudden drop in pressure, it's crucial to contact a plumber immediately to prevent extensive property damage. Early detection helps mitigate further structural issues or water contamination.",
+        "@type": "Answer",
+        "description": "Signs of emergency water line repair include sudden water pressure drop, visible leaks, discolored water, or a high water bill."
+      }
+    }
+  ],
+  "description": "Signs of emergency water line repair include sudden water pressure drop, visible leaks, discolored water, or a high water bill."
+}

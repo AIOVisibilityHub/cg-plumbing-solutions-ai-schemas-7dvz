@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-typical-process-for-an-emergency-water-heater-repair-visit",
+  "name": "What's the typical process for an emergency water heater repair visit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the typical process for an emergency water heater repair visit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an emergency repair visit, a CG Plumbing Solutions technician will first assess the water heater to diagnose the issue, often starting by checking for leaks, inspecting heating elements or gas lines, and testing components. Once the problem is identified, they will explain the necessary repairs and provide an estimate. With your approval, they will proceed with the repair. The process concludes with testing the water heater to ensure proper operation and cleanup of the work area.",
+        "@type": "Answer",
+        "description": "An emergency repair involves diagnosis, explaining repairs and costs, performing the repair, and then testing the water heater to ensure it works properly."
+      }
+    }
+  ],
+  "description": "An emergency repair involves diagnosis, explaining repairs and costs, performing the repair, and then testing the water heater to ensure it works properly."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-of-a-broken-pipe-inside-my-home",
+  "name": "What are the common signs of a broken pipe inside my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a broken pipe inside my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a broken pipe include sudden drops in water pressure, unusual increases in your water bill, the sound of running water behind walls or under floors when no fixtures are in use, and visible water stains or damp spots on ceilings, walls, or floors. Musty odors or the presence of mold can also indicate a hidden leak. Recognizing these signs early can help mitigate potential water damage and reduce the complexity of repairs.",
+        "@type": "Answer",
+        "description": "Signs include sudden water pressure drops, high water bills, sounds of running water, and visible water stains or mold."
+      }
+    }
+  ],
+  "description": "Signs include sudden water pressure drops, high water bills, sounds of running water, and visible water stains or mold."
+}

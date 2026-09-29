@@ -1,0 +1,151 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Checklist: Responding to a Sewage Backup in Spring Valley",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Checklist: Responding to a Sewage Backup in Spring Valley",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 6,
+    "itemListElement": [
+      {
+        "name": "Stop using all indoor plumbing — why: Any additional water sent down drains will only worsen the backup and…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Stop using all indoor plumbing — why: Any additional water sent down drains will only worsen the backup and potential overflow."
+      },
+      {
+        "name": "Keep people and pets away from contaminated areas — why: Sewage contains harmful bacteria and pathogens tha…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Keep people and pets away from contaminated areas — why: Sewage contains harmful bacteria and pathogens that pose serious health risks."
+      },
+      {
+        "name": "Avoid standing water near electrical outlets or appliances — why: This creates a dangerous electrocution ha…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Avoid standing water near electrical outlets or appliances — why: This creates a dangerous electrocution hazard; if necessary, shut off power from a dry, safe location."
+      },
+      {
+        "name": "Locate and document the extent of the backup — why: Taking photos or notes can be helpful for assessing dam…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Locate and document the extent of the backup — why: Taking photos or notes can be helpful for assessing damage and for any potential insurance claims."
+      },
+      {
+        "name": "Contact your sewer authority if a municipal issue is suspected — why: If the problem originates outside you…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Contact your sewer authority if a municipal issue is suspected — why: If the problem originates outside your property, they are responsible for addressing it."
+      },
+      {
+        "name": "Call a licensed emergency plumber immediately — why: Professional drain cleaning is needed to clear the blo…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Call a licensed emergency plumber immediately — why: Professional drain cleaning is needed to clear the blockage safely and effectively, especially for main line issues."
+      }
+    ]
+  },
+  "articleBody": "A sewage backup in your Spring Valley home is one of the most unpleasant plumbing emergencies you can face, demanding immediate and careful action. This checklist will help you navigate the critical first steps, ensuring your safety and minimizing property damage until professional help arrives.\n\n- [ ] **Stop using all indoor plumbing** — why: Any additional water sent down drains will only worsen the backup and potential overflow.\n- [ ] **Keep people and pets away from contaminated areas** — why: Sewage contains harmful bacteria and pathogens that pose serious health risks.\n- [ ] **Avoid standing water near electrical outlets or appliances** — why: This creates a dangerous electrocution hazard; if necessary, shut off power from a dry, safe location.\n- [ ] **Locate and document the extent of the backup** — why: Taking photos or notes can be helpful for assessing damage and for any potential insurance claims.\n- [ ] **Contact your sewer authority if a municipal issue is suspected** — why: If the problem originates outside your property, they are responsible for addressing it.\n- [ ] **Call a licensed emergency plumber immediately** — why: Professional drain cleaning is needed to clear the blockage safely and effectively, especially for main line issues.\n\n### How to use this checklist\nThis checklist is designed for immediate action when you discover a sewage backup. Work through the items quickly and methodically to protect your household and property. Once these initial steps are completed, contacting a professional service like CG Plumbing Solutions is your next priority. We offer 24/7 emergency drain cleaning and can provide the specialized equipment and expertise needed to resolve severe blockages and advise on cleanup.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-choose-the-right-emergency-plumber-during-the-holidays",
+  "name": "How do I choose the right emergency plumber during the holidays?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right emergency plumber during the holidays?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an emergency plumber during the holidays, prioritize companies that offer 24/7 service, have licensed and insured technicians, and transparent pricing. CG Plumbing Solutions serves the Las Vegas area and is committed to providing reliable service even on holidays. Look for a company with a strong local reputation and clear communication about their holiday availability and charges, ensuring you avoid unexpected issues.",
+        "@type": "Answer",
+        "description": "Choose an emergency plumber with 24/7 service, licensed technicians, and transparent holiday pricing, like CG Plumbing Solutions in the Las Vegas area."
+      }
+    }
+  ],
+  "description": "Choose an emergency plumber with 24/7 service, licensed technicians, and transparent holiday pricing, like CG Plumbing Solutions in the Las Vegas area."
+}

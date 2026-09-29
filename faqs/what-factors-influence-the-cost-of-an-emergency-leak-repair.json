@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-an-emergency-leak-repair",
+  "name": "What factors influence the cost of an emergency leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of an emergency leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an emergency leak repair depends on several factors, including the location and accessibility of the leak, the extent of the damage, the type of pipe or fixture involved, and the materials needed for repair. For instance, a simple pipe patch will cost less than replacing a section of pipe behind a wall. During our initial assessment, our technicians will provide a clear explanation of the issue and a transparent estimate for the necessary repairs.",
+        "@type": "Answer",
+        "description": "Cost factors for emergency leak repair include location, damage extent, pipe type, and materials. We provide clear estimates after assessment."
+      }
+    }
+  ],
+  "description": "Cost factors for emergency leak repair include location, damage extent, pipe type, and materials. We provide clear estimates after assessment."
+}

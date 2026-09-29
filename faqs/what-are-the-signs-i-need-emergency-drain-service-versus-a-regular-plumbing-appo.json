@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-i-need-emergency-drain-service-versus-a-regular-plumbing-appo",
+  "name": "What are the signs I need emergency drain service versus a regular plumbing appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs I need emergency drain service versus a regular plumbing appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You likely need emergency drain service if you experience a complete inability to drain water from multiple fixtures, sewage backing up into your home, or a strong, foul odor accompanied by standing water. These situations pose an immediate health risk or potential for significant water damage. In contrast, a single slow-draining sink or tub that eventually drains, or minor gurgling sounds, might indicate a developing clog that can often wait for a regular appointment. CG Plumbing Solutions can help you distinguish the urgency based on your reported symptoms.",
+        "@type": "Answer",
+        "description": "Emergency service is needed for complete blockage in multiple fixtures, sewage backup, or foul odors with standing water. Slow drains or minor gurgling can often wait for a regular appointment."
+      }
+    }
+  ],
+  "description": "Emergency service is needed for complete blockage in multiple fixtures, sewage backup, or foul odors with standing water. Slow drains or minor gurgling can ofte"
+}

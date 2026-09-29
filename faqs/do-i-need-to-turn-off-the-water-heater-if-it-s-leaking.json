@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-turn-off-the-water-heater-if-it-s-leaking",
+  "name": "Do I need to turn off the water heater if it's leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to turn off the water heater if it's leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if your water heater is leaking, you should immediately turn off its water supply valve and, if it's an electric unit, shut off power at the breaker, or for gas units, turn the gas valve to the 'off' position. This prevents further water damage and eliminates potential safety hazards like electrical shorts or gas leaks. Disconnecting the power or gas is a crucial safety step to take before calling CG Plumbing Solutions for an emergency repair.",
+        "@type": "Answer",
+        "description": "Yes, immediately turn off the water supply to the leaking water heater, and also shut off its power (electric) or gas (gas unit) for safety."
+      }
+    }
+  ],
+  "description": "Yes, immediately turn off the water supply to the leaking water heater, and also shut off its power (electric) or gas (gas unit) for safety."
+}

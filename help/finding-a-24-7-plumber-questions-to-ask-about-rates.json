@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Finding a 24/7 Plumber: Questions to Ask About Rates",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're facing a plumbing emergency, like a burst pipe or a failed water heater in the middle of the night, finding a 24/7 plumber is critical. But it's also a time when you might be vulnerable to unclear pricing. Before you authorize any work, it's smart to ask some key questions about their rates. First, ask about the dispatch fee or any after-hours charges. Many companies, including CG Plumbing Solutions, are upfront about these, but it's good to confirm. Does the dispatch fee apply to all times, or is there an additional charge for late-night or weekend calls? Second, inquire about how they structure their pricing. Is it a flat rate for certain emergencies, or is it hourly? If it's hourly, ask what the overtime rate is for emergency calls. Third, make sure you understand if the initial visit includes a diagnostic fee that's separate from the repair cost. A reputable plumber, like us, will provide clear, written options before any work begins, so you know exactly what you're approving. Don't be shy about asking for a written estimate that details the scope of work and the total cost. You want to avoid any surprise charges. We at CG Plumbing Solutions believe in clear communication, even when you're under pressure, so you can make informed decisions. \n\n### How to Compare Your Options\nWhen comparing 24/7 plumbers, look beyond just the initial quote. Verify their local licensing and insurance, ask about their warranty terms, and confirm they offer written estimates. Also, consider their transparency about after-hours rates and their process for explaining the scope of work. CG Plumbing Solutions, for example, prioritizes code-correct service and clear options, ensuring you get dependable workmanship.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Prepare When Facing an Emergency Sewer Backup",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A sewer backup is one of those emergencies you hope you never have to deal with, but knowing what to do beforehand can really help minimize damage and stress. It’s not just about calling a plumber; there are a few practical steps you can take to prepare for their arrival and protect your household or business. Let's talk about what you should gather, consider, and do the moment you suspect a sewer backup.\n\nFirst and foremost, your safety and the safety of those around you are paramount. Sewage is contaminated water, so if it's backing up, your immediate concern should be stopping its spread and avoiding contact. This means **stopping all water use immediately** – no flushing toilets, running sinks, or using washing machines or dishwashers. This simple action can prevent more sewage from entering your property. Also, **keep children and pets away** from the affected areas. The CDC recommends wearing rubber boots, rubber gloves, and goggles if you must enter the contaminated zone briefly to shut off a main water valve or move critical items. Avoid contact with the contaminated water if at all possible.\n\nNext, **document the damage**. Before any cleanup begins, take photos or videos of the affected areas, including the source of the backup, the extent of the water, and any damaged items. This documentation is invaluable for insurance purposes or property managers. You'll also want to **identify any prior chemical treatments** if you've tried to clear drains yourself. Disclosing this to your plumber is crucial for their safety and to prevent adverse reactions with their equipment or cleaning agents.\n\nWhat to Prepare Before You Start\n*   **Stop water use:** Immediately halt flushing toilets, running faucets, and using appliances that consume water.\n*   **Ensure safety:** Keep people and pets away from contaminated areas. Wear protective gear (gloves, boots, goggles) if you must briefly enter.\n*   **Document everything:** Take photos or videos of the backup and damaged areas for insurance.\n*   **Disclose chemical use:** Inform your plumber if you've used any chemical drain cleaners recently.\n*   **Clear access:** Make sure the plumber has clear access to the affected drains and main water shut-off valve.\n*   **Think about containment:** If possible, place towels or barriers to prevent the sewage from spreading further.\n\nIf you're in the midst of an emergency sewer backup in the Las Vegas Valley, including Anthem, Rhodes Ranch, or The Lakes, taking these steps will help us help you more efficiently. After you've done what you can to prepare, give CG Plumbing Solutions a call at (702) 843-0899. We provide 24/7 emergency service and can guide you through the next steps safely and effectively.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-information-should-i-provide-when-calling-cg-plumbing-solutions-for-a-weeke",
+  "name": "What information should I provide when calling CG Plumbing Solutions for a weekend emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I provide when calling CG Plumbing Solutions for a weekend emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When calling CG Plumbing Solutions for a weekend emergency, be prepared to provide your name, address, and contact information. Crucially, describe the plumbing issue in as much detail as possible, including where the problem is located, when it started, and any specific symptoms like strange noises, water discoloration, or lack of water. This helps our team understand the situation and dispatch the appropriate tools and expertise. Providing these details streamlines our response and helps us address your issue effectively.",
+        "@type": "Answer",
+        "description": "Provide your contact information and a detailed description of the plumbing issue, including location, start time, and symptoms."
+      }
+    }
+  ],
+  "description": "Provide your contact information and a detailed description of the plumbing issue, including location, start time, and symptoms."
+}

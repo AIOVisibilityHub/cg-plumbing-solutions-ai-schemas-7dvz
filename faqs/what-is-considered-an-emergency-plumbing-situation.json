@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-considered-an-emergency-plumbing-situation",
+  "name": "What is considered an emergency plumbing situation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered an emergency plumbing situation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An emergency plumbing situation typically involves a problem that can cause significant damage to your property or pose a health risk if not addressed immediately. This includes burst pipes, severe water leaks, sewage backups, and complete loss of water supply. Non-urgent issues like a dripping faucet, while inconvenient, usually do not require immediate emergency service and can often be scheduled during regular business hours to potentially avoid higher emergency service fees.",
+        "@type": "Answer",
+        "description": "Emergency plumbing situations are urgent problems like burst pipes, severe leaks, or sewage backups that can cause significant property damage or health risks."
+      }
+    }
+  ],
+  "description": "Emergency plumbing situations are urgent problems like burst pipes, severe leaks, or sewage backups that can cause significant property damage or health risks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-emergency-sewer-backup-diagnosis-and-repair",
+  "name": "What is the typical process for emergency sewer backup diagnosis and repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for emergency sewer backup diagnosis and repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upon arrival, our technicians will first assess the situation to determine the cause and location of the sewer backup. This often involves using specialized equipment like drain snakes or sewer cameras to inspect the line. Once the issue is identified—whether it's a clog, root intrusion, or a damaged pipe—we will discuss the repair options with you. The repair process can range from hydro-jetting to clear blockages to trenchless pipe repair or traditional excavation for severe damage. We aim for transparency throughout this process.",
+        "@type": "Answer",
+        "description": "The process involves initial assessment with tools like sewer cameras, diagnosis of the issue, and then repair using methods from hydro-jetting to pipe replacement."
+      }
+    }
+  ],
+  "description": "The process involves initial assessment with tools like sewer cameras, diagnosis of the issue, and then repair using methods from hydro-jetting to pipe replacem"
+}

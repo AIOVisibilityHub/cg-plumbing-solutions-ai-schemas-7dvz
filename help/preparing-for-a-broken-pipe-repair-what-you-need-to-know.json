@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Preparing for a Broken Pipe Repair: What You Need to Know",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with a broken pipe can be a sudden and stressful event for homeowners and businesses. While the plumber handles the actual fix, there are a few things you can do to prepare, which can make the repair process smoother and potentially save you time and money. Being proactive helps get things back to normal faster.\n\nWhat to Prepare Before You Start\nFirst, locate your main water shutoff valve. Knowing exactly where it is and how to turn it off is critical in an emergency. If your pipe is actively leaking, shut off the water immediately. Next, try to get a clear idea of the symptoms: where do you think the break is? Is it a drip, a steady stream, or a gush? What caused it, if you know (e.g., freezing, impact)? This information helps your plumber assess the situation more quickly. If the broken pipe is causing water damage, start documenting it with photos or videos. This is invaluable for insurance claims later. If you have any older plumbing work or schematics, having those handy can also be beneficial. Finally, clear the area around the suspected break as much as possible to allow the plumber easy access. This might mean moving furniture, boxes, or anything obstructing the pipe. For licensed and insured broken pipe repair in the Las Vegas Valley, reach out to CG Plumbing Solutions for clear communication and dependable workmanship.",
+  "datePublished": "2026-09-28"
+}

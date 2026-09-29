@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-you-determine-the-source-of-a-hidden-water-leak",
+  "name": "How do you determine the source of a hidden water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you determine the source of a hidden water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To locate a hidden water leak, our technicians use specialized tools such as acoustic leak detectors, thermal imaging cameras, and moisture meters. These technologies allow us to pinpoint the exact source without unnecessary damage to your property. For slab leaks common in our service areas like Summerlin and Enterprise, early detection is crucial to prevent structural issues. We combine advanced equipment with our expertise to diagnose the problem accurately.",
+        "@type": "Answer",
+        "description": "We use specialized tools like acoustic detectors, thermal cameras, and moisture meters to precisely locate hidden water leaks, including those in slabs."
+      }
+    }
+  ],
+  "description": "We use specialized tools like acoustic detectors, thermal cameras, and moisture meters to precisely locate hidden water leaks, including those in slabs."
+}

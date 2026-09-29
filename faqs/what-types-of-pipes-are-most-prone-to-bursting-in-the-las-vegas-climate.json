@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-pipes-are-most-prone-to-bursting-in-the-las-vegas-climate",
+  "name": "What types of pipes are most prone to bursting in the Las Vegas climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of pipes are most prone to bursting in the Las Vegas climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Las Vegas area, while extreme cold snaps are less common than in other regions, burst pipes can still occur due to age, corrosion, or ground shifts. Older galvanized steel or aging copper pipes can be susceptible to corrosion, which weakens their structure over time. PEX and PVC pipes are generally more resilient. Understanding the types of pipes in your home is a preparation step that can help identify potential vulnerabilities specific to our local environment.",
+        "@type": "Answer",
+        "description": "In Las Vegas, older galvanized steel or aging copper pipes are more prone to bursting due to corrosion; PEX and PVC are generally more resilient."
+      }
+    }
+  ],
+  "description": "In Las Vegas, older galvanized steel or aging copper pipes are more prone to bursting due to corrosion; PEX and PVC are generally more resilient."
+}

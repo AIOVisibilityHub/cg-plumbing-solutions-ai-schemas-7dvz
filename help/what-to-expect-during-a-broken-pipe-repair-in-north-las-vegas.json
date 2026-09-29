@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Expect During a Broken Pipe Repair in North Las Vegas",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Having a broken pipe is definitely a disruption, but knowing what to expect during the repair process can help ease some of the stress. When you call CG Plumbing Solutions for a broken pipe in North Las Vegas, we follow a clear process to get things back to normal. First, our team will arrive promptly to assess the situation. This usually involves locating the exact source of the leak, which might require some non-invasive detection techniques if the pipe is hidden. Once the problem area is pinpointed, we'll shut off the water supply to prevent further damage and prepare the work area. For the actual repair, we'll carefully remove the damaged section of pipe and install compatible replacement materials. This could involve cutting out a section and adding new pipe, or in some cases, a more extensive repair if the damage is widespread. After the new section is installed, we'll pressure-test the system to ensure there are no more leaks and everything is sealed correctly. We'll then restore your water service and make sure everything is clean and tidy before we leave. We aim for clear communication throughout the process, so you'll always know what's happening and what your options are. What to Expect During the Process: Initial assessment and leak detection, water shut-off, precise pipe replacement, pressure testing, and final cleanup and water restoration.",
+  "datePublished": "2026-09-28"
+}

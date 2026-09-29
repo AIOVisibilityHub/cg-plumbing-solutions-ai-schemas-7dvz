@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-to-prepare-for-a-plumber-s-visit-for-a-broken-pipe",
+  "name": "What should I do to prepare for a plumber's visit for a broken pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare for a plumber's visit for a broken pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber arrives, it's helpful to clear the area around where you suspect the pipe break is located, if possible, to allow for easier access. Also, be prepared to describe any observations you've made, such as when you first noticed the issue or any specific sounds. Knowing where your main water shut-off valve is located can also expedite the process if it's not already turned off, saving valuable time upon our arrival.",
+        "@type": "Answer",
+        "description": "Clear the area around the suspected leak, be ready to describe the issue, and know your main water shut-off valve location to help the plumber."
+      }
+    }
+  ],
+  "description": "Clear the area around the suspected leak, be ready to describe the issue, and know your main water shut-off valve location to help the plumber."
+}

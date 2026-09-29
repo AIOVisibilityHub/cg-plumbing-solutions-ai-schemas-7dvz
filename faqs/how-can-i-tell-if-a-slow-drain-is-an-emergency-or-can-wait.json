@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-tell-if-a-slow-drain-is-an-emergency-or-can-wait",
+  "name": "How can I tell if a slow drain is an emergency or can wait?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if a slow drain is an emergency or can wait?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A slow drain often indicates a developing clog, and whether it's an emergency depends on its impact and severity. If multiple drains are slow, or if a slow drain is accompanied by bubbling, gurgling, or foul odors from other fixtures, it could signal a main sewer line blockage, which is an emergency. If it's just one fixture draining slowly but still functioning, it might be able to wait for a standard appointment. However, if the slow drain causes water to back up or threatens to overflow, it escalates to an emergency status. Waiting too long can turn a minor issue into a significant backup or rupture, creating a practical tradeoff between cost and risk.",
+        "@type": "Answer",
+        "description": "A slow drain is an emergency if multiple drains are affected, or if it's accompanied by bubbling, gurgling, or odors, indicating a main line blockage. A single slow drain that doesn't threaten overflow might wait."
+      }
+    }
+  ],
+  "description": "A slow drain is an emergency if multiple drains are affected, or if it's accompanied by bubbling, gurgling, or odors, indicating a main line blockage. A single"
+}

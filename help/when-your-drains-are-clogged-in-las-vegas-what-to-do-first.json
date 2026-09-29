@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Drains are Clogged in Las Vegas: What to Do First",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super frustrating when your drains start acting up, especially in a busy city like Las Vegas. You might notice water draining slowly from a single sink or shower, or maybe multiple fixtures are struggling. First thing's first, try to figure out if it's just one drain or if multiple drains in your home are affected. If it's more than one, that could be a red flag for a bigger issue further down the line, not just a simple isolated clog.\n\nWhat to Prepare Before You Start:\nBefore you reach for the chemical drain cleaner, consider what you've recently put down the drain and if a simple plunger might help. Avoid mixing different cleaning products, as this can create dangerous fumes. Also, don't force tools into your fixtures; you could end up causing more damage. If you're dealing with wastewater backing up, delaying service can lead to bigger problems and potential health hazards, so it's smart to call a professional.\n\nWhen Professional Guidance Helps:\nIf you've got several fixtures affected, sewage returning, or the blockage keeps coming back, it's definitely time to get a pro involved. These situations often point to issues like tree roots or a damaged pipe that needs specialized equipment like a camera inspection to properly diagnose. CG Plumbing Solutions, serving the Las Vegas Valley, has the right tools and expertise to handle these complex drain problems safely and effectively.\n\nWhat to Do Next:\nIf your drains are giving you trouble, especially if it's more than a simple, isolated clog, reach out to CG Plumbing Solutions. We're here to help residents and businesses in Las Vegas and surrounding areas resolve their drain issues with clear communication and dependable workmanship.",
+  "datePublished": "2026-09-28"
+}

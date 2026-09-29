@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-i-have-a-plumbing-emergency-and-need-a-same-day-plumber",
+  "name": "What should I do if I have a plumbing emergency and need a same-day plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I have a plumbing emergency and need a same-day plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you experience a plumbing emergency, first locate your main water shut-off valve and turn it off to prevent further water damage. Then, contact CG Plumbing Solutions immediately. Our first-party insight is that quick action on your part, combined with our rapid dispatch, is crucial. Providing details about the issue when you call helps us prioritize and prepare, ensuring a faster resolution for residents in areas like Summerlin.",
+        "@type": "Answer",
+        "description": "In an emergency, turn off your main water supply, then call CG Plumbing Solutions immediately, providing details to help us prioritize."
+      }
+    }
+  ],
+  "description": "In an emergency, turn off your main water supply, then call CG Plumbing Solutions immediately, providing details to help us prioritize."
+}

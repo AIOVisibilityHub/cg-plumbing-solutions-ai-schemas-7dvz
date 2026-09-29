@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prevent-burst-pipes-in-my-home",
+  "name": "How can I prevent burst pipes in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent burst pipes in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing burst pipes involves several proactive measures. Regularly inspect exposed pipes for signs of corrosion or wear, insulate pipes in unheated areas like basements or crawl spaces, and consider upgrading older plumbing systems. If you're going away during colder months, keep your thermostat set to at least 55°F to prevent pipes from freezing. These preventative steps are crucial for mitigating risks and are a vital preparation for avoiding costly emergency repairs.",
+        "@type": "Answer",
+        "description": "Prevent burst pipes by inspecting exposed pipes, insulating them in unheated areas, and maintaining a minimum indoor temperature of 55°F during cold weather."
+      }
+    }
+  ],
+  "description": "Prevent burst pipes by inspecting exposed pipes, insulating them in unheated areas, and maintaining a minimum indoor temperature of 55°F during cold weather."
+}

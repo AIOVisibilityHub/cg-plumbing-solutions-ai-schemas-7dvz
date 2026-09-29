@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Drain Line Might Be Broken",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to ignore a slow drain or a strange smell, but these seemingly minor issues can be big indicators of a broken or compromised drain line. A persistent problem usually means something more significant is going on beneath the surface. Catching these signs early can save you a lot of headache and expense down the line.\n\nWhat to Look For\nDrains that clog repeatedly, even after cleaning, are a major red flag. If you’ve had your drains cleaned only for the problem to quickly return, it often points to an underlying issue with the pipe itself, like a crack or collapse. You might also notice water pooling or leaks around your drain lines, which could indicate a breach. Another unmistakable sign is a sewage smell coming from your drains – that's often caused by a damaged drain allowing waste and odors to escape. Finally, if your slow drainage gradually worsens over time, it’s usually not just a simple clog, but rather a deteriorating or obstructed pipe. When these signs appear, especially if they are persistent or recurrent, it’s definitely time to get a professional plumber involved. DIY fixes might offer temporary relief, but a licensed and insured team like CG Plumbing Solutions in Las Vegas can properly diagnose the problem and offer lasting solutions.",
+  "datePublished": "2026-09-28"
+}

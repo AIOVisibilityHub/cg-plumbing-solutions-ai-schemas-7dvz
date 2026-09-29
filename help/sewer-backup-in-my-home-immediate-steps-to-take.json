@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Sewer Backup in My Home: Immediate Steps to Take",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding sewage backing up into your home is a pretty gross and stressful situation, but knowing what to do immediately can help limit the damage and keep everyone safe. First off, and this is crucial, stop using any water fixtures in your home. That means no flushing toilets, running sinks, or taking showers. Any water you use will just add to the backup. Next, keep people and pets far away from the affected area. Sewage contains harmful bacteria and pathogens, so it's not safe to enter or even be near it. If there's standing water that might reach electrical outlets or appliances, absolutely do not go near it or attempt to touch any electrical devices. Your main goal here is to contain the problem as much as possible without risking your safety. Once you've taken these initial steps, it's time to call in the pros. CG Plumbing Solutions provides 24/7 emergency dispatch across the Las Vegas Valley for sewer backups. We'll protect the work area, diagnose the problem, and explain your options before any work begins, always with clear communication and code-correct service. Dealing with a sewer backup isn't a DIY job, and getting expert help quickly is key to resolving it safely and effectively. \n\n### When Professional Guidance Helps\nA qualified professional is absolutely essential when sewage is involved, as it poses significant health risks. We can safely handle contaminated areas, properly diagnose the root cause of the backup, and ensure repairs are done according to code, preventing future issues and protecting your property from further damage.",
+  "datePublished": "2026-09-28"
+}

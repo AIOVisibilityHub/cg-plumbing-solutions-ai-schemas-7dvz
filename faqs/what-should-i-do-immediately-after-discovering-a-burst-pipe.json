@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-immediately-after-discovering-a-burst-pipe",
+  "name": "What should I do immediately after discovering a burst pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a burst pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after discovering a burst pipe, the first step is to shut off the main water supply to your home to stop the flow and prevent further damage. Next, turn off your water heater to prevent it from overheating without water. Open nearby faucets to drain any remaining water from the pipes. These immediate actions are crucial for mitigating damage and are a vital preparation for professional repair. Contacting a plumber like CG Plumbing Solutions should be your next step for a prompt assessment and repair.",
+        "@type": "Answer",
+        "description": "First, shut off your main water supply and water heater, then open faucets to drain pipes. This is a critical preparation step before calling for repair."
+      }
+    }
+  ],
+  "description": "First, shut off your main water supply and water heater, then open faucets to drain pipes. This is a critical preparation step before calling for repair."
+}
