@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-i-need-main-water-line-repair",
+  "name": "What are the common signs I need main water line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs I need main water line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs you may need main water line repair include a sudden, unexplained drop in water pressure, visible wet spots or sinkholes in your yard, discolored water, or an unusually high water bill. These issues often indicate a leak or damage to the pipe. It's crucial to address these quickly to prevent further damage to your property and higher utility costs. Our technicians are experienced in diagnosing these issues across Las Vegas and surrounding areas.",
+        "@type": "Answer",
+        "description": "Signs of main water line damage include low water pressure, wet spots in your yard, discolored water, or an unexplained increase in your water bill."
+      }
+    }
+  ],
+  "description": "Signs of main water line damage include low water pressure, wet spots in your yard, discolored water, or an unexplained increase in your water bill."
+}

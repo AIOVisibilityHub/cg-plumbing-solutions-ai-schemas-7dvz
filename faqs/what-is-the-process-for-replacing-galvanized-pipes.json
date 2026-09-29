@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-replacing-galvanized-pipes",
+  "name": "What is the process for replacing galvanized pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing galvanized pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically involves planning the new pipe routes, shutting off the water supply, carefully removing old galvanized sections, and installing new PEX or copper piping. We strive to minimize disruption by working efficiently and cleaning up thoroughly. The complexity and duration of the replacement process are directly affected by the size of your home and the accessibility of existing plumbing lines. Our team works to ensure a smooth transition with minimal impact on your daily routine.",
+        "@type": "Answer",
+        "description": "The process involves planning new routes, shutting off water, removing old pipes, and installing new PEX or copper. Complexity depends on home size and pipe accessibility."
+      }
+    }
+  ],
+  "description": "The process involves planning new routes, shutting off water, removing old pipes, and installing new PEX or copper. Complexity depends on home size and pipe acc"
+}

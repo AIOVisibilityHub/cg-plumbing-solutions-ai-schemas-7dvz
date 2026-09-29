@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-pex-repiping-project-typically-take-to-complete",
+  "name": "How long does a PEX repiping project typically take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a PEX repiping project typically take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical PEX repiping project for a residential home usually takes between 1 to 5 days, depending on the size of the home, the complexity of the plumbing system, and accessibility to existing pipes. During this time, our team works efficiently to minimize disruption, often completing the bulk of the work in one or two days for standard homes. For larger or more complex properties, we'll provide a detailed timeline upfront. Process clarity is important here; we ensure homeowners understand the schedule and what to expect each day, including temporary water shut-offs.",
+        "@type": "Answer",
+        "description": "PEX repiping usually takes 1 to 5 days, varying by home size and plumbing complexity, with most standard homes completed quickly to minimize disruption."
+      }
+    }
+  ],
+  "description": "PEX repiping usually takes 1 to 5 days, varying by home size and plumbing complexity, with most standard homes completed quickly to minimize disruption."
+}

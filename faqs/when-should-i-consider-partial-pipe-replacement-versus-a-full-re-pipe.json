@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-partial-pipe-replacement-versus-a-full-re-pipe",
+  "name": "When should I consider partial pipe replacement versus a full re-pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider partial pipe replacement versus a full re-pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between partial pipe replacement and a full re-pipe depends on the extent and location of the corrosion. If only a small, isolated section of your plumbing shows corrosion, a partial replacement may suffice. However, if corrosion is widespread, affecting multiple areas, or if your entire plumbing system is nearing the end of its lifespan, a full re-pipe is often the more cost-effective and long-term solution. Our plumbers in the Las Vegas area can conduct a thorough inspection to determine the overall condition of your pipes and recommend the most appropriate and economical solution for your home, balancing immediate needs with future reliability.",
+        "@type": "Answer",
+        "description": "Partial replacement suits isolated corrosion, while a full re-pipe is better for widespread or aging systems. An inspection helps determine the most economical long-term solution."
+      }
+    }
+  ],
+  "description": "Partial replacement suits isolated corrosion, while a full re-pipe is better for widespread or aging systems. An inspection helps determine the most economical"
+}

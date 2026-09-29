@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-pipe-rerouting-and-when-is-it-necessary",
+  "name": "What is pipe rerouting and when is it necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is pipe rerouting and when is it necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pipe rerouting involves changing the path of existing plumbing pipes within a property. This is typically necessary when pipes are extensively damaged, corroded, or improperly installed, leading to frequent leaks, low water pressure, or drainage issues. It can also be done during home renovations to accommodate new layouts or appliance placements. A key decision factor is the extent of existing damage versus the cost of repair; minor issues might be repairable, while widespread problems often warrant rerouting for a long-term solution.",
+        "@type": "Answer",
+        "description": "Pipe rerouting changes the path of existing plumbing pipes, usually due to extensive damage, corrosion, or renovation needs."
+      }
+    }
+  ],
+  "description": "Pipe rerouting changes the path of existing plumbing pipes, usually due to extensive damage, corrosion, or renovation needs."
+}

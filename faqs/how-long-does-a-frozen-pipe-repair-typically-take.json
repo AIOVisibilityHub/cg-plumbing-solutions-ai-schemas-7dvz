@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-frozen-pipe-repair-typically-take",
+  "name": "How long does a frozen pipe repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a frozen pipe repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for a frozen pipe repair varies widely depending on the complexity of the issue. A simple pipe thaw might take less than an hour if the pipe is easily accessible. However, if a pipe has burst and is located inside a wall or ceiling, the repair could take several hours, especially if additional tasks like water damage mitigation and restoration are needed. Factors such as the extent of the damage, the type of pipe, and its location significantly influence the duration. CG Plumbing Solutions provides an estimated timeline after assessing the specific repair needed.",
+        "@type": "Answer",
+        "description": "Repair time varies from under an hour for a simple thaw to several hours for a burst pipe inside a wall, depending on complexity and location."
+      }
+    }
+  ],
+  "description": "Repair time varies from under an hour for a simple thaw to several hours for a burst pipe inside a wall, depending on complexity and location."
+}

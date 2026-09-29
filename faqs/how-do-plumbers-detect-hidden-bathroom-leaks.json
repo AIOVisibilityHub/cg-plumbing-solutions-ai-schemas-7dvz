@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-plumbers-detect-hidden-bathroom-leaks",
+  "name": "How do plumbers detect hidden bathroom leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers detect hidden bathroom leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers detect hidden bathroom leaks using specialized tools such as moisture meters, thermal imaging cameras, and acoustic listening devices. These tools allow us to pinpoint the source of a leak without unnecessary demolition. For instance, a thermal camera can identify temperature changes behind walls indicating water presence, while a moisture meter confirms the dampness. Accurate detection helps reduce the scope and cost of repairs by minimizing invasive exploratory work.",
+        "@type": "Answer",
+        "description": "Plumbers use moisture meters, thermal imaging, and acoustic devices to find hidden bathroom leaks non-invasively."
+      }
+    }
+  ],
+  "description": "Plumbers use moisture meters, thermal imaging, and acoustic devices to find hidden bathroom leaks non-invasively."
+}

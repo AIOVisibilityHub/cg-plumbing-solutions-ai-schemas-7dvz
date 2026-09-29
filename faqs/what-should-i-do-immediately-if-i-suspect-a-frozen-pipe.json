@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-immediately-if-i-suspect-a-frozen-pipe",
+  "name": "What should I do immediately if I suspect a frozen pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I suspect a frozen pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you suspect a frozen pipe, immediately turn off the main water supply to your home to prevent flooding if the pipe bursts. Then, open the affected faucet to relieve pressure and allow water to flow as the pipe thaws. Do not use open flames or high heat to thaw the pipe directly, as this can cause further damage or pose a fire hazard. Contacting a professional plumber like CG Plumbing Solutions is recommended, especially if the pipe is inaccessible or has already burst.",
+        "@type": "Answer",
+        "description": "Turn off your main water supply and open affected faucets. Avoid using open flames to thaw pipes and call a professional plumber."
+      }
+    }
+  ],
+  "description": "Turn off your main water supply and open affected faucets. Avoid using open flames to thaw pipes and call a professional plumber."
+}

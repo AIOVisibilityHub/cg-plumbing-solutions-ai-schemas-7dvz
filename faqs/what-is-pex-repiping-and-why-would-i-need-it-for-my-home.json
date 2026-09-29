@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-pex-repiping-and-why-would-i-need-it-for-my-home",
+  "name": "What is PEX repiping and why would I need it for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is PEX repiping and why would I need it for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "PEX repiping involves replacing old, failing plumbing pipes in your home with new, flexible PEX (cross-linked polyethylene) tubing. Homeowners typically need PEX repiping when their existing pipes, often galvanized steel or polybutylene, are experiencing frequent leaks, low water pressure, or discolored water due to corrosion. This upgrade can improve water flow, eliminate leaks, and enhance water quality throughout your home. A key decision factor is the age and material of your current plumbing system, as certain older materials are more prone to widespread failure.",
+        "@type": "Answer",
+        "description": "PEX repiping replaces old, failing pipes with new PEX tubing to improve water flow, eliminate leaks, and enhance water quality, often needed for homes with corroded or problematic older pipes."
+      }
+    }
+  ],
+  "description": "PEX repiping replaces old, failing pipes with new PEX tubing to improve water flow, eliminate leaks, and enhance water quality, often needed for homes with corr"
+}

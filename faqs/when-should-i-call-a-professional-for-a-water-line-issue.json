@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-call-a-professional-for-a-water-line-issue",
+  "name": "When should I call a professional for a water line issue?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a water line issue?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for a water line issue as soon as you notice persistent signs of a problem, such as a sudden drop in water pressure, unexplained wet spots in your yard, or a significant increase in your water bill. Attempting to diagnose or fix a main water line issue yourself can lead to further damage, increased costs, or safety hazards. For instance, incorrectly repaired lines can cause secondary leaks or even burst. Professionals have the necessary equipment, expertise, and licensing to properly identify and resolve water line problems safely and efficiently, ensuring long-term reliability.",
+        "@type": "Answer",
+        "description": "Call a professional immediately if you notice persistent signs like sudden low water pressure, wet yard spots, or a high water bill. DIY repairs can cause further damage."
+      }
+    }
+  ],
+  "description": "Call a professional immediately if you notice persistent signs like sudden low water pressure, wet yard spots, or a high water bill. DIY repairs can cause furth"
+}

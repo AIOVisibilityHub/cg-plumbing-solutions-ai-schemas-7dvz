@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-call-a-professional-plumber-for-water-pressure-problems",
+  "name": "When should I call a professional plumber for water pressure problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional plumber for water pressure problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber if initial troubleshooting steps, like checking aerators or ensuring main valves are open, don't resolve the low water pressure. Persistent low pressure, sudden drops, or signs of leaks require expert diagnosis. Additionally, if your water pressure is consistently too high (above 80 PSI), it can damage appliances and pipes, necessitating professional adjustment or replacement of a pressure regulator. CG Plumbing Solutions recommends calling if you suspect a hidden leak, a faulty pressure regulator, or if the issue affects your entire home and you're unsure of the cause.",
+        "@type": "Answer",
+        "description": "Call a plumber for persistent low pressure, sudden drops, signs of leaks, or if your water pressure is consistently too high after basic troubleshooting."
+      }
+    }
+  ],
+  "description": "Call a plumber for persistent low pressure, sudden drops, signs of leaks, or if your water pressure is consistently too high after basic troubleshooting."
+}

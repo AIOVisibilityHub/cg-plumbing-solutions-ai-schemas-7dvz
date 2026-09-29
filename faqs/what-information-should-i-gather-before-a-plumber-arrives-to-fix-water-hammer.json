@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-information-should-i-gather-before-a-plumber-arrives-to-fix-water-hammer",
+  "name": "What information should I gather before a plumber arrives to fix water hammer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before a plumber arrives to fix water hammer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber from CG Plumbing Solutions arrives, it's helpful to note when and where you hear the water hammer. Specifically, try to identify which fixtures or appliances trigger the noise and if it's intermittent or constant. Knowing if the noise occurs only with hot or cold water, or both, can also provide valuable diagnostic clues. This information helps our technicians quickly narrow down the potential causes and implement an efficient repair, saving time during the service visit.",
+        "@type": "Answer",
+        "description": "Before a plumber arrives, note when and where you hear water hammer, which fixtures trigger it, and if it's hot or cold water specific."
+      }
+    }
+  ],
+  "description": "Before a plumber arrives, note when and where you hear water hammer, which fixtures trigger it, and if it's hot or cold water specific."
+}

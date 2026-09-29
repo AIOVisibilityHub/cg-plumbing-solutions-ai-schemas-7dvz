@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-replace-all-my-angle-stop-valves-at-once-or-can-i-do-them-individua",
+  "name": "Do I need to replace all my angle stop valves at once, or can I do them individually?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace all my angle stop valves at once, or can I do them individually?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can absolutely replace angle stop valves individually as they fail or show signs of wear. However, if your home has several older valves, especially those made of plastic or known to be problematic, it might be more efficient and cost-effective to replace multiple valves during a single service visit. This approach minimizes the number of times the main water supply needs to be shut off and can offer savings on labor costs. Consider the age and condition of all your valves.",
+        "@type": "Answer",
+        "description": "You can replace valves individually, but replacing multiple older valves at once can be more efficient and cost-effective, minimizing main water shut-offs."
+      }
+    }
+  ],
+  "description": "You can replace valves individually, but replacing multiple older valves at once can be more efficient and cost-effective, minimizing main water shut-offs."
+}

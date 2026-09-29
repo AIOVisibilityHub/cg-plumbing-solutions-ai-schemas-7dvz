@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-plumbers-diagnose-high-water-pressure",
+  "name": "How do plumbers diagnose high water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers diagnose high water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers diagnose high water pressure by using a water pressure gauge to measure the static water pressure at various points in your home's plumbing system, typically starting at an outdoor spigot. This helps identify if the issue is systemic or localized. A key aspect of our diagnosis is checking the functionality of your pressure reducing valve (PRV), if one is installed, to see if it's operating correctly or needs adjustment or replacement.",
+        "@type": "Answer",
+        "description": "Plumbers use a pressure gauge to measure water pressure and check the functionality of your home's pressure reducing valve (PRV)."
+      }
+    }
+  ],
+  "description": "Plumbers use a pressure gauge to measure water pressure and check the functionality of your home's pressure reducing valve (PRV)."
+}

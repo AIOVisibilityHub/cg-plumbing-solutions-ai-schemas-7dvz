@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-replacing-a-water-service-line",
+  "name": "What is the process for replacing a water service line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a water service line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for replacing a water service line typically begins with an inspection and leak detection to confirm the problem. Once confirmed, we mark the utility lines, obtain necessary permits, and then excavate the trench from your home's entry point to the main water meter. The old pipe is then removed or abandoned, and a new, durable pipe material (like PEX or copper) is installed. After connecting and testing, the trench is backfilled, and the site is restored. CG Plumbing Solutions ensures thorough clean-up and minimal disruption to your property.",
+        "@type": "Answer",
+        "description": "The process involves inspection, utility marking, excavation, new pipe installation, connection, testing, backfilling, and site restoration."
+      }
+    }
+  ],
+  "description": "The process involves inspection, utility marking, excavation, new pipe installation, connection, testing, backfilling, and site restoration."
+}

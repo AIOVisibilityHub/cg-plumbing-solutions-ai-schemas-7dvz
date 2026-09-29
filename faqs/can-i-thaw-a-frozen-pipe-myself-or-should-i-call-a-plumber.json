@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-thaw-a-frozen-pipe-myself-or-should-i-call-a-plumber",
+  "name": "Can I thaw a frozen pipe myself, or should I call a plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I thaw a frozen pipe myself, or should I call a plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minorly frozen, accessible pipes might be thawed cautiously by a homeowner using a hairdryer on a low setting or wrapping them with warm towels, it's generally safer and more effective to call a professional plumber. Improper thawing techniques can cause pipes to burst or lead to other damage. A plumber has specialized tools to safely locate and thaw frozen sections and can also inspect for potential damage that might not be visible. CG Plumbing Solutions recommends professional service for inaccessible pipes or if you're unsure about the extent of the freeze.",
+        "@type": "Answer",
+        "description": "You can attempt to thaw accessible pipes with low heat or warm towels, but a professional plumber is safer for inaccessible pipes or if you suspect damage."
+      }
+    }
+  ],
+  "description": "You can attempt to thaw accessible pipes with low heat or warm towels, but a professional plumber is safer for inaccessible pipes or if you suspect damage."
+}

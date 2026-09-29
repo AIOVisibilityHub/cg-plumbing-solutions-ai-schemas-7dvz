@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-move-out-during-a-whole-house-repipe",
+  "name": "Do I need to move out during a whole house repipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move out during a whole house repipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, you do not need to move out during a whole house repipe. While there will be some noise and temporary interruptions to your water service, especially during the day, we strive to maintain a livable environment. Our team at CG Plumbing Solutions makes every effort to restore water service by the end of each workday. You might consider making arrangements if you have specific sensitivities to noise or dust, or if the project is unusually extensive.",
+        "@type": "Answer",
+        "description": "Typically, you do not need to move out during repiping, though there will be noise and temporary water interruptions. Water service is usually restored daily."
+      }
+    }
+  ],
+  "description": "Typically, you do not need to move out during repiping, though there will be noise and temporary water interruptions. Water service is usually restored daily."
+}

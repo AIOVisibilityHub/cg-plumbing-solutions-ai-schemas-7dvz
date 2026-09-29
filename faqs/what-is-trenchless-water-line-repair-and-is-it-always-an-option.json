@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-trenchless-water-line-repair-and-is-it-always-an-option",
+  "name": "What is trenchless water line repair, and is it always an option?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is trenchless water line repair, and is it always an option?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trenchless water line repair is a method that minimizes excavation by using techniques like pipe bursting or pipe lining to repair or replace underground pipes with minimal disruption to your property. While often desirable for its reduced impact on landscaping and driveways, it is not always an option. The feasibility of trenchless repair depends on factors such as the pipe's material, its diameter, the extent of the damage, and the surrounding soil conditions. For instance, severely collapsed pipes or certain pipe materials might not be suitable for trenchless methods. We assess each situation to determine the most effective repair strategy.",
+        "@type": "Answer",
+        "description": "Trenchless water line repair fixes pipes with minimal excavation, but its feasibility depends on pipe material, diameter, damage extent, and soil conditions. It's not suitable for all repairs."
+      }
+    }
+  ],
+  "description": "Trenchless water line repair fixes pipes with minimal excavation, but its feasibility depends on pipe material, diameter, damage extent, and soil conditions. It"
+}

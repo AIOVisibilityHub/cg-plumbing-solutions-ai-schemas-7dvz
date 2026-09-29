@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-measures-can-prevent-pipes-from-freezing-in-las-vegas-homes",
+  "name": "What measures can prevent pipes from freezing in Las Vegas homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What measures can prevent pipes from freezing in Las Vegas homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even in Las Vegas, pipes can freeze during unexpected cold snaps, especially in unheated areas like garages or crawl spaces. To prevent freezing, insulate exposed pipes, particularly those near exterior walls or in unheated areas. Disconnect garden hoses and drain outdoor spigots before cold weather. During extreme cold, open cabinet doors under sinks to allow warmer air to circulate around pipes and consider letting faucets drip slowly overnight. These proactive steps can significantly reduce the risk of needing emergency frozen pipe repair from CG Plumbing Solutions.",
+        "@type": "Answer",
+        "description": "Insulate exposed pipes, disconnect garden hoses, and let indoor faucets drip during cold snaps to prevent freezing in Las Vegas homes."
+      }
+    }
+  ],
+  "description": "Insulate exposed pipes, disconnect garden hoses, and let indoor faucets drip during cold snaps to prevent freezing in Las Vegas homes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-replace-just-the-handle-of-a-shutoff-valve-or-do-i-need-to-replace-the-ent",
+  "name": "Can I replace just the handle of a shutoff valve, or do I need to replace the entire valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just the handle of a shutoff valve, or do I need to replace the entire valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, if only the handle of a shutoff valve is broken or stripped, it can be replaced without replacing the entire valve, provided the internal mechanism is still functional and leak-free. However, if the valve is old, corroded, or difficult to turn even with a new handle, it's advisable to replace the entire valve to prevent future issues like leaks or complete failure. This can be a decision factor based on the overall condition of the valve. CG Plumbing Solutions can assess this during a service call.",
+        "@type": "Answer",
+        "description": "You can replace just the handle if the internal mechanism is functional. If the valve is old, corroded, or stiff, replacing the entire valve is recommended."
+      }
+    }
+  ],
+  "description": "You can replace just the handle if the internal mechanism is functional. If the valve is old, corroded, or stiff, replacing the entire valve is recommended."
+}

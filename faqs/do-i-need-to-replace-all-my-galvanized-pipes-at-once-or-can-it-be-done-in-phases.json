@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-replace-all-my-galvanized-pipes-at-once-or-can-it-be-done-in-phases",
+  "name": "Do I need to replace all my galvanized pipes at once, or can it be done in phases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace all my galvanized pipes at once, or can it be done in phases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a full replacement offers the most comprehensive solution, it is possible to replace galvanized pipes in phases, especially for budget considerations. Phased replacement often involves addressing the most problematic areas first, such as main supply lines or frequently used fixtures. However, a practical tradeoff to phased replacement is that you may incur multiple call-out fees and extended periods of disruption compared to a single, complete re-piping project.",
+        "@type": "Answer",
+        "description": "You can replace pipes in phases, focusing on critical areas first, but a full replacement may be more cost-effective and less disruptive overall."
+      }
+    }
+  ],
+  "description": "You can replace pipes in phases, focusing on critical areas first, but a full replacement may be more cost-effective and less disruptive overall."
+}

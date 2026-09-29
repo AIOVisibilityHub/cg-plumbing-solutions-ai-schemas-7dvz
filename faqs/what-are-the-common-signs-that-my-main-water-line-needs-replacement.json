@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-that-my-main-water-line-needs-replacement",
+  "name": "What are the common signs that my main water line needs replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my main water line needs replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a failing main water line include a sudden drop in water pressure throughout your home, discolored water, or unexplained wet spots in your yard. Higher water bills without a change in usage can also indicate a leak. Regularly checking your water meter for movement when no water is being used can help detect a hidden leak early, which is a key preparation step before contacting a plumber.",
+        "@type": "Answer",
+        "description": "Signs include low water pressure, discolored water, wet spots in your yard, or unexpectedly high water bills."
+      }
+    }
+  ],
+  "description": "Signs include low water pressure, discolored water, wet spots in your yard, or unexpectedly high water bills."
+}

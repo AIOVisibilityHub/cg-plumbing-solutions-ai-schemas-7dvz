@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-repairing-and-replacing-a-main-water-shutoff-valve",
+  "name": "What's the difference between repairing and replacing a main water shutoff valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between repairing and replacing a main water shutoff valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a main water shutoff valve involves fixing specific components, like a leaky packing nut or stem, to restore its function. Replacement, on the other hand, means removing the entire old valve and installing a new one. The choice between repair and replacement often depends on the extent of corrosion, valve age, and the severity of the malfunction; a severely corroded or outdated valve is usually replaced for long-term reliability. We assess the most cost-effective and durable solution.",
+        "@type": "Answer",
+        "description": "Repair fixes specific valve components, while replacement installs an entirely new valve; choice depends on damage extent and age."
+      }
+    }
+  ],
+  "description": "Repair fixes specific valve components, while replacement installs an entirely new valve; choice depends on damage extent and age."
+}

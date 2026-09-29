@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-tell-if-my-low-water-pressure-is-a-widespread-issue-or-localized-to-on",
+  "name": "How can I tell if my low water pressure is a widespread issue or localized to one fixture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my low water pressure is a widespread issue or localized to one fixture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To determine if low water pressure is widespread or localized, test multiple fixtures throughout your home, including sinks, showers, and outdoor spigots. If only one faucet or shower head has low pressure, the problem is likely isolated to that specific fixture, possibly due to a clogged aerator or showerhead. If the issue affects most or all fixtures, it indicates a broader problem within your home's plumbing system or the main water supply line. This initial assessment can help you decide whether a simple DIY fix is possible or if professional plumbing intervention is needed.",
+        "@type": "Answer",
+        "description": "Check multiple fixtures; if only one has low pressure, it's a localized issue, likely a clogged aerator. If all fixtures are affected, it's a broader plumbing system problem."
+      }
+    }
+  ],
+  "description": "Check multiple fixtures; if only one has low pressure, it's a localized issue, likely a clogged aerator. If all fixtures are affected, it's a broader plumbing s"
+}

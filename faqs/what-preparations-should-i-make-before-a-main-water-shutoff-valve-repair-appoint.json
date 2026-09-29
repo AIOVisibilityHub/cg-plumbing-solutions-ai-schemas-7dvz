@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preparations-should-i-make-before-a-main-water-shutoff-valve-repair-appoint",
+  "name": "What preparations should I make before a main water shutoff valve repair appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before a main water shutoff valve repair appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your main water shutoff valve repair appointment, ensure the area around the valve is clear and accessible for our plumbers. If you know the valve's exact location, informing our team can streamline the process. You may also want to have a few towels or a bucket nearby in case of minor water drips during the repair. Being prepared helps our technicians work efficiently once they arrive.",
+        "@type": "Answer",
+        "description": "Before repair, clear the valve area for access, inform plumbers of its location, and have towels or a bucket ready for drips."
+      }
+    }
+  ],
+  "description": "Before repair, clear the valve area for access, inform plumbers of its location, and have towels or a bucket ready for drips."
+}

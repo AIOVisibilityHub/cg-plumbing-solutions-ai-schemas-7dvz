@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-perform-a-main-water-line-repair-myself",
+  "name": "Can I perform a main water line repair myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform a main water line repair myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Main water line repair is a complex task that typically requires specialized tools, significant plumbing knowledge, and often involves excavation. Attempting to repair a main water line without the proper expertise can lead to further damage, potential code violations, and costly mistakes. We strongly recommend hiring a licensed and experienced plumbing professional. Our team has the necessary equipment and training to safely and effectively diagnose and repair your main water line, ensuring the job is done right and adheres to local regulations.",
+        "@type": "Answer",
+        "description": "Main water line repair requires specialized tools and expertise. DIY attempts can cause further damage or code violations; professional service is strongly recommended."
+      }
+    }
+  ],
+  "description": "Main water line repair requires specialized tools and expertise. DIY attempts can cause further damage or code violations; professional service is strongly reco"
+}

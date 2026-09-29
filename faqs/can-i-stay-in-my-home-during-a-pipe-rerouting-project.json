@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-stay-in-my-home-during-a-pipe-rerouting-project",
+  "name": "Can I stay in my home during a pipe rerouting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a pipe rerouting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most pipe rerouting projects, homeowners can typically remain in their homes, especially for smaller-scale work. However, there will be periods when water service is temporarily shut off, and access to certain areas of the home, such as bathrooms or kitchens, might be restricted. For extensive whole-house rerouting, some customers choose to make alternative arrangements due to the scope of work and potential noise. Preparation might involve arranging for temporary water access or planning activities outside the home during peak work hours.",
+        "@type": "Answer",
+        "description": "Yes, usually, but expect temporary water shut-offs and restricted access to certain areas."
+      }
+    }
+  ],
+  "description": "Yes, usually, but expect temporary water shut-offs and restricted access to certain areas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-repairing-a-burst-frozen-pipe",
+  "name": "What is the process for repairing a burst frozen pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a burst frozen pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for repairing a burst frozen pipe begins with turning off the main water supply to prevent further flooding. Next, the plumber will locate the burst section, which may involve opening walls or ceilings if the pipe is concealed. The damaged section is then cut out and replaced with a new piece of piping, often using materials like PEX or copper, depending on the existing system. After the repair, the water supply is slowly restored, and the new connection is thoroughly checked for leaks. CG Plumbing Solutions aims to make this process as efficient and minimally disruptive as possible, ensuring a lasting repair.",
+        "@type": "Answer",
+        "description": "The process involves turning off water, locating and cutting out the burst section, replacing it with new pipe, and checking for leaks after water restoration."
+      }
+    }
+  ],
+  "description": "The process involves turning off water, locating and cutting out the burst section, replacing it with new pipe, and checking for leaks after water restoration."
+}

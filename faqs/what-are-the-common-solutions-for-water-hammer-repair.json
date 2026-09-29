@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-solutions-for-water-hammer-repair",
+  "name": "What are the common solutions for water hammer repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common solutions for water hammer repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common solutions for water hammer involve installing air chambers or water hammer arrestors near problem fixtures to absorb the pressure shock. Adjusting water pressure regulators can also help if high pressure is a contributing factor. Sometimes, securing loose pipes can reduce noise if they are simply vibrating against structural elements. A qualified plumber from CG Plumbing Solutions will assess the specific cause in your home and recommend the most effective repair, ensuring the solution addresses the root problem.",
+        "@type": "Answer",
+        "description": "Water hammer is often repaired by installing air chambers or arrestors, adjusting water pressure, or securing loose pipes to absorb shock and reduce noise."
+      }
+    }
+  ],
+  "description": "Water hammer is often repaired by installing air chambers or arrestors, adjusting water pressure, or securing loose pipes to absorb shock and reduce noise."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-are-some-angle-stop-valves-made-of-plastic-and-others-of-brass",
+  "name": "Why are some angle stop valves made of plastic and others of brass?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why are some angle stop valves made of plastic and others of brass?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Angle stop valves are commonly made from either plastic or brass, and each material has different properties. Plastic valves are typically less expensive and easier to install, but they are generally less durable and more prone to cracking or leaking over time. Brass valves, while costing more upfront, offer superior durability, corrosion resistance, and a longer lifespan. The material choice represents a practical tradeoff between initial expense and long-term reliability and peace of mind.",
+        "@type": "Answer",
+        "description": "Plastic valves are cheaper but less durable, while brass valves cost more but offer superior durability and corrosion resistance for a longer lifespan."
+      }
+    }
+  ],
+  "description": "Plastic valves are cheaper but less durable, while brass valves cost more but offer superior durability and corrosion resistance for a longer lifespan."
+}

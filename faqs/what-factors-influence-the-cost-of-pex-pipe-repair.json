@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-pex-pipe-repair",
+  "name": "What factors influence the cost of PEX pipe repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of PEX pipe repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of PEX pipe repair is influenced by several factors, including the extent of the damage, the accessibility of the pipe, and the number of fittings required. A simple, accessible repair will typically cost less than a complex job involving multiple leaks in hard-to-reach locations or requiring wall demolition. We provide transparent estimates after an on-site assessment, ensuring you understand the scope of work and associated costs before any repair begins. This helps you make an informed decision for your plumbing needs.",
+        "@type": "Answer",
+        "description": "Cost of PEX pipe repair depends on damage extent, accessibility, and fittings needed; complex repairs in hard-to-reach areas cost more."
+      }
+    }
+  ],
+  "description": "Cost of PEX pipe repair depends on damage extent, accessibility, and fittings needed; complex repairs in hard-to-reach areas cost more."
+}

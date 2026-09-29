@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-of-a-wall-leak",
+  "name": "What are common signs of a wall leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a wall leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a wall leak include discolored or damp spots on walls, bubbling or peeling paint or wallpaper, a musty odor, and unexplained increases in your water bill. You might also notice warped baseboards or floors near the affected wall. Identifying these signs early can prevent more significant damage to your property. Our technicians at CG Plumbing Solutions are experienced in pinpointing the source of these subtle indicators to address the problem efficiently.",
+        "@type": "Answer",
+        "description": "Common signs of a wall leak include discolored or damp spots, peeling paint, musty odors, and unexplained water bill increases."
+      }
+    }
+  ],
+  "description": "Common signs of a wall leak include discolored or damp spots, peeling paint, musty odors, and unexplained water bill increases."
+}

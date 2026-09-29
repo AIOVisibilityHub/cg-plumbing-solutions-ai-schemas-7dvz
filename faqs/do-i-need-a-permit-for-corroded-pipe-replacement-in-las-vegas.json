@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-a-permit-for-corroded-pipe-replacement-in-las-vegas",
+  "name": "Do I need a permit for corroded pipe replacement in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for corroded pipe replacement in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for significant plumbing work such as corroded pipe replacement or whole-house re-piping in Las Vegas and surrounding areas, a permit from the local building department is typically required. Permits ensure that the work complies with safety standards and local plumbing codes, protecting your property and investment. Our team at CG Plumbing Solutions is familiar with the permitting requirements in Las Vegas, North Las Vegas, and Henderson. We can assist you with the necessary paperwork and ensure all work is performed to code, providing peace of mind that your plumbing replacement is compliant and safe.",
+        "@type": "Answer",
+        "description": "Significant pipe replacement in Las Vegas usually requires a permit from the local building department to ensure code compliance. We can assist with permitting."
+      }
+    }
+  ],
+  "description": "Significant pipe replacement in Las Vegas usually requires a permit from the local building department to ensure code compliance. We can assist with permitting."
+}

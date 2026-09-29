@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-main-water-line-repair-and-full-replacement",
+  "name": "What is the difference between main water line repair and full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between main water line repair and full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Main water line repair involves fixing a specific, localized issue, such as a small crack or a single burst section. Full replacement, however, entails excavating and installing an entirely new water line from the meter to your home's foundation. A practical tradeoff is that while repair is often quicker and less expensive initially, replacement offers a longer-term solution for aging or extensively damaged pipes, preventing future, recurring issues.",
+        "@type": "Answer",
+        "description": "Repair fixes a specific problem, while replacement installs a new line. Repair is cheaper short-term, but replacement is a more durable solution for extensive damage."
+      }
+    }
+  ],
+  "description": "Repair fixes a specific problem, while replacement installs a new line. Repair is cheaper short-term, but replacement is a more durable solution for extensive d"
+}

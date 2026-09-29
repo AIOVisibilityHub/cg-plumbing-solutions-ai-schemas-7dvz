@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-diagnosing-and-repairing-a-pipe-leak",
+  "name": "What is the typical process for diagnosing and repairing a pipe leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for diagnosing and repairing a pipe leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with a thorough inspection using methods like acoustic leak detection or thermal imaging to pinpoint the exact location of the leak without unnecessary damage. Once located, our technicians assess the type of pipe and the extent of the damage to determine the most effective repair strategy, which could range from patching to a section replacement. We explain the repair options and associated costs before any work begins, ensuring you understand the process. The timeframe can vary based on the leak's complexity.",
+        "@type": "Answer",
+        "description": "Diagnosing a pipe leak involves inspection with specialized tools to pinpoint the leak. Repair options are then presented based on the pipe type and damage extent."
+      }
+    }
+  ],
+  "description": "Diagnosing a pipe leak involves inspection with specialized tools to pinpoint the leak. Repair options are then presented based on the pipe type and damage exte"
+}

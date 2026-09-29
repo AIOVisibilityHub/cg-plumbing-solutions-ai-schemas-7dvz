@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-my-water-pressure-suddenly-low-in-one-faucet-but-not-others",
+  "name": "Why is my water pressure suddenly low in one faucet but not others?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my water pressure suddenly low in one faucet but not others?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low water pressure in a single faucet often indicates a localized issue rather than a system-wide problem. Common causes include a clogged aerator, a faulty cartridge in the faucet, or an obstruction in the supply line to that specific fixture. Checking and cleaning the aerator is a good first step, as mineral deposits can easily build up and restrict flow. If the problem persists, it may require a plumber to diagnose and repair the internal faucet components or clear a blockage in the branch line. A decision factor here is determining if only one fixture is affected, which points to a localized fix rather than a more extensive plumbing issue.",
+        "@type": "Answer",
+        "description": "Low pressure in one faucet typically points to a localized issue like a clogged aerator or a faulty faucet cartridge, not a system-wide problem."
+      }
+    }
+  ],
+  "description": "Low pressure in one faucet typically points to a localized issue like a clogged aerator or a faulty faucet cartridge, not a system-wide problem."
+}

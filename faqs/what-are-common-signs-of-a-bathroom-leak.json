@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-of-a-bathroom-leak",
+  "name": "What are common signs of a bathroom leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a bathroom leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a bathroom leak include water stains on ceilings or walls, peeling paint or wallpaper, warped flooring, musty odors, and continuously running toilets. Increased water bills without a change in usage can also indicate a hidden leak. Early detection is key to preventing extensive damage, and CG Plumbing Solutions recommends checking around your toilet, shower, and sink for any visible moisture or dampness regularly.",
+        "@type": "Answer",
+        "description": "Signs of a bathroom leak include water stains, peeling paint, warped floors, musty smells, and higher water bills."
+      }
+    }
+  ],
+  "description": "Signs of a bathroom leak include water stains, peeling paint, warped floors, musty smells, and higher water bills."
+}

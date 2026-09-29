@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-repairing-a-pex-pipe-and-replacing-a-section-of-it",
+  "name": "What's the difference between repairing a PEX pipe and replacing a section of it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between repairing a PEX pipe and replacing a section of it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a PEX pipe often involves using a coupling to join two pipe ends after removing the damaged section, or applying a clamp for very small, localized issues. Replacing a section means removing a larger portion of the pipe and installing new PEX, which might be necessary for extensive damage or multiple failures. The choice between repair and replacement depends on the severity of the damage and the overall condition of the pipe. CG Plumbing Solutions evaluates the situation to recommend the most cost-effective and durable solution for your home.",
+        "@type": "Answer",
+        "description": "Repairing a PEX pipe typically uses couplings for small damage, while replacing a section involves installing a new, larger portion of pipe for extensive issues."
+      }
+    }
+  ],
+  "description": "Repairing a PEX pipe typically uses couplings for small damage, while replacing a section involves installing a new, larger portion of pipe for extensive issues"
+}

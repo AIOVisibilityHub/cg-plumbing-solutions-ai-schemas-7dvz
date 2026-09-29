@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-choose-a-reputable-plumbing-company-for-main-water-line-replacement",
+  "name": "How do I choose a reputable plumbing company for main water line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable plumbing company for main water line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a plumbing company, look for licensed and insured professionals with experience specifically in main water line replacement. Checking customer reviews and asking for references can provide valuable insight into their reliability and quality of work. As a decision factor, ensure the company offers clear estimates, stands behind its work, and is familiar with local regulations in areas like North Las Vegas, Henderson, or Summerlin, as these can vary.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured company with main water line experience. Check reviews, references, clear estimates, and local regulatory knowledge."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured company with main water line experience. Check reviews, references, clear estimates, and local regulatory knowledge."
+}

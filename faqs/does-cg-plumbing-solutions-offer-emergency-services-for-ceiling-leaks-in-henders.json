@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/does-cg-plumbing-solutions-offer-emergency-services-for-ceiling-leaks-in-henders",
+  "name": "Does CG Plumbing Solutions offer emergency services for ceiling leaks in Henderson or Summerlin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does CG Plumbing Solutions offer emergency services for ceiling leaks in Henderson or Summerlin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CG Plumbing Solutions offers emergency plumbing services for ceiling leaks across our service areas, including Henderson and Summerlin. We understand that a ceiling leak can be a critical issue requiring immediate attention to prevent significant property damage. Our team is equipped to respond promptly to emergency calls, diagnose the problem, and provide efficient repairs, even outside of standard business hours, ensuring your peace of mind when unexpected leaks occur.",
+        "@type": "Answer",
+        "description": "Yes, CG Plumbing Solutions provides emergency ceiling leak repair services in Henderson, Summerlin, and other service areas to address critical issues promptly."
+      }
+    }
+  ],
+  "description": "Yes, CG Plumbing Solutions provides emergency ceiling leak repair services in Henderson, Summerlin, and other service areas to address critical issues promptly."
+}

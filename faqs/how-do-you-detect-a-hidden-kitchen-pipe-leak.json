@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-you-detect-a-hidden-kitchen-pipe-leak",
+  "name": "How do you detect a hidden kitchen pipe leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you detect a hidden kitchen pipe leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Detecting a hidden kitchen pipe leak often involves a combination of visual inspection and specialized tools. Plumbers may look for water stains on walls or ceilings below, listen for dripping sounds, or use moisture meters to pinpoint elevated humidity levels. For more elusive leaks, techniques like pressure testing or using an inspection camera (borescope) can be employed to locate the exact source without extensive demolition. Our plumbers are equipped with various diagnostic tools to accurately identify hidden leaks in your Las Vegas home.",
+        "@type": "Answer",
+        "description": "Hidden leaks are found using visual inspection, moisture meters, pressure testing, or inspection cameras to pinpoint the source."
+      }
+    }
+  ],
+  "description": "Hidden leaks are found using visual inspection, moisture meters, pressure testing, or inspection cameras to pinpoint the source."
+}

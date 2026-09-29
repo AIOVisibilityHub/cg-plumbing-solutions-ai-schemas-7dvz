@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-an-angle-stop-valve",
+  "name": "When should I consider replacing an angle stop valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing an angle stop valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing an angle stop valve if it's leaking, corroded, difficult to turn, or if it fails to completely shut off the water flow to a fixture. Often, older plastic or multi-turn valves are prone to failure and can benefit from an upgrade to quarter-turn brass valves for better reliability. A key decision factor is the valve's age and material; plastic valves, especially, have a shorter lifespan.",
+        "@type": "Answer",
+        "description": "Replace an angle stop valve if it leaks, corrodes, is hard to turn, or doesn't shut off water completely. Older plastic valves often need replacing."
+      }
+    }
+  ],
+  "description": "Replace an angle stop valve if it leaks, corrodes, is hard to turn, or doesn't shut off water completely. Older plastic valves often need replacing."
+}

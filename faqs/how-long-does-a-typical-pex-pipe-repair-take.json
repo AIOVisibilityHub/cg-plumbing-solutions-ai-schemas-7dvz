@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-pex-pipe-repair-take",
+  "name": "How long does a typical PEX pipe repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical PEX pipe repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a PEX pipe repair depends on the extent and location of the damage. A small, accessible leak might be repaired within an hour or two. However, repairs involving multiple damaged sections, difficult-to-reach pipes within walls or ceilings, or extensive water damage remediation will take longer. We prioritize efficient service to minimize disruption, and our plumbers can provide a time estimate after assessing the specific repair needs at your property in Las Vegas or surrounding areas.",
+        "@type": "Answer",
+        "description": "The time for PEX pipe repair varies by damage extent and location; small leaks can be quick, while complex repairs take longer."
+      }
+    }
+  ],
+  "description": "The time for PEX pipe repair varies by damage extent and location; small leaks can be quick, while complex repairs take longer."
+}

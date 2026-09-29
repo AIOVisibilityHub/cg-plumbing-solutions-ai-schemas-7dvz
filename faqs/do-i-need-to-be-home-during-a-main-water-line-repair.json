@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-be-home-during-a-main-water-line-repair",
+  "name": "Do I need to be home during a main water line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during a main water line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not always strictly necessary for you to be present throughout the entire main water line repair, especially for exterior work, it is highly recommended to be available at the beginning for initial discussions and at the end for inspection and payment. Our technicians may need access to your property's interior to shut off the main water valve or check water pressure. Being home allows for immediate communication regarding any unexpected findings or decisions that might arise during the repair process.",
+        "@type": "Answer",
+        "description": "You don't need to be home for the entire repair, but it's recommended for initial discussions, water shut-off, and final inspection."
+      }
+    }
+  ],
+  "description": "You don't need to be home for the entire repair, but it's recommended for initial discussions, water shut-off, and final inspection."
+}

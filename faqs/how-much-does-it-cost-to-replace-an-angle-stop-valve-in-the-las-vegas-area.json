@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-replace-an-angle-stop-valve-in-the-las-vegas-area",
+  "name": "How much does it cost to replace an angle stop valve in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace an angle stop valve in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace an angle stop valve in the Las Vegas area can vary depending on factors like the valve type, accessibility, and whether multiple valves are replaced at once. Generally, it includes the cost of the new valve and labor. For an accurate estimate, it's best to have a plumber assess the specific location and valve condition. CG Plumbing Solutions provides upfront pricing after an on-site evaluation.",
+        "@type": "Answer",
+        "description": "Cost varies based on valve type, accessibility, and number of replacements. For an accurate estimate in Las Vegas, an on-site evaluation is recommended."
+      }
+    }
+  ],
+  "description": "Cost varies based on valve type, accessibility, and number of replacements. For an accurate estimate in Las Vegas, an on-site evaluation is recommended."
+}

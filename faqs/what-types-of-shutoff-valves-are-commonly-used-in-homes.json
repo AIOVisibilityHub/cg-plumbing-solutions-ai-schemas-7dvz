@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-shutoff-valves-are-commonly-used-in-homes",
+  "name": "What types of shutoff valves are commonly used in homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of shutoff valves are commonly used in homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of shutoff valves found in homes include ball valves, gate valves, and stopcocks. Ball valves are generally preferred for main water lines due to their durability and quick shutoff capability. Gate valves are older and tend to fail more frequently, making them less ideal for primary shutoffs. Stopcocks are often used for individual fixtures like toilets or sinks. The choice of valve type can influence its longevity and ease of operation. Understanding these differences can be a decision factor when considering an upgrade.",
+        "@type": "Answer",
+        "description": "Common types are ball valves (durable, quick shutoff), gate valves (older, prone to failure), and stopcocks (for fixtures). Ball valves are often preferred for main lines."
+      }
+    }
+  ],
+  "description": "Common types are ball valves (durable, quick shutoff), gate valves (older, prone to failure), and stopcocks (for fixtures). Ball valves are often preferred for"
+}

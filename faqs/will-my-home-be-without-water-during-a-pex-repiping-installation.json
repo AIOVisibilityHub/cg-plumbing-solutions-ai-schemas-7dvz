@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-my-home-be-without-water-during-a-pex-repiping-installation",
+  "name": "Will my home be without water during a PEX repiping installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my home be without water during a PEX repiping installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a PEX repiping installation, there will be periods when your water supply is temporarily shut off. Our goal is to minimize these interruptions, often arranging for water to be available overnight or in specific sections of the house as work progresses. We prioritize restoring essential water services as quickly as possible. As part of our process clarity, we'll communicate the planned shut-off times in advance, allowing you to prepare by storing water for essential needs.",
+        "@type": "Answer",
+        "description": "Your water supply will be temporarily shut off during PEX repiping, but we minimize interruptions and communicate planned shut-off times in advance."
+      }
+    }
+  ],
+  "description": "Your water supply will be temporarily shut off during PEX repiping, but we minimize interruptions and communicate planned shut-off times in advance."
+}

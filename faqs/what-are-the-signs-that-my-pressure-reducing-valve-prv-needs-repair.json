@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-that-my-pressure-reducing-valve-prv-needs-repair",
+  "name": "What are the signs that my pressure reducing valve (PRV) needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my pressure reducing valve (PRV) needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your PRV may need repair include fluctuating water pressure (either too high or too low), banging pipes, or a continuous whistling sound coming from the valve itself. Another indicator is if your water heater or other appliances are failing prematurely due to excessive pressure. Our technicians often check for these symptoms during a routine plumbing inspection to determine if the PRV is the root cause.",
+        "@type": "Answer",
+        "description": "Signs include fluctuating water pressure, banging pipes, whistling sounds, or premature appliance failure."
+      }
+    }
+  ],
+  "description": "Signs include fluctuating water pressure, banging pipes, whistling sounds, or premature appliance failure."
+}

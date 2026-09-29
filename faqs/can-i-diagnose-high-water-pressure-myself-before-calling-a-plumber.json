@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-diagnose-high-water-pressure-myself-before-calling-a-plumber",
+  "name": "Can I diagnose high water pressure myself before calling a plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I diagnose high water pressure myself before calling a plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can purchase a water pressure gauge at a hardware store and attach it to an outdoor spigot to get a general reading, a DIY diagnosis might not uncover the full extent or specific cause of the issue. A professional plumber from CG Plumbing Solutions can accurately pinpoint the source, assess the condition of your PRV, and recommend the most effective, long-term solution, which is crucial for preventing future problems.",
+        "@type": "Answer",
+        "description": "You can use a DIY gauge, but professional plumbers offer a comprehensive diagnosis to accurately pinpoint the cause and recommend effective solutions."
+      }
+    }
+  ],
+  "description": "You can use a DIY gauge, but professional plumbers offer a comprehensive diagnosis to accurately pinpoint the cause and recommend effective solutions."
+}

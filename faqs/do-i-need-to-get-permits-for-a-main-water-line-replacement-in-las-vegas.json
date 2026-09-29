@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-get-permits-for-a-main-water-line-replacement-in-las-vegas",
+  "name": "Do I need to get permits for a main water line replacement in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to get permits for a main water line replacement in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, main water line replacements typically require permits from the local jurisdiction, such as the City of Las Vegas or Clark County. This ensures the work meets local plumbing codes and safety standards. Obtaining the necessary permits is an important process clarity step that CG Plumbing Solutions manages for our customers, as improper permitting can lead to fines or mandated re-work.",
+        "@type": "Answer",
+        "description": "Yes, permits are usually required from local jurisdictions like the City of Las Vegas to ensure code compliance, which CG Plumbing Solutions handles."
+      }
+    }
+  ],
+  "description": "Yes, permits are usually required from local jurisdictions like the City of Las Vegas to ensure code compliance, which CG Plumbing Solutions handles."
+}

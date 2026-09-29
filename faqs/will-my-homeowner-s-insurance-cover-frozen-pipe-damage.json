@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-my-homeowner-s-insurance-cover-frozen-pipe-damage",
+  "name": "Will my homeowner's insurance cover frozen pipe damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover frozen pipe damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies typically cover sudden and accidental water damage caused by burst pipes, including those due to freezing. However, coverage often depends on whether you took reasonable steps to maintain your property and prevent the freeze. For instance, damage resulting from negligence, like failing to heat your home during a cold snap or not insulating known vulnerable pipes, might be excluded. It's important to review your specific policy or contact your insurance provider to understand your coverage limits and requirements for filing a claim after a frozen pipe incident.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance usually covers sudden water damage from burst frozen pipes, but coverage may depend on whether you took preventative measures."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance usually covers sudden water damage from burst frozen pipes, but coverage may depend on whether you took preventative measures."
+}

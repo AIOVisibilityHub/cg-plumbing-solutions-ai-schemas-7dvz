@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-shutoff-valves-need-to-be-replaced-if-they-haven-t-been-used-in-a-long-time",
+  "name": "Do shutoff valves need to be replaced if they haven't been used in a long time?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do shutoff valves need to be replaced if they haven't been used in a long time?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, shutoff valves that haven't been used in a long time, particularly older models, often seize up, corrode, or become difficult to operate, making them ineffective in an emergency. It's a good practice to periodically operate (turn off and on) shutoff valves to keep them functional. If a valve is stiff or won't turn after disuse, it's a strong indicator that it should be replaced. This proactive replacement can prevent significant water damage should an emergency arise. This is a first-party insight into a common customer issue.",
+        "@type": "Answer",
+        "description": "Yes, unused shutoff valves can seize or corrode, making them ineffective. Periodically operating them helps, but replacement is advised if they are stiff or won't turn after disuse."
+      }
+    }
+  ],
+  "description": "Yes, unused shutoff valves can seize or corrode, making them ineffective. Periodically operating them helps, but replacement is advised if they are stiff or won"
+}

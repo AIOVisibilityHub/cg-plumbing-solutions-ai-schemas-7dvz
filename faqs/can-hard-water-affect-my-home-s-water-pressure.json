@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-hard-water-affect-my-home-s-water-pressure",
+  "name": "Can hard water affect my home's water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can hard water affect my home's water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, hard water can significantly impact your home's water pressure over time. The minerals in hard water, primarily calcium and magnesium, can accumulate inside pipes, faucets, and water heaters, leading to scale buildup. This buildup narrows the internal diameter of the pipes, restricting water flow and reducing pressure. A practical tradeoff to consider is the initial investment in a water softener versus the long-term costs of reduced appliance efficiency, frequent plumbing repairs, and potential repiping due to mineral accumulation. Regular maintenance or water softening solutions can mitigate these issues.",
+        "@type": "Answer",
+        "description": "Yes, hard water minerals can build up in pipes, restricting flow and reducing water pressure over time."
+      }
+    }
+  ],
+  "description": "Yes, hard water minerals can build up in pipes, restricting flow and reducing water pressure over time."
+}

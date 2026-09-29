@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-minor-drip-and-a-significant-kitchen-leak",
+  "name": "What's the difference between a minor drip and a significant kitchen leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a minor drip and a significant kitchen leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor drip typically refers to a slow, intermittent water release, often from a faucet, P-trap, or supply line connection, that may not immediately cause extensive damage. A significant leak, however, involves a continuous or rapid flow of water that can quickly saturate materials, lead to pooling, and cause widespread damage to cabinetry, flooring, and structural components. The practical tradeoff is that addressing a minor drip promptly can prevent it from escalating into a significant leak, which requires more costly and extensive repairs.",
+        "@type": "Answer",
+        "description": "A minor drip is slow and intermittent, while a significant leak is continuous or rapid, causing quick and widespread damage."
+      }
+    }
+  ],
+  "description": "A minor drip is slow and intermittent, while a significant leak is continuous or rapid, causing quick and widespread damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-bathroom-leaks",
+  "name": "What causes bathroom leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes bathroom leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom leaks are commonly caused by worn-out seals, corroded pipes, loose connections, cracked grout or caulk, and faulty plumbing fixtures like faucets or toilets. For instance, a deteriorated wax seal at the base of your toilet is a frequent culprit for floor leaks. Regular maintenance and inspecting fixtures for wear can help prevent many common leak issues before they escalate.",
+        "@type": "Answer",
+        "description": "Bathroom leaks typically stem from worn seals, corroded pipes, loose connections, cracked grout, or faulty fixtures."
+      }
+    }
+  ],
+  "description": "Bathroom leaks typically stem from worn seals, corroded pipes, loose connections, cracked grout, or faulty fixtures."
+}

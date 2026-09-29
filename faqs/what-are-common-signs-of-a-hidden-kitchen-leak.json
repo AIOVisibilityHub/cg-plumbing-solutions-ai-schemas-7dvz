@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-of-a-hidden-kitchen-leak",
+  "name": "What are common signs of a hidden kitchen leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a hidden kitchen leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hidden kitchen leaks often manifest as subtle changes before becoming major issues. Look for discoloration or warping on cabinetry, bubbling or peeling paint on walls, a musty odor near the sink or dishwasher, or unexplained increases in your water bill. Addressing these signs early can prevent significant water damage and mold growth. As a practical tradeoff, waiting to investigate these subtle signs can lead to more extensive and costly repairs later.",
+        "@type": "Answer",
+        "description": "Common signs include discolored cabinets, bubbling paint, musty smells, or a higher water bill."
+      }
+    }
+  ],
+  "description": "Common signs include discolored cabinets, bubbling paint, musty smells, or a higher water bill."
+}

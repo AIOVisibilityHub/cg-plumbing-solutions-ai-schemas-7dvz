@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-copper-pipe-repair",
+  "name": "What is the process for copper pipe repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for copper pipe repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for copper pipe repair typically begins with shutting off the water supply to prevent further leakage. Next, the damaged section of pipe is located and accessed. Depending on the extent of the damage, a patch may be applied, or the compromised section is cut out and a new piece of copper pipe is soldered in place. After the repair, the water supply is restored, and the system is tested for leaks. Our technicians at CG Plumbing Solutions ensure the work area is clean and restored as much as possible after the repair is complete.",
+        "@type": "Answer",
+        "description": "The process involves shutting off water, locating damage, repairing or replacing the pipe, then restoring and testing the water supply."
+      }
+    }
+  ],
+  "description": "The process involves shutting off water, locating damage, repairing or replacing the pipe, then restoring and testing the water supply."
+}

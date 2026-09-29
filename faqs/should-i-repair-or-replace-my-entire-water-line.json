@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-repair-or-replace-my-entire-water-line",
+  "name": "Should I repair or replace my entire water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my entire water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair a localized break or replace the entire water line depends on several factors, including the age and material of your existing pipes, the frequency of past repairs, and the extent of the current damage. If your pipes are old and prone to multiple leaks, a full replacement might be a more cost-effective long-term solution. A single, isolated break in a relatively new system may only require a repair. Our technicians can provide an assessment to help you weigh the practical tradeoffs between a short-term fix versus a longer-lasting investment.",
+        "@type": "Answer",
+        "description": "Choose between repair and replacement based on pipe age, material, repair history, and damage extent. A full replacement may be better for old, frequently leaking pipes."
+      }
+    }
+  ],
+  "description": "Choose between repair and replacement based on pipe age, material, repair history, and damage extent. A full replacement may be better for old, frequently leaki"
+}

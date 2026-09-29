@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-of-a-frozen-pipe",
+  "name": "What are the common signs of a frozen pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a frozen pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common sign of a frozen pipe is a lack of water flow from a faucet, or significantly reduced pressure. Other indicators include unusual odors coming from drains, bulging sections of exposed pipes, or visible frost on pipes. In some cases, you might also hear gurgling or banging noises as water tries to pass through an obstruction. It's crucial to address these signs promptly to prevent the pipe from bursting, which can lead to significant water damage.",
+        "@type": "Answer",
+        "description": "Common signs of a frozen pipe include no water flow from a faucet, reduced pressure, unusual odors, or visible frost on pipes."
+      }
+    }
+  ],
+  "description": "Common signs of a frozen pipe include no water flow from a faucet, reduced pressure, unusual odors, or visible frost on pipes."
+}

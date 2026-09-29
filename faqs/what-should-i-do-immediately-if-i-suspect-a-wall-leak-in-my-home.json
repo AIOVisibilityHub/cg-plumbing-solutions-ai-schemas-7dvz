@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-immediately-if-i-suspect-a-wall-leak-in-my-home",
+  "name": "What should I do immediately if I suspect a wall leak in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I suspect a wall leak in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you suspect a wall leak, the immediate first step is to turn off your main water supply to prevent further water damage. Locate your main shut-off valve, which is typically found near your water meter or where the main water line enters your home. Once the water is off, contact a professional plumbing service like CG Plumbing Solutions promptly. This proactive measure can significantly mitigate damage to your property and reduce repair costs. Clear the area around the suspected leak as much as possible.",
+        "@type": "Answer",
+        "description": "If you suspect a wall leak, immediately turn off your main water supply and then contact a professional plumber to prevent further damage."
+      }
+    }
+  ],
+  "description": "If you suspect a wall leak, immediately turn off your main water supply and then contact a professional plumber to prevent further damage."
+}

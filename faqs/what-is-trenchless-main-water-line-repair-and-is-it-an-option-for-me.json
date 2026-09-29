@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-trenchless-main-water-line-repair-and-is-it-an-option-for-me",
+  "name": "What is trenchless main water line repair and is it an option for me?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is trenchless main water line repair and is it an option for me?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trenchless main water line repair is a method that minimizes excavation by repairing or replacing pipes with only one or two small access points. Techniques like pipe bursting or pipe lining can avoid digging up your entire yard. This approach is often quicker, less disruptive to landscaping, and can save on restoration costs. Whether it's an option for you depends on the type of pipe, the extent and location of the damage, and the specific soil conditions. We can assess your situation to determine if trenchless repair is suitable for your property.",
+        "@type": "Answer",
+        "description": "Trenchless repair fixes or replaces main water lines with minimal digging. It's less disruptive, but suitability depends on pipe type, damage, and soil conditions."
+      }
+    }
+  ],
+  "description": "Trenchless repair fixes or replaces main water lines with minimal digging. It's less disruptive, but suitability depends on pipe type, damage, and soil conditio"
+}

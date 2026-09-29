@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-copper-pipes-need-repair",
+  "name": "What are common signs that my copper pipes need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my copper pipes need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that copper pipes need repair include visible leaks, discolored water, reduced water pressure, or unusual noises coming from your plumbing system. Pinhole leaks, often indicated by small wet spots on ceilings or walls, are particularly common in older copper pipes and can worsen over time if not addressed. Prompt attention to these issues can prevent more extensive damage to your home and plumbing infrastructure.",
+        "@type": "Answer",
+        "description": "Look for visible leaks, discolored water, reduced water pressure, or strange noises. Pinhole leaks in older pipes are a common indicator."
+      }
+    }
+  ],
+  "description": "Look for visible leaks, discolored water, reduced water pressure, or strange noises. Pinhole leaks in older pipes are a common indicator."
+}

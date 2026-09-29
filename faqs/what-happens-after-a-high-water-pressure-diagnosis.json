@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-happens-after-a-high-water-pressure-diagnosis",
+  "name": "What happens after a high water pressure diagnosis?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a high water pressure diagnosis?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a high water pressure diagnosis, the plumber will explain their findings and recommend the appropriate solution, which most commonly involves adjusting or replacing your pressure reducing valve (PRV). They will provide a detailed estimate for any recommended repairs or installations. Once approved, the necessary work will be performed to bring your home's water pressure to a safe and optimal level.",
+        "@type": "Answer",
+        "description": "After diagnosis, the plumber will explain findings, recommend solutions (often PRV adjustment or replacement), and provide an estimate before performing repairs."
+      }
+    }
+  ],
+  "description": "After diagnosis, the plumber will explain findings, recommend solutions (often PRV adjustment or replacement), and provide an estimate before performing repairs"
+}

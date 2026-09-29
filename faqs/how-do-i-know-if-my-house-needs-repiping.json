@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-house-needs-repiping",
+  "name": "How do I know if my house needs repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my house needs repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your house may need repiping include discolored or rusty water, consistently low water pressure, frequent pipe leaks, and strange metallic tastes or odors in your water. If your home has galvanized steel pipes or older copper pipes, especially in the warm Las Vegas climate which can accelerate corrosion, these issues are more common. A professional plumbing inspection can accurately diagnose the condition of your pipes and recommend the best course of action.",
+        "@type": "Answer",
+        "description": "Look for discolored water, low water pressure, frequent leaks, or metallic tastes. A professional inspection can confirm if repiping is needed."
+      }
+    }
+  ],
+  "description": "Look for discolored water, low water pressure, frequent leaks, or metallic tastes. A professional inspection can confirm if repiping is needed."
+}

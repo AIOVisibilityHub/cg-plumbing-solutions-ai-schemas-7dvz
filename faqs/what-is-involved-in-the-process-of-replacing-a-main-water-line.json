@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-process-of-replacing-a-main-water-line",
+  "name": "What is involved in the process of replacing a main water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of replacing a main water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main water line replacement process typically involves several stages. First, the old line is located, and utility companies are notified to mark underground lines. Next, the ground is excavated to access the pipe, the old line is removed, and the new one is installed. After testing the new line, the trench is backfilled, and any disturbed landscaping is restored. The specific approach can vary based on whether trenchless methods are feasible for your property.",
+        "@type": "Answer",
+        "description": "The process includes locating the old line, excavation, installation of the new line, testing, and backfilling. Trenchless options may be available."
+      }
+    }
+  ],
+  "description": "The process includes locating the old line, excavation, installation of the new line, testing, and backfilling. Trenchless options may be available."
+}

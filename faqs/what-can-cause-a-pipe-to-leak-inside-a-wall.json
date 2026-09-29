@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-can-cause-a-pipe-to-leak-inside-a-wall",
+  "name": "What can cause a pipe to leak inside a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can cause a pipe to leak inside a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pipes can leak inside a wall due to several reasons, including aging pipes that corrode or deteriorate over time, high water pressure stressing connections, or shifting foundations that put strain on plumbing lines. Freezing temperatures, which can cause pipes to expand and burst, are also a common cause, particularly in homes where pipes might not be adequately insulated. Even minor vibrations can loosen fittings over many years. Identifying the root cause is crucial for preventing future leaks.",
+        "@type": "Answer",
+        "description": "Wall leaks can be caused by aging pipes, high water pressure, shifting foundations, or freezing temperatures, all of which stress plumbing lines."
+      }
+    }
+  ],
+  "description": "Wall leaks can be caused by aging pipes, high water pressure, shifting foundations, or freezing temperatures, all of which stress plumbing lines."
+}

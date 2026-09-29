@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-main-water-shutoff-valve-repair-typically-take",
+  "name": "How long does a main water shutoff valve repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a main water shutoff valve repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a main water shutoff valve repair can vary based on the valve's condition, accessibility, and type. A straightforward repair might take 1-2 hours, while a full replacement could extend to 3-4 hours, especially if pipes need modification. We prioritize efficient service to minimize disruption to your home in locations like Summerlin.",
+        "@type": "Answer",
+        "description": "Repair time varies from 1-2 hours for simple fixes to 3-4 hours for replacements, depending on complexity."
+      }
+    }
+  ],
+  "description": "Repair time varies from 1-2 hours for simple fixes to 3-4 hours for replacements, depending on complexity."
+}

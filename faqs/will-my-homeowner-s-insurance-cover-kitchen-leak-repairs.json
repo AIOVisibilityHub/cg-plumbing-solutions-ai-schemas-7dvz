@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-my-homeowner-s-insurance-cover-kitchen-leak-repairs",
+  "name": "Will my homeowner's insurance cover kitchen leak repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover kitchen leak repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies typically cover sudden and accidental water damage from an internal source, such as a burst pipe or appliance malfunction. However, they generally do not cover damage resulting from neglect, gradual leaks, or issues caused by lack of maintenance. The scope of coverage can vary significantly between policies and providers. It is crucial to review your specific policy details or contact your insurance agent to understand what your plan covers regarding kitchen leak repairs. This preparation helps you understand potential costs.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance usually covers sudden water damage but not gradual leaks or neglect. Check your specific policy."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance usually covers sudden water damage but not gradual leaks or neglect. Check your specific policy."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-corroded-pipe-replacement",
+  "name": "What is the typical process for corroded pipe replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for corroded pipe replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for corroded pipe replacement typically involves an initial assessment to locate all affected sections. Our technicians will then plan the most efficient replacement strategy, which may include replacing sections of pipe or the entire system, depending on the extent of corrosion. We prioritize minimizing disruption to your home during the replacement, carefully accessing pipes through walls or floors as needed, and restoring the affected areas. After installation, the new pipes are tested for leaks and proper water flow. We aim to keep you informed at every stage, from initial diagnosis to project completion.",
+        "@type": "Answer",
+        "description": "The process involves assessment, strategic planning, replacing affected pipe sections, and thorough testing. We aim to minimize disruption and keep you informed."
+      }
+    }
+  ],
+  "description": "The process involves assessment, strategic planning, replacing affected pipe sections, and thorough testing. We aim to minimize disruption and keep you informed"
+}

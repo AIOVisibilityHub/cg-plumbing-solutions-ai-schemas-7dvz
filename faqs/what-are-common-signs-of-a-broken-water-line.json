@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-of-a-broken-water-line",
+  "name": "What are common signs of a broken water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a broken water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a broken water line include unusually high water bills, reduced water pressure, discolored water, or wet spots in your yard that don't dry. You might also hear the sound of running water when all faucets are off. Addressing these signs promptly can prevent further damage to your property. For example, if you notice a sudden drop in water pressure throughout your home, it often indicates a leak somewhere in the main supply line. If you're in Las Vegas, North Las Vegas, Henderson, Paradise, or Summerlin, CG Plumbing Solutions can assess these symptoms to determine the cause.",
+        "@type": "Answer",
+        "description": "Signs of a broken water line include high water bills, low water pressure, discolored water, or wet spots in your yard. Hearing running water when none is in use can also indicate a problem."
+      }
+    }
+  ],
+  "description": "Signs of a broken water line include high water bills, low water pressure, discolored water, or wet spots in your yard. Hearing running water when none is in us"
+}

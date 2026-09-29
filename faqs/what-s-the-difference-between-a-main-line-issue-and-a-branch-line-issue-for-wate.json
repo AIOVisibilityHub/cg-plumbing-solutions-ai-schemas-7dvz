@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-main-line-issue-and-a-branch-line-issue-for-wate",
+  "name": "What's the difference between a main line issue and a branch line issue for water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a main line issue and a branch line issue for water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A main line issue affects the overall water supply entering your home, leading to low pressure throughout the entire house. This could involve a problem with the main shut-off valve, the pressure regulator, or the service line from the street. A branch line issue, conversely, impacts water pressure in only a specific area or fixture, such as a single bathroom or kitchen sink. This usually points to a problem within that particular line, like a localized clog or a faulty fixture. Understanding this comparison helps plumbers diagnose whether the problem is house-wide or confined to one area.",
+        "@type": "Answer",
+        "description": "A main line issue causes low pressure house-wide, while a branch line issue affects only a specific fixture or area."
+      }
+    }
+  ],
+  "description": "A main line issue causes low pressure house-wide, while a branch line issue affects only a specific fixture or area."
+}

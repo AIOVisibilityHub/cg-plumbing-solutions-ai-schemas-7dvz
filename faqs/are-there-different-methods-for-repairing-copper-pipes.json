@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-there-different-methods-for-repairing-copper-pipes",
+  "name": "Are there different methods for repairing copper pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different methods for repairing copper pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are several methods for repairing copper pipes, each suited to different types of damage. These include using pipe clamps or epoxy for temporary fixes on small pinhole leaks, soldering or brazing to join new sections of pipe, and sometimes even press-fit fittings for quick, flameless connections. The most appropriate method depends on factors like the size of the leak, the pipe's location, and local plumbing codes. CG Plumbing Solutions technicians are trained in various techniques to provide the most effective repair for your specific situation.",
+        "@type": "Answer",
+        "description": "Repair methods include clamps, epoxy for temporary fixes, soldering/brazing for replacements, or press-fit fittings, depending on the damage."
+      }
+    }
+  ],
+  "description": "Repair methods include clamps, epoxy for temporary fixes, soldering/brazing for replacements, or press-fit fittings, depending on the damage."
+}

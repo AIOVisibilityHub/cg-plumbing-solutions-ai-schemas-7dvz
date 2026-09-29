@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-a-main-water-shutoff-valve-be-inspected-or-replaced",
+  "name": "How often should a main water shutoff valve be inspected or replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should a main water shutoff valve be inspected or replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to inspect your main water shutoff valve annually to ensure it's easily accessible and functional. Regular operation (turning it fully off and on) can help prevent seizing due to disuse. Replacement typically isn't needed unless there's visible damage, persistent leaks, or it fails to operate correctly during an inspection. Regular checks can be done during routine plumbing maintenance offered by CG Plumbing Solutions.",
+        "@type": "Answer",
+        "description": "Inspect your main water shutoff valve annually for function; replacement is typically only needed for damage or failure."
+      }
+    }
+  ],
+  "description": "Inspect your main water shutoff valve annually for function; replacement is typically only needed for damage or failure."
+}

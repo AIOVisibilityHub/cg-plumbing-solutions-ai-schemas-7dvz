@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-i-discover-a-leak-in-my-bathroom",
+  "name": "What should I do if I discover a leak in my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I discover a leak in my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover a leak in your bathroom, the first step is to shut off the main water supply to prevent further damage. Next, try to contain the water with buckets or towels. Then, contact a professional plumbing service like CG Plumbing Solutions immediately for an assessment and repair. Providing details about where you noticed the leak and any visible damage can help our technicians prepare for the service call, speeding up the diagnostic process.",
+        "@type": "Answer",
+        "description": "If you find a leak, shut off the water, contain the spill, and contact a professional plumber immediately."
+      }
+    }
+  ],
+  "description": "If you find a leak, shut off the water, contain the spill, and contact a professional plumber immediately."
+}

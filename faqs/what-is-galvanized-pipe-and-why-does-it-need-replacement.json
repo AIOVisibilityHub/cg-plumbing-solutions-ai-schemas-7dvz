@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-galvanized-pipe-and-why-does-it-need-replacement",
+  "name": "What is galvanized pipe and why does it need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is galvanized pipe and why does it need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Galvanized pipe is steel pipe coated with zinc to prevent rust. Over time, this zinc coating erodes, leading to internal corrosion, mineral buildup, reduced water pressure, and discolored water. Replacement is necessary when these pipes degrade significantly, causing leaks, frequent clogs, or poor water quality, as the internal corrosion cannot be effectively repaired. This degradation often necessitates a full system replacement to restore proper plumbing function.",
+        "@type": "Answer",
+        "description": "Galvanized pipe is zinc-coated steel that corrodes internally over time, leading to leaks, low water pressure, and discolored water, requiring replacement."
+      }
+    }
+  ],
+  "description": "Galvanized pipe is zinc-coated steel that corrodes internally over time, leading to leaks, low water pressure, and discolored water, requiring replacement."
+}

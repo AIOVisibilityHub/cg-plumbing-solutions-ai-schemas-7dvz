@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-to-prepare-for-a-shutoff-valve-replacement-service",
+  "name": "What should I do to prepare for a shutoff valve replacement service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare for a shutoff valve replacement service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a shutoff valve replacement, first ensure clear access to the valve. Remove any obstructions, personal items, or furniture from the work area. If it's a main shutoff valve, know the location of your property's water meter. You might also want to inform household members about the temporary water interruption. Preparation helps the plumbing technician work efficiently and safely, minimizing the time water is off in your home. This helps facilitate a smoother and faster service.",
+        "@type": "Answer",
+        "description": "Clear the work area, ensure access to the valve, and know the water meter location. Inform household members about temporary water interruption."
+      }
+    }
+  ],
+  "description": "Clear the work area, ensure access to the valve, and know the water meter location. Inform household members about temporary water interruption."
+}

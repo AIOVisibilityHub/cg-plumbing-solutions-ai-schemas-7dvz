@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prepare-for-a-main-water-line-repair",
+  "name": "How can I prepare for a main water line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare for a main water line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our technicians arrive for a main water line repair, it's helpful to clear the area around where you suspect the leak or damage is located, if possible. This might involve moving garden decorations, patio furniture, or other obstructions. Additionally, be prepared to temporarily turn off your main water supply, as this is often required for the repair process. Having any information about previous plumbing work or blueprints of your property available can also assist our team in quickly diagnosing and addressing the issue.",
+        "@type": "Answer",
+        "description": "Before main water line repair, clear the area around the suspected damage and be ready to turn off your main water supply. Providing any plumbing history is also helpful."
+      }
+    }
+  ],
+  "description": "Before main water line repair, clear the area around the suspected damage and be ready to turn off your main water supply. Providing any plumbing history is als"
+}

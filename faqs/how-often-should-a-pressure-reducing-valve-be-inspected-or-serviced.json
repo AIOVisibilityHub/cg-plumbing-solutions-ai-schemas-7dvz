@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-a-pressure-reducing-valve-be-inspected-or-serviced",
+  "name": "How often should a pressure reducing valve be inspected or serviced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should a pressure reducing valve be inspected or serviced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to have your pressure reducing valve inspected every 3-5 years, or immediately if you notice any changes in water pressure or related plumbing issues. Regular inspection can help identify minor problems before they escalate into major repairs or replacements, preserving the lifespan of your plumbing system and appliances. Our technicians can include a PRV check during other routine plumbing maintenance appointments.",
+        "@type": "Answer",
+        "description": "PRVs should be inspected every 3-5 years or if pressure changes. Regular checks prevent major issues."
+      }
+    }
+  ],
+  "description": "PRVs should be inspected every 3-5 years or if pressure changes. Regular checks prevent major issues."
+}

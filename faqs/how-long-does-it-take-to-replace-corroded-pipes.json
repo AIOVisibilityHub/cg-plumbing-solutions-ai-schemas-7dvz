@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-replace-corroded-pipes",
+  "name": "How long does it take to replace corroded pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace corroded pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of corroded pipe replacement can vary significantly based on the project's scope. A minor repair involving a single corroded section might take only a few hours. However, a whole-house re-piping project, especially in larger homes, could take several days to a week. Factors like the number of affected pipes, their accessibility, and the type of new piping material chosen can all influence the timeline. During our initial consultation, we provide a projected timeline tailored to your specific situation, helping you understand what to expect. We work efficiently to restore your plumbing with minimal interruption.",
+        "@type": "Answer",
+        "description": "Timing varies from a few hours for minor repairs to several days for whole-house re-piping. Factors include scope, accessibility, and pipe material."
+      }
+    }
+  ],
+  "description": "Timing varies from a few hours for minor repairs to several days for whole-house re-piping. Factors include scope, accessibility, and pipe material."
+}

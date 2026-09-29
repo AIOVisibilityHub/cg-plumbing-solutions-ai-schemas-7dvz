@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-whole-house-repipe-project-take",
+  "name": "How long does a whole house repipe project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a whole house repipe project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most whole house repiping projects can be completed within 3 to 5 days for an average-sized home. The duration can vary based on the size and complexity of your home, the number of fixtures, and the pipe material selected. During the process, water service will be temporarily interrupted, but we aim to restore it daily if possible to minimize inconvenience. Our team at CG Plumbing Solutions focuses on efficient, quality work to complete your project promptly.",
+        "@type": "Answer",
+        "description": "A whole house repipe typically takes 3-5 days, varying by home size and complexity. Water service may be interrupted but is often restored daily."
+      }
+    }
+  ],
+  "description": "A whole house repipe typically takes 3-5 days, varying by home size and complexity. Water service may be interrupted but is often restored daily."
+}

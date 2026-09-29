@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-pipe-rerouting-damage-my-walls-or-flooring",
+  "name": "Will pipe rerouting damage my walls or flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will pipe rerouting damage my walls or flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pipe rerouting often requires opening up walls, ceilings, or floors to access and install new piping. While plumbing professionals take care to minimize disruption, some damage to surfaces is typically unavoidable as part of the process. This is a crucial element of process clarity; customers should anticipate that patching, painting, or other finish work will be needed after the plumbing is complete. We ensure clear communication about where access points will be made and what the homeowner might need to address regarding repairs.",
+        "@type": "Answer",
+        "description": "Yes, rerouting often requires opening walls or floors for access, which will need subsequent repair."
+      }
+    }
+  ],
+  "description": "Yes, rerouting often requires opening walls or floors for access, which will need subsequent repair."
+}

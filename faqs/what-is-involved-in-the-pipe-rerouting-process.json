@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-pipe-rerouting-process",
+  "name": "What is involved in the pipe rerouting process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the pipe rerouting process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The pipe rerouting process typically begins with an inspection to assess the current plumbing system and determine the optimal new pipe path. This is followed by planning, which includes selecting appropriate materials like PEX or copper. During the work, old pipes may be capped or removed, and new pipes are installed through walls, ceilings, or floors. After installation, pressure testing ensures there are no leaks. Understanding this process can help customers prepare for potential temporary access holes in drywall or other surfaces, which will need to be repaired afterwards.",
+        "@type": "Answer",
+        "description": "The process involves inspection, planning, new pipe installation, and pressure testing, often requiring access through walls or floors."
+      }
+    }
+  ],
+  "description": "The process involves inspection, planning, new pipe installation, and pressure testing, often requiring access through walls or floors."
+}

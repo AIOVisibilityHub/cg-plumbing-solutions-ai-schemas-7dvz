@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-that-a-shutoff-valve-needs-replacement",
+  "name": "What are the common signs that a shutoff valve needs replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that a shutoff valve needs replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that a shutoff valve needs replacement include visible leaks, difficulty turning the valve (stiffness or seizing), corrosion on the valve body, or if the valve simply fails to stop the water flow completely when closed. Often, these issues arise from age, wear, or sediment buildup. Regular inspections, especially during other plumbing maintenance, can help identify these problems early. A practical tradeoff is waiting to replace a stiff valve, which might lead to a larger leak or burst pipe later, requiring emergency service.",
+        "@type": "Answer",
+        "description": "Signs include leaks, difficulty turning, corrosion, or failure to stop water flow. Waiting for replacement might lead to bigger issues."
+      }
+    }
+  ],
+  "description": "Signs include leaks, difficulty turning, corrosion, or failure to stop water flow. Waiting for replacement might lead to bigger issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-my-yard-be-damaged-during-a-water-service-line-replacement",
+  "name": "Will my yard be damaged during a water service line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my yard be damaged during a water service line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Some degree of yard disruption is typically unavoidable during a water service line replacement, as excavation is required to access the pipe. However, reputable plumbers like CG Plumbing Solutions prioritize minimizing damage by using precise digging techniques and careful planning. We make every effort to restore your landscape to its original condition, including backfilling trenches and performing basic site clean-up. You may consider covering sensitive plants or marking irrigation lines before our arrival for added protection.",
+        "@type": "Answer",
+        "description": "Some yard disruption is expected due to excavation, but we minimize damage and restore the site, including backfilling trenches."
+      }
+    }
+  ],
+  "description": "Some yard disruption is expected due to excavation, but we minimize damage and restore the site, including backfilling trenches."
+}

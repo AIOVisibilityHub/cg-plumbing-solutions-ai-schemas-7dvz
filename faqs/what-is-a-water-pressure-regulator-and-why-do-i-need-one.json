@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-water-pressure-regulator-and-why-do-i-need-one",
+  "name": "What is a water pressure regulator and why do I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a water pressure regulator and why do I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water pressure regulator is a valve installed on your main water line that reduces and stabilizes the incoming water pressure from the municipal supply. High water pressure can cause significant damage to your plumbing system, including burst pipes, leaking fixtures, and premature appliance failure. It also leads to excessive water consumption. Installing a regulator protects your home's plumbing infrastructure and can help reduce water waste.",
+        "@type": "Answer",
+        "description": "A water pressure regulator reduces and stabilizes incoming water pressure to protect plumbing and prevent damage from high pressure."
+      }
+    }
+  ],
+  "description": "A water pressure regulator reduces and stabilizes incoming water pressure to protect plumbing and prevent damage from high pressure."
+}

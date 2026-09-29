@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prevent-future-bathroom-leaks",
+  "name": "How can I prevent future bathroom leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future bathroom leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future bathroom leaks involves regular maintenance and vigilance. Periodically inspect visible pipes, faucets, and the base of your toilet for any signs of corrosion, drips, or dampness. Ensure grout and caulk around showers and tubs are intact and re-seal them as needed to prevent water penetration. Additionally, avoid using harsh chemical drain cleaners that can corrode pipes over time. CG Plumbing Solutions offers routine plumbing inspections that can identify potential leak sources before they become major problems.",
+        "@type": "Answer",
+        "description": "Prevent leaks by regularly inspecting pipes, ensuring grout and caulk are sealed, and avoiding harsh drain cleaners."
+      }
+    }
+  ],
+  "description": "Prevent leaks by regularly inspecting pipes, ensuring grout and caulk are sealed, and avoiding harsh drain cleaners."
+}

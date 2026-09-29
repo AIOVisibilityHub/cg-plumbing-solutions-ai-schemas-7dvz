@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-replace-an-angle-stop-valve",
+  "name": "How long does it take to replace an angle stop valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace an angle stop valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a single angle stop valve typically takes a professional plumber about 30 to 60 minutes. The timing can be affected by factors such as the valve's accessibility, the condition of the existing plumbing, and whether any unexpected issues arise, such as a corroded pipe connection. Easily accessible valves usually take less time, while those in tight spaces or with complex piping may require more effort.",
+        "@type": "Answer",
+        "description": "Replacing an angle stop valve typically takes 30-60 minutes, but timing can vary based on accessibility and existing plumbing conditions."
+      }
+    }
+  ],
+  "description": "Replacing an angle stop valve typically takes 30-60 minutes, but timing can vary based on accessibility and existing plumbing conditions."
+}

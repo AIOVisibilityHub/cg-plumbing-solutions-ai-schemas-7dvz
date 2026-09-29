@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-be-present-during-the-water-service-line-replacement",
+  "name": "Do I need to be present during the water service line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present during the water service line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you are not required to be present for the entire duration of the water service line replacement, it is important to be available at the beginning for initial discussions and at the end for a final walkthrough and to confirm everything meets your satisfaction. Our team at CG Plumbing Solutions will communicate with you regularly throughout the project. We handle all coordination with utility companies and permit offices, ensuring a smooth process whether you are on-site or not.",
+        "@type": "Answer",
+        "description": "You are not required to be present for the entire process, but availability at the start and end is helpful for discussions and final walkthrough."
+      }
+    }
+  ],
+  "description": "You are not required to be present for the entire process, but availability at the start and end is helpful for discussions and final walkthrough."
+}

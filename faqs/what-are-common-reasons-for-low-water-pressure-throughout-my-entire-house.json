@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-reasons-for-low-water-pressure-throughout-my-entire-house",
+  "name": "What are common reasons for low water pressure throughout my entire house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons for low water pressure throughout my entire house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low water pressure throughout the entire house can stem from several issues, including a partially closed main water shut-off valve, a faulty pressure regulator, or sediment buildup in the main water line. It could also indicate municipal supply problems or leaks within your plumbing system. Identifying the cause often involves checking the main shut-off valve, testing the pressure regulator if you have one, and inspecting for visible leaks. A practical tradeoff is balancing the immediate need for pressure restoration with the cost and complexity of repairing or replacing components like pressure regulators or main lines, which a professional can help assess.",
+        "@type": "Answer",
+        "description": "Common causes for low water pressure house-wide include a closed main valve, faulty pressure regulator, sediment buildup, or leaks."
+      }
+    }
+  ],
+  "description": "Common causes for low water pressure house-wide include a closed main valve, faulty pressure regulator, sediment buildup, or leaks."
+}

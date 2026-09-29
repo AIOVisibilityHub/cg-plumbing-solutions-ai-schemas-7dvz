@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-bathroom-leak-repair-cost-in-las-vegas",
+  "name": "How much does bathroom leak repair cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does bathroom leak repair cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of bathroom leak repair in the Las Vegas area varies significantly based on the leak's location, severity, and the extent of damage. A minor fix like a dripping faucet might be a simple part replacement, while a hidden pipe burst requiring wall demolition and restoration will be more complex and costly. CG Plumbing Solutions provides upfront, transparent pricing after a thorough assessment, so you understand the full scope of work before we begin. We also consider factors like potential mold remediation which can add to the overall cost if not addressed quickly.",
+        "@type": "Answer",
+        "description": "Bathroom leak repair costs in Las Vegas depend on the leak's location, severity, and damage. We provide upfront pricing after assessment."
+      }
+    }
+  ],
+  "description": "Bathroom leak repair costs in Las Vegas depend on the leak's location, severity, and damage. We provide upfront pricing after assessment."
+}

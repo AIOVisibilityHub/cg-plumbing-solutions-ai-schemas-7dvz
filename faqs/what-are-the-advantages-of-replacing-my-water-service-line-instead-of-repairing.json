@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-advantages-of-replacing-my-water-service-line-instead-of-repairing",
+  "name": "What are the advantages of replacing my water service line instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of replacing my water service line instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing your entire water service line offers several advantages over frequent repairs, especially for older or severely damaged pipes. A full replacement eliminates recurring leaks and ensures consistent water pressure and quality for decades, using modern, durable materials. While a repair might offer a short-term fix, replacement provides a long-term solution, preventing future issues and potentially increasing your property value. CG Plumbing Solutions often recommends replacement if your line is old or has a history of multiple breaks.",
+        "@type": "Answer",
+        "description": "Replacement provides a long-term solution, ensuring consistent water pressure and quality, preventing future leaks, unlike temporary repairs."
+      }
+    }
+  ],
+  "description": "Replacement provides a long-term solution, ensuring consistent water pressure and quality, preventing future leaks, unlike temporary repairs."
+}

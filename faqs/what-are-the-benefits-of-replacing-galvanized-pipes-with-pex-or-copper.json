@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-benefits-of-replacing-galvanized-pipes-with-pex-or-copper",
+  "name": "What are the benefits of replacing galvanized pipes with PEX or copper?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of replacing galvanized pipes with PEX or copper?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing galvanized pipes with modern materials like PEX or copper offers significant benefits including improved water pressure, cleaner water, and elimination of rust or corrosion issues. These materials are also more durable and less prone to leaks, increasing your plumbing system's lifespan. Choosing between PEX and copper often involves a practical tradeoff between material cost and installation flexibility, with PEX generally being more cost-effective and easier to install in tight spaces.",
+        "@type": "Answer",
+        "description": "Benefits include better water pressure, cleaner water, and fewer leaks. PEX and copper are more durable, with PEX offering cost-effectiveness and easier installation."
+      }
+    }
+  ],
+  "description": "Benefits include better water pressure, cleaner water, and fewer leaks. PEX and copper are more durable, with PEX offering cost-effectiveness and easier install"
+}

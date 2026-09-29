@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-prepare-for-before-galvanized-pipe-replacement-work-begins",
+  "name": "What should I prepare for before galvanized pipe replacement work begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for before galvanized pipe replacement work begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before work begins, you should clear access to walls, ceilings, and utility areas where pipes will be replaced. Protect furniture and belongings in work zones. Our team will advise on specific areas to prepare. A key preparation step is to identify and discuss any areas of particular concern or historical plumbing issues with our plumbers, as this can inform the most efficient and least disruptive replacement strategy for your Las Vegas home.",
+        "@type": "Answer",
+        "description": "Clear access to work areas, protect belongings, and discuss any specific plumbing concerns with your plumber before replacement begins."
+      }
+    }
+  ],
+  "description": "Clear access to work areas, protect belongings, and discuss any specific plumbing concerns with your plumber before replacement begins."
+}

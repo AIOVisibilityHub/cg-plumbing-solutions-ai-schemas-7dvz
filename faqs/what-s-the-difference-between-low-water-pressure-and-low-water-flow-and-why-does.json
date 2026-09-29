@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-low-water-pressure-and-low-water-flow-and-why-does",
+  "name": "What's the difference between low water pressure and low water flow, and why does it matter?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between low water pressure and low water flow, and why does it matter?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low water pressure refers to the force of water coming out of a fixture, while low water flow describes the volume of water. While often related, they aren't always the same. For example, a clogged aerator might reduce flow without significantly impacting pressure, whereas a broken pressure regulator reduces the actual force. Understanding the distinction helps in diagnosing the problem. If you notice a weak stream (low flow) but still feel some force (pressure), the issue might be a simple blockage. If there's barely any force or volume, it's likely a more significant pressure problem. This clarity helps plumbers like us narrow down potential causes more efficiently.",
+        "@type": "Answer",
+        "description": "Low water pressure is the force, while low water flow is the volume. Knowing the difference helps diagnose if the problem is a blockage (flow) or a system-wide issue (pressure)."
+      }
+    }
+  ],
+  "description": "Low water pressure is the force, while low water flow is the volume. Knowing the difference helps diagnose if the problem is a blockage (flow) or a system-wide"
+}

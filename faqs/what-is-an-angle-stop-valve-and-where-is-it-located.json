@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-an-angle-stop-valve-and-where-is-it-located",
+  "name": "What is an angle stop valve and where is it located?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an angle stop valve and where is it located?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An angle stop valve is a small shut-off valve commonly found under sinks, behind toilets, and near water heaters. It allows you to control the water flow to a specific fixture without turning off the main water supply to your entire home. This is crucial for repairs or replacements. You'll typically find them connected to the water supply line that feeds into the fixture, often against a wall or cabinet.",
+        "@type": "Answer",
+        "description": "An angle stop valve is a small shut-off valve found under sinks and toilets, allowing water control to individual fixtures."
+      }
+    }
+  ],
+  "description": "An angle stop valve is a small shut-off valve found under sinks and toilets, allowing water control to individual fixtures."
+}

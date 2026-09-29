@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-materials-are-used-for-new-plumbing-pipes-when-replacing-corroded-ones",
+  "name": "What materials are used for new plumbing pipes when replacing corroded ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for new plumbing pipes when replacing corroded ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When replacing corroded pipes, common materials used for new plumbing include PEX (cross-linked polyethylene), copper, and CPVC (chlorinated polyvinyl chloride). PEX is flexible, easy to install, and resistant to corrosion and freezing. Copper is durable, long-lasting, and recyclable but typically more expensive. CPVC is a rigid plastic, cost-effective, and suitable for both hot and cold water. The choice of material depends on factors such as local building codes, your budget, water quality in your area, and the specific application. Our technicians can discuss the pros and cons of each option to help you select the best material for your home in areas like Henderson or Enterprise.",
+        "@type": "Answer",
+        "description": "New pipes use PEX, copper, or CPVC, each with pros and cons. Material choice depends on local codes, budget, water quality, and specific application."
+      }
+    }
+  ],
+  "description": "New pipes use PEX, copper, or CPVC, each with pros and cons. Material choice depends on local codes, budget, water quality, and specific application."
+}

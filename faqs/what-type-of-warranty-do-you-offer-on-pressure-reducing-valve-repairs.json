@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-type-of-warranty-do-you-offer-on-pressure-reducing-valve-repairs",
+  "name": "What type of warranty do you offer on pressure reducing valve repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of warranty do you offer on pressure reducing valve repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We stand behind the quality of our work with a comprehensive warranty on all pressure reducing valve repairs. The specific terms and duration of the warranty will be clearly outlined in your service agreement. This warranty covers the parts we install and the labor performed, providing you with peace of mind. We discuss all warranty details before any work begins, ensuring full transparency with our customers in the Las Vegas valley.",
+        "@type": "Answer",
+        "description": "We offer a comprehensive warranty on PRV repairs, covering parts and labor, with terms outlined in your service agreement."
+      }
+    }
+  ],
+  "description": "We offer a comprehensive warranty on PRV repairs, covering parts and labor, with terms outlined in your service agreement."
+}

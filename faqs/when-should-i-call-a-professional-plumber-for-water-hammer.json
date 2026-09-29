@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-call-a-professional-plumber-for-water-hammer",
+  "name": "When should I call a professional plumber for water hammer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional plumber for water hammer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber for water hammer if the banging is persistent, loud, or occurs frequently, as ignoring it can lead to pipe damage or leaks. If you've tried basic troubleshooting steps like checking water pressure or haven't identified an obvious cause, professional diagnosis is essential. CG Plumbing Solutions can accurately pinpoint the source of the water hammer and implement durable repairs, preventing potentially costly future damage to your plumbing system.",
+        "@type": "Answer",
+        "description": "Call a plumber for water hammer if it's persistent, loud, or frequent, or if you can't identify the cause, to prevent pipe damage."
+      }
+    }
+  ],
+  "description": "Call a plumber for water hammer if it's persistent, loud, or frequent, or if you can't identify the cause, to prevent pipe damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-long-term-consequences-of-ignoring-a-small-pipe-leak",
+  "name": "What are the long-term consequences of ignoring a small pipe leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the long-term consequences of ignoring a small pipe leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ignoring even a seemingly small pipe leak can lead to significant long-term problems. These include severe water damage to your home's structure, fostering mold and mildew growth that can impact air quality and health, and potential electrical hazards. Over time, the continuous water flow can also compromise your home's foundation. Addressing leaks promptly prevents these escalated issues and protects your property's integrity, which is why CG Plumbing Solutions emphasizes timely repairs.",
+        "@type": "Answer",
+        "description": "Ignoring a small pipe leak can cause extensive water damage, mold growth, electrical hazards, and foundation issues, increasing repair costs and health risks."
+      }
+    }
+  ],
+  "description": "Ignoring a small pipe leak can cause extensive water damage, mold growth, electrical hazards, and foundation issues, increasing repair costs and health risks."
+}

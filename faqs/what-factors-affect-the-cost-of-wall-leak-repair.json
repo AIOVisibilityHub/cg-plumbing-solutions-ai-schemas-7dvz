@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-affect-the-cost-of-wall-leak-repair",
+  "name": "What factors affect the cost of wall leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of wall leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wall leak repair is influenced by several factors, including the leak's accessibility, its severity, and the extent of any resulting water damage. Repairing a leak in an easily accessible wall will generally be less costly than one requiring significant demolition to reach. The type of pipe material and the need for mold remediation or structural repairs also impact the final price. We provide transparent estimates after a thorough assessment of your specific situation.",
+        "@type": "Answer",
+        "description": "Repair costs depend on leak accessibility, severity, and extent of water damage, including pipe material and potential mold or structural issues."
+      }
+    }
+  ],
+  "description": "Repair costs depend on leak accessibility, severity, and extent of water damage, including pipe material and potential mold or structural issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-repair-a-bathroom-leak-myself-or-should-i-call-a-professional",
+  "name": "Can I repair a bathroom leak myself, or should I call a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a bathroom leak myself, or should I call a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor issues like a loose faucet handle or a simple toilet flapper replacement can sometimes be DIY, more complex or hidden leaks should be handled by a professional plumber. Attempting a DIY repair without proper knowledge or tools can worsen the problem, leading to more significant damage and higher repair costs down the line. CG Plumbing Solutions has the expertise and specialized equipment to correctly diagnose and repair leaks, ensuring long-term solutions and preventing recurring issues.",
+        "@type": "Answer",
+        "description": "For complex or hidden leaks, always call a professional plumber. DIY attempts can worsen damage and increase costs."
+      }
+    }
+  ],
+  "description": "For complex or hidden leaks, always call a professional plumber. DIY attempts can worsen damage and increase costs."
+}

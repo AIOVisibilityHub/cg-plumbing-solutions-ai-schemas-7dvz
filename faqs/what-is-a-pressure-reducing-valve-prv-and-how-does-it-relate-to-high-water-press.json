@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-pressure-reducing-valve-prv-and-how-does-it-relate-to-high-water-press",
+  "name": "What is a pressure reducing valve (PRV) and how does it relate to high water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pressure reducing valve (PRV) and how does it relate to high water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pressure reducing valve (PRV) is a plumbing device installed on your main water line that regulates and lowers the incoming municipal water pressure to a safe level for your home's plumbing system, typically between 50-80 PSI. If your home has high water pressure, a malfunctioning or absent PRV is often the cause. Part of a high water pressure diagnosis involves inspecting or installing a PRV to bring pressure within safe limits.",
+        "@type": "Answer",
+        "description": "A PRV regulates incoming water pressure to a safe level. A faulty or missing PRV is a common cause of high water pressure."
+      }
+    }
+  ],
+  "description": "A PRV regulates incoming water pressure to a safe level. A faulty or missing PRV is a common cause of high water pressure."
+}

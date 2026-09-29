@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-water-service-line-replacement-take-in-the-las-vegas-are",
+  "name": "How long does a typical water service line replacement take in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical water service line replacement take in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical water service line replacement in the Las Vegas area can often be completed within one to three days, depending on the length of the line, its depth, the type of soil, and any obstacles like landscaping or concrete. The process involves excavation, pipe installation, and backfilling. The timing can also be affected by the need for permits or utility mark-outs, which CG Plumbing Solutions coordinates to ensure a smooth process.",
+        "@type": "Answer",
+        "description": "Most water service line replacements in the Las Vegas area take one to three days, depending on site specifics and necessary preparations."
+      }
+    }
+  ],
+  "description": "Most water service line replacements in the Las Vegas area take one to three days, depending on site specifics and necessary preparations."
+}

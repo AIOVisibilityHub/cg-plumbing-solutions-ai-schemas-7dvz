@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-water-hammer-arrestor-and-an-air-chamber",
+  "name": "What's the difference between a water hammer arrestor and an air chamber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a water hammer arrestor and an air chamber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both water hammer arrestors and air chambers are designed to mitigate water hammer by absorbing pressure surges. An air chamber is typically a vertical section of pipe that traps air, which compresses to cushion the water shock. Water hammer arrestors, on the other hand, are mechanical devices containing a sealed air cushion or spring-loaded piston, often more compact and effective than traditional air chambers. While older homes may have air chambers, modern plumbing often utilizes arrestors due to their efficiency and reliability in preventing pipe banging. CG Plumbing Solutions can advise which solution is best for your specific plumbing setup.",
+        "@type": "Answer",
+        "description": "Air chambers use trapped air to absorb shock, while modern water hammer arrestors use sealed air cushions or pistons, generally offering more effective solutions."
+      }
+    }
+  ],
+  "description": "Air chambers use trapped air to absorb shock, while modern water hammer arrestors use sealed air cushions or pistons, generally offering more effective solution"
+}

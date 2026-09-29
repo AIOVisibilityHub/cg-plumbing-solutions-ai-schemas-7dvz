@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-trenchless-pipe-repair-and-is-it-an-option-for-my-leak",
+  "name": "What is trenchless pipe repair, and is it an option for my leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is trenchless pipe repair, and is it an option for my leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trenchless pipe repair methods, such as pipe lining or pipe bursting, are advanced techniques that minimize excavation by repairing or replacing pipes underground without digging long trenches. These methods are often suitable for repairing damaged sewer or water lines located beneath foundations or landscaping. The applicability depends on the type of pipe, the extent of the damage, and the location of the leak. CG Plumbing Solutions evaluates if trenchless repair is a viable and cost-effective option for your specific situation during the assessment phase.",
+        "@type": "Answer",
+        "description": "Trenchless pipe repair involves fixing or replacing underground pipes with minimal digging. Its suitability depends on the pipe type, damage, and leak location."
+      }
+    }
+  ],
+  "description": "Trenchless pipe repair involves fixing or replacing underground pipes with minimal digging. Its suitability depends on the pipe type, damage, and leak location."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-replacing-a-main-water-shutoff-valve",
+  "name": "What is the process for replacing a main water shutoff valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a main water shutoff valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a main water shutoff valve involves several steps. First, the main water supply to the property must be turned off, sometimes requiring coordination with your local water utility in cities like Henderson or North Las Vegas. Then, the old valve is removed, and the pipe ends are prepared. A new valve is installed, typically by soldering, compression, or threading, ensuring a watertight seal. Finally, the water supply is restored, and the system is checked for leaks. Process clarity is key; knowing these steps helps in understanding the scope of work involved.",
+        "@type": "Answer",
+        "description": "The process involves turning off the main water supply, removing the old valve, installing a new one, and restoring water, often requiring utility coordination for main line work."
+      }
+    }
+  ],
+  "description": "The process involves turning off the main water supply, removing the old valve, installing a new one, and restoring water, often requiring utility coordination"
+}

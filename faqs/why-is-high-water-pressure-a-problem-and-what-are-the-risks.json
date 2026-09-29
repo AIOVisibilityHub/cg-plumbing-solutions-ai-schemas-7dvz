@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-high-water-pressure-a-problem-and-what-are-the-risks",
+  "name": "Why is high water pressure a problem and what are the risks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is high water pressure a problem and what are the risks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "High water pressure can significantly damage your plumbing system and appliances by putting undue stress on pipes, seals, and connections. This can lead to leaks, premature wear of water heaters, dishwashers, and washing machines, and even burst pipes. Addressing it promptly can save on costly repairs and extend the life of your home's plumbing infrastructure.",
+        "@type": "Answer",
+        "description": "High water pressure can damage plumbing, appliances, and cause leaks or burst pipes due to excessive stress on the system."
+      }
+    }
+  ],
+  "description": "High water pressure can damage plumbing, appliances, and cause leaks or burst pipes due to excessive stress on the system."
+}

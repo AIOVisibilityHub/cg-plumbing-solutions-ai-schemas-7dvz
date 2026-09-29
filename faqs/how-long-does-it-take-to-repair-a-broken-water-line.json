@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-repair-a-broken-water-line",
+  "name": "How long does it take to repair a broken water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a broken water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for water line repair depends on the extent of the damage, the location of the break, and the pipe material. Simple repairs might take a few hours, while more complex issues, such as replacing a significant portion of a main line or working in difficult-to-access areas, could take a full day or sometimes longer. Factors like obtaining necessary permits or unexpected ground conditions can also affect the timeline. For instance, a break under a large tree root system will often take more time to address safely than a simple pipe crack in an open lawn.",
+        "@type": "Answer",
+        "description": "Repair time for a broken water line varies from a few hours to over a day, depending on damage extent, location, and pipe material. Complex repairs or unforeseen issues can extend the duration."
+      }
+    }
+  ],
+  "description": "Repair time for a broken water line varies from a few hours to over a day, depending on damage extent, location, and pipe material. Complex repairs or unforesee"
+}

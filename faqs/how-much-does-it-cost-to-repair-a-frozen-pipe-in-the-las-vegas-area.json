@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-repair-a-frozen-pipe-in-the-las-vegas-area",
+  "name": "How much does it cost to repair a frozen pipe in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a frozen pipe in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a frozen pipe in the Las Vegas area can vary significantly based on several factors. These include whether the pipe has burst, its location (e.g., exposed, within a wall, underground), the extent of the damage, and the type of piping material. For instance, a simple thaw of an exposed pipe will cost less than repairing a burst pipe located inside a finished wall that requires drywall removal and replacement. CG Plumbing Solutions provides clear estimates after assessing the specific situation to help you understand the potential investment.",
+        "@type": "Answer",
+        "description": "Cost varies based on whether the pipe burst, its location (exposed, within wall), damage extent, and pipe material. Estimates are provided after assessment."
+      }
+    }
+  ],
+  "description": "Cost varies based on whether the pipe burst, its location (exposed, within wall), damage extent, and pipe material. Estimates are provided after assessment."
+}

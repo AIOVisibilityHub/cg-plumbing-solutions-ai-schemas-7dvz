@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-pipes-are-corroded-and-need-replacement",
+  "name": "What are common signs that my pipes are corroded and need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my pipes are corroded and need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of corroded pipes include discolored or rusty water, low water pressure, frequent leaks, and unusual metallic tastes. These issues often worsen over time, indicating that the internal structure of your pipes is deteriorating. Addressing these early can prevent more significant damage and costly repairs. CG Plumbing Solutions can inspect your plumbing system in areas like Las Vegas or Henderson to accurately diagnose corrosion and recommend the best course of action.",
+        "@type": "Answer",
+        "description": "Signs of corroded pipes include discolored water, low pressure, frequent leaks, and metallic tastes. Early detection can prevent major damage."
+      }
+    }
+  ],
+  "description": "Signs of corroded pipes include discolored water, low pressure, frequent leaks, and metallic tastes. Early detection can prevent major damage."
+}

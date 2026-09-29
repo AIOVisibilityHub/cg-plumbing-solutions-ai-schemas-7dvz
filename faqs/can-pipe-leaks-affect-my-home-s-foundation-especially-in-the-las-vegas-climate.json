@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-pipe-leaks-affect-my-home-s-foundation-especially-in-the-las-vegas-climate",
+  "name": "Can pipe leaks affect my home's foundation, especially in the Las Vegas climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can pipe leaks affect my home's foundation, especially in the Las Vegas climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, persistent pipe leaks, especially those under a slab or near the foundation, can significantly impact your home's structural integrity. The expansive clay soils common in the Las Vegas valley can swell when exposed to excess moisture from leaks, leading to foundation cracks and shifting. Prompt detection and repair of these leaks are vital to prevent costly foundation repairs and maintain the stability of your home in this specific climate condition.",
+        "@type": "Answer",
+        "description": "Yes, pipe leaks can damage foundations, especially in Las Vegas's expansive clay soils, leading to cracks and shifting if not repaired promptly."
+      }
+    }
+  ],
+  "description": "Yes, pipe leaks can damage foundations, especially in Las Vegas's expansive clay soils, leading to cracks and shifting if not repaired promptly."
+}

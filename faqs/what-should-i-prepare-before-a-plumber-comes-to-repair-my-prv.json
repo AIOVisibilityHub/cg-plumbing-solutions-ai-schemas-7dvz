@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-prepare-before-a-plumber-comes-to-repair-my-prv",
+  "name": "What should I prepare before a plumber comes to repair my PRV?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a plumber comes to repair my PRV?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber arrives to repair your pressure reducing valve, it's helpful to clear the area around the valve for easy access. Knowing the general location of your main water shut-off valve is also beneficial, although our technicians can locate it if needed. Being able to describe any symptoms you've observed, such as specific pressure fluctuations or noises, will also assist in a quicker diagnosis. This preparation can streamline the service appointment and help us address your issue efficiently.",
+        "@type": "Answer",
+        "description": "Clear the area around the PRV, know your main water shut-off location, and be ready to describe symptoms to assist the plumber."
+      }
+    }
+  ],
+  "description": "Clear the area around the PRV, know your main water shut-off location, and be ready to describe symptoms to assist the plumber."
+}

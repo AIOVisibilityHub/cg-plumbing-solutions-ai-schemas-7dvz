@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-cost-of-pex-repiping-compared-to-other-pipe-materials-like-copper",
+  "name": "What is the cost of PEX repiping compared to other pipe materials like copper?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of PEX repiping compared to other pipe materials like copper?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "PEX repiping generally offers a more cost-effective solution than copper repiping. The material cost of PEX is lower, and its flexibility allows for quicker installation, reducing labor expenses. While copper has a longer track record, PEX has proven to be durable and reliable for plumbing systems. A practical tradeoff is that while copper is highly resistant to bacteria and UV, PEX is resistant to scale and chlorine, and does not corrode or develop pinhole leaks like some copper systems can over time. We provide detailed estimates comparing options.",
+        "@type": "Answer",
+        "description": "PEX repiping is typically more affordable than copper due to lower material costs and faster installation, offering a durable and corrosion-resistant alternative."
+      }
+    }
+  ],
+  "description": "PEX repiping is typically more affordable than copper due to lower material costs and faster installation, offering a durable and corrosion-resistant alternativ"
+}

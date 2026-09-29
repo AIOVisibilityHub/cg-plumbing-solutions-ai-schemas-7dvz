@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-benefits-of-rerouting-old-corroded-pipes-instead-of-just-repairing",
+  "name": "What are the benefits of rerouting old, corroded pipes instead of just repairing leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of rerouting old, corroded pipes instead of just repairing leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rerouting old, corroded pipes provides a long-term solution compared to patching individual leaks. While repairing a leak fixes an immediate problem, it doesn't address the underlying issue of widespread corrosion, which can lead to future leaks and ongoing maintenance costs. A key practical tradeoff is that rerouting offers improved water pressure, cleaner water quality, and enhanced system reliability, preventing recurring issues and providing peace of mind for many years. It is a more significant upfront investment but often reduces long-term plumbing expenses.",
+        "@type": "Answer",
+        "description": "Rerouting offers a long-term fix for widespread corrosion, providing better water pressure, cleaner water, and preventing future leaks."
+      }
+    }
+  ],
+  "description": "Rerouting offers a long-term fix for widespread corrosion, providing better water pressure, cleaner water, and preventing future leaks."
+}

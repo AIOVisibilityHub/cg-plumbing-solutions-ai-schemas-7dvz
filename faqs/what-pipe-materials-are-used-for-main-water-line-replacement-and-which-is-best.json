@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-pipe-materials-are-used-for-main-water-line-replacement-and-which-is-best",
+  "name": "What pipe materials are used for main water line replacement, and which is best?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What pipe materials are used for main water line replacement, and which is best?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for main water line replacement include copper, PEX (cross-linked polyethylene), and sometimes PVC for non-pressure applications. Copper is durable and long-lasting but more expensive; PEX is flexible, corrosion-resistant, and more affordable. The 'best' material is a practical tradeoff, depending on your budget, water quality, soil conditions, and the specific installation requirements of your property, which we can help you assess.",
+        "@type": "Answer",
+        "description": "Common materials are copper and PEX. Copper is durable but costly; PEX is flexible and affordable. The best choice depends on budget, water quality, and site conditions."
+      }
+    }
+  ],
+  "description": "Common materials are copper and PEX. Copper is durable but costly; PEX is flexible and affordable. The best choice depends on budget, water quality, and site co"
+}

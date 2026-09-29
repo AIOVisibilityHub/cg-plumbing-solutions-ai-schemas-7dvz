@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-that-galvanized-pipes-need-to-be-replaced",
+  "name": "What are the common signs that galvanized pipes need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that galvanized pipes need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs include low water pressure, especially when multiple fixtures are in use, rust-colored or brown water, frequent leaks, and visible corrosion on exposed pipes. These issues indicate significant internal degradation. Addressing these symptoms promptly can prevent more extensive water damage and ensure the longevity of your home's plumbing system. Ignoring these signs can lead to burst pipes or costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Low water pressure, discolored water, frequent leaks, and visible corrosion are common signs that galvanized pipes need replacement."
+      }
+    }
+  ],
+  "description": "Low water pressure, discolored water, frequent leaks, and visible corrosion are common signs that galvanized pipes need replacement."
+}

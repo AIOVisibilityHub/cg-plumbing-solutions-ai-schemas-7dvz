@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-repiping-my-entire-home-instead-of-just-repairing-copper",
+  "name": "When should I consider repiping my entire home instead of just repairing copper pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repiping my entire home instead of just repairing copper pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repiping your entire home instead of just repairing individual copper pipes if you experience frequent leaks, consistently low water pressure, discolored water, or if your pipes are visibly corroded and nearing the end of their lifespan. While a single repair might address an isolated issue, a pattern of failures suggests a systemic problem that could lead to more significant damage over time. Our plumbers can assess the overall condition of your plumbing system to help you make an informed decision for your Las Vegas area home.",
+        "@type": "Answer",
+        "description": "Consider repiping if you have frequent leaks, low water pressure, discolored water, or widespread corrosion, as these indicate systemic issues."
+      }
+    }
+  ],
+  "description": "Consider repiping if you have frequent leaks, low water pressure, discolored water, or widespread corrosion, as these indicate systemic issues."
+}

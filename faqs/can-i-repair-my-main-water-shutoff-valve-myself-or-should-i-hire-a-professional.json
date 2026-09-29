@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-repair-my-main-water-shutoff-valve-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair my main water shutoff valve myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair my main water shutoff valve myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some minor issues might seem DIY-friendly, main water shutoff valve repair is best handled by a professional plumber. Improper repair can lead to severe water damage, continuous leaks, or the valve failing completely when you need it most. Our experienced plumbers ensure the repair is done correctly and safely, preventing future issues for homeowners in Paradise and surrounding areas.",
+        "@type": "Answer",
+        "description": "Professional repair is recommended for main water shutoff valves to prevent severe water damage and ensure proper function."
+      }
+    }
+  ],
+  "description": "Professional repair is recommended for main water shutoff valves to prevent severe water damage and ensure proper function."
+}

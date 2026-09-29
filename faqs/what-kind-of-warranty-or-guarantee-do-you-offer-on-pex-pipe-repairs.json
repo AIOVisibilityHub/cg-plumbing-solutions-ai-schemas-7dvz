@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-warranty-or-guarantee-do-you-offer-on-pex-pipe-repairs",
+  "name": "What kind of warranty or guarantee do you offer on PEX pipe repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee do you offer on PEX pipe repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions stands by the quality of our PEX pipe repairs. We offer a satisfaction guarantee on all our work, ensuring that the repair is done correctly and effectively. Our goal is to provide lasting solutions, and we use high-quality materials and professional techniques. This policy reflects our commitment to reliable service and customer peace of mind. Should any issues arise after our repair, we encourage you to contact us, and we will address them promptly.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions offers a satisfaction guarantee on PEX pipe repairs, ensuring quality workmanship and lasting solutions."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions offers a satisfaction guarantee on PEX pipe repairs, ensuring quality workmanship and lasting solutions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-repiping-cause-damage-to-my-home",
+  "name": "Will repiping cause damage to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will repiping cause damage to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While repiping requires opening walls or ceilings to access existing pipes, our skilled plumbers take great care to minimize disruption and damage. We strategically plan access points and make precise cuts, ensuring that the structural integrity of your home is maintained. After new pipes are installed and tested, we perform basic drywall patches. However, painting and other cosmetic finishes are typically the homeowner's responsibility. Our goal is to leave your home as clean and undisturbed as possible.",
+        "@type": "Answer",
+        "description": "Repiping requires opening walls but our plumbers minimize damage. We perform basic drywall patches, with cosmetic finishes like painting being the homeowner's responsibility."
+      }
+    }
+  ],
+  "description": "Repiping requires opening walls but our plumbers minimize damage. We perform basic drywall patches, with cosmetic finishes like painting being the homeowner's r"
+}

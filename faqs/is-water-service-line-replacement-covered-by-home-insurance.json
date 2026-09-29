@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/is-water-service-line-replacement-covered-by-home-insurance",
+  "name": "Is water service line replacement covered by home insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is water service line replacement covered by home insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water service line replacement coverage by home insurance can vary significantly depending on your specific policy. Standard homeowner policies often do not cover damage to service lines located outside the home's foundation, especially if the damage is due to wear and tear or tree roots. However, some policies offer add-on coverage or separate service line protection riders that can help. It's crucial to review your insurance policy documents or contact your provider directly to understand your coverage options before starting any work. CG Plumbing Solutions can provide necessary documentation for your claim.",
+        "@type": "Answer",
+        "description": "Coverage depends on your specific home insurance policy; standard policies often exclude service line damage outside the foundation, but add-on riders might cover it."
+      }
+    }
+  ],
+  "description": "Coverage depends on your specific home insurance policy; standard policies often exclude service line damage outside the foundation, but add-on riders might cov"
+}

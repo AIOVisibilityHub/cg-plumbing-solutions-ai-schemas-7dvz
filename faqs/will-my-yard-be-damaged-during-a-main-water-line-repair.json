@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-my-yard-be-damaged-during-a-main-water-line-repair",
+  "name": "Will my yard be damaged during a main water line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my yard be damaged during a main water line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Traditional main water line repairs often involve excavation, which means digging a trench to access the damaged pipe. This process can unfortunately disrupt your landscaping, lawn, and any existing hardscaping above the water line. The extent of the damage varies with the repair method chosen and the location of the pipe. We strive to minimize disruption and will discuss the anticipated impact on your property before beginning work, offering solutions like trenchless repair where feasible to reduce yard disturbance.",
+        "@type": "Answer",
+        "description": "Traditional main water line repairs may involve digging trenches, which can damage your yard or landscaping. We aim to minimize disruption and discuss options like trenchless repair."
+      }
+    }
+  ],
+  "description": "Traditional main water line repairs may involve digging trenches, which can damage your yard or landscaping. We aim to minimize disruption and discuss options l"
+}

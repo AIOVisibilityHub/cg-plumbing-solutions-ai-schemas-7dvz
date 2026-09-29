@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-permits-are-needed-for-water-line-repair-in-las-vegas",
+  "name": "What permits are needed for water line repair in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for water line repair in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For significant water line repairs or replacements, particularly those affecting the main water supply from the street to your property, permits are often required by local authorities, such as the City of Las Vegas or Henderson building departments. The need for a permit depends on the scope of work and local codes. For example, any work involving changes to the potable water system or extensive excavation typically requires inspection and approval to ensure compliance with safety and plumbing standards. CG Plumbing Solutions assists with understanding these local requirements within our service areas.",
+        "@type": "Answer",
+        "description": "Significant water line repairs or replacements in Las Vegas often require permits from local building departments. This ensures compliance with safety and plumbing standards."
+      }
+    }
+  ],
+  "description": "Significant water line repairs or replacements in Las Vegas often require permits from local building departments. This ensures compliance with safety and plumb"
+}

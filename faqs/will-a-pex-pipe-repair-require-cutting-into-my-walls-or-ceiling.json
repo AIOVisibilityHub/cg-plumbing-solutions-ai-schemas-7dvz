@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-a-pex-pipe-repair-require-cutting-into-my-walls-or-ceiling",
+  "name": "Will a PEX pipe repair require cutting into my walls or ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a PEX pipe repair require cutting into my walls or ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "PEX pipe repairs can sometimes require cutting into walls or ceilings, particularly if the damaged section of pipe is concealed. The necessity depends on the exact location of the leak or damage. Our plumbers strive to minimize structural disruption by carefully locating the problem area and using precise techniques. We prioritize effective repair while aiming to reduce the impact on your property. This preparation helps us access the damaged PEX pipe and complete the repair efficiently.",
+        "@type": "Answer",
+        "description": "PEX pipe repair may require cutting into walls or ceilings if the damage is concealed, but plumbers aim to minimize disruption."
+      }
+    }
+  ],
+  "description": "PEX pipe repair may require cutting into walls or ceilings if the damage is concealed, but plumbers aim to minimize disruption."
+}

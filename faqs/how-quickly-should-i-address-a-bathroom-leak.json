@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-quickly-should-i-address-a-bathroom-leak",
+  "name": "How quickly should I address a bathroom leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address a bathroom leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should address a bathroom leak as quickly as possible, ideally within 24-48 hours. Ignoring a leak can lead to significant water damage, mold growth, and structural issues, which are more expensive and complex to repair. For example, a small drip under your sink can quickly saturate your vanity and subfloor, requiring extensive remediation. Prompt action can significantly reduce repair costs and prevent secondary problems.",
+        "@type": "Answer",
+        "description": "Address a bathroom leak immediately, within 24-48 hours, to prevent extensive water damage, mold, and costly structural repairs."
+      }
+    }
+  ],
+  "description": "Address a bathroom leak immediately, within 24-48 hours, to prevent extensive water damage, mold, and costly structural repairs."
+}

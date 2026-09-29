@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-to-prepare-before-a-plumber-arrives-to-replace-an-angle-stop-va",
+  "name": "What should I do to prepare before a plumber arrives to replace an angle stop valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare before a plumber arrives to replace an angle stop valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your plumber arrives to replace an angle stop valve, you should clear the area around the valve to ensure easy access. This might mean removing items from under a sink or behind a toilet. It's also helpful if you can locate your home's main water shut-off valve, as the plumber will need to turn off the water supply to the entire house temporarily. Having this information ready can streamline the service appointment.",
+        "@type": "Answer",
+        "description": "Clear the area around the valve and locate your home's main water shut-off valve to prepare for a plumber."
+      }
+    }
+  ],
+  "description": "Clear the area around the valve and locate your home's main water shut-off valve to prepare for a plumber."
+}

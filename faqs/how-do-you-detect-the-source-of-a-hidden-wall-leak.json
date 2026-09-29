@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-you-detect-the-source-of-a-hidden-wall-leak",
+  "name": "How do you detect the source of a hidden wall leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you detect the source of a hidden wall leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Detecting a hidden wall leak typically involves non-invasive methods to pinpoint the exact source without extensive demolition. Our process often begins with visual inspections for subtle water damage indicators. We then use specialized tools such as moisture meters, thermal imaging cameras, or acoustic leak detectors to locate the leak within the wall. This precise identification minimizes disruption and allows us to target the repair effectively. Knowing the exact location ensures a more efficient and less costly repair.",
+        "@type": "Answer",
+        "description": "We use non-invasive methods like moisture meters, thermal imaging, and acoustic detectors to pinpoint hidden wall leaks without extensive demolition."
+      }
+    }
+  ],
+  "description": "We use non-invasive methods like moisture meters, thermal imaging, and acoustic detectors to pinpoint hidden wall leaks without extensive demolition."
+}

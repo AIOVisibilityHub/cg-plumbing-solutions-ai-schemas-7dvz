@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-whole-house-repiping-and-why-is-it-necessary",
+  "name": "What is whole house repiping and why is it necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is whole house repiping and why is it necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whole house repiping involves replacing your home's existing plumbing pipes with new, more durable materials like PEX or copper. This service is typically necessary when your current pipes are corroding, leaking frequently, or impacting water quality and pressure due to age, material degradation, or poor installation. Repiping can improve water flow, eliminate rusty water, and prevent costly future damage from pipe failures. A practical tradeoff is the initial disruption during installation versus the long-term benefits of a reliable plumbing system.",
+        "@type": "Answer",
+        "description": "Whole house repiping replaces old pipes with new ones, often due to corrosion or leaks, to improve water quality and prevent future damage."
+      }
+    }
+  ],
+  "description": "Whole house repiping replaces old pipes with new ones, often due to corrosion or leaks, to improve water quality and prevent future damage."
+}

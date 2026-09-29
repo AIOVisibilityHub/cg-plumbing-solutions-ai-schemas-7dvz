@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-pipes-need-to-be-repiped-with-pex",
+  "name": "How do I know if my pipes need to be repiped with PEX?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my pipes need to be repiped with PEX?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider PEX repiping if you frequently experience plumbing issues such as low water pressure, discolored or rusty water, recurring leaks, or if your home has old galvanized steel or polybutylene pipes. These are common indicators of a deteriorating plumbing system. A key decision factor is the age of your home and the original piping material. In the Las Vegas area, older homes often benefit from this upgrade due to the impact of hard water on older pipes. We can perform an inspection to assess your system.",
+        "@type": "Answer",
+        "description": "Consider PEX repiping if you have low water pressure, discolored water, frequent leaks, or old galvanized/polybutylene pipes, especially in older Las Vegas homes."
+      }
+    }
+  ],
+  "description": "Consider PEX repiping if you have low water pressure, discolored water, frequent leaks, or old galvanized/polybutylene pipes, especially in older Las Vegas home"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-water-hammer-repair-take",
+  "name": "How long does a typical water hammer repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical water hammer repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a water hammer repair depends on the underlying cause and the required solution. Simple fixes, such as securing a loose pipe or installing a single water hammer arrestor, might take an hour or two. More extensive issues, like diagnosing multiple problem areas or replacing a faulty pressure regulator, could require a few hours. When scheduling service with CG Plumbing Solutions, we can provide a more accurate time estimate once our technicians understand the specific issues present in your plumbing system.",
+        "@type": "Answer",
+        "description": "Water hammer repair time varies; simple fixes may take an hour or two, while complex issues could take several hours, depending on the cause."
+      }
+    }
+  ],
+  "description": "Water hammer repair time varies; simple fixes may take an hour or two, while complex issues could take several hours, depending on the cause."
+}

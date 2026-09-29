@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-main-water-line-replacement",
+  "name": "What factors influence the cost of main water line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of main water line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of main water line replacement is influenced by several factors, including the length and depth of the existing line, the type of new piping material chosen (e.g., copper, PEX), the extent of excavation required, and any necessary landscaping restoration. The complexity of routing around existing utilities or obstacles, especially in older neighborhoods within areas like Paradise or Spring Valley, can also impact the overall price.",
+        "@type": "Answer",
+        "description": "Cost factors include line length and depth, pipe material, excavation needs, and landscape restoration. Obstacles can also increase the price."
+      }
+    }
+  ],
+  "description": "Cost factors include line length and depth, pipe material, excavation needs, and landscape restoration. Obstacles can also increase the price."
+}

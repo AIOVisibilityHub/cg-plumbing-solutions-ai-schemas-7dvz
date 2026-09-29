@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-pressure-reducing-valve-repair-typically-take",
+  "name": "How long does a pressure reducing valve repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a pressure reducing valve repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard pressure reducing valve repair typically takes a few hours, depending on the complexity of the issue and accessibility of the valve. If a replacement is needed, the process might be similar. Our plumbers carry common parts on their trucks for efficient service in areas like Henderson and Summerlin, minimizing disruption to your water supply. We aim to complete most jobs in a single visit.",
+        "@type": "Answer",
+        "description": "Most PRV repairs take a few hours. We carry common parts to expedite service and aim for single-visit completion."
+      }
+    }
+  ],
+  "description": "Most PRV repairs take a few hours. We carry common parts to expedite service and aim for single-visit completion."
+}

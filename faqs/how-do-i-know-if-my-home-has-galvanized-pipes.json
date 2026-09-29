@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-home-has-galvanized-pipes",
+  "name": "How do I know if my home has galvanized pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my home has galvanized pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can usually identify galvanized pipes by their dull gray appearance and magnetic properties. They are often found in homes built before the 1960s. Check exposed pipes in your basement, crawl space, or utility room. If you suspect galvanized pipes, CG Plumbing Solutions can perform a professional inspection to confirm their presence and assess their condition, providing a clear understanding of your plumbing system's needs.",
+        "@type": "Answer",
+        "description": "Galvanized pipes are dull gray, magnetic, and common in pre-1960s homes. A professional inspection can confirm their presence and condition."
+      }
+    }
+  ],
+  "description": "Galvanized pipes are dull gray, magnetic, and common in pre-1960s homes. A professional inspection can confirm their presence and condition."
+}

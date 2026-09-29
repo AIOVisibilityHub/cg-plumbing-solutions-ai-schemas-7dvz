@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/is-pex-pipe-repair-a-complex-process-or-can-i-fix-it-myself",
+  "name": "Is PEX pipe repair a complex process, or can I fix it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is PEX pipe repair a complex process, or can I fix it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "PEX pipe repair can range from simple fixes to more complex sections that require professional tools and expertise. While minor pinhole leaks might seem manageable with DIY kits, improper repairs can lead to larger leaks or future failures. A professional plumber ensures the correct fittings and crimping tools are used, which is critical for a leak-free and code-compliant repair. CG Plumbing Solutions recommends professional assessment to guarantee the longevity and integrity of your plumbing system.",
+        "@type": "Answer",
+        "description": "PEX pipe repair varies in complexity; while some minor fixes might seem DIY, professional repair ensures proper tools and lasting results."
+      }
+    }
+  ],
+  "description": "PEX pipe repair varies in complexity; while some minor fixes might seem DIY, professional repair ensures proper tools and lasting results."
+}

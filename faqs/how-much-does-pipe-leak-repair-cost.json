@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-pipe-leak-repair-cost",
+  "name": "How much does pipe leak repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does pipe leak repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of pipe leak repair varies significantly based on factors such as the leak's location (e.g., behind a wall, under a slab), the type of pipe material (e.g., copper, PEX, galvanized steel), and the extent of the damage. Simple, accessible repairs are less costly than complex, hidden leaks requiring more extensive diagnostic work and demolition. CG Plumbing Solutions provides upfront pricing after assessing the leak, ensuring clarity on the total cost without hidden fees.",
+        "@type": "Answer",
+        "description": "Pipe leak repair costs depend on the leak's location, pipe material, and damage extent. We provide upfront pricing after assessment."
+      }
+    }
+  ],
+  "description": "Pipe leak repair costs depend on the leak's location, pipe material, and damage extent. We provide upfront pricing after assessment."
+}

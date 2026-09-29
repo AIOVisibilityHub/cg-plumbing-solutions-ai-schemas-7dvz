@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-materials-are-used-for-new-pipes-during-a-rerouting-project",
+  "name": "What materials are used for new pipes during a rerouting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for new pipes during a rerouting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When rerouting pipes, common materials used include PEX (cross-linked polyethylene) and copper. PEX is flexible, corrosion-resistant, and typically more cost-effective for installation, often requiring fewer fittings. Copper is durable, long-lasting, and offers good water pressure. A practical tradeoff involves considering that while copper has a higher upfront material cost, its longevity and recyclability can be appealing, whereas PEX's flexibility can reduce labor time and cost, especially in difficult-to-access areas.",
+        "@type": "Answer",
+        "description": "Common materials are PEX, known for flexibility and cost-effectiveness, and copper, valued for durability and longevity."
+      }
+    }
+  ],
+  "description": "Common materials are PEX, known for flexibility and cost-effectiveness, and copper, valued for durability and longevity."
+}

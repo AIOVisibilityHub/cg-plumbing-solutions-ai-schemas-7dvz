@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-pex-pipe-needs-professional-repair",
+  "name": "How do I know if my PEX pipe needs professional repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my PEX pipe needs professional repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You'll know your PEX pipe needs professional repair if you observe any signs of a leak, such as visible water drips, wet spots on walls or ceilings, unexplained drops in water pressure, or mold growth. Even a small, persistent drip can indicate a larger problem developing. It's crucial to address these signs promptly to prevent extensive water damage to your home. We recommend contacting CG Plumbing Solutions for an inspection to accurately diagnose the issue and provide a reliable repair solution.",
+        "@type": "Answer",
+        "description": "Signs like water drips, wet spots, or low water pressure indicate a PEX pipe needs professional repair to prevent further damage."
+      }
+    }
+  ],
+  "description": "Signs like water drips, wet spots, or low water pressure indicate a PEX pipe needs professional repair to prevent further damage."
+}

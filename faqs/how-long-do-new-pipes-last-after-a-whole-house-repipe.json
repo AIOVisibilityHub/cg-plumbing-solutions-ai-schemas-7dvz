@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-do-new-pipes-last-after-a-whole-house-repipe",
+  "name": "How long do new pipes last after a whole house repipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do new pipes last after a whole house repipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a whole house repipe, new PEX pipes can last 40-50 years, while copper pipes often exceed 50-70 years, sometimes even longer. The lifespan depends on factors like water quality, installation quality, and environmental conditions. With CG Plumbing Solutions, you gain the practical tradeoff of a long-term solution that significantly reduces the likelihood of future plumbing issues, offering peace of mind and protecting your investment for decades.",
+        "@type": "Answer",
+        "description": "New PEX pipes can last 40-50 years, and copper pipes 50-70+ years, providing a durable solution for decades."
+      }
+    }
+  ],
+  "description": "New PEX pipes can last 40-50 years, and copper pipes 50-70+ years, providing a durable solution for decades."
+}

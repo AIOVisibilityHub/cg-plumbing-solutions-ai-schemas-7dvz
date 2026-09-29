@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-high-water-pressure-diagnosis-cost-in-las-vegas",
+  "name": "How much does high water pressure diagnosis cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does high water pressure diagnosis cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a high water pressure diagnosis in Las Vegas can vary based on the complexity of your plumbing system and the extent of the investigation required. It typically involves a service call fee plus labor for testing and assessment. For an accurate estimate, CG Plumbing Solutions offers an initial diagnosis to determine the root cause, which then informs the cost of any necessary repairs or PRV installation.",
+        "@type": "Answer",
+        "description": "Diagnosis cost varies based on system complexity; it includes a service call and labor for testing. Contact us for an estimate in Las Vegas."
+      }
+    }
+  ],
+  "description": "Diagnosis cost varies based on system complexity; it includes a service call and labor for testing. Contact us for an estimate in Las Vegas."
+}

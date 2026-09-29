@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-pex-pipes-be-repaired-in-cold-weather-or-during-winter",
+  "name": "Can PEX pipes be repaired in cold weather or during winter?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can PEX pipes be repaired in cold weather or during winter?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, PEX pipes can be repaired in cold weather or during winter. In fact, cold weather is often when PEX pipes are most vulnerable to damage from freezing. Our plumbers are equipped to handle repairs in various conditions to restore your plumbing functionality. The primary concern is ensuring the water supply is safely shut off and the work area is clear. We prioritize swift service during colder months to prevent additional pipe damage and ensure your home's comfort in the Las Vegas region.",
+        "@type": "Answer",
+        "description": "Yes, PEX pipes can be repaired in cold weather, as freezing is a common cause of winter damage, and plumbers are equipped for such conditions."
+      }
+    }
+  ],
+  "description": "Yes, PEX pipes can be repaired in cold weather, as freezing is a common cause of winter damage, and plumbers are equipped for such conditions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-that-my-water-service-line-needs-replacement",
+  "name": "What are the common signs that my water service line needs replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my water service line needs replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your water service line may need replacement include a sudden drop in water pressure throughout your home, discolored water (brown, yellow, or rusty) coming from your faucets, and consistently wet spots or lush green patches in your yard that don't correspond to irrigation. You might also notice a spike in your water bill without a change in usage, indicating a hidden leak. Addressing these issues promptly can prevent further property damage and higher repair costs.",
+        "@type": "Answer",
+        "description": "Signs include low water pressure, discolored water, unexplained wet spots in your yard, or a sudden increase in your water bill."
+      }
+    }
+  ],
+  "description": "Signs include low water pressure, discolored water, unexplained wet spots in your yard, or a sudden increase in your water bill."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-angle-stop-valves-are-available-and-which-is-best",
+  "name": "What types of angle stop valves are available, and which is best?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of angle stop valves are available, and which is best?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several types of angle stop valves, including multi-turn (compression) and quarter-turn (ball or ceramic disc) valves. Quarter-turn valves are generally considered best due to their durability and ease of operation, requiring only a quarter turn to fully open or close. Multi-turn valves, while common in older homes, can seize up over time. A practical tradeoff to consider is the initial cost versus long-term reliability and ease of use.",
+        "@type": "Answer",
+        "description": "Quarter-turn valves are generally best for durability and ease of use compared to older multi-turn valves. Consider initial cost versus long-term reliability."
+      }
+    }
+  ],
+  "description": "Quarter-turn valves are generally best for durability and ease of use compared to older multi-turn valves. Consider initial cost versus long-term reliability."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-pipe-rerouting-project-take",
+  "name": "How long does a typical pipe rerouting project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical pipe rerouting project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a pipe rerouting project varies significantly based on the scope, the accessibility of the pipes, and the complexity of the new layout. A small reroute for a single fixture might take a day, while a whole-house repiping with rerouting could take several days to over a week. Process clarity often involves understanding that access to walls, floors, or ceilings will be needed, and this preparation work can influence the overall timeline, requiring temporary disruptions to water service.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope and complexity, ranging from a day for minor reroutes to over a week for whole-house projects."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope and complexity, ranging from a day for minor reroutes to over a week for whole-house projects."
+}

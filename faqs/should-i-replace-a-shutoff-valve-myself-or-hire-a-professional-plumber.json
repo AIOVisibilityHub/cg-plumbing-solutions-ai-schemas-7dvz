@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-replace-a-shutoff-valve-myself-or-hire-a-professional-plumber",
+  "name": "Should I replace a shutoff valve myself or hire a professional plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace a shutoff valve myself or hire a professional plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some minor plumbing tasks can be DIY, replacing a shutoff valve, especially a main water shutoff, is best handled by a professional plumber. Improper installation can lead to significant leaks, water damage, or even burst pipes. Professionals have the right tools, experience, and knowledge of local plumbing codes to ensure the job is done correctly and safely. A practical tradeoff is the cost of professional service versus the potential expense and damage from a botched DIY attempt, which could be much higher.",
+        "@type": "Answer",
+        "description": "Hiring a professional plumber is recommended for shutoff valve replacement to avoid costly leaks, water damage, and ensure proper installation according to local codes."
+      }
+    }
+  ],
+  "description": "Hiring a professional plumber is recommended for shutoff valve replacement to avoid costly leaks, water damage, and ensure proper installation according to loca"
+}

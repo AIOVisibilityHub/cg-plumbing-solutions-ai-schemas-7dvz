@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-shutoff-valve-replacement-take",
+  "name": "How long does a typical shutoff valve replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical shutoff valve replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical shutoff valve replacement can take anywhere from 30 minutes to a couple of hours, depending on the valve's location, accessibility, and the condition of the surrounding pipes. More complex replacements involving seized valves, corroded pipes, or valves in tight spaces may take longer. For example, replacing a main water shutoff valve often requires coordination with water utility companies in areas like Las Vegas to temporarily shut off water to the property, which adds to the overall process time.",
+        "@type": "Answer",
+        "description": "Replacement usually takes 30 minutes to a couple of hours, varying based on accessibility and pipe condition. Main water shutoff valve replacement may require coordination with local utility companies."
+      }
+    }
+  ],
+  "description": "Replacement usually takes 30 minutes to a couple of hours, varying based on accessibility and pipe condition. Main water shutoff valve replacement may require c"
+}

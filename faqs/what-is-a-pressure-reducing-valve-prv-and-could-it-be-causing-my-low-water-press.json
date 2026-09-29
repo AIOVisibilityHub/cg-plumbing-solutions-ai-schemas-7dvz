@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-pressure-reducing-valve-prv-and-could-it-be-causing-my-low-water-press",
+  "name": "What is a pressure reducing valve (PRV), and could it be causing my low water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pressure reducing valve (PRV), and could it be causing my low water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pressure reducing valve (PRV) is a plumbing device installed on your main water line to regulate the incoming water pressure from the municipal supply, preventing it from being too high. If your PRV is old, faulty, or incorrectly set, it can restrict water flow and cause low water pressure throughout your home. Many homes in areas like Paradise and Enterprise utilize PRVs, and they are a common point of inspection for our plumbers when investigating pressure issues. Replacing a malfunctioning PRV is a common solution that can restore proper water pressure efficiently.",
+        "@type": "Answer",
+        "description": "A PRV regulates incoming water pressure; if faulty or incorrectly set, it can cause low water pressure throughout your home. It's a common component we check during diagnostics."
+      }
+    }
+  ],
+  "description": "A PRV regulates incoming water pressure; if faulty or incorrectly set, it can cause low water pressure throughout your home. It's a common component we check du"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-repair-a-wall-leak-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a wall leak myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a wall leak myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface issues might seem repairable, wall leaks often originate from complex plumbing problems that are best handled by professionals. DIY attempts can sometimes worsen the issue, leading to more extensive damage or incomplete repairs that don't address the root cause. A professional plumber has the tools, experience, and expertise to accurately diagnose the leak source, perform durable repairs, and address any secondary issues like mold or structural compromise. We ensure comprehensive and lasting solutions.",
+        "@type": "Answer",
+        "description": "Professional plumbers are recommended for wall leaks as they have the expertise and tools to accurately diagnose, repair, and prevent further damage, unlike DIY attempts."
+      }
+    }
+  ],
+  "description": "Professional plumbers are recommended for wall leaks as they have the expertise and tools to accurately diagnose, repair, and prevent further damage, unlike DIY"
+}

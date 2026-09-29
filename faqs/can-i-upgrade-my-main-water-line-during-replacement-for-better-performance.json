@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-upgrade-my-main-water-line-during-replacement-for-better-performance",
+  "name": "Can I upgrade my main water line during replacement for better performance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I upgrade my main water line during replacement for better performance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing your main water line offers an excellent opportunity to upgrade your system. You might choose to install a larger diameter pipe to improve water pressure or flow rates, especially if you plan on adding fixtures or irrigation systems. This is a practical tradeoff where the initial increased cost of a larger line can lead to long-term benefits in water delivery and home functionality, preventing future limitations.",
+        "@type": "Answer",
+        "description": "Yes, you can upgrade to a larger diameter pipe during replacement to improve water pressure and flow, which can benefit future home functionality."
+      }
+    }
+  ],
+  "description": "Yes, you can upgrade to a larger diameter pipe during replacement to improve water pressure and flow, which can benefit future home functionality."
+}

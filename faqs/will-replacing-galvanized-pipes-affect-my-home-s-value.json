@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-replacing-galvanized-pipes-affect-my-home-s-value",
+  "name": "Will replacing galvanized pipes affect my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will replacing galvanized pipes affect my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing old galvanized pipes with new, reliable plumbing materials like PEX or copper can positively impact your home's value. It eliminates potential liabilities such as leaks and low water pressure, making the property more attractive to potential buyers. A significant decision factor for buyers is the condition of major home systems, and updated plumbing is a strong selling point that can also help secure better insurance rates.",
+        "@type": "Answer",
+        "description": "Yes, new plumbing increases home value and attractiveness to buyers by eliminating leak risks and improving water quality, which can also lower insurance rates."
+      }
+    }
+  ],
+  "description": "Yes, new plumbing increases home value and attractiveness to buyers by eliminating leak risks and improving water quality, which can also lower insurance rates."
+}

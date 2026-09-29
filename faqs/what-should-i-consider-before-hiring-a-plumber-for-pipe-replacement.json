@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-consider-before-hiring-a-plumber-for-pipe-replacement",
+  "name": "What should I consider before hiring a plumber for pipe replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before hiring a plumber for pipe replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before hiring a plumber for corroded pipe replacement, consider their experience with similar projects, especially in the Las Vegas area, and verify they are licensed and insured. Ask for a detailed, written estimate that breaks down labor, materials, and any potential unforeseen costs. It's also wise to inquire about the warranty on both parts and labor. CG Plumbing Solutions provides transparent estimates, is fully licensed and insured, and stands by our work. We encourage customers to compare our qualifications and proposals, ensuring you feel confident in your choice for such a critical home improvement.",
+        "@type": "Answer",
+        "description": "Before hiring, verify the plumber's experience, licensing, and insurance. Obtain a detailed written estimate and inquire about warranties for parts and labor."
+      }
+    }
+  ],
+  "description": "Before hiring, verify the plumber's experience, licensing, and insurance. Obtain a detailed written estimate and inquire about warranties for parts and labor."
+}

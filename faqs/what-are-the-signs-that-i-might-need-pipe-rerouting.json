@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-that-i-might-need-pipe-rerouting",
+  "name": "What are the signs that I might need pipe rerouting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that I might need pipe rerouting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating a potential need for pipe rerouting include persistent leaks, discolored or rusty water, significantly reduced water pressure, or unusually high water bills without a clear explanation. Gurgling noises from drains or frequent backups can also point to issues with drain lines that may require rerouting. A practical tradeoff to consider is that addressing these symptoms proactively through rerouting can prevent more extensive and costly water damage to your property down the line.",
+        "@type": "Answer",
+        "description": "Signs include persistent leaks, discolored water, low pressure, high water bills, or gurgling drains."
+      }
+    }
+  ],
+  "description": "Signs include persistent leaks, discolored water, low pressure, high water bills, or gurgling drains."
+}

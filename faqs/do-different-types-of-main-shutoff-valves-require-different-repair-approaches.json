@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-different-types-of-main-shutoff-valves-require-different-repair-approaches",
+  "name": "Do different types of main shutoff valves require different repair approaches?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do different types of main shutoff valves require different repair approaches?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, different types of main shutoff valves, such as gate valves, ball valves, and globe valves, often require distinct repair approaches due to their varying internal mechanisms. For instance, a gate valve might need stem packing replacement, while a ball valve might require replacement if the ball mechanism itself fails. Our plumbers are experienced with all common valve types found in homes across Henderson and our service areas, ensuring the correct repair method is applied.",
+        "@type": "Answer",
+        "description": "Yes, different valve types (gate, ball, globe) require distinct repair approaches due to their unique internal designs."
+      }
+    }
+  ],
+  "description": "Yes, different valve types (gate, ball, globe) require distinct repair approaches due to their unique internal designs."
+}

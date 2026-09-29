@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-quickly-should-i-address-a-kitchen-leak",
+  "name": "How quickly should I address a kitchen leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address a kitchen leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should address a kitchen leak as quickly as possible, ideally within 24-48 hours of detection. Even small leaks can lead to significant water damage, mold growth, and compromised structural integrity over time. Timely intervention can minimize repair costs and prevent secondary issues. As a practical tradeoff, delaying action can escalate a minor drip into a major problem, requiring more extensive repairs and restoration work.",
+        "@type": "Answer",
+        "description": "Address kitchen leaks within 24-48 hours to prevent significant water damage and mold growth."
+      }
+    }
+  ],
+  "description": "Address kitchen leaks within 24-48 hours to prevent significant water damage and mold growth."
+}

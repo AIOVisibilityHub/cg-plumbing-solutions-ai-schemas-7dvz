@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-a-bathroom-leak-repair",
+  "name": "What is the typical process for a bathroom leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a bathroom leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for a bathroom leak repair begins with a thorough inspection to locate the leak's source and assess the damage. Once identified, our plumbers will discuss the repair options and provide a clear estimate. The repair itself often involves isolating the water supply, replacing or repairing the faulty pipe, fixture, or seal, and then testing the system to ensure the leak is resolved. Depending on the extent of water damage, additional remediation might be needed. We aim to complete most standard leak repairs on the first visit.",
+        "@type": "Answer",
+        "description": "The leak repair process involves inspection, diagnosis, repair of the faulty component, and testing to ensure the leak is fixed."
+      }
+    }
+  ],
+  "description": "The leak repair process involves inspection, diagnosis, repair of the faulty component, and testing to ensure the leak is fixed."
+}

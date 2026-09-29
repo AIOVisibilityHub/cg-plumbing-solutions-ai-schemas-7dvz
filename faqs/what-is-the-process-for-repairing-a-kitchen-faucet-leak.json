@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-repairing-a-kitchen-faucet-leak",
+  "name": "What is the process for repairing a kitchen faucet leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a kitchen faucet leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a kitchen faucet leak typically involves turning off the water supply, disassembling the faucet, identifying the faulty component (often a worn O-ring, washer, or cartridge), and replacing it with a new one. After reassembly, the water supply is restored, and the faucet is tested for leaks. As part of our process, our technicians will confirm the water is fully off, replace the necessary parts with high-quality components, and ensure no further dripping before completing the service.",
+        "@type": "Answer",
+        "description": "The process involves turning off water, disassembling the faucet, replacing worn parts like O-rings or cartridges, and reassembling."
+      }
+    }
+  ],
+  "description": "The process involves turning off water, disassembling the faucet, replacing worn parts like O-rings or cartridges, and reassembling."
+}

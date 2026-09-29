@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-before-the-plumbers-arrive-to-replace-my-main-water-line",
+  "name": "What should I do before the plumbers arrive to replace my main water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before the plumbers arrive to replace my main water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before plumbers arrive for a main water line replacement, there are a few preparation steps you can take. Ensure clear access to your water meter and the area where the main line enters your home. You may also want to move any valuable landscaping or outdoor furniture from the projected work path. Have any relevant property surveys or previous plumbing records ready, as these can provide useful context for our team.",
+        "@type": "Answer",
+        "description": "Before arrival, ensure clear access to your water meter and line entry point, move outdoor items, and have property surveys ready."
+      }
+    }
+  ],
+  "description": "Before arrival, ensure clear access to your water meter and line entry point, move outdoor items, and have property surveys ready."
+}

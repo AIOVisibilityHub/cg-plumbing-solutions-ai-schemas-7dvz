@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-repair-a-main-water-shutoff-valve",
+  "name": "How much does it cost to repair a main water shutoff valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a main water shutoff valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a main water shutoff valve depends on the extent of the damage, the type of valve, and labor involved. Minor repairs are less costly than a full valve replacement, which may require additional parts and time. For an accurate estimate, it's best to have a professional assessment from our team, serving areas like North Las Vegas.",
+        "@type": "Answer",
+        "description": "Costs for main water shutoff valve repair vary by damage extent and valve type; a professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs for main water shutoff valve repair vary by damage extent and valve type; a professional assessment provides an accurate estimate."
+}

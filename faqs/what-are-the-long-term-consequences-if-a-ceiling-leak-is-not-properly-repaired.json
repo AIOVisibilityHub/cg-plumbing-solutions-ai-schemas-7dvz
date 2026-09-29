@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-long-term-consequences-if-a-ceiling-leak-is-not-properly-repaired",
+  "name": "What are the long-term consequences if a ceiling leak is not properly repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the long-term consequences if a ceiling leak is not properly repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a ceiling leak is not properly repaired, the long-term consequences can be severe. These include extensive structural damage to joists and drywall, which can compromise the integrity of your home. Persistent moisture leads to the growth of black mold, posing health risks and requiring costly remediation. Electrical hazards can also develop if water comes into contact with wiring. Proper repair by certified plumbers prevents these escalating issues and protects your property value. CG Plumbing Solutions focuses on thorough, lasting repairs.",
+        "@type": "Answer",
+        "description": "Unrepaired ceiling leaks can cause structural damage, mold growth, and electrical hazards, leading to costly and hazardous long-term problems."
+      }
+    }
+  ],
+  "description": "Unrepaired ceiling leaks can cause structural damage, mold growth, and electrical hazards, leading to costly and hazardous long-term problems."
+}

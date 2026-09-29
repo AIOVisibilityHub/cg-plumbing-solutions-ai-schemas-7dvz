@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-copper-pipe-patch-and-a-replacement",
+  "name": "What is the difference between a copper pipe patch and a replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a copper pipe patch and a replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A copper pipe patch involves sealing a small leak or crack, often using a clamp or epoxy, and is typically a temporary or minor repair. A replacement, however, involves cutting out the damaged section of pipe and soldering in a new piece, offering a more durable and long-term solution. The decision between patching and replacement often depends on the age and overall condition of the pipe, the size and location of the leak, and whether it's an isolated issue or a sign of systemic corrosion. CG Plumbing Solutions evaluates these factors to recommend the most effective approach.",
+        "@type": "Answer",
+        "description": "Patching seals a small leak, often temporarily, while replacement involves cutting out and soldering in a new pipe section for a durable fix."
+      }
+    }
+  ],
+  "description": "Patching seals a small leak, often temporarily, while replacement involves cutting out and soldering in a new pipe section for a durable fix."
+}

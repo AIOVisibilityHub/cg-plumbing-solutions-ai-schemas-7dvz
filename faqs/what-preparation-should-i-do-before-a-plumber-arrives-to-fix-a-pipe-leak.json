@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preparation-should-i-do-before-a-plumber-arrives-to-fix-a-pipe-leak",
+  "name": "What preparation should I do before a plumber arrives to fix a pipe leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation should I do before a plumber arrives to fix a pipe leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber arrives, you should try to locate your main water shut-off valve and turn off the water supply to prevent further damage. Clear the area around the suspected leak to allow easy access for our technicians. If you have noticed any specific symptoms or locations of the leak, gathering this information will help us diagnose and repair the issue more efficiently. These steps help streamline the repair process upon our arrival.",
+        "@type": "Answer",
+        "description": "Before the plumber arrives, turn off your main water supply, clear the area around the leak, and gather any observations about the leak."
+      }
+    }
+  ],
+  "description": "Before the plumber arrives, turn off your main water supply, clear the area around the leak, and gather any observations about the leak."
+}

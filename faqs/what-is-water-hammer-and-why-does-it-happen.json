@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-water-hammer-and-why-does-it-happen",
+  "name": "What is water hammer and why does it happen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is water hammer and why does it happen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water hammer is a loud banging or knocking noise in your pipes, often heard when a faucet is quickly turned off or an appliance like a washing machine stops filling. It occurs when flowing water suddenly stops or changes direction, creating a pressure wave that makes pipes vibrate and hit against framing or other pipes. Ignoring water hammer can lead to pipe damage, leaks, or even burst pipes over time, making timely repair important for maintaining your home's plumbing integrity.",
+        "@type": "Answer",
+        "description": "Water hammer is a loud banging noise in pipes caused by sudden water flow changes, creating pressure waves that can damage plumbing."
+      }
+    }
+  ],
+  "description": "Water hammer is a loud banging noise in pipes caused by sudden water flow changes, creating pressure waves that can damage plumbing."
+}

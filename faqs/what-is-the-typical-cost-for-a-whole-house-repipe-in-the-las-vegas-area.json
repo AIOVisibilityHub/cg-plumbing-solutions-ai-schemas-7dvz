@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-cost-for-a-whole-house-repipe-in-the-las-vegas-area",
+  "name": "What is the typical cost for a whole house repipe in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for a whole house repipe in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a whole house repipe in the Las Vegas area varies significantly based on factors like home size, number of bathrooms, pipe material chosen (e.g., PEX or copper), and the complexity of your home's layout. Prices can range from several thousand dollars for smaller homes to over ten thousand for larger, more complex properties. We offer detailed estimates after an on-site evaluation to provide an accurate cost for your specific property in areas like Henderson or Summerlin.",
+        "@type": "Answer",
+        "description": "Repiping costs in Las Vegas vary widely by home size, pipe material, and complexity, typically ranging from a few thousand to over ten thousand dollars."
+      }
+    }
+  ],
+  "description": "Repiping costs in Las Vegas vary widely by home size, pipe material, and complexity, typically ranging from a few thousand to over ten thousand dollars."
+}

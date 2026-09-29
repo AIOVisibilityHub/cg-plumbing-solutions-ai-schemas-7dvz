@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-a-functional-main-water-shutoff-valve-important-for-my-home",
+  "name": "Why is a functional main water shutoff valve important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is a functional main water shutoff valve important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A functional main water shutoff valve is crucial because it allows you to quickly stop the flow of water into your home during a plumbing emergency, such as a burst pipe or major leak. This can prevent extensive water damage and costly repairs. Ensuring your valve is in good working order is a key part of home maintenance, providing an essential safeguard for your property in cities like Las Vegas.",
+        "@type": "Answer",
+        "description": "A functional main water shutoff valve is critical for quickly stopping water flow during emergencies to prevent extensive damage."
+      }
+    }
+  ],
+  "description": "A functional main water shutoff valve is critical for quickly stopping water flow during emergencies to prevent extensive damage."
+}

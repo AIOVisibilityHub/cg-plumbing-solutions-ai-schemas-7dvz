@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-pipe-materials-are-used-for-water-service-line-replacement",
+  "name": "What pipe materials are used for water service line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What pipe materials are used for water service line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pipe materials used for water service line replacement include copper, PEX (cross-linked polyethylene), and occasionally PVC. Copper is highly durable and resistant to corrosion, offering a long lifespan. PEX is flexible, corrosion-resistant, and easier to install, often reducing labor costs. PVC is another option, though less common for direct buried service lines due to flexibility concerns. The best material for your property depends on local regulations, soil conditions, water chemistry, and your budget. CG Plumbing Solutions can advise on the optimal choice for your specific needs.",
+        "@type": "Answer",
+        "description": "Common materials include copper, PEX, and sometimes PVC; the best choice depends on factors like soil, water chemistry, and budget."
+      }
+    }
+  ],
+  "description": "Common materials include copper, PEX, and sometimes PVC; the best choice depends on factors like soil, water chemistry, and budget."
+}

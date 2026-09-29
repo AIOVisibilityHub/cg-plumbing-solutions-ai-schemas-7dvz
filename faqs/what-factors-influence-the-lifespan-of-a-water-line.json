@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-lifespan-of-a-water-line",
+  "name": "What factors influence the lifespan of a water line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the lifespan of a water line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of a water line is influenced by several factors, including the pipe material, soil conditions, water quality (e.g., acidity, mineral content), installation quality, and external pressures like ground movement or tree root intrusion. For example, older galvanized steel pipes often corrode faster than newer PEX or copper lines, especially in certain soil types common in areas like Las Vegas. Regular maintenance and prompt leak repair can also extend a water line's service life, minimizing premature failure and costly emergencies.",
+        "@type": "Answer",
+        "description": "Water line lifespan depends on pipe material, soil conditions, water quality, installation quality, and external pressures. Older pipe materials may have shorter lifespans."
+      }
+    }
+  ],
+  "description": "Water line lifespan depends on pipe material, soil conditions, water quality, installation quality, and external pressures. Older pipe materials may have shorte"
+}

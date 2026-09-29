@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-water-line-repair-process",
+  "name": "What is involved in the water line repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the water line repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The water line repair process typically begins with a diagnostic inspection to locate the leak or break. This may involve using specialized listening equipment or performing a pressure test. Once the problem is pinpointed, the affected section of the pipe is exposed, usually through excavation, and either repaired or replaced. After the repair, the line is tested for leaks, and the excavated area is backfilled. The specific approach can change based on whether the break is in an easily accessible area or under a structure, influencing the complexity and duration of the repair. Our team serves Las Vegas and surrounding areas.",
+        "@type": "Answer",
+        "description": "Water line repair involves diagnosing the leak, exposing the pipe through excavation, repairing or replacing the damaged section, testing, and backfilling. The process varies based on the leak's location."
+      }
+    }
+  ],
+  "description": "Water line repair involves diagnosing the leak, exposing the pipe through excavation, repairing or replacing the damaged section, testing, and backfilling. The"
+}

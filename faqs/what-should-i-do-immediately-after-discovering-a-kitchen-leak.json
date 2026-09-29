@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-immediately-after-discovering-a-kitchen-leak",
+  "name": "What should I do immediately after discovering a kitchen leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a kitchen leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after discovering a kitchen leak, your first step should be to turn off the water supply to the affected area or your entire home to prevent further damage. If the leak is under the sink, look for a shut-off valve on the supply lines. If not, locate your home's main water shut-off valve. Then, clear the area of any valuables and try to contain the water with towels or buckets. This preparation helps mitigate damage while you contact a professional plumber. CG Plumbing Solutions offers emergency services for urgent leak situations.",
+        "@type": "Answer",
+        "description": "Immediately turn off the water supply to the area or your home, clear valuables, and contain the water before calling a plumber."
+      }
+    }
+  ],
+  "description": "Immediately turn off the water supply to the area or your home, clear valuables, and contain the water before calling a plumber."
+}

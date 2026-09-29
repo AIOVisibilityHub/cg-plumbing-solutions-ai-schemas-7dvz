@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-that-my-main-water-shutoff-valve-needs-repair",
+  "name": "What are the common signs that my main water shutoff valve needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my main water shutoff valve needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your main water shutoff valve needs repair include visible leaks around the valve, difficulty turning the valve completely off or on, or if the valve feels stiff or corroded. Ignoring these issues can lead to emergencies if you need to shut off your water quickly. Our technicians in areas like Las Vegas and Henderson can diagnose these issues promptly.",
+        "@type": "Answer",
+        "description": "Visible leaks, difficulty turning the valve, or corrosion are common signs your main shutoff valve needs repair."
+      }
+    }
+  ],
+  "description": "Visible leaks, difficulty turning the valve, or corrosion are common signs your main shutoff valve needs repair."
+}

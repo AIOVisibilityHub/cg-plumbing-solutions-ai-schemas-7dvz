@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-causes-of-pex-pipe-damage-that-require-repair",
+  "name": "What are the common causes of PEX pipe damage that require repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of PEX pipe damage that require repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "PEX pipe damage often results from freezing temperatures, punctures during home renovations, or accidental impact. While PEX is flexible and less prone to bursting than rigid pipes, extreme cold can still lead to cracks if water inside expands. Punctures from nails or screws during drywall installation or other projects are also frequent. We assess the specific cause of damage to determine the most effective repair method, ensuring a durable solution for your plumbing system.",
+        "@type": "Answer",
+        "description": "Common causes of PEX pipe damage include freezing, punctures from renovations, and accidental impact."
+      }
+    }
+  ],
+  "description": "Common causes of PEX pipe damage include freezing, punctures from renovations, and accidental impact."
+}

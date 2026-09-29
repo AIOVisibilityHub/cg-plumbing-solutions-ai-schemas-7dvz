@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-of-high-water-pressure-in-my-home",
+  "name": "What are common signs of high water pressure in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of high water pressure in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of high water pressure include banging pipes, dripping faucets, continuously running toilets, and shortened lifespan of appliances like water heaters and washing machines. You might also notice excessive splashing from sinks or showers. If you experience these issues, especially if multiple fixtures are affected, it indicates a need for a professional diagnosis to prevent further damage.",
+        "@type": "Answer",
+        "description": "Banging pipes, dripping faucets, running toilets, and appliance issues are common signs of high water pressure."
+      }
+    }
+  ],
+  "description": "Banging pipes, dripping faucets, running toilets, and appliance issues are common signs of high water pressure."
+}

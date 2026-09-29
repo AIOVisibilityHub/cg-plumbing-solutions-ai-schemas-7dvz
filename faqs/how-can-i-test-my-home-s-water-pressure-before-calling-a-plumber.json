@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-test-my-home-s-water-pressure-before-calling-a-plumber",
+  "name": "How can I test my home's water pressure before calling a plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I test my home's water pressure before calling a plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can test your home's water pressure using a water pressure gauge, which screws onto an outdoor spigot or laundry tub faucet. Ensure all other water sources are off, then turn on the spigot completely and read the gauge. Ideal residential water pressure typically falls between 40-60 PSI. A reading below 40 PSI indicates low pressure, while consistently above 80 PSI can be too high and potentially damaging. This preparation step helps you gather initial data, allowing for a more informed conversation with a plumber and potentially expediting their diagnostic process.",
+        "@type": "Answer",
+        "description": "You can test your water pressure with a gauge on an outdoor spigot; ideal pressure is 40-60 PSI. This helps prepare for a plumber."
+      }
+    }
+  ],
+  "description": "You can test your water pressure with a gauge on an outdoor spigot; ideal pressure is 40-60 PSI. This helps prepare for a plumber."
+}

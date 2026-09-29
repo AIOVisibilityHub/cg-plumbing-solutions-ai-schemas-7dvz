@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-water-pressure-regulator-and-how-do-i-know-if-mine-is-failing",
+  "name": "What is a water pressure regulator and how do I know if mine is failing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a water pressure regulator and how do I know if mine is failing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water pressure regulator is a valve installed on your main water line that reduces the incoming municipal water pressure to a safe level for your home's plumbing system, typically between 40-60 PSI. Signs of a failing regulator include fluctuating water pressure (both high and low), banging pipes, or a sudden drop in pressure throughout the house. A common first-party insight we observe is that regulators typically last 10-15 years, and their failure can lead to significant damage if not addressed. You might visually inspect it for leaks or corrosion, but professional testing is usually needed for definitive diagnosis.",
+        "@type": "Answer",
+        "description": "A water pressure regulator sets your home's pressure. Signs of failure include fluctuating pressure, banging pipes, or sudden drops, often after 10-15 years."
+      }
+    }
+  ],
+  "description": "A water pressure regulator sets your home's pressure. Signs of failure include fluctuating pressure, banging pipes, or sudden drops, often after 10-15 years."
+}

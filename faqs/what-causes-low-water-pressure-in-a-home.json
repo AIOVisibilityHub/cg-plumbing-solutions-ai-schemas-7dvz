@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-low-water-pressure-in-a-home",
+  "name": "What causes low water pressure in a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes low water pressure in a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low water pressure can stem from various issues, including municipal supply problems, clogged pipes, leaky plumbing, malfunctioning pressure regulators, or even a faulty water heater. For example, older homes in areas like Las Vegas might experience issues due to galvanized pipes that accumulate mineral deposits over time, restricting water flow. Identifying the exact cause is the first step toward effective repair, and it often requires a professional assessment to pinpoint the source accurately.",
+        "@type": "Answer",
+        "description": "Low water pressure can be caused by municipal supply issues, clogged pipes, leaks, or a faulty pressure regulator. A professional assessment helps identify the exact problem."
+      }
+    }
+  ],
+  "description": "Low water pressure can be caused by municipal supply issues, clogged pipes, leaks, or a faulty pressure regulator. A professional assessment helps identify the"
+}

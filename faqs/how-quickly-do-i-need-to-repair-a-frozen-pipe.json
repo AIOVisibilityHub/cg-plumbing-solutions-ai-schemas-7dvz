@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-quickly-do-i-need-to-repair-a-frozen-pipe",
+  "name": "How quickly do I need to repair a frozen pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly do I need to repair a frozen pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a frozen pipe, especially if it has burst, requires immediate attention to minimize water damage and disruption. Even if it hasn't burst yet, the pressure from expanding ice can quickly lead to a rupture. The timeline for repair often depends on the extent of the freeze and the location of the pipe. CG Plumbing Solutions prioritizes emergency calls for burst pipes, aiming to respond promptly to limit damage to your property. Delaying action can significantly increase repair costs and structural issues.",
+        "@type": "Answer",
+        "description": "Frozen pipes, especially burst ones, require immediate repair to prevent extensive water damage. Delaying can increase costs and structural issues."
+      }
+    }
+  ],
+  "description": "Frozen pipes, especially burst ones, require immediate repair to prevent extensive water damage. Delaying can increase costs and structural issues."
+}

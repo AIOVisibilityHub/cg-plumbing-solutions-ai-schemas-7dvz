@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-a-whole-house-repipe-service",
+  "name": "What is the process for a whole house repipe service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a whole house repipe service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repiping process begins with an initial assessment to determine the scope of work and provide an estimate. Once approved, our team will strategically plan the pipe routing, often through walls and ceilings, to minimize disruption. Existing pipes are typically abandoned in place, and new pipes are installed. After installation, pressure tests are conducted, and new pipes are connected to fixtures. Finally, any necessary wall or ceiling repairs are addressed, though finishing cosmetic work often falls to the homeowner. We handle all plumbing aspects from start to finish.",
+        "@type": "Answer",
+        "description": "The process involves assessment, pipe routing, installation of new pipes, testing, connecting fixtures, and addressing initial wall/ceiling repairs."
+      }
+    }
+  ],
+  "description": "The process involves assessment, pipe routing, installation of new pipes, testing, connecting fixtures, and addressing initial wall/ceiling repairs."
+}

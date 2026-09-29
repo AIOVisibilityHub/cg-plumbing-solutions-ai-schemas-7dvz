@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-tell-if-i-have-water-hammer-or-another-plumbing-issue",
+  "name": "How can I tell if I have water hammer or another plumbing issue?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if I have water hammer or another plumbing issue?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water hammer is characterized by distinct banging or thumping sounds, typically after a valve closes quickly. Other plumbing noises, like a constant hum or squeal, usually indicate different problems such as high water pressure or loose components. If the noise is intermittent and tied to water usage, especially with quick valve closures, it's likely water hammer. A professional assessment can confirm the cause and recommend the right solution, as some sounds might indicate issues beyond simple water hammer.",
+        "@type": "Answer",
+        "description": "Water hammer creates distinct banging noises after quick valve closures; other sounds like hums or squeals usually signal different plumbing issues."
+      }
+    }
+  ],
+  "description": "Water hammer creates distinct banging noises after quick valve closures; other sounds like hums or squeals usually signal different plumbing issues."
+}

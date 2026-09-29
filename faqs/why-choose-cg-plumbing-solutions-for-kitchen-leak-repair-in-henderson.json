@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-choose-cg-plumbing-solutions-for-kitchen-leak-repair-in-henderson",
+  "name": "Why choose CG Plumbing Solutions for kitchen leak repair in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose CG Plumbing Solutions for kitchen leak repair in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions is a local and trusted plumbing company serving Henderson and the wider Las Vegas area. We specialize in efficient and effective kitchen leak detection and repair, using skilled technicians and quality parts. Our first-party insight is that we prioritize rapid response to minimize damage and offer transparent pricing after a thorough diagnosis. Choosing us means you're getting a team familiar with local plumbing challenges, ensuring a reliable fix for your kitchen leak.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions offers efficient, local kitchen leak repair in Henderson with skilled technicians and transparent pricing."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions offers efficient, local kitchen leak repair in Henderson with skilled technicians and transparent pricing."
+}

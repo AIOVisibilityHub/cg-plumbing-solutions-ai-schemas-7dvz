@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-repair-a-wall-leak",
+  "name": "How long does it take to repair a wall leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a wall leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a wall leak repair varies depending on the leak's complexity and the damage involved. A straightforward pipe repair might take a few hours, while more extensive issues involving structural damage, mold remediation, or multiple leak points could extend to several days. We aim to complete repairs efficiently while ensuring quality. Our team will provide an estimated timeline after assessing the specific situation at your Las Vegas area property.",
+        "@type": "Answer",
+        "description": "Repair time depends on leak complexity; simple repairs may take hours, while extensive damage or multiple leaks could take several days."
+      }
+    }
+  ],
+  "description": "Repair time depends on leak complexity; simple repairs may take hours, while extensive damage or multiple leaks could take several days."
+}

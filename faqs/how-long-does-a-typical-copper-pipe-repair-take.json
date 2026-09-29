@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-copper-pipe-repair-take",
+  "name": "How long does a typical copper pipe repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical copper pipe repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a copper pipe repair can vary significantly depending on the extent of the damage and its accessibility. A simple patch or joint repair might take a few hours, while replacing a longer section of pipe in a difficult-to-reach area could take a full day or more. For example, a repair behind a wall or under a slab will involve additional time for access and restoration. When scheduling service, we can provide a more accurate time estimate after assessing the specific situation at your Las Vegas area property.",
+        "@type": "Answer",
+        "description": "Repair time varies based on damage and accessibility, from a few hours for a simple patch to a full day for complex replacements."
+      }
+    }
+  ],
+  "description": "Repair time varies based on damage and accessibility, from a few hours for a simple patch to a full day for complex replacements."
+}

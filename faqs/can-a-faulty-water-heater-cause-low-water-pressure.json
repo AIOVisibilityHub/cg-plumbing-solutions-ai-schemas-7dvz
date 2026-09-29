@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-a-faulty-water-heater-cause-low-water-pressure",
+  "name": "Can a faulty water heater cause low water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a faulty water heater cause low water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a faulty water heater can contribute to low water pressure, particularly if sediment buildup inside the tank restricts water flow or if there's a problem with the heater's shut-off valve. When hot water lines are affected, but cold water lines are not, a water heater issue is a strong possibility. We often check water heaters during pressure diagnostics. Recognizing this as a potential cause can guide initial troubleshooting and help you describe the symptoms more accurately to a plumber, allowing for quicker and more targeted diagnosis.",
+        "@type": "Answer",
+        "description": "Yes, a faulty water heater can cause low water pressure due to sediment buildup or valve issues, especially if only hot water lines are affected. This helps guide diagnosis."
+      }
+    }
+  ],
+  "description": "Yes, a faulty water heater can cause low water pressure due to sediment buildup or valve issues, especially if only hot water lines are affected. This helps gui"
+}

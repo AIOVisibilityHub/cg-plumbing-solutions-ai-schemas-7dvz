@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-my-water-pressure-is-too-high",
+  "name": "What should I do if my water pressure is too high?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my water pressure is too high?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your water pressure is consistently too high (above 80 PSI), you should contact a plumber to inspect and adjust or replace your pressure reducing valve (PRV). High pressure can damage appliances, fixtures, and pipes, leading to leaks and premature wear. In some Las Vegas area homes, high municipal water pressure necessitates a properly functioning PRV. Addressing this quickly is crucial for preventing costly damage to your plumbing system. CG Plumbing Solutions can help assess the PRV's condition and ensure your home's pressure is within a safe range, preventing future issues.",
+        "@type": "Answer",
+        "description": "If water pressure is too high (above 80 PSI), contact a plumber to inspect or replace your pressure reducing valve to prevent plumbing damage."
+      }
+    }
+  ],
+  "description": "If water pressure is too high (above 80 PSI), contact a plumber to inspect or replace your pressure reducing valve to prevent plumbing damage."
+}

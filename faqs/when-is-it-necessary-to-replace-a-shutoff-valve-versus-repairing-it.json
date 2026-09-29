@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-is-it-necessary-to-replace-a-shutoff-valve-versus-repairing-it",
+  "name": "When is it necessary to replace a shutoff valve versus repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it necessary to replace a shutoff valve versus repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, if a shutoff valve is leaking, stiff, or not fully closing, replacement is more effective and economical than repair. Older valves, especially gate valves, are often beyond simple repair due to their design or extensive corrosion. While some minor leaks might be temporarily patched, a full replacement provides a more reliable and long-lasting solution, preventing future issues. A practical tradeoff is the upfront cost of replacement versus recurring repair attempts that may ultimately fail and cause more damage.",
+        "@type": "Answer",
+        "description": "Replacement is generally more effective and economical than repair for leaking, stiff, or non-functional shutoff valves, especially older models."
+      }
+    }
+  ],
+  "description": "Replacement is generally more effective and economical than repair for leaking, stiff, or non-functional shutoff valves, especially older models."
+}

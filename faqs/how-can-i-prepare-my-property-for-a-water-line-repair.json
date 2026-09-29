@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prepare-my-property-for-a-water-line-repair",
+  "name": "How can I prepare my property for a water line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my property for a water line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your property for a water line repair, ensure clear access to the suspected leak area and the main water shut-off valve. If possible, mark the location of any known underground utilities, such as sprinkler lines or low-voltage lighting, to help prevent accidental damage during excavation. It's also helpful to move vehicles, outdoor furniture, or landscaping decorations away from the work zone. This preparation helps our technicians work efficiently and safely, speeding up the repair process. Confirming a clear path to the main water meter is also beneficial.",
+        "@type": "Answer",
+        "description": "Prepare for water line repair by ensuring clear access to the leak area and shut-off valve, marking underground utilities, and moving obstacles from the work zone."
+      }
+    }
+  ],
+  "description": "Prepare for water line repair by ensuring clear access to the leak area and shut-off valve, marking underground utilities, and moving obstacles from the work zo"
+}

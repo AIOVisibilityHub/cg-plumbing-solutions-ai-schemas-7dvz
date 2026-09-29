@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-can-i-do-to-prepare-for-a-plumber-s-visit-for-copper-pipe-repair",
+  "name": "What can I do to prepare for a plumber's visit for copper pipe repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can I do to prepare for a plumber's visit for copper pipe repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a plumber's visit for copper pipe repair, first, try to locate the main water shut-off valve for your home. If you know where the leak is, clear the area around it to provide easy access for the technician. It's also helpful to have any relevant information about when the problem started or any previous repairs available. This preparation can help our plumbers from CG Plumbing Solutions diagnose and address the issue more efficiently upon arrival at your North Las Vegas or Paradise property.",
+        "@type": "Answer",
+        "description": "Locate your main water shut-off valve, clear the area around the leak, and have information about the problem ready for the plumber."
+      }
+    }
+  ],
+  "description": "Locate your main water shut-off valve, clear the area around the leak, and have information about the problem ready for the plumber."
+}

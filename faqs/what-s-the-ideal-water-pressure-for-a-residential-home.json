@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-ideal-water-pressure-for-a-residential-home",
+  "name": "What's the ideal water pressure for a residential home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the ideal water pressure for a residential home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal water pressure for a residential home is generally between 50 and 80 pounds per square inch (PSI). Maintaining pressure within this range helps prevent damage to your plumbing fixtures and appliances, ensures efficient operation, and avoids unnecessary water waste. Pressures consistently above 80 PSI are considered high and warrant attention from a professional plumber.",
+        "@type": "Answer",
+        "description": "The ideal residential water pressure is 50-80 PSI to prevent damage and ensure efficiency; anything above 80 PSI is considered high."
+      }
+    }
+  ],
+  "description": "The ideal residential water pressure is 50-80 PSI to prevent damage and ensure efficiency; anything above 80 PSI is considered high."
+}
