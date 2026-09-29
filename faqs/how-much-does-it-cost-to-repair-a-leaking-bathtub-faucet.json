@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-repair-a-leaking-bathtub-faucet",
+  "name": "How much does it cost to repair a leaking bathtub faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a leaking bathtub faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a leaking bathtub faucet varies depending on the specific issue, the type of faucet, and the parts required. Simple fixes like replacing a washer are less expensive than needing to replace an entire cartridge or addressing extensive corrosion. We provide a transparent estimate after a thorough inspection. For CG Plumbing Solutions, our service call includes a diagnostic assessment to determine the precise problem and provide an accurate quote before any work begins, ensuring you understand the costs involved.",
+        "@type": "Answer",
+        "description": "Bathtub faucet repair costs vary based on the issue and parts needed; a diagnostic assessment determines the precise problem and provides an accurate quote."
+      }
+    }
+  ],
+  "description": "Bathtub faucet repair costs vary based on the issue and parts needed; a diagnostic assessment determines the precise problem and provides an accurate quote."
+}

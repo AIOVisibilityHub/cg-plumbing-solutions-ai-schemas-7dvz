@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-materials-are-used-for-toilet-flanges-and-does-it-matter-for-repair",
+  "name": "What kind of materials are used for toilet flanges, and does it matter for repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of materials are used for toilet flanges, and does it matter for repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Toilet flanges are commonly made from PVC, ABS, cast iron, or brass. The material of your existing flange can affect the repair method and costs. For instance, plastic flanges (PVC, ABS) are often easier to repair or replace than older cast iron flanges, which might require more specialized tools or techniques to remove and connect to modern piping. Knowing the material helps determine the most appropriate and durable repair strategy. CG Plumbing Solutions works with all common flange materials found in homes across Las Vegas and surrounding areas.",
+        "@type": "Answer",
+        "description": "Common flange materials are PVC, ABS, cast iron, or brass; the material can influence the repair process and associated costs."
+      }
+    }
+  ],
+  "description": "Common flange materials are PVC, ABS, cast iron, or brass; the material can influence the repair process and associated costs."
+}

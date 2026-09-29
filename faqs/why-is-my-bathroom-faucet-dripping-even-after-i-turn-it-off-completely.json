@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-my-bathroom-faucet-dripping-even-after-i-turn-it-off-completely",
+  "name": "Why is my bathroom faucet dripping even after I turn it off completely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my bathroom faucet dripping even after I turn it off completely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A dripping bathroom faucet, even when fully closed, usually indicates worn-out internal components. This could be a deteriorated washer, O-ring, or a damaged cartridge or ceramic disc, depending on the faucet type. These components are designed to create a tight seal, and when they wear out, water can continue to leak through. Ignoring a persistent drip can lead to significant water waste and potential water damage to your vanity or flooring over time. CG Plumbing Solutions often finds that hard water in the Las Vegas valley can accelerate wear on these internal parts, necessitating their replacement.",
+        "@type": "Answer",
+        "description": "A dripping faucet often means worn internal parts like washers, O-rings, or cartridges. Hard water can accelerate this wear."
+      }
+    }
+  ],
+  "description": "A dripping faucet often means worn internal parts like washers, O-rings, or cartridges. Hard water can accelerate this wear."
+}

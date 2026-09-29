@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-i-need-to-repair-or-replace-my-bathtub-faucet",
+  "name": "How do I know if I need to repair or replace my bathtub faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need to repair or replace my bathtub faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace a bathtub faucet depends on the age of the faucet, the severity of the problem, and the cost of parts. If the faucet is old, has significant corrosion, or parts are hard to find, replacement might be more cost-effective in the long run. Minor issues like a leaking washer are typically repairable. CG Plumbing Solutions plumbers can assess your faucet's condition and provide an expert recommendation, weighing repair costs against replacement benefits, especially considering the potential for hard water damage over time.",
+        "@type": "Answer",
+        "description": "Assess faucet age, issue severity, and parts cost; replacement is better for old, corroded faucets, while minor issues are repairable."
+      }
+    }
+  ],
+  "description": "Assess faucet age, issue severity, and parts cost; replacement is better for old, corroded faucets, while minor issues are repairable."
+}

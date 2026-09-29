@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-repairing-versus-replacing-my-commercial-water-heater",
+  "name": "When should I consider repairing versus replacing my commercial water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing versus replacing my commercial water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement for a commercial water heater often depends on its age, the extent of the damage, and the frequency of past repairs. If a water heater is old (typically past its warranty or expected lifespan of 8-12 years) or requires frequent, costly repairs, replacement might be more economical long-term. Conversely, newer units with minor, isolated issues are usually better candidates for repair. CG Plumbing Solutions can help assess your unit's condition and provide a recommendation based on its efficiency and remaining lifespan.",
+        "@type": "Answer",
+        "description": "Consider repair for newer units with minor issues, but replacement might be better for old water heaters or those needing frequent, costly repairs."
+      }
+    }
+  ],
+  "description": "Consider repair for newer units with minor issues, but replacement might be better for old water heaters or those needing frequent, costly repairs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-my-shower-water-temperature-inconsistent-or-suddenly-cold",
+  "name": "Why is my shower water temperature inconsistent or suddenly cold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my shower water temperature inconsistent or suddenly cold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Inconsistent shower water temperature or sudden cold bursts often indicate issues with your water heater, a faulty shower mixing valve (thermostatic or pressure-balancing), or mineral buildup affecting water flow. A professional plumber can diagnose whether the problem originates from the shower fixture itself or your home's water heating system. Understanding the exact cause is crucial for selecting the correct repair, ensuring a consistent and comfortable shower experience. Our team can assess the entire system to find the root cause.",
+        "@type": "Answer",
+        "description": "Inconsistent shower temperature suggests water heater issues, a faulty mixing valve, or mineral buildup. Diagnosis is key for correct repair."
+      }
+    }
+  ],
+  "description": "Inconsistent shower temperature suggests water heater issues, a faulty mixing valve, or mineral buildup. Diagnosis is key for correct repair."
+}

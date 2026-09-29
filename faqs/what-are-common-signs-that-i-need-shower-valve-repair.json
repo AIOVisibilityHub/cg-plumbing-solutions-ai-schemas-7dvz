@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-i-need-shower-valve-repair",
+  "name": "What are common signs that I need shower valve repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that I need shower valve repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that indicate you need shower valve repair include a dripping shower head, inconsistent water temperature, low water pressure, or difficulty turning the shower on or off. You might also notice a squealing or grinding noise when operating the shower. Ignoring these issues can lead to increased water waste or more extensive plumbing problems down the line. We recommend addressing these symptoms promptly to prevent further damage.",
+        "@type": "Answer",
+        "description": "Dripping shower head, inconsistent water temperature, low water pressure, or difficulty operating the shower are common signs."
+      }
+    }
+  ],
+  "description": "Dripping shower head, inconsistent water temperature, low water pressure, or difficulty operating the shower are common signs."
+}

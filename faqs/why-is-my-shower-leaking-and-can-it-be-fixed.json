@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-my-shower-leaking-and-can-it-be-fixed",
+  "name": "Why is my shower leaking, and can it be fixed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my shower leaking, and can it be fixed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shower leaks often stem from worn-out seals, gaskets, cartridges within the faucet, or cracks in grout or caulk around the shower enclosure. Yes, most leaks can be effectively fixed. The repair process usually involves identifying the exact source of the leak and replacing the faulty component or resealing the affected area. Our technicians can pinpoint the leak's origin, which might be in the shower head, faucet, drain, or even behind the wall, to ensure a lasting repair.",
+        "@type": "Answer",
+        "description": "Shower leaks are usually caused by worn seals, cartridges, or cracked grout. Most leaks are fixable by replacing faulty parts or resealing."
+      }
+    }
+  ],
+  "description": "Shower leaks are usually caused by worn seals, cartridges, or cracked grout. Most leaks are fixable by replacing faulty parts or resealing."
+}

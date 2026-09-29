@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-common-code-upgrades-are-required-for-water-heaters-in-the-las-vegas-area",
+  "name": "What common code upgrades are required for water heaters in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common code upgrades are required for water heaters in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Las Vegas area, common water heater code upgrades often include proper seismic strapping to secure the unit against earthquakes, the installation of a drain pan with an indirect waste pipe, and correct T&P valve discharge piping. Additionally, gas water heaters typically require updated combustion air and venting according to current standards. These specific requirements help ensure safety and compliance with local building codes. CG Plumbing Solutions is familiar with the specific codes in Las Vegas, North Las Vegas, Henderson, and Summerlin.",
+        "@type": "Answer",
+        "description": "Common water heater code upgrades in the Las Vegas area include seismic strapping, drain pan installation, and correct T&P valve discharge piping."
+      }
+    }
+  ],
+  "description": "Common water heater code upgrades in the Las Vegas area include seismic strapping, drain pan installation, and correct T&P valve discharge piping."
+}

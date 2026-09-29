@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-a-bathtub-repair-match-the-original-color-of-my-tub",
+  "name": "Will a bathtub repair match the original color of my tub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a bathtub repair match the original color of my tub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional bathtub repair services strive to achieve the closest possible color match to your original tub. Technicians typically use specialized tinting kits to custom-mix repair compounds that blend seamlessly with the existing color. While a perfect, undetectable match can sometimes be challenging due to factors like the tub's age, sun exposure, or unique original shade, experienced professionals aim for a repair that is virtually invisible. Providing a small, intact sample of your tub's color if possible can assist in achieving a better match during the repair process.",
+        "@type": "Answer",
+        "description": "Professional bathtub repair services aim for a close color match using custom-mixed compounds, striving for a virtually invisible repair."
+      }
+    }
+  ],
+  "description": "Professional bathtub repair services aim for a close color match using custom-mixed compounds, striving for a virtually invisible repair."
+}

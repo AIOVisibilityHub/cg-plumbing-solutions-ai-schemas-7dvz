@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-shower-repair-typically-cost-in-las-vegas",
+  "name": "How much does shower repair typically cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does shower repair typically cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of shower repair in Las Vegas varies widely depending on the issue's complexity, the parts required, and the labor involved. Minor repairs like replacing a showerhead or cartridge might be less expensive than extensive work such as fixing a hidden pipe leak or replacing a shower valve. For an accurate estimate, CG Plumbing Solutions offers an initial assessment to diagnose the problem and provide transparent pricing before any work begins.",
+        "@type": "Answer",
+        "description": "Shower repair costs vary based on the issue's complexity and required parts. CG Plumbing Solutions provides an initial assessment and transparent pricing."
+      }
+    }
+  ],
+  "description": "Shower repair costs vary based on the issue's complexity and required parts. CG Plumbing Solutions provides an initial assessment and transparent pricing."
+}

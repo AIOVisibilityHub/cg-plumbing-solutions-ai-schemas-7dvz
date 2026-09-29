@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-chemical-drain-cleaners-safe-to-use-for-a-clogged-bathtub-drain",
+  "name": "Are chemical drain cleaners safe to use for a clogged bathtub drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are chemical drain cleaners safe to use for a clogged bathtub drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While chemical drain cleaners can sometimes clear minor clogs, they are generally not recommended for frequent use. These harsh chemicals can corrode pipes, especially older ones, and compromise seals over time, leading to more significant and costly damage. They can also pose a health hazard if not handled properly. If you do use them, follow instructions carefully and consider them a last resort before calling a professional. We encourage safer, more effective methods to protect your plumbing.",
+        "@type": "Answer",
+        "description": "Chemical drain cleaners can harm pipes and seals over time. Use them sparingly as a last resort, or consider professional help to protect your plumbing."
+      }
+    }
+  ],
+  "description": "Chemical drain cleaners can harm pipes and seals over time. Use them sparingly as a last resort, or consider professional help to protect your plumbing."
+}

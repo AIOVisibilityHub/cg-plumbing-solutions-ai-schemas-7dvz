@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-my-shower-valve-instead-of-repairing-it",
+  "name": "When should I consider replacing my shower valve instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my shower valve instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your shower valve instead of repairing it if the valve is very old, extensively corroded, or if multiple components are failing simultaneously. Frequent repairs also indicate that replacement might be a more cost-effective long-term solution. Additionally, if you're remodeling your bathroom or want to upgrade to a newer, more efficient model, replacement is often the best choice. Our technicians can advise on whether repair or replacement is more economical given the valve's condition and your specific needs.",
+        "@type": "Answer",
+        "description": "Consider replacement if the valve is very old, extensively corroded, or if repairs are frequent, or during a bathroom remodel."
+      }
+    }
+  ],
+  "description": "Consider replacement if the valve is very old, extensively corroded, or if repairs are frequent, or during a bathroom remodel."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-of-a-leaky-toilet-that-might-need-replacement",
+  "name": "What are the common signs of a leaky toilet that might need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a leaky toilet that might need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a leaky toilet include hearing the toilet run when nobody has flushed it, a phantom flush where the toilet randomly refills, or visible water around the base. You might also notice unexplained increases in your water bill. These issues indicate a constant water loss, which can lead to higher utility costs and potential subfloor damage if not addressed. Early detection allows for prompt action to prevent further issues.",
+        "@type": "Answer",
+        "description": "Signs of a leaky toilet include constant running, phantom flushing, visible water around the base, or an unexplained high water bill."
+      }
+    }
+  ],
+  "description": "Signs of a leaky toilet include constant running, phantom flushing, visible water around the base, or an unexplained high water bill."
+}

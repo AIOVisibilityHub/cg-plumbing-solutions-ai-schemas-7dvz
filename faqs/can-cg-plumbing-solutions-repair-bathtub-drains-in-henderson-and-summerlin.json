@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-cg-plumbing-solutions-repair-bathtub-drains-in-henderson-and-summerlin",
+  "name": "Can CG Plumbing Solutions repair bathtub drains in Henderson and Summerlin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can CG Plumbing Solutions repair bathtub drains in Henderson and Summerlin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CG Plumbing Solutions provides comprehensive bathtub drain repair services throughout Henderson and Summerlin, as well as the wider Las Vegas metropolitan area including North Las Vegas and Paradise. Our service area ensures that residents and businesses in these communities have access to prompt and professional plumbing assistance. We are equipped to handle any type of bathtub drain issue, from minor clogs to extensive pipe repairs, no matter your specific location within our service zones.",
+        "@type": "Answer",
+        "description": "Yes, CG Plumbing Solutions repairs bathtub drains in Henderson, Summerlin, and across the entire Las Vegas metropolitan area, including North Las Vegas and Paradise."
+      }
+    }
+  ],
+  "description": "Yes, CG Plumbing Solutions repairs bathtub drains in Henderson, Summerlin, and across the entire Las Vegas metropolitan area, including North Las Vegas and Para"
+}

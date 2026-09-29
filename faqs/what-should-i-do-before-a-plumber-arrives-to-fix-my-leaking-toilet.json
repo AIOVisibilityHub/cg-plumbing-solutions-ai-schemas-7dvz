@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-before-a-plumber-arrives-to-fix-my-leaking-toilet",
+  "name": "What should I do before a plumber arrives to fix my leaking toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before a plumber arrives to fix my leaking toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber from CG Plumbing Solutions arrives, it's helpful to clear the area around the toilet to provide easy access for the technician. If possible, attempt to identify where the leak is coming from (e.g., tank, base, supply line) and turn off the water supply to the toilet using the shut-off valve behind or near the base. This can help prevent further water damage and allows the plumber to begin work more efficiently upon arrival.",
+        "@type": "Answer",
+        "description": "Clear the area around the toilet, try to identify the leak's source, and if possible, turn off the water supply to the toilet."
+      }
+    }
+  ],
+  "description": "Clear the area around the toilet, try to identify the leak's source, and if possible, turn off the water supply to the toilet."
+}

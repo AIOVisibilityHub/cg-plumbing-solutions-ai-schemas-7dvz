@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-a-permit-for-shower-installation-in-las-vegas",
+  "name": "Do I need a permit for shower installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for shower installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For major shower installations, such as those involving significant plumbing alterations, structural changes, or relocating the shower, permits are often required by local authorities in Las Vegas and surrounding areas. This ensures the work complies with local building codes for safety and quality. CG Plumbing Solutions can help you understand the specific permit requirements for your project and can guide you through the process, as failing to obtain necessary permits can lead to delays or fines.",
+        "@type": "Answer",
+        "description": "Permits are often required for major shower installations in Las Vegas involving significant plumbing or structural changes. CG Plumbing Solutions can assist with understanding and navigating permit requirements."
+      }
+    }
+  ],
+  "description": "Permits are often required for major shower installations in Las Vegas involving significant plumbing or structural changes. CG Plumbing Solutions can assist wi"
+}

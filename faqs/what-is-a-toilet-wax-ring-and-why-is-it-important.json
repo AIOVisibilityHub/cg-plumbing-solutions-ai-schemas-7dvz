@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-toilet-wax-ring-and-why-is-it-important",
+  "name": "What is a toilet wax ring and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a toilet wax ring and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A toilet wax ring, also known as a wax gasket or seal, creates a watertight seal between the base of your toilet and the drainpipe in the floor. Its primary purpose is to prevent water from leaking around the toilet's base and to block sewer gases from escaping into your home. A properly installed wax ring is crucial for maintaining hygiene and preventing water damage to your bathroom floor. CG Plumbing Solutions technicians ensure a secure and long-lasting seal, preventing costly future repairs. This relates to Process Clarity because it explains what the component does and why its correct installation is vital for preventing problems.",
+        "@type": "Answer",
+        "description": "A toilet wax ring seals the toilet base to the drainpipe, preventing leaks and sewer gas escape. It's crucial for hygiene and preventing water damage."
+      }
+    }
+  ],
+  "description": "A toilet wax ring seals the toilet base to the drainpipe, preventing leaks and sewer gas escape. It's crucial for hygiene and preventing water damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-prepare-before-a-commercial-water-heater-replacement-appointment",
+  "name": "What should I prepare before a commercial water heater replacement appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a commercial water heater replacement appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a commercial water heater replacement appointment, ensure the area around the unit is clear and accessible for technicians. Inform your staff about potential temporary hot water interruptions to minimize disruption to your business operations. Having relevant information about your current system, such as its age or any known issues, can also be helpful for the technicians from CG Plumbing Solutions in areas like Centennial Hills or Rhodes Ranch.",
+        "@type": "Answer",
+        "description": "Clear the area around the unit, inform staff about hot water interruptions, and provide technicians with information about your current system."
+      }
+    }
+  ],
+  "description": "Clear the area around the unit, inform staff about hot water interruptions, and provide technicians with information about your current system."
+}

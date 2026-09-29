@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-there-different-code-requirements-for-gas-versus-electric-water-heaters",
+  "name": "Are there different code requirements for gas versus electric water heaters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different code requirements for gas versus electric water heaters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are distinct code requirements for gas versus electric water heaters, primarily concerning venting and combustion air. Gas water heaters require specific venting systems to safely expel combustion byproducts, along with adequate combustion air supply. Electric water heaters do not have these venting needs but have different electrical wiring and breaker requirements. Both types still need proper seismic strapping, T&P valve piping, and drain pans. Understanding these differences is crucial for a compliant installation.",
+        "@type": "Answer",
+        "description": "Gas and electric water heaters have different code requirements, mainly for venting (gas) and electrical connections (electric), though both need seismic straps and drain pans."
+      }
+    }
+  ],
+  "description": "Gas and electric water heaters have different code requirements, mainly for venting (gas) and electrical connections (electric), though both need seismic straps"
+}

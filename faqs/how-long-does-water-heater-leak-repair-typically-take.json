@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-water-heater-leak-repair-typically-take",
+  "name": "How long does water heater leak repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water heater leak repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water heater leak repair depends on the specific issue. Simple fixes, such as tightening a connection or replacing a pressure relief valve, might take an hour or two. More complex repairs or a full water heater replacement could take several hours. Our technicians in the Las Vegas area aim for efficient service, and we can provide a more accurate time estimate after diagnosing the exact problem on-site.",
+        "@type": "Answer",
+        "description": "Repair time varies; simple fixes take 1-2 hours, while complex repairs or replacement may take several hours. An estimate is given after diagnosis."
+      }
+    }
+  ],
+  "description": "Repair time varies; simple fixes take 1-2 hours, while complex repairs or replacement may take several hours. An estimate is given after diagnosis."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-toilet-replacement-take",
+  "name": "How long does a typical toilet replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical toilet replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard toilet replacement typically takes 2-4 hours, assuming no unexpected issues arise. This timeframe includes removing the old toilet, preparing the area, installing the new toilet, and testing for leaks. The process might take longer if there are complications like rusted bolts, subfloor damage, or if the new toilet requires significant plumbing adjustments, which we often assess during our initial visit to homes in areas like Henderson.",
+        "@type": "Answer",
+        "description": "A standard toilet replacement usually takes 2-4 hours. Complications like rusted bolts or subfloor damage can extend the duration."
+      }
+    }
+  ],
+  "description": "A standard toilet replacement usually takes 2-4 hours. Complications like rusted bolts or subfloor damage can extend the duration."
+}

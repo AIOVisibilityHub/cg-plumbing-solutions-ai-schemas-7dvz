@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-should-i-repair-a-running-toilet-promptly",
+  "name": "Why should I repair a running toilet promptly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I repair a running toilet promptly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should repair a running toilet promptly primarily to conserve water and prevent unnecessarily high water bills. A toilet that constantly runs can waste hundreds or even thousands of gallons of water per month, leading to significant increases in utility costs. Beyond cost, persistent leaks can also contribute to wear and tear on your plumbing system and, in rare cases, indicate more serious underlying issues. Addressing the problem quickly protects your wallet and supports water conservation efforts in our drought-conscious region.",
+        "@type": "Answer",
+        "description": "Repairing a running toilet promptly conserves water, prevents high utility bills, and avoids excessive wear on your plumbing system."
+      }
+    }
+  ],
+  "description": "Repairing a running toilet promptly conserves water, prevents high utility bills, and avoids excessive wear on your plumbing system."
+}

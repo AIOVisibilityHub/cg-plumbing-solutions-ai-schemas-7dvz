@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-fix-a-clogged-toilet-in-the-las-vegas-area",
+  "name": "How much does it cost to fix a clogged toilet in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a clogged toilet in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a clogged toilet in the Las Vegas area varies depending on the severity and complexity of the clog. Simple blockages that can be cleared with standard tools will be less expensive than those requiring advanced diagnostics like camera inspections or hydro-jetting for main sewer line issues. Factors such as access to the clog, time of service (e.g., emergency calls), and whether pipe repair is needed also influence the final price. CG Plumbing Solutions provides transparent pricing after an initial assessment.",
+        "@type": "Answer",
+        "description": "Costs for clogged toilet repair in Las Vegas vary based on clog severity, complexity, and whether advanced tools or pipe repair are needed."
+      }
+    }
+  ],
+  "description": "Costs for clogged toilet repair in Las Vegas vary based on clog severity, complexity, and whether advanced tools or pipe repair are needed."
+}

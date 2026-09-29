@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-toilet-flange-repair-or-replacement-take",
+  "name": "How long does a typical toilet flange repair or replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical toilet flange repair or replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a toilet flange repair or replacement can vary, but generally, it can be completed within 1 to 3 hours. Factors influencing the time include the extent of the damage, the type of subfloor, whether the existing flange needs to be completely removed, and if any surrounding flooring also needs attention. Simple repairs, such as adding an extender, are quicker than a full replacement involving cutting and re-gluing drainpipe sections. CG Plumbing Solutions aims for efficient service to minimize disruption.",
+        "@type": "Answer",
+        "description": "Most toilet flange repairs or replacements take 1 to 3 hours, depending on the damage severity and specific repair method required."
+      }
+    }
+  ],
+  "description": "Most toilet flange repairs or replacements take 1 to 3 hours, depending on the damage severity and specific repair method required."
+}

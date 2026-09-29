@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-buy-the-sink-and-faucet-before-you-arrive",
+  "name": "Do I need to buy the sink and faucet before you arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to buy the sink and faucet before you arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is helpful for you to have your chosen sink and faucet ready, it is not strictly required before we arrive for the initial consultation. Having your fixtures selected allows us to assess compatibility with existing plumbing and the vanity more accurately. If you haven't decided, we can offer guidance on suitable options that align with your bathroom's design and plumbing specifications during the assessment. This preparation helps ensure a smooth installation process.",
+        "@type": "Answer",
+        "description": "Having your sink and faucet selected is helpful for assessment, but not required before an initial consultation."
+      }
+    }
+  ],
+  "description": "Having your sink and faucet selected is helpful for assessment, but not required before an initial consultation."
+}

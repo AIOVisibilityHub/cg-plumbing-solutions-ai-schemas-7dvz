@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-i-need-to-replace-my-toilet-if-the-flange-is-damaged",
+  "name": "Will I need to replace my toilet if the flange is damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I need to replace my toilet if the flange is damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not necessarily. In most cases, a damaged toilet flange can be repaired or replaced without needing to purchase a new toilet. The primary goal is to ensure a stable, watertight connection between your existing toilet and the drainpipe. However, if the toilet itself is very old, cracked, or experiencing other issues, a plumber might recommend replacement alongside the flange repair as a more cost-effective long-term solution. CG Plumbing Solutions can advise on the best approach based on the condition of both components.",
+        "@type": "Answer",
+        "description": "Often, only the flange needs repair or replacement, not the toilet itself, unless the toilet is also damaged or very old."
+      }
+    }
+  ],
+  "description": "Often, only the flange needs repair or replacement, not the toilet itself, unless the toilet is also damaged or very old."
+}

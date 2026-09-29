@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-call-a-professional-plumber-for-a-clogged-toilet",
+  "name": "When should I call a professional plumber for a clogged toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional plumber for a clogged toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber for a clogged toilet if plunging or snaking doesn't resolve the issue, or if the toilet frequently clogs. Other signs include water backing up into other fixtures, a foul odor indicating a sewer line problem, or if you have multiple clogged drains in your home. These symptoms often point to a deeper blockage in your main sewer line that requires specialized equipment and expertise to diagnose and clear. Timely intervention can prevent more extensive plumbing damage.",
+        "@type": "Answer",
+        "description": "Call a professional if DIY methods fail, clogs are frequent, water backs up into other fixtures, or if you notice foul odors, indicating a main line issue."
+      }
+    }
+  ],
+  "description": "Call a professional if DIY methods fail, clogs are frequent, water backs up into other fixtures, or if you notice foul odors, indicating a main line issue."
+}

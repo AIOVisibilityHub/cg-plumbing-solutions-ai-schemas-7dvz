@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-of-a-running-toilet",
+  "name": "What are the common signs of a running toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a running toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common sign of a running toilet is the sound of water continuously refilling or trickling into the bowl, even when it hasn't been flushed. Other indicators include a phantom flush (where the toilet flushes by itself), a toilet that takes a long time to refill, or an unexpectedly high water bill. To check, you can also add a few drops of food coloring to the tank; if the color appears in the bowl without flushing, you have a leak. Recognizing these signs early helps address the issue promptly.",
+        "@type": "Answer",
+        "description": "Common signs include continuous water sounds, phantom flushing, slow refilling, or a high water bill. Food coloring in the tank can also reveal leaks."
+      }
+    }
+  ],
+  "description": "Common signs include continuous water sounds, phantom flushing, slow refilling, or a high water bill. Food coloring in the tank can also reveal leaks."
+}

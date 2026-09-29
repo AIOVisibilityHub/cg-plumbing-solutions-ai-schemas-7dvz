@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-toilet-replacement",
+  "name": "What factors influence the cost of toilet replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of toilet replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of toilet replacement is primarily influenced by the type of toilet chosen (standard, comfort height, dual flush, wall-mounted), the complexity of the installation, and any necessary plumbing modifications. For instance, upgrading from a standard toilet to a wall-mounted unit might require significant changes to the existing plumbing, increasing labor and material costs. We provide a clear estimate upfront after assessing your current setup and desired new toilet.",
+        "@type": "Answer",
+        "description": "Toilet replacement costs depend on the toilet type, installation complexity, and required plumbing modifications. Upgrades like wall-mounted units can increase costs."
+      }
+    }
+  ],
+  "description": "Toilet replacement costs depend on the toilet type, installation complexity, and required plumbing modifications. Upgrades like wall-mounted units can increase"
+}

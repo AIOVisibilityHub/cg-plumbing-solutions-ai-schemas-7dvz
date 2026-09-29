@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-a-toilet-to-leak",
+  "name": "What causes a toilet to leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a toilet to leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Toilet leaks can stem from several common issues. A worn-out flapper or fill valve is often the culprit, leading to water constantly running into the bowl. Leaks can also occur at the base if the wax ring sealing the toilet to the drain pipe has deteriorated or shifted. Issues with the water supply line or loose tank bolts are another frequent cause. Identifying the source of the leak is the first step in effective repair, as each cause requires a specific approach.",
+        "@type": "Answer",
+        "description": "Common causes include worn flappers, fill valves, deteriorated wax rings at the base, or issues with the supply line or tank bolts."
+      }
+    }
+  ],
+  "description": "Common causes include worn flappers, fill valves, deteriorated wax rings at the base, or issues with the supply line or tank bolts."
+}

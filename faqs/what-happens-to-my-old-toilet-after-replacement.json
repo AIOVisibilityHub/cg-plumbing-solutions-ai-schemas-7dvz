@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-happens-to-my-old-toilet-after-replacement",
+  "name": "What happens to my old toilet after replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to my old toilet after replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a toilet replacement, we typically remove and dispose of your old toilet responsibly. This service is usually included in the overall replacement process. We handle the proper disposal, ensuring it's taken to appropriate facilities, so you don't have to worry about transporting or discarding the old fixture yourself. This keeps your property clean and ensures a smooth project completion.",
+        "@type": "Answer",
+        "description": "We will remove and responsibly dispose of your old toilet after replacement, typically as part of the service. You won't need to handle its disposal."
+      }
+    }
+  ],
+  "description": "We will remove and responsibly dispose of your old toilet after replacement, typically as part of the service. You won't need to handle its disposal."
+}

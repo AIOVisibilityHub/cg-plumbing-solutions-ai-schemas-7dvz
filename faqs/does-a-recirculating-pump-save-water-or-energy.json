@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/does-a-recirculating-pump-save-water-or-energy",
+  "name": "Does a recirculating pump save water or energy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a recirculating pump save water or energy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a recirculating pump can significantly save water by eliminating the need to run the tap while waiting for hot water to arrive. While some systems may use a small amount of energy to operate, modern pumps are designed to be energy-efficient. Some models include timers or on-demand sensors to only operate when hot water is needed, further reducing energy consumption. The overall impact on energy depends on the pump type, insulation, and usage patterns. We can discuss options like timer-controlled pumps during your consultation.",
+        "@type": "Answer",
+        "description": "A recirculating pump saves water by providing instant hot water. Its energy use depends on the type and features, with modern, timer-controlled pumps being more efficient."
+      }
+    }
+  ],
+  "description": "A recirculating pump saves water by providing instant hot water. Its energy use depends on the type and features, with modern, timer-controlled pumps being more"
+}

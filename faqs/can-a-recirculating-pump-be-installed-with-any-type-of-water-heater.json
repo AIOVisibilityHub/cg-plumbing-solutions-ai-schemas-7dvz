@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-a-recirculating-pump-be-installed-with-any-type-of-water-heater",
+  "name": "Can a recirculating pump be installed with any type of water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a recirculating pump be installed with any type of water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, recirculating pumps are compatible with most standard tank-type and tankless water heaters. The choice of pump may depend on your water heater's capacity and your plumbing configuration. For tankless heaters, specific models designed to work efficiently with on-demand heating systems are available. It's important to ensure proper compatibility to maintain your water heater's efficiency and lifespan. Our technicians at CG Plumbing Solutions are experienced with various water heater types and can recommend the best recirculating pump solution for your existing system.",
+        "@type": "Answer",
+        "description": "Recirculating pumps are compatible with most tank and tankless water heaters, but specific models may be needed for tankless systems to ensure efficiency."
+      }
+    }
+  ],
+  "description": "Recirculating pumps are compatible with most tank and tankless water heaters, but specific models may be needed for tankless systems to ensure efficiency."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-water-heater-code-upgrade",
+  "name": "What is a water heater code upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a water heater code upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water heater code upgrade involves bringing an existing water heater installation up to current plumbing and safety standards. This can include updates to venting, seismic strapping, drain pans, and pressure relief valve (T&P) discharge piping. These upgrades are often required during a water heater replacement to ensure the new installation meets local regulations and operates safely. Our team at CG Plumbing Solutions stays current with all applicable codes in Las Vegas and the surrounding areas.",
+        "@type": "Answer",
+        "description": "A water heater code upgrade involves updating an existing water heater installation to meet current plumbing and safety standards, often required during replacement."
+      }
+    }
+  ],
+  "description": "A water heater code upgrade involves updating an existing water heater installation to meet current plumbing and safety standards, often required during replace"
+}

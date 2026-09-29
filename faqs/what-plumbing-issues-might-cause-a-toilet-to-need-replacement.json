@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-plumbing-issues-might-cause-a-toilet-to-need-replacement",
+  "name": "What plumbing issues might cause a toilet to need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing issues might cause a toilet to need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing issues that often necessitate toilet replacement include a severely cracked bowl or tank, a corroded or damaged toilet flange, or persistent leaks that cannot be resolved with standard repairs. If the internal components of an older toilet are constantly failing, or if the design makes it highly inefficient in water usage, replacement is also a common solution. A first-party insight is that we frequently see issues with outdated wax rings or deteriorating subflooring beneath old toilets, which require attention during installation.",
+        "@type": "Answer",
+        "description": "Cracked porcelain, damaged flanges, persistent leaks, or outdated, inefficient designs are common plumbing issues leading to toilet replacement."
+      }
+    }
+  ],
+  "description": "Cracked porcelain, damaged flanges, persistent leaks, or outdated, inefficient designs are common plumbing issues leading to toilet replacement."
+}

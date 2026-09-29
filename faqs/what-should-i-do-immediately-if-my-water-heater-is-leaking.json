@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-immediately-if-my-water-heater-is-leaking",
+  "name": "What should I do immediately if my water heater is leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if my water heater is leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover a water heater leak, immediately shut off the water supply to the water heater and turn off its power source (either gas or electricity). This prevents further water damage and eliminates safety risks. Once the water and power are off, you can begin to clean up any spilled water to prevent mold growth and further damage. Then, contact a professional plumbing service like CG Plumbing Solutions to diagnose and repair the leak promptly.",
+        "@type": "Answer",
+        "description": "Immediately shut off the water supply and power to the water heater. Clean up any spilled water, then contact a professional plumber."
+      }
+    }
+  ],
+  "description": "Immediately shut off the water supply and power to the water heater. Clean up any spilled water, then contact a professional plumber."
+}

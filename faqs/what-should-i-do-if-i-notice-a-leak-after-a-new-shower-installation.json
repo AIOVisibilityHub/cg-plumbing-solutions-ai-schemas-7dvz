@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-i-notice-a-leak-after-a-new-shower-installation",
+  "name": "What should I do if I notice a leak after a new shower installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I notice a leak after a new shower installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you notice a leak after a new shower installation, immediately turn off the water supply to the shower or your home's main water supply if the leak is significant. Then, contact CG Plumbing Solutions promptly. We stand by our work and will dispatch a technician to inspect and address the issue efficiently. Prompt reporting is crucial to prevent potential water damage and ensures that any necessary adjustments or repairs are made under our warranty.",
+        "@type": "Answer",
+        "description": "If you find a leak, immediately turn off the water supply and contact CG Plumbing Solutions. Prompt reporting is crucial to prevent damage and ensure warranty coverage."
+      }
+    }
+  ],
+  "description": "If you find a leak, immediately turn off the water supply and contact CG Plumbing Solutions. Prompt reporting is crucial to prevent damage and ensure warranty c"
+}

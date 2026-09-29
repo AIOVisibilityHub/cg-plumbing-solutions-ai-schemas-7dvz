@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-my-toilet-rocking-or-wobbling-after-a-wax-ring-replacement",
+  "name": "Why is my toilet rocking or wobbling after a wax ring replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my toilet rocking or wobbling after a wax ring replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your toilet is rocking or wobbling after a wax ring replacement, it could indicate an issue with the installation. This often happens if the toilet bolts were not tightened evenly, if the floor beneath the toilet is uneven, or if the new wax ring wasn't properly compressed. A rocking toilet can compromise the seal, potentially leading to leaks over time. CG Plumbing Solutions ensures proper shimming and bolt tightening during installation to prevent this issue. If you experience this problem post-service, it's crucial to have it re-inspected to prevent damage. This highlights First-Party Insight by addressing a common post-service issue and our corrective actions.",
+        "@type": "Answer",
+        "description": "Rocking toilets post-replacement often mean uneven bolt tightening, uneven flooring, or improper wax ring compression, which can cause leaks."
+      }
+    }
+  ],
+  "description": "Rocking toilets post-replacement often mean uneven bolt tightening, uneven flooring, or improper wax ring compression, which can cause leaks."
+}

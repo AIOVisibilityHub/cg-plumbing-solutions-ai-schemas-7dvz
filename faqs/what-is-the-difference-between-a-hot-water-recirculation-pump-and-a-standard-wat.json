@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-hot-water-recirculation-pump-and-a-standard-wat",
+  "name": "What is the difference between a hot water recirculation pump and a standard water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a hot water recirculation pump and a standard water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard water heater heats water, but you still wait for hot water to travel from the tank to your faucet. A hot water recirculation pump, however, works in conjunction with your water heater to provide instant hot water. It continuously circulates hot water through your pipes, so hot water is readily available at the tap without delay. This reduces water waste and improves convenience, particularly in homes with long pipe runs from the water heater. The pump does not heat the water itself, but keeps already heated water moving.",
+        "@type": "Answer",
+        "description": "A recirculation pump provides instant hot water by circulating it, while a standard water heater only heats water, requiring a wait at the tap."
+      }
+    }
+  ],
+  "description": "A recirculation pump provides instant hot water by circulating it, while a standard water heater only heats water, requiring a wait at the tap."
+}

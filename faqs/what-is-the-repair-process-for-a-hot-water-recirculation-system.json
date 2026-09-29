@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-repair-process-for-a-hot-water-recirculation-system",
+  "name": "What is the repair process for a hot water recirculation system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the repair process for a hot water recirculation system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our hot water recirculation system repair process begins with a diagnostic assessment to identify the exact cause of the malfunction. Once diagnosed, we will explain the issue and provide a clear repair plan and estimate. Repairs typically involve fixing or replacing faulty components such as the pump motor, timer, aquastat, or check valves. After the repair is completed, we test the system thoroughly to ensure proper operation and restored hot water efficiency throughout your home, ensuring your complete satisfaction.",
+        "@type": "Answer",
+        "description": "The repair process involves diagnosis, a repair plan and estimate, fixing or replacing faulty components, and a final system test."
+      }
+    }
+  ],
+  "description": "The repair process involves diagnosis, a repair plan and estimate, fixing or replacing faulty components, and a final system test."
+}

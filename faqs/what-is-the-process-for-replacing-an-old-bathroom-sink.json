@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-replacing-an-old-bathroom-sink",
+  "name": "What is the process for replacing an old bathroom sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing an old bathroom sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing an old bathroom sink involves several steps. First, we shut off the water supply and disconnect the existing plumbing lines. Then, the old sink and faucet are carefully removed. The new sink is fitted, ensuring proper alignment and a watertight seal, followed by connecting the new faucet and drain assembly. Finally, water supply lines are reconnected, and the system is tested for leaks and proper drainage. Preparing by clearing the area around the sink can help streamline this process.",
+        "@type": "Answer",
+        "description": "The process includes disconnecting old plumbing, removing the old sink, installing the new sink and faucet, and reconnecting water lines."
+      }
+    }
+  ],
+  "description": "The process includes disconnecting old plumbing, removing the old sink, installing the new sink and faucet, and reconnecting water lines."
+}

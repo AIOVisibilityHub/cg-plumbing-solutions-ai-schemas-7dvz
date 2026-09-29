@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-toilets-are-available-for-replacement-and-how-do-i-choose",
+  "name": "What types of toilets are available for replacement, and how do I choose?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of toilets are available for replacement, and how do I choose?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There's a wide variety of toilets available, including standard gravity-flush, pressure-assisted, dual-flush, comfort height, and wall-mounted models. When choosing, consider factors like water efficiency (look for WaterSense certification), flush power, bowl shape (round vs. elongated), and height, especially if accessibility is a concern. We can help you compare options, like dual-flush models that conserve water, which is a significant benefit in a desert climate like Las Vegas.",
+        "@type": "Answer",
+        "description": "Toilet types include gravity-flush, dual-flush, and comfort height. Choose based on water efficiency, flush power, bowl shape, and height for your specific needs."
+      }
+    }
+  ],
+  "description": "Toilet types include gravity-flush, dual-flush, and comfort height. Choose based on water efficiency, flush power, bowl shape, and height for your specific need"
+}

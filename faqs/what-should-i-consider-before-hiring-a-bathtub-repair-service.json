@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-consider-before-hiring-a-bathtub-repair-service",
+  "name": "What should I consider before hiring a bathtub repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before hiring a bathtub repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before hiring a bathtub repair service, consider their experience with your specific tub material and type of damage. Ask about their repair methods, the materials they use, and if they offer any warranty on their work. It's also important to verify they are licensed and insured in your area, such as Las Vegas or Henderson, to ensure professional and protected service. Finally, compare quotes from a few reputable providers to understand the scope of work and pricing, but remember that the lowest price isn't always the best indicator of quality or durability. CG Plumbing Solutions provides clear estimates and stands behind our work.",
+        "@type": "Answer",
+        "description": "Consider a repair service's experience, methods, materials, warranty, licensing, and insurance. Compare quotes to ensure quality and value."
+      }
+    }
+  ],
+  "description": "Consider a repair service's experience, methods, materials, warranty, licensing, and insurance. Compare quotes to ensure quality and value."
+}

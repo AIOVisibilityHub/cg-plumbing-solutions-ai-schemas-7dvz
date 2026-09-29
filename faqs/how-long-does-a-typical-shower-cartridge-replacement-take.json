@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-shower-cartridge-replacement-take",
+  "name": "How long does a typical shower cartridge replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical shower cartridge replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard shower cartridge replacement typically takes about one to two hours for an experienced plumber. This timeframe can vary depending on factors such as the accessibility of the shower valve, the age of the fixture, and whether any unexpected complications arise, like corroded parts. Preparation is key; ensuring clear access to the shower area can help streamline the process. Our technicians serving the Las Vegas area aim to complete the job efficiently while ensuring quality workmanship.",
+        "@type": "Answer",
+        "description": "A typical replacement takes 1-2 hours, but can vary based on valve accessibility, fixture age, and unexpected complications."
+      }
+    }
+  ],
+  "description": "A typical replacement takes 1-2 hours, but can vary based on valve accessibility, fixture age, and unexpected complications."
+}

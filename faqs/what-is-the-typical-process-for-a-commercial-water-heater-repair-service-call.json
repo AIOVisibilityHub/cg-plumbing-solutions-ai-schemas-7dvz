@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-a-commercial-water-heater-repair-service-call",
+  "name": "What is the typical process for a commercial water heater repair service call?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a commercial water heater repair service call?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When you schedule a commercial water heater repair with CG Plumbing Solutions, a technician will typically arrive at your business to assess the unit. They will diagnose the problem, explain their findings, and provide a detailed quote for the necessary repairs. Once approved, the technician will proceed with the repair using appropriate tools and parts. After the repair, they will test the unit to ensure it's functioning correctly and address any questions you may have. We aim for clear communication throughout the entire service process.",
+        "@type": "Answer",
+        "description": "A repair service call involves assessment, diagnosis, a detailed quote, repair execution, and post-repair testing to ensure functionality."
+      }
+    }
+  ],
+  "description": "A repair service call involves assessment, diagnosis, a detailed quote, repair execution, and post-repair testing to ensure functionality."
+}

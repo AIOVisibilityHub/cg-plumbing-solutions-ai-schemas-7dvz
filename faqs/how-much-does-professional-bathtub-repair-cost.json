@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-professional-bathtub-repair-cost",
+  "name": "How much does professional bathtub repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does professional bathtub repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional bathtub repair varies based on the type, severity, and location of the damage, as well as the tub's material. Minor chips or surface scratches typically cost less to fix than extensive cracks or structural issues. Factors like the specific repair materials needed and the complexity of accessing the damaged area also influence the final price. For an accurate estimate, CG Plumbing Solutions offers an on-site assessment to evaluate the damage and provide a detailed quote for residents in Las Vegas, North Las Vegas, Henderson, Paradise, and Summerlin.",
+        "@type": "Answer",
+        "description": "Bathtub repair costs vary depending on the damage type, severity, and tub material. An on-site assessment is needed for an accurate quote."
+      }
+    }
+  ],
+  "description": "Bathtub repair costs vary depending on the damage type, severity, and tub material. An on-site assessment is needed for an accurate quote."
+}

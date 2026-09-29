@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-maintain-a-repaired-bathtub",
+  "name": "How do I maintain a repaired bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain a repaired bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining a repaired bathtub involves gentle care to ensure the longevity of the repair. Avoid using abrasive cleaners, harsh chemicals, or scouring pads, as these can damage the repaired surface. Opt for soft cloths or sponges with mild, non-abrasive cleaners. It's also wise to prevent heavy impacts or dropping sharp objects on the repaired area, as this could compromise the integrity of the patch. Promptly addressing any new minor damage can help prevent it from worsening, preserving both the repair and the tub's overall condition.",
+        "@type": "Answer",
+        "description": "Maintain a repaired bathtub by using mild, non-abrasive cleaners and avoiding harsh chemicals or impacts to prolong the repair's life."
+      }
+    }
+  ],
+  "description": "Maintain a repaired bathtub by using mild, non-abrasive cleaners and avoiding harsh chemicals or impacts to prolong the repair's life."
+}

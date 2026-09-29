@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-a-professional-bathtub-faucet-repair-process",
+  "name": "What is involved in a professional bathtub faucet repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a professional bathtub faucet repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional bathtub faucet repair typically begins with an inspection to diagnose the exact cause of the problem. This involves turning off the water supply, disassembling the faucet, identifying worn or damaged components like washers, O-rings, or cartridges, and replacing them with new ones. After reassembly, the plumber will test the faucet for leaks and proper function. CG Plumbing Solutions ensures that the work area is clean upon completion and provides a summary of the repairs performed, ensuring transparency and customer satisfaction.",
+        "@type": "Answer",
+        "description": "Professional repair involves inspection, water shut-off, faucet disassembly, component replacement, reassembly, and testing for proper function."
+      }
+    }
+  ],
+  "description": "Professional repair involves inspection, water shut-off, faucet disassembly, component replacement, reassembly, and testing for proper function."
+}

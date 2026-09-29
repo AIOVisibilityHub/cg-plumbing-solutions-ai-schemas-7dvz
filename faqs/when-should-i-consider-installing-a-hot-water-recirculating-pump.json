@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-installing-a-hot-water-recirculating-pump",
+  "name": "When should I consider installing a hot water recirculating pump?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider installing a hot water recirculating pump?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider installing a hot water recirculating pump if you experience long wait times for hot water, especially at fixtures furthest from your water heater. This is common in larger homes or properties with extended plumbing lines. Installing a pump can significantly improve convenience and reduce water waste, which can be particularly beneficial in water-conscious regions like Las Vegas. It's also a good consideration if you're looking to enhance your home's energy efficiency and comfort.",
+        "@type": "Answer",
+        "description": "Consider a recirculating pump if you have long wait times for hot water or want to reduce water waste and improve convenience in your home."
+      }
+    }
+  ],
+  "description": "Consider a recirculating pump if you have long wait times for hot water or want to reduce water waste and improve convenience in your home."
+}

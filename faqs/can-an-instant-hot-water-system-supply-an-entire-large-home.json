@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-an-instant-hot-water-system-supply-an-entire-large-home",
+  "name": "Can an instant hot water system supply an entire large home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an instant hot water system supply an entire large home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an instant hot water system can supply an entire large home, provided the unit is properly sized for your household's hot water demand. Sizing depends on the number of hot water fixtures and the maximum simultaneous usage you anticipate. For a large home, multiple smaller units or a larger single unit with a higher GPM (gallons per minute) rating might be recommended. CG Plumbing Solutions performs a detailed assessment of your home's needs to recommend the appropriate system size and ensure sufficient hot water for all your requirements.",
+        "@type": "Answer",
+        "description": "Yes, if properly sized for your home's hot water demand and number of fixtures. We assess your needs to recommend the right system."
+      }
+    }
+  ],
+  "description": "Yes, if properly sized for your home's hot water demand and number of fixtures. We assess your needs to recommend the right system."
+}

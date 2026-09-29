@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-my-toilet-instead-of-repairing-a-leak",
+  "name": "When should I consider replacing my toilet instead of repairing a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my toilet instead of repairing a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing your toilet if the leak is due to a cracked bowl or tank, or if the toilet is very old and frequently needs repairs. While a cracked component might sometimes be sealed, it's often a temporary fix, and a new toilet provides a more reliable, long-term solution. Additionally, if you're looking to upgrade to a more water-efficient model, replacement can save water and money on utility bills in the long run. We can help assess the best option during a service call.",
+        "@type": "Answer",
+        "description": "Replace your toilet if it has a cracked bowl or tank, is frequently breaking down, or if you want to upgrade to a more water-efficient model."
+      }
+    }
+  ],
+  "description": "Replace your toilet if it has a cracked bowl or tank, is frequently breaking down, or if you want to upgrade to a more water-efficient model."
+}

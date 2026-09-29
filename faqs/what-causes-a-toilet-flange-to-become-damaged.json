@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-a-toilet-flange-to-become-damaged",
+  "name": "What causes a toilet flange to become damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a toilet flange to become damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Toilet flanges can become damaged for several reasons, including prolonged water leaks that corrode metal flanges or rot wooden subfloors around them. Overtightening bolts during installation can crack PVC or ABS flanges. Over time, the materials can simply degrade, or if a toilet was removed and reinstalled improperly, the flange might have been damaged during the process. Heavy use or repeated stress on the toilet can also contribute to wear and tear.",
+        "@type": "Answer",
+        "description": "Damage can result from water leaks, overtightening during installation, material degradation over time, or improper toilet removal and reinstallation."
+      }
+    }
+  ],
+  "description": "Damage can result from water leaks, overtightening during installation, material degradation over time, or improper toilet removal and reinstallation."
+}

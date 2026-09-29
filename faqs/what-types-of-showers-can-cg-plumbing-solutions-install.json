@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-showers-can-cg-plumbing-solutions-install",
+  "name": "What types of showers can CG Plumbing Solutions install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of showers can CG Plumbing Solutions install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions installs a variety of shower types, including standard shower stalls, walk-in showers, and custom tile showers. When considering the right option for your home, factors like your bathroom layout, existing plumbing, and aesthetic preferences will influence the best fit. For instance, a custom tile shower offers greater design flexibility but typically requires more extensive labor and materials compared to a pre-fabricated unit.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions installs standard, walk-in, and custom tile showers. Your bathroom layout and existing plumbing are key decision factors."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions installs standard, walk-in, and custom tile showers. Your bathroom layout and existing plumbing are key decision factors."
+}

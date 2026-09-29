@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-there-water-leaking-from-the-base-of-my-toilet",
+  "name": "Why is there water leaking from the base of my toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is there water leaking from the base of my toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water leaking from the base of your toilet typically indicates a compromised wax ring or a loose toilet. The wax ring creates a watertight seal between the toilet and the drainpipe in the floor. If this seal fails due to age, shifting, or improper installation, water can seep out when the toilet is flushed. This issue requires lifting the toilet, replacing the old wax ring with a new one, and securely re-seating the toilet. Ignoring a leak from the base can lead to significant floor damage, so it's important to address it promptly to prevent further issues.",
+        "@type": "Answer",
+        "description": "A leak from the toilet's base usually means the wax ring, which seals the toilet to the drainpipe, is compromised or the toilet is loose, requiring replacement of the seal to prevent floor damage."
+      }
+    }
+  ],
+  "description": "A leak from the toilet's base usually means the wax ring, which seals the toilet to the drainpipe, is compromised or the toilet is loose, requiring replacement"
+}

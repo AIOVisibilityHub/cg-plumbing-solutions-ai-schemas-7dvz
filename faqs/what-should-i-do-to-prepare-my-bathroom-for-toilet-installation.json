@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-to-prepare-my-bathroom-for-toilet-installation",
+  "name": "What should I do to prepare my bathroom for toilet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my bathroom for toilet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your scheduled toilet installation, you should clear the area around the toilet of any rugs, personal items, or movable furniture to allow plumbers ample working space. Ensuring there's clear access to the bathroom and the main water shut-off valve can also help streamline the process. If you are supplying the new toilet, make sure it is on-site and easily accessible when the plumbing team arrives.",
+        "@type": "Answer",
+        "description": "Clear the area around the toilet, remove personal items, and ensure clear access to the bathroom and water shut-off valve."
+      }
+    }
+  ],
+  "description": "Clear the area around the toilet, remove personal items, and ensure clear access to the bathroom and water shut-off valve."
+}

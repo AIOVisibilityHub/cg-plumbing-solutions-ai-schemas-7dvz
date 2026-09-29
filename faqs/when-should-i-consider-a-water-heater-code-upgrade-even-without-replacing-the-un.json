@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-a-water-heater-code-upgrade-even-without-replacing-the-un",
+  "name": "When should I consider a water heater code upgrade, even without replacing the unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a water heater code upgrade, even without replacing the unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might consider a water heater code upgrade even without replacing the unit if you're undertaking major home renovations, selling your home, or if an inspection (e.g., for insurance or a general home assessment) reveals deficiencies. Proactively addressing outdated code issues can improve safety, prevent future problems, and enhance your home's value and marketability. We can assess your current setup and recommend any necessary standalone upgrades to ensure safety and compliance.",
+        "@type": "Answer",
+        "description": "Consider a code upgrade without replacement during major renovations, when selling your home, or if an inspection reveals deficiencies."
+      }
+    }
+  ],
+  "description": "Consider a code upgrade without replacement during major renovations, when selling your home, or if an inspection reveals deficiencies."
+}

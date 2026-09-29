@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-look-for-in-a-new-toilet-beyond-aesthetics",
+  "name": "What should I look for in a new toilet beyond aesthetics?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a new toilet beyond aesthetics?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond aesthetics, when choosing a new toilet, consider its flushing system, water efficiency (gallons per flush), comfort height, and ease of cleaning. Factors like trapway size can affect clog resistance, and surface glazes can impact how easily the bowl stays clean. A practical tradeoff might be between a budget-friendly model and one with advanced features like a pressure-assisted flush, which offers stronger performance but can be louder.",
+        "@type": "Answer",
+        "description": "Beyond aesthetics, look for flushing system efficiency, water usage, comfort height, and ease of cleaning in a new toilet."
+      }
+    }
+  ],
+  "description": "Beyond aesthetics, look for flushing system efficiency, water usage, comfort height, and ease of cleaning in a new toilet."
+}

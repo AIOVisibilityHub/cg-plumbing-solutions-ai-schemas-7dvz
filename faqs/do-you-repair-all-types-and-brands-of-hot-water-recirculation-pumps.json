@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-you-repair-all-types-and-brands-of-hot-water-recirculation-pumps",
+  "name": "Do you repair all types and brands of hot water recirculation pumps?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you repair all types and brands of hot water recirculation pumps?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we are equipped to repair a wide range of hot water recirculation pump types and brands. Our technicians have experience with various models, including those with dedicated return lines, under-sink units, and integrated pump systems. Regardless of the manufacturer, we have the expertise to diagnose issues with motors, impellers, check valves, and control systems. We carry common replacement parts or can quickly source specialized components to ensure a timely and effective repair for most systems.",
+        "@type": "Answer",
+        "description": "Yes, we repair most types and brands of hot water recirculation pumps, including dedicated return lines and under-sink units."
+      }
+    }
+  ],
+  "description": "Yes, we repair most types and brands of hot water recirculation pumps, including dedicated return lines and under-sink units."
+}

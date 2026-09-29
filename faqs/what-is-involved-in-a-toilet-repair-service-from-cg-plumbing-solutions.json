@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-a-toilet-repair-service-from-cg-plumbing-solutions",
+  "name": "What is involved in a toilet repair service from CG Plumbing Solutions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a toilet repair service from CG Plumbing Solutions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our toilet repair service begins with a thorough inspection to accurately diagnose the problem, whether it's a running toilet, a leak, or a clog. Once the issue is identified, our plumber will explain the necessary repairs and provide a transparent estimate. Common repairs include replacing flappers, fill valves, wax rings, or clearing clogs using professional tools. We carry a wide range of common toilet repair parts in our service vehicles, allowing us to complete most repairs efficiently during the initial visit. Our goal is to restore your toilet to proper function with minimal disruption.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions' toilet repair involves a thorough diagnosis, explanation of repairs, and transparent cost estimate, typically fixing issues like running toilets, leaks, or clogs using stocked parts during the visit."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions' toilet repair involves a thorough diagnosis, explanation of repairs, and transparent cost estimate, typically fixing issues like running"
+}

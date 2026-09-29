@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-hot-water-recirculation-pump-needs-repair",
+  "name": "What are common signs that my hot water recirculation pump needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my hot water recirculation pump needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your hot water recirculation pump may need repair include inconsistent hot water delivery, longer wait times for hot water at faucets, unusual noises coming from the pump (like grinding or humming), or if the pump simply stops working entirely. These symptoms often indicate issues such as motor failure, blockages, or electrical problems within the unit. Addressing these signs promptly can prevent further damage and restore efficient hot water access.",
+        "@type": "Answer",
+        "description": "Inconsistent hot water, longer wait times, or unusual pump noises are common signs your hot water recirculation pump needs repair."
+      }
+    }
+  ],
+  "description": "Inconsistent hot water, longer wait times, or unusual pump noises are common signs your hot water recirculation pump needs repair."
+}

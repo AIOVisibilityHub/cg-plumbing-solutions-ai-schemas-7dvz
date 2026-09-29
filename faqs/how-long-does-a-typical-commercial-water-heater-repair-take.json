@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-commercial-water-heater-repair-take",
+  "name": "How long does a typical commercial water heater repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical commercial water heater repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a commercial water heater repair varies significantly depending on the issue's complexity and the availability of parts. Simple repairs, such as replacing a thermostat or heating element, might be resolved within a few hours. More complex issues, like significant leaks or internal component failures, could take longer, especially if specialized parts need to be ordered. CG Plumbing Solutions aims to diagnose and provide an estimated timeline quickly to minimize disruption to your business.",
+        "@type": "Answer",
+        "description": "Repair time depends on the issue's complexity and parts availability; simple repairs take hours, while complex ones may take longer."
+      }
+    }
+  ],
+  "description": "Repair time depends on the issue's complexity and parts availability; simple repairs take hours, while complex ones may take longer."
+}

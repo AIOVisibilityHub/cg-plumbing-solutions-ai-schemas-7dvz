@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-replacing-a-shower-valve",
+  "name": "What is involved in replacing a shower valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in replacing a shower valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a shower valve is a more involved repair that typically requires accessing the plumbing behind the shower wall. The process includes turning off the main water supply, removing the old valve, installing the new one, connecting the hot and cold water lines, and then patching the wall. This repair often improves water temperature control and pressure. Our team ensures proper installation and tests the system thoroughly to prevent future issues.",
+        "@type": "Answer",
+        "description": "Replacing a shower valve involves accessing behind the wall, removing the old valve, installing a new one, and reconnecting water lines."
+      }
+    }
+  ],
+  "description": "Replacing a shower valve involves accessing behind the wall, removing the old valve, installing a new one, and reconnecting water lines."
+}

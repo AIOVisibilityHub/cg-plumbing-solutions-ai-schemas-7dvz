@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-troubleshoot-minor-commercial-water-heater-issues-myself",
+  "name": "Can I troubleshoot minor commercial water heater issues myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I troubleshoot minor commercial water heater issues myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Some minor commercial water heater issues can be safely troubleshooted, such as checking for tripped breakers or pilot light outages if you have a gas unit. However, for most internal component issues, leaks, or complex electrical problems, it's recommended to call a professional. Attempting repairs without proper training or tools can exacerbate the problem or pose safety risks. CG Plumbing Solutions advises contacting a qualified technician to ensure safe and effective resolution.",
+        "@type": "Answer",
+        "description": "You can troubleshoot simple issues like tripped breakers, but for complex or internal problems, professional help is recommended to avoid safety risks."
+      }
+    }
+  ],
+  "description": "You can troubleshoot simple issues like tripped breakers, but for complex or internal problems, professional help is recommended to avoid safety risks."
+}

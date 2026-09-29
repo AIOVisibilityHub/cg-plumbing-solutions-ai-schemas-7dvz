@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-your-plumbers-determine-the-cause-of-a-bathtub-drain-clog",
+  "name": "How do your plumbers determine the cause of a bathtub drain clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do your plumbers determine the cause of a bathtub drain clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our plumbers determine the cause of a bathtub drain clog through a systematic process. Initially, they'll inspect the visible drain and test the water flow. If the clog isn't easily accessible, they might use a drain snake or auger to probe the pipe and attempt to clear the obstruction. For persistent or recurring issues, we may employ a sewer camera inspection, which allows us to visually examine the inside of the pipes to identify the exact nature and location of the blockage, such as heavy buildup, foreign objects, or pipe damage. This ensures an accurate and effective repair plan.",
+        "@type": "Answer",
+        "description": "Plumbers diagnose clogs by inspecting the drain, using a snake, or performing a camera inspection to pinpoint the exact issue."
+      }
+    }
+  ],
+  "description": "Plumbers diagnose clogs by inspecting the drain, using a snake, or performing a camera inspection to pinpoint the exact issue."
+}

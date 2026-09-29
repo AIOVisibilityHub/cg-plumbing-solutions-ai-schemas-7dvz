@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-process-of-fixing-a-toilet-leak",
+  "name": "What is involved in the process of fixing a toilet leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of fixing a toilet leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process of fixing a toilet leak typically begins with a thorough inspection by our technicians to accurately pinpoint the leak's source. Once identified, the appropriate repair is carried out, which might involve replacing worn components like flappers, fill valves, or gaskets within the tank. If the leak is at the base, the toilet will be carefully removed, the old wax ring replaced, and the toilet reset and sealed. After repair, we test the toilet to ensure it's functioning correctly and leak-free.",
+        "@type": "Answer",
+        "description": "The process involves inspection to find the leak, replacing worn components like flappers or wax rings, and then testing the toilet to ensure it's leak-free."
+      }
+    }
+  ],
+  "description": "The process involves inspection to find the leak, replacing worn components like flappers or wax rings, and then testing the toilet to ensure it's leak-free."
+}

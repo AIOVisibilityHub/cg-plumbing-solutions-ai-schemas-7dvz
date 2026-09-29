@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-prepare-my-bathroom-for-a-new-shower-installation",
+  "name": "How do I prepare my bathroom for a new shower installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my bathroom for a new shower installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your bathroom for a new shower installation, clear out any personal items, towels, and decorations from the work area to prevent damage and allow our team unobstructed access. If you have chosen a custom tile shower, you may need to finalize your tile selection in advance. Ensuring a clear path to the bathroom and easy access to your main water shut-off valve can help streamline the installation process. Our team will guide you on specific preparation steps during the planning phase.",
+        "@type": "Answer",
+        "description": "Clear personal items from the work area and ensure a clear path to the bathroom. Finalizing material selections and knowing your main water shut-off valve location can help prepare."
+      }
+    }
+  ],
+  "description": "Clear personal items from the work area and ensure a clear path to the bathroom. Finalizing material selections and knowing your main water shut-off valve locat"
+}

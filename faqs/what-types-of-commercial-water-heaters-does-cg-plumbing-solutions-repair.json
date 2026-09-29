@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-commercial-water-heaters-does-cg-plumbing-solutions-repair",
+  "name": "What types of commercial water heaters does CG Plumbing Solutions repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of commercial water heaters does CG Plumbing Solutions repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions repairs a wide range of commercial water heaters, including conventional tank-style units, tankless water heaters, and high-efficiency models. Our technicians are experienced with various fuel types, such as natural gas, electric, and propane systems, commonly found in commercial settings. We service different brands and capacities to meet the diverse needs of businesses across our service areas, ensuring expert repair regardless of your specific setup.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions repairs various commercial water heater types, including tank, tankless, and high-efficiency models, across different fuel sources and brands."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions repairs various commercial water heater types, including tank, tankless, and high-efficiency models, across different fuel sources and bra"
+}

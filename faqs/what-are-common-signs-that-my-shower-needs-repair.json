@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-shower-needs-repair",
+  "name": "What are common signs that my shower needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my shower needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs your shower needs repair include persistent dripping or leaking, low water pressure, inconsistent water temperature, unusual noises from the pipes, or visible damage to the showerhead, faucets, or tile grout. Addressing these issues promptly can prevent more extensive damage to your plumbing system or bathroom structure. During an inspection, our technicians at CG Plumbing Solutions check for hidden leaks and pressure issues that might not be immediately obvious but can indicate underlying problems.",
+        "@type": "Answer",
+        "description": "Common signs include dripping, low water pressure, inconsistent temperature, unusual noises, or visible damage to fixtures or tile grout."
+      }
+    }
+  ],
+  "description": "Common signs include dripping, low water pressure, inconsistent temperature, unusual noises, or visible damage to fixtures or tile grout."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-cost-of-installing-a-recirculating-pump-in-las-vegas",
+  "name": "What is the cost of installing a recirculating pump in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of installing a recirculating pump in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a recirculating pump in the Las Vegas area varies depending on the type of pump, the complexity of your home's plumbing, and whether a new return line needs to be installed. Comfort valve systems are typically less expensive due to simpler installation. Factors like the distance from the water heater to the furthest fixture and accessibility also play a role. CG Plumbing Solutions provides transparent pricing after a thorough assessment of your specific property and plumbing system.",
+        "@type": "Answer",
+        "description": "Installation cost varies based on pump type (comfort valve vs. dedicated line), plumbing complexity, and location factors within the Las Vegas area."
+      }
+    }
+  ],
+  "description": "Installation cost varies based on pump type (comfort valve vs. dedicated line), plumbing complexity, and location factors within the Las Vegas area."
+}

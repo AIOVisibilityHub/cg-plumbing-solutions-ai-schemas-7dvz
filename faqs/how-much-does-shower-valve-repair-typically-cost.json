@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-shower-valve-repair-typically-cost",
+  "name": "How much does shower valve repair typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does shower valve repair typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of shower valve repair varies depending on the specific issue, the type of valve, and the parts required. Minor repairs, such as replacing a worn-out washer or cartridge, are generally less expensive than more complex issues that might require disassembling the wall. It's important to get a professional assessment for an accurate estimate, as the actual parts and labor can differ significantly based on the severity of the problem. We provide clear pricing after diagnosing the problem.",
+        "@type": "Answer",
+        "description": "Cost varies based on the issue and valve type; minor repairs are less expensive than complex ones requiring part replacement."
+      }
+    }
+  ],
+  "description": "Cost varies based on the issue and valve type; minor repairs are less expensive than complex ones requiring part replacement."
+}

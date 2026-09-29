@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-tools-and-parts-do-i-need-to-fix-a-running-toilet-myself",
+  "name": "What tools and parts do I need to fix a running toilet myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What tools and parts do I need to fix a running toilet myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To fix a running toilet yourself, you'll typically need basic tools like a screwdriver, pliers, and possibly an adjustable wrench. The specific parts required depend on the problem, but common replacements include a new flapper, a fill valve assembly, or a toilet handle. Before starting, identify the specific brand and model of your toilet if possible, as this helps in selecting compatible replacement parts. Having the correct parts on hand before you begin ensures a smoother repair process and avoids multiple trips to the hardware store.",
+        "@type": "Answer",
+        "description": "You'll need basic tools like a screwdriver and pliers, plus parts like a new flapper or fill valve. Identify your toilet model for compatible parts before starting."
+      }
+    }
+  ],
+  "description": "You'll need basic tools like a screwdriver and pliers, plus parts like a new flapper or fill valve. Identify your toilet model for compatible parts before start"
+}

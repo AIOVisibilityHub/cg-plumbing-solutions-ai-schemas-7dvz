@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-fix-a-leaking-toilet-myself-or-should-i-call-a-plumber",
+  "name": "Can I fix a leaking toilet myself, or should I call a plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a leaking toilet myself, or should I call a plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many minor toilet leaks, like a simple flapper replacement, can be attempted by a homeowner with basic plumbing knowledge and tools. However, complex leaks involving the toilet's base, supply lines, or internal tank mechanisms often require professional expertise. Calling a plumber from CG Plumbing Solutions ensures the issue is diagnosed accurately and repaired correctly, preventing potential water damage or recurring problems, especially in areas we serve like Summerlin.",
+        "@type": "Answer",
+        "description": "Minor leaks can often be DIY, but complex issues with the toilet base or internal mechanisms are best handled by a professional plumber to prevent further damage."
+      }
+    }
+  ],
+  "description": "Minor leaks can often be DIY, but complex issues with the toilet base or internal mechanisms are best handled by a professional plumber to prevent further damag"
+}

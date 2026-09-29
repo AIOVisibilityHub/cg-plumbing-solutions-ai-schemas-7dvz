@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-should-i-consider-when-choosing-a-new-commercial-water-heater",
+  "name": "What factors should I consider when choosing a new commercial water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a new commercial water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a new commercial water heater, consider your business's peak hot water demand, available space for installation, energy efficiency ratings, fuel type (gas or electric), and budget. The size and type of your business, for example, a restaurant versus an office building in Summerlin, will significantly influence the ideal unit. It's crucial to select a system that can reliably meet your specific operational needs without excessive energy consumption.",
+        "@type": "Answer",
+        "description": "Consider peak hot water demand, available space, energy efficiency, fuel type, and budget. The type of business impacts the ideal unit choice."
+      }
+    }
+  ],
+  "description": "Consider peak hot water demand, available space, energy efficiency, fuel type, and budget. The type of business impacts the ideal unit choice."
+}

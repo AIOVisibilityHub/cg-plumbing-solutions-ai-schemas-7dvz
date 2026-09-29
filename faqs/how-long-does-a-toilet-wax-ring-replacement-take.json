@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-toilet-wax-ring-replacement-take",
+  "name": "How long does a toilet wax ring replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a toilet wax ring replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard toilet wax ring replacement typically takes a professional plumber between one to two hours, assuming there are no unforeseen complications. This timeframe includes draining the toilet, removing it, replacing the old wax ring, cleaning the flange, and then reinstalling and testing the toilet. Factors such as corroded bolts, a damaged flange, or existing subfloor damage can extend the duration of the repair. CG Plumbing Solutions prioritizes efficient service without compromising quality, aiming to minimize disruption to your home. This illustrates Process Clarity by outlining the steps and potential time impacts.",
+        "@type": "Answer",
+        "description": "A professional replacement usually takes 1-2 hours. Complications like corroded bolts or floor damage can extend the time."
+      }
+    }
+  ],
+  "description": "A professional replacement usually takes 1-2 hours. Complications like corroded bolts or floor damage can extend the time."
+}

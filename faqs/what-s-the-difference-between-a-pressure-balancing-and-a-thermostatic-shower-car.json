@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-pressure-balancing-and-a-thermostatic-shower-car",
+  "name": "What's the difference between a pressure-balancing and a thermostatic shower cartridge?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a pressure-balancing and a thermostatic shower cartridge?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pressure-balancing and thermostatic shower cartridges both regulate water temperature, but they do so differently. A pressure-balancing cartridge reacts to changes in water pressure, adjusting the mix of hot and cold water to maintain a consistent temperature, preventing scalding or sudden cold shocks when another fixture is used. A thermostatic cartridge, however, maintains a precise temperature by blending hot and cold water to a set degree, even if pressure fluctuates. Thermostatic cartridges often offer more precise control and separate volume and temperature controls, which can be a key decision factor depending on your preference for comfort and control in the shower.",
+        "@type": "Answer",
+        "description": "Pressure-balancing cartridges react to pressure changes to maintain temperature, while thermostatic cartridges maintain a precise set temperature regardless of pressure fluctuations."
+      }
+    }
+  ],
+  "description": "Pressure-balancing cartridges react to pressure changes to maintain temperature, while thermostatic cartridges maintain a precise set temperature regardless of"
+}

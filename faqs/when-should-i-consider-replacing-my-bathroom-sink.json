@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-my-bathroom-sink",
+  "name": "When should I consider replacing my bathroom sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my bathroom sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your bathroom sink if it's visibly cracked, stained beyond cleaning, or experiencing persistent leaks that repairs can't fix. Upgrading your sink is also a good idea during a bathroom renovation to improve aesthetics or functionality. For instance, if you're upgrading to a modern vanity, a compatible new sink will ensure a cohesive look and optimal use of space. Our team can assess the condition and help you decide.",
+        "@type": "Answer",
+        "description": "Replace your sink if it's damaged, leaking, or during a bathroom renovation to update aesthetics or improve functionality."
+      }
+    }
+  ],
+  "description": "Replace your sink if it's damaged, leaking, or during a bathroom renovation to update aesthetics or improve functionality."
+}

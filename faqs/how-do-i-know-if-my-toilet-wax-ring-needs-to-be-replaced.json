@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-toilet-wax-ring-needs-to-be-replaced",
+  "name": "How do I know if my toilet wax ring needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my toilet wax ring needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that indicate a failing toilet wax ring include water leaking from the base of the toilet, a persistent sewer gas smell in your bathroom, or a rocking toilet. If you notice dampness around the toilet's base or an unpleasant odor, it's likely time for a replacement. Ignoring these signs can lead to significant water damage to your subfloor and structural components. Our technicians can diagnose the issue quickly, helping you determine if a simple reseating or a full wax ring replacement is necessary. This aligns with First-Party Insight as it uses our observed customer issues to guide diagnosis.",
+        "@type": "Answer",
+        "description": "Look for water leaks at the toilet's base, a sewer gas smell, or a wobbly toilet. These are key indicators that a wax ring replacement is needed."
+      }
+    }
+  ],
+  "description": "Look for water leaks at the toilet's base, a sewer gas smell, or a wobbly toilet. These are key indicators that a wax ring replacement is needed."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-risks-of-ignoring-a-chronically-clogged-toilet",
+  "name": "What are the risks of ignoring a chronically clogged toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of ignoring a chronically clogged toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ignoring a chronically clogged toilet can lead to several significant problems. Persistent clogs can cause water to overflow, resulting in property damage to floors and ceilings, and creating an environment for mold growth. More seriously, it can indicate a deteriorating or blocked main sewer line, which could eventually lead to sewage backups into your home, posing serious health risks and requiring costly remediation. Addressing recurring clogs promptly is crucial to prevent minor inconveniences from escalating into major and expensive plumbing emergencies.",
+        "@type": "Answer",
+        "description": "Ignoring chronic clogs risks property damage from overflows, mold growth, and potentially severe sewage backups due to main sewer line issues."
+      }
+    }
+  ],
+  "description": "Ignoring chronic clogs risks property damage from overflows, mold growth, and potentially severe sewage backups due to main sewer line issues."
+}

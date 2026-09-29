@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-bathtub-repair-take",
+  "name": "How long does a typical bathtub repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathtub repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard bathtub repairs, such as fixing a chip or a minor crack, can often be completed within a few hours. However, the total time depends on the extent of the damage, the specific repair technique used, and the curing time required for sealants or coatings. For instance, a small chip might be fixed quickly, but a larger area requiring resurfacing or multiple layers of material will take longer, including necessary drying periods. Our technicians will provide a time estimate after assessing your specific repair needs, helping you plan for minimal disruption.",
+        "@type": "Answer",
+        "description": "Most standard bathtub repairs take a few hours, but total time varies based on damage extent, repair technique, and curing time."
+      }
+    }
+  ],
+  "description": "Most standard bathtub repairs take a few hours, but total time varies based on damage extent, repair technique, and curing time."
+}

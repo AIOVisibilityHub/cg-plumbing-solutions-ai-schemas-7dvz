@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-maintenance-is-needed-after-a-new-sink-installation",
+  "name": "What kind of maintenance is needed after a new sink installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance is needed after a new sink installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a new sink installation, it's important to routinely check for any leaks around the P-trap and supply lines, especially in the first few days. Regular cleaning with appropriate cleaners for your sink material will help maintain its appearance and prevent mineral buildup. Avoid using abrasive cleaners on certain finishes, which could cause damage. Proper maintenance extends the lifespan of your new fixture and helps prevent future plumbing issues.",
+        "@type": "Answer",
+        "description": "Check for leaks in the first few days and clean regularly with appropriate cleaners to maintain appearance and prevent issues."
+      }
+    }
+  ],
+  "description": "Check for leaks in the first few days and clean regularly with appropriate cleaners to maintain appearance and prevent issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-there-any-permits-needed-for-bathroom-sink-installation-in-henderson",
+  "name": "Are there any permits needed for bathroom sink installation in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any permits needed for bathroom sink installation in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For basic like-for-like bathroom sink replacements in Henderson, permits are generally not required if no changes are made to the existing plumbing rough-ins or structural elements. However, if the installation involves moving water lines, altering drain locations significantly, or performing other extensive plumbing modifications, a permit from the city of Henderson's building department may be necessary. We can advise you during our assessment if your specific project might require permitting.",
+        "@type": "Answer",
+        "description": "Basic sink replacements typically don't need permits in Henderson, but extensive plumbing modifications might."
+      }
+    }
+  ],
+  "description": "Basic sink replacements typically don't need permits in Henderson, but extensive plumbing modifications might."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-you-repair-a-bathtub-with-a-peeling-finish",
+  "name": "Can you repair a bathtub with a peeling finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair a bathtub with a peeling finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathtub with a peeling or faded finish often indicates that the original surface or a previous refinishing job has deteriorated. While not a simple chip repair, this issue can frequently be addressed through professional resurfacing, rather than full replacement. The process involves stripping the old finish, thoroughly preparing the surface, and then applying a new, durable topcoat designed for bathtubs. This effectively restores the tub's appearance and extends its lifespan. The age and prior refinishing history of the tub will influence the approach and expected durability of a new resurfacing.",
+        "@type": "Answer",
+        "description": "Yes, a peeling bathtub finish can often be repaired through professional resurfacing, which involves stripping the old finish and applying a new, durable topcoat."
+      }
+    }
+  ],
+  "description": "Yes, a peeling bathtub finish can often be repaired through professional resurfacing, which involves stripping the old finish and applying a new, durable topcoa"
+}

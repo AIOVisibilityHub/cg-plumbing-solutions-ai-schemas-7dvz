@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-shower-repair-take",
+  "name": "How long does a typical shower repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical shower repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a shower repair depends on the specific problem. Minor issues like replacing a showerhead or a faucet cartridge might take an hour or two. More complex repairs, such as addressing a hidden pipe leak or replacing a shower valve, could take several hours or require a follow-up visit if specialized parts are needed. CG Plumbing Solutions aims to complete repairs efficiently while ensuring quality workmanship.",
+        "@type": "Answer",
+        "description": "Repair times vary; minor fixes might take an hour or two, while complex issues could take several hours or require specialized parts."
+      }
+    }
+  ],
+  "description": "Repair times vary; minor fixes might take an hour or two, while complex issues could take several hours or require specialized parts."
+}

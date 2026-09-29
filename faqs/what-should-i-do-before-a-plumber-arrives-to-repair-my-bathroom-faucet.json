@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-before-a-plumber-arrives-to-repair-my-bathroom-faucet",
+  "name": "What should I do before a plumber arrives to repair my bathroom faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before a plumber arrives to repair my bathroom faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber arrives to repair your bathroom faucet, it's helpful to clear the area under the sink for easy access and remove any personal items from the countertop around the faucet. You should also be prepared to describe the problem in detail, noting when it started and what symptoms you've observed. Turning off the water supply to the faucet, if you know how, can also be beneficial, though not strictly required. This preparation allows CG Plumbing Solutions technicians to quickly assess the issue and begin the repair process without delay.",
+        "@type": "Answer",
+        "description": "Clear the area under the sink, remove items from the counter, and be ready to describe the problem. Turning off the water supply is also helpful."
+      }
+    }
+  ],
+  "description": "Clear the area under the sink, remove items from the counter, and be ready to describe the problem. Turning off the water supply is also helpful."
+}

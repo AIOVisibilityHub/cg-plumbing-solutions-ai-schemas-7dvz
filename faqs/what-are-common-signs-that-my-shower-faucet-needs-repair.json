@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-shower-faucet-needs-repair",
+  "name": "What are common signs that my shower faucet needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my shower faucet needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating your shower faucet needs repair include persistent dripping, leaks around the handle or base, difficulty turning the handle, inconsistent water temperature, or reduced water pressure from the showerhead. A dripping faucet can waste significant amounts of water over time. When considering repair, it's helpful to note the exact symptoms and whether they occur with both hot and cold water, as this can help us diagnose the issue more quickly. Knowing the age and type of your current faucet can also be beneficial for assessing the scope of repair.",
+        "@type": "Answer",
+        "description": "Common signs include dripping, leaks, difficulty turning the handle, inconsistent water temperature, or reduced water pressure."
+      }
+    }
+  ],
+  "description": "Common signs include dripping, leaks, difficulty turning the handle, inconsistent water temperature, or reduced water pressure."
+}

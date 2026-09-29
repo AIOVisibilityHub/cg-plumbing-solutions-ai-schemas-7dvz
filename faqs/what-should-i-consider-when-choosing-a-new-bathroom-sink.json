@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-consider-when-choosing-a-new-bathroom-sink",
+  "name": "What should I consider when choosing a new bathroom sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a new bathroom sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a new bathroom sink, consider its compatibility with your existing or new vanity, the available space, and your desired aesthetic. Practical tradeoffs include choosing between a large basin for functionality versus a compact design for small spaces. Material durability, ease of cleaning, and faucet compatibility are also important factors. Thinking about how the sink will be used daily can guide your decision towards a practical and visually appealing choice.",
+        "@type": "Answer",
+        "description": "Consider compatibility with your vanity, available space, aesthetic, material durability, ease of cleaning, and faucet compatibility."
+      }
+    }
+  ],
+  "description": "Consider compatibility with your vanity, available space, aesthetic, material durability, ease of cleaning, and faucet compatibility."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-might-a-toilet-clog-immediately-after-flushing",
+  "name": "Why might a toilet clog immediately after flushing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why might a toilet clog immediately after flushing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A toilet that clogs immediately after flushing typically indicates a direct obstruction in the toilet trap or the immediate drain line connecting to the main sewer. This could be due to excessive toilet paper, a non-flushable item, or even a foreign object lodged in the trap. Sometimes, a weakening flush mechanism or a partially blocked vent pipe can also contribute by reducing the water's force needed to clear the bowl. Our technicians at CG Plumbing Solutions can quickly diagnose whether the issue is a simple obstruction or a more complex venting or drainage problem.",
+        "@type": "Answer",
+        "description": "Immediate post-flush clogging usually means an obstruction in the toilet trap or drain line, possibly from excessive paper or foreign objects. It could also indicate a venting issue."
+      }
+    }
+  ],
+  "description": "Immediate post-flush clogging usually means an obstruction in the toilet trap or drain line, possibly from excessive paper or foreign objects. It could also ind"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-my-bathtub-faucet-is-constantly-dripping-or-running",
+  "name": "What should I do if my bathtub faucet is constantly dripping or running?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my bathtub faucet is constantly dripping or running?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your bathtub faucet is constantly dripping or running, the first step is to turn off the water supply to that faucet or to your entire home to prevent water waste and potential damage. Then, contact a professional plumber. This issue often indicates a worn-out cartridge or internal component that needs immediate attention. CG Plumbing Solutions provides emergency repair services in the Las Vegas area to address constant drips quickly and prevent higher water bills or water damage.",
+        "@type": "Answer",
+        "description": "Turn off the water supply immediately and contact a professional plumber, as a constant drip indicates a worn-out internal component needing urgent repair."
+      }
+    }
+  ],
+  "description": "Turn off the water supply immediately and contact a professional plumber, as a constant drip indicates a worn-out internal component needing urgent repair."
+}

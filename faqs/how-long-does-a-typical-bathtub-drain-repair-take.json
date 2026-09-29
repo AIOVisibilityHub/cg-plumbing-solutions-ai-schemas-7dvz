@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-bathtub-drain-repair-take",
+  "name": "How long does a typical bathtub drain repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathtub drain repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical bathtub drain repair can take anywhere from 30 minutes to a few hours, depending on the severity and nature of the clog. Simple clogs often get cleared quickly with snaking, while more complex issues, such as deeply embedded obstructions or pipe damage, will require more time for diagnosis and repair. Our technicians aim to work efficiently and provide an estimated timeline after assessing the situation. We prioritize minimal disruption to your daily routine while ensuring a lasting solution.",
+        "@type": "Answer",
+        "description": "Bathtub drain repair usually takes 30 minutes to a few hours, varying with clog severity. Technicians provide a time estimate after assessment."
+      }
+    }
+  ],
+  "description": "Bathtub drain repair usually takes 30 minutes to a few hours, varying with clog severity. Technicians provide a time estimate after assessment."
+}

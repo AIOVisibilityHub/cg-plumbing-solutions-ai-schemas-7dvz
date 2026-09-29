@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-happens-if-i-don-t-get-a-code-upgrade-with-my-new-water-heater",
+  "name": "What happens if I don't get a code upgrade with my new water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I don't get a code upgrade with my new water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Failing to get a required code upgrade with a new water heater can lead to several issues. It may result in your installation not passing inspection, potentially incurring fines or requiring costly re-work to bring it into compliance. More importantly, non-compliant installations can pose safety risks, such as improper gas venting leading to carbon monoxide exposure or inadequate seismic strapping increasing damage risk during an earthquake. We prioritize your safety and compliance.",
+        "@type": "Answer",
+        "description": "Not upgrading your water heater to code can lead to failed inspections, fines, and serious safety risks like carbon monoxide exposure."
+      }
+    }
+  ],
+  "description": "Not upgrading your water heater to code can lead to failed inspections, fines, and serious safety risks like carbon monoxide exposure."
+}

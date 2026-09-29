@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-install-an-instant-hot-water-system",
+  "name": "How much does it cost to install an instant hot water system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install an instant hot water system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install an instant hot water system varies depending on several factors, including the type of unit (gas or electric), its capacity, and the complexity of the installation. For example, if your home requires new gas lines or electrical upgrades to support the system, the overall cost will be higher. CG Plumbing Solutions provides detailed estimates after a site assessment, which helps clarify all potential expenses involved based on your specific property in areas like Las Vegas or Henderson.",
+        "@type": "Answer",
+        "description": "Installation costs vary based on unit type, capacity, and complexity, especially if new gas or electrical lines are needed. A site assessment helps clarify exact expenses."
+      }
+    }
+  ],
+  "description": "Installation costs vary based on unit type, capacity, and complexity, especially if new gas or electrical lines are needed. A site assessment helps clarify exac"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-bathroom-sink-repair-typically-cost",
+  "name": "How much does bathroom sink repair typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does bathroom sink repair typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of bathroom sink repair varies significantly depending on the issue. Minor repairs like unclogging a drain or tightening a P-trap are usually less expensive than fixing complex leaks, replacing faucet components, or repairing cracked basin. Factors like the type of sink, accessibility, and parts needed will influence the final price. CG Plumbing Solutions provides transparent pricing after a thorough assessment of the problem, ensuring you understand the costs involved upfront.",
+        "@type": "Answer",
+        "description": "Bathroom sink repair costs vary based on the issue's complexity, parts needed, and labor. Minor clogs are cheaper than extensive leaks or component replacements."
+      }
+    }
+  ],
+  "description": "Bathroom sink repair costs vary based on the issue's complexity, parts needed, and labor. Minor clogs are cheaper than extensive leaks or component replacements"
+}

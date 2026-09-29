@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-a-bathtub-faucet-to-leak",
+  "name": "What causes a bathtub faucet to leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a bathtub faucet to leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A leaking bathtub faucet is commonly caused by worn-out rubber washers, O-rings, or seals inside the faucet cartridge. Mineral buildup from hard water, common in areas like Las Vegas, can also corrode these components, leading to drips. Cartridge issues, loose packing nuts, or damaged valve seats are other frequent culprits. Identifying the exact cause is the first step in determining the correct repair method. During our diagnostic process, CG Plumbing Solutions plumbers will inspect all potential failure points to accurately identify the source of the leak.",
+        "@type": "Answer",
+        "description": "Common causes of bathtub faucet leaks include worn washers, O-rings, mineral buildup, or issues with the faucet cartridge."
+      }
+    }
+  ],
+  "description": "Common causes of bathtub faucet leaks include worn washers, O-rings, mineral buildup, or issues with the faucet cartridge."
+}

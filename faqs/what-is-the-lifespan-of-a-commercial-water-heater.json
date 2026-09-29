@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-lifespan-of-a-commercial-water-heater",
+  "name": "What is the lifespan of a commercial water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the lifespan of a commercial water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical lifespan of a commercial water heater ranges from 8 to 15 years, though this can vary based on the unit's type, maintenance schedule, and the intensity of its usage. High-demand businesses or those with inconsistent maintenance may experience a shorter lifespan. Regular professional servicing, offered by CG Plumbing Solutions, can help maximize the longevity and efficiency of your unit.",
+        "@type": "Answer",
+        "description": "A commercial water heater generally lasts 8-15 years, depending on type, maintenance, and usage. Regular servicing can extend its lifespan."
+      }
+    }
+  ],
+  "description": "A commercial water heater generally lasts 8-15 years, depending on type, maintenance, and usage. Regular servicing can extend its lifespan."
+}

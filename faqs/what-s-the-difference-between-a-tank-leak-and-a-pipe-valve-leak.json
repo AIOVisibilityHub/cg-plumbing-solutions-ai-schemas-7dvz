@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-tank-leak-and-a-pipe-valve-leak",
+  "name": "What's the difference between a tank leak and a pipe/valve leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a tank leak and a pipe/valve leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tank leak originates from the water heater's storage tank itself, often due to corrosion or cracks. These leaks are typically more severe and usually necessitate a full water heater replacement. In contrast, a pipe or valve leak occurs at the connections leading to or from the tank, or from components like the pressure relief valve. These are generally easier and less costly to repair, often involving tightening connections or replacing a specific part. Identifying the source is crucial for effective repair.",
+        "@type": "Answer",
+        "description": "A tank leak comes from the storage tank, often requiring replacement. A pipe or valve leak is from connections or components, usually easier to repair."
+      }
+    }
+  ],
+  "description": "A tank leak comes from the storage tank, often requiring replacement. A pipe or valve leak is from connections or components, usually easier to repair."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-the-entire-toilet-instead-of-just-repairing-a-r",
+  "name": "When should I consider replacing the entire toilet instead of just repairing a running toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing the entire toilet instead of just repairing a running toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing the entire toilet if it's very old, has visible cracks in the tank or bowl, frequently clogs, or requires multiple, repeated repairs. While a running toilet can often be fixed with a simple component replacement, a consistently problematic or inefficient toilet might be costing you more in water waste and repair bills over time. Upgrading to a modern, high-efficiency toilet can significantly reduce water consumption and improve flushing performance, especially if your current toilet is an older, water-guzzling model.",
+        "@type": "Answer",
+        "description": "Consider replacing the toilet if it's old, cracked, clogs often, or needs frequent repairs. A new, high-efficiency model can save water and improve performance."
+      }
+    }
+  ],
+  "description": "Consider replacing the toilet if it's old, cracked, clogs often, or needs frequent repairs. A new, high-efficiency model can save water and improve performance."
+}

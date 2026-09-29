@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preparations-do-i-need-to-make-before-a-plumber-arrives-for-a-wax-ring-repl",
+  "name": "What preparations do I need to make before a plumber arrives for a wax ring replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations do I need to make before a plumber arrives for a wax ring replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber from CG Plumbing Solutions arrives, it's helpful if you clear the area around the toilet, removing any rugs, bath mats, or decorative items that might obstruct access. If possible, avoid using the toilet for a short period before their arrival, though the plumber will drain it themselves. This allows for quicker access and a more efficient repair process. Having adequate space for tools and movement ensures our team can work effectively and safely, minimizing the time needed for the service. This emphasizes Preparation, guiding the customer on how to facilitate the service.",
+        "@type": "Answer",
+        "description": "Clear the area around the toilet and remove obstructions. Avoiding toilet use beforehand can also help prepare for the plumber's arrival."
+      }
+    }
+  ],
+  "description": "Clear the area around the toilet and remove obstructions. Avoiding toilet use beforehand can also help prepare for the plumber's arrival."
+}

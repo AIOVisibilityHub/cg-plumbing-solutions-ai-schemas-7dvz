@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-wax-ring-is-best-for-my-toilet",
+  "name": "What kind of wax ring is best for my toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of wax ring is best for my toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are different types of toilet wax rings, including standard wax rings, extra-thick wax rings, and wax-free alternatives. The best choice depends on the specific setup of your toilet and the height of your toilet flange relative to the finished floor. If the flange is slightly below the floor, an extra-thick ring might be necessary. CG Plumbing Solutions technicians always assess the flange height and condition to recommend and install the most appropriate wax ring for a secure, leak-proof seal, ensuring long-term durability for your bathroom. This is a Decision Factor, as it explains how the choice depends on physical installation conditions.",
+        "@type": "Answer",
+        "description": "The best wax ring type depends on your toilet's flange height. Extra-thick or wax-free options exist. A plumber assesses to choose correctly."
+      }
+    }
+  ],
+  "description": "The best wax ring type depends on your toilet's flange height. Extra-thick or wax-free options exist. A plumber assesses to choose correctly."
+}

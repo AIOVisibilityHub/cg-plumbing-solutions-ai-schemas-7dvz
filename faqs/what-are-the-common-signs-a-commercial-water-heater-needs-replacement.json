@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-a-commercial-water-heater-needs-replacement",
+  "name": "What are the common signs a commercial water heater needs replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs a commercial water heater needs replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs a commercial water heater needs replacement include inconsistent hot water supply, visible leaks around the unit, rust-colored water, strange noises like rumbling or popping, and a noticeable increase in energy bills. For businesses in Las Vegas, increased maintenance needs or frequent repairs can also signal it's time to consider a new unit, especially given the continuous demand. Assessing these signs early can prevent unexpected outages.",
+        "@type": "Answer",
+        "description": "Inconsistent hot water, leaks, rust-colored water, strange noises, and rising energy bills are common signs. Increased maintenance in demanding environments like Las Vegas can also indicate replacement is needed."
+      }
+    }
+  ],
+  "description": "Inconsistent hot water, leaks, rust-colored water, strange noises, and rising energy bills are common signs. Increased maintenance in demanding environments lik"
+}

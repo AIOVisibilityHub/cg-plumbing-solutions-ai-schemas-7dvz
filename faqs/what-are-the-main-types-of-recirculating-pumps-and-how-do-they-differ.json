@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-main-types-of-recirculating-pumps-and-how-do-they-differ",
+  "name": "What are the main types of recirculating pumps and how do they differ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main types of recirculating pumps and how do they differ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are primarily two types: dedicated line systems and comfort valve systems. Dedicated line systems require a separate return line to the water heater, offering consistent instant hot water and typically higher efficiency. Comfort valve systems, also known as 'under-sink' or 'point-of-use' pumps, use the cold water line as a return path, making them easier to install in existing homes without a dedicated return line. When choosing, consider your home's existing plumbing, the cost of installation, and your desired level of efficiency and comfort. CG Plumbing Solutions can help you weigh these practical tradeoffs.",
+        "@type": "Answer",
+        "description": "Main types are dedicated line and comfort valve systems; dedicated lines are more efficient but require a return line, while comfort valves are easier to install by using the cold water line."
+      }
+    }
+  ],
+  "description": "Main types are dedicated line and comfort valve systems; dedicated lines are more efficient but require a return line, while comfort valves are easier to instal"
+}

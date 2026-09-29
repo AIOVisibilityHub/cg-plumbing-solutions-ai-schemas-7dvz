@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/is-a-small-water-heater-drip-something-i-can-ignore",
+  "name": "Is a small water heater drip something I can ignore?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a small water heater drip something I can ignore?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A small drip from your water heater should not be ignored, as it often indicates an underlying issue that could worsen over time. Even a minor drip can lead to significant water damage, mold growth, or indicate a more serious problem like internal tank corrosion or a failing component. Addressing a small leak promptly can prevent it from escalating into a costly emergency. It’s always best to have it inspected by a professional plumber to determine the cause and appropriate repair.",
+        "@type": "Answer",
+        "description": "No, a small drip should not be ignored. It can lead to water damage, mold, or indicate a more serious underlying problem. Get it inspected promptly."
+      }
+    }
+  ],
+  "description": "No, a small drip should not be ignored. It can lead to water damage, mold, or indicate a more serious underlying problem. Get it inspected promptly."
+}

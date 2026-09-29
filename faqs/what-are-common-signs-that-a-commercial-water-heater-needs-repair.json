@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-a-commercial-water-heater-needs-repair",
+  "name": "What are common signs that a commercial water heater needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that a commercial water heater needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that a commercial water heater needs repair include a sudden loss of hot water, inconsistent water temperatures, discolored or rusty water, strange noises like banging or rumbling coming from the unit, and leaks around the tank or connections. Addressing these issues promptly can prevent further damage and more costly repairs. For businesses in areas like Las Vegas or Henderson, keeping an eye on these indicators is crucial for maintaining consistent hot water supply.",
+        "@type": "Answer",
+        "description": "Signs of a commercial water heater needing repair include no hot water, inconsistent temperatures, discolored water, strange noises, and leaks."
+      }
+    }
+  ],
+  "description": "Signs of a commercial water heater needing repair include no hot water, inconsistent temperatures, discolored water, strange noises, and leaks."
+}

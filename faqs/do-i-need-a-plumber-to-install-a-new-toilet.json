@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-a-plumber-to-install-a-new-toilet",
+  "name": "Do I need a plumber to install a new toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a plumber to install a new toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some homeowners attempt DIY toilet installation, hiring a professional plumber ensures the job is done correctly and prevents potential leaks or damage. A professional plumber has the tools and expertise to properly remove the old unit, inspect and repair the flange, ensure a watertight seal, and connect the water supply. This helps avoid common issues like a rocking toilet, slow leaks, or improper flushing, which can lead to costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Hiring a plumber for toilet installation ensures proper setup, prevents leaks, and avoids potential damage from improper installation."
+      }
+    }
+  ],
+  "description": "Hiring a plumber for toilet installation ensures proper setup, prevents leaks, and avoids potential damage from improper installation."
+}

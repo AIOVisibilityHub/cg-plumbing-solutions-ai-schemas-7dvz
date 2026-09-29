@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-recirculating-pump-and-how-does-it-work",
+  "name": "What is a recirculating pump and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a recirculating pump and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A recirculating pump is a plumbing device that delivers hot water to your faucets almost instantly, eliminating the wait time. It works by continuously circulating a small amount of hot water through your pipes, maintaining a ready supply. This system helps reduce water waste, especially in larger homes or those with long pipe runs from the water heater. CG Plumbing Solutions can assess your home's layout to determine the optimal type and placement for maximum efficiency and comfort.",
+        "@type": "Answer",
+        "description": "A recirculating pump provides instant hot water by continuously circulating it through your pipes, reducing wait times and water waste."
+      }
+    }
+  ],
+  "description": "A recirculating pump provides instant hot water by continuously circulating it through your pipes, reducing wait times and water waste."
+}

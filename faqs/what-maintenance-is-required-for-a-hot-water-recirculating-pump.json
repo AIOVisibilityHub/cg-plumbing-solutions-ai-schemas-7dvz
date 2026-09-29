@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-maintenance-is-required-for-a-hot-water-recirculating-pump",
+  "name": "What maintenance is required for a hot water recirculating pump?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a hot water recirculating pump?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hot water recirculating pumps are generally low-maintenance devices. Regular checks should include listening for unusual noises, inspecting for leaks around connections, and ensuring any timer or sensor functions correctly. Sediment buildup can occasionally be an issue, especially in areas with hard water, which may require periodic flushing. In Las Vegas, where water can have higher mineral content, occasional checks are a practical way to prolong the pump's life and efficiency. CG Plumbing Solutions offers maintenance services to keep your system running smoothly.",
+        "@type": "Answer",
+        "description": "Maintenance is low, focusing on checking for leaks, unusual noises, and proper timer function. Periodic flushing may be needed for sediment, especially in hard water areas like Las Vegas."
+      }
+    }
+  ],
+  "description": "Maintenance is low, focusing on checking for leaks, unusual noises, and proper timer function. Periodic flushing may be needed for sediment, especially in hard"
+}

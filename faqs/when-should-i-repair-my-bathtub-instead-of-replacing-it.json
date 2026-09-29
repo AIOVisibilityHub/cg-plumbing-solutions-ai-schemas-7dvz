@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-repair-my-bathtub-instead-of-replacing-it",
+  "name": "When should I repair my bathtub instead of replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my bathtub instead of replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing your bathtub is often a cost-effective choice for localized damage like chips, minor cracks, or surface blemishes that don't compromise the tub's structural integrity. You might choose repair if the tub's overall condition is good and you want to extend its life without the expense and disruption of a full replacement. Conversely, if the tub has widespread damage, persistent leaks, or is outdated in a way that impacts resale value, replacement could be a better long-term investment. Consider the overall condition, your budget, and future plans for your bathroom before deciding.",
+        "@type": "Answer",
+        "description": "Repair is suitable for localized damage like chips or minor cracks, offering a cost-effective alternative to replacement for tubs in otherwise good condition."
+      }
+    }
+  ],
+  "description": "Repair is suitable for localized damage like chips or minor cracks, offering a cost-effective alternative to replacement for tubs in otherwise good condition."
+}

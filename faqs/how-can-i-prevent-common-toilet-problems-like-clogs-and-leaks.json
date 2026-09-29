@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prevent-common-toilet-problems-like-clogs-and-leaks",
+  "name": "How can I prevent common toilet problems like clogs and leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent common toilet problems like clogs and leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing common toilet problems involves being mindful of what goes down the drain and performing occasional maintenance. Avoid flushing anything other than human waste and toilet paper, as items like wet wipes, paper towels, and hygiene products are major causes of clogs. Regularly check for small leaks by adding food coloring to the tank and seeing if it appears in the bowl without flushing. For properties in areas like Las Vegas, hard water can lead to mineral buildup that affects flush efficiency; periodic cleaning of the rim jets can help maintain proper water flow and prevent issues over time.",
+        "@type": "Answer",
+        "description": "Prevent clogs by only flushing waste and toilet paper; prevent leaks by regularly checking for them. In areas like Las Vegas, maintain flush efficiency by periodically cleaning rim jets to combat hard water mineral buildup."
+      }
+    }
+  ],
+  "description": "Prevent clogs by only flushing waste and toilet paper; prevent leaks by regularly checking for them. In areas like Las Vegas, maintain flush efficiency by perio"
+}

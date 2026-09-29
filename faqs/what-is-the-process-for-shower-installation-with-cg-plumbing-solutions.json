@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-shower-installation-with-cg-plumbing-solutions",
+  "name": "What is the process for shower installation with CG Plumbing Solutions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for shower installation with CG Plumbing Solutions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our shower installation process typically begins with an initial consultation and on-site assessment to understand your needs and bathroom specifications. Next, we provide a detailed estimate and project plan. Upon approval, our skilled technicians handle all aspects of the installation, including demolition, plumbing rough-in, shower unit placement, waterproofing, and finish work. We aim for clear communication throughout the project, ensuring minimal disruption and a smooth installation from start to finish.",
+        "@type": "Answer",
+        "description": "The process involves consultation, detailed estimate, demolition, plumbing rough-in, unit placement, waterproofing, and finish work. We ensure clear communication throughout the project."
+      }
+    }
+  ],
+  "description": "The process involves consultation, detailed estimate, demolition, plumbing rough-in, unit placement, waterproofing, and finish work. We ensure clear communicati"
+}

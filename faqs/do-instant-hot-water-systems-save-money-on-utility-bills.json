@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-instant-hot-water-systems-save-money-on-utility-bills",
+  "name": "Do instant hot water systems save money on utility bills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do instant hot water systems save money on utility bills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Instant hot water systems can lead to savings on utility bills primarily by eliminating standby heat loss. Unlike traditional tank heaters that continuously heat a large volume of water, tankless units only activate when hot water is requested. The actual savings depend on your household's hot water usage patterns, local energy costs, and the specific unit's efficiency rating. When comparing, customers often gain reduced energy consumption but may face higher upfront costs, making the long-term savings a practical tradeoff to consider.",
+        "@type": "Answer",
+        "description": "They can save money by eliminating standby heat loss, heating water only when needed. Savings depend on usage, energy costs, and unit efficiency."
+      }
+    }
+  ],
+  "description": "They can save money by eliminating standby heat loss, heating water only when needed. Savings depend on usage, energy costs, and unit efficiency."
+}

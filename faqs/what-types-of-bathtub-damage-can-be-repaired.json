@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-bathtub-damage-can-be-repaired",
+  "name": "What types of bathtub damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathtub damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many common types of bathtub damage can be repaired, including chips, cracks, dents, and surface scratches. These often occur from accidental impacts, abrasive cleaning, or dropped items. More significant structural damage, such as a large hole through the tub material or extensive rust, might necessitate replacement over repair. Evaluating the extent of the damage helps determine the most effective and durable solution for your specific bathtub.",
+        "@type": "Answer",
+        "description": "Common bathtub damage like chips, cracks, dents, and surface scratches can often be repaired. Significant structural damage may require replacement."
+      }
+    }
+  ],
+  "description": "Common bathtub damage like chips, cracks, dents, and surface scratches can often be repaired. Significant structural damage may require replacement."
+}

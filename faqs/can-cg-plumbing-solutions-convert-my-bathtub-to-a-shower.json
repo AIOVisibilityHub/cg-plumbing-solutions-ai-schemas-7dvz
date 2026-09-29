@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-cg-plumbing-solutions-convert-my-bathtub-to-a-shower",
+  "name": "Can CG Plumbing Solutions convert my bathtub to a shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can CG Plumbing Solutions convert my bathtub to a shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CG Plumbing Solutions frequently performs bathtub-to-shower conversions. This involves removing the existing bathtub, modifying plumbing lines, and installing a new shower pan, walls, and fixtures. This conversion is a popular option for homeowners seeking improved accessibility or a more modern bathroom aesthetic. It often requires careful planning for water drainage and proper waterproofing to prevent future issues, which we meticulously manage.",
+        "@type": "Answer",
+        "description": "Yes, CG Plumbing Solutions can convert bathtubs to showers, involving removal, plumbing modifications, and new fixture installation. This offers improved accessibility and modern aesthetics."
+      }
+    }
+  ],
+  "description": "Yes, CG Plumbing Solutions can convert bathtubs to showers, involving removal, plumbing modifications, and new fixture installation. This offers improved access"
+}

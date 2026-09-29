@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-toilet-repair-take",
+  "name": "How long does a typical toilet repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical toilet repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a toilet repair depends on the complexity of the issue. Simple repairs, such as replacing a flapper or adjusting a fill valve, can often be completed within 30 minutes to an hour. More involved repairs, like replacing a wax ring or clearing a stubborn drain line clog, might take 1 to 2 hours. If the toilet needs to be replaced entirely, the process could extend further. Our technicians work efficiently while ensuring the repair is done correctly and will communicate an estimated timeframe upon diagnosis.",
+        "@type": "Answer",
+        "description": "Simple toilet repairs like flapper replacement take 30-60 minutes, while complex issues such as wax ring replacement or stubborn clogs can take 1-2 hours or more for full replacement."
+      }
+    }
+  ],
+  "description": "Simple toilet repairs like flapper replacement take 30-60 minutes, while complex issues such as wax ring replacement or stubborn clogs can take 1-2 hours or mor"
+}

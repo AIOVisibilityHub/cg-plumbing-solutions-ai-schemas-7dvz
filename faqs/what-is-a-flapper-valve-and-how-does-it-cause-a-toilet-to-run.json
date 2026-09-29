@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-flapper-valve-and-how-does-it-cause-a-toilet-to-run",
+  "name": "What is a flapper valve and how does it cause a toilet to run?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a flapper valve and how does it cause a toilet to run?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The flapper valve is a rubber or plastic seal located at the bottom of your toilet tank that lifts when you flush and then reseals to hold water in the tank until the next flush. Over time, flappers can warp, degrade, or become covered in mineral deposits, preventing them from creating a watertight seal. This allows water to continuously leak from the tank into the bowl, causing the fill valve to cycle on periodically to refill the tank, resulting in a 'running' toilet. It's one of the most common causes of toilet leaks.",
+        "@type": "Answer",
+        "description": "A flapper valve seals the toilet tank; if it warps or degrades, it leaks water into the bowl, causing the fill valve to constantly refill the tank."
+      }
+    }
+  ],
+  "description": "A flapper valve seals the toilet tank; if it warps or degrades, it leaks water into the bowl, causing the fill valve to constantly refill the tank."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-my-toilet-flushing-slowly-or-incompletely",
+  "name": "Why is my toilet flushing slowly or incompletely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my toilet flushing slowly or incompletely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A slow or incomplete flush often indicates a partial clog in the drain line, insufficient water in the tank, or issues with the toilet's siphoning action. Over time, mineral deposits can build up in the rim jets under the bowl's rim, restricting water flow during a flush. A quick check of the water level in the tank can rule out a simple fill valve adjustment. When our plumbers encounter this, they typically first check for obstructions in the trap and drain and then assess the rim jets and overall flush mechanism to identify the underlying cause.",
+        "@type": "Answer",
+        "description": "Slow or incomplete flushing can be due to partial clogs, insufficient tank water, or issues with the toilet's siphoning action, often caused by mineral buildup in rim jets."
+      }
+    }
+  ],
+  "description": "Slow or incomplete flushing can be due to partial clogs, insufficient tank water, or issues with the toilet's siphoning action, often caused by mineral buildup"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-bathtub-faucets-can-you-repair",
+  "name": "What types of bathtub faucets can you repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathtub faucets can you repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We repair a wide range of bathtub faucet types, including compression, cartridge, ceramic disc, and ball faucets. Our experienced technicians are familiar with various brands and configurations, from single-handle to widespread two-handle models. When you contact CG Plumbing Solutions, providing details about your faucet type, such as single-handle or two-handle, can help our technicians prepare with the right tools and potential replacement parts, speeding up the repair process.",
+        "@type": "Answer",
+        "description": "We repair various bathtub faucet types including compression, cartridge, ceramic disc, and ball faucets across many brands."
+      }
+    }
+  ],
+  "description": "We repair various bathtub faucet types including compression, cartridge, ceramic disc, and ball faucets across many brands."
+}

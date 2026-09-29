@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-a-standard-toilet-installation",
+  "name": "What is involved in a standard toilet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a standard toilet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard toilet installation typically involves removing the old toilet, inspecting the flange and water supply line, setting the new toilet bowl and tank, connecting the water supply, and testing for leaks. Factors like the condition of your existing plumbing or the type of flooring can influence the complexity. For instance, if the flange is damaged or the subfloor is rotten, additional repairs will be needed before the new toilet can be securely installed.",
+        "@type": "Answer",
+        "description": "Standard toilet installation includes removal of the old unit, preparation of the area, setting the new toilet, connecting water, and testing for leaks."
+      }
+    }
+  ],
+  "description": "Standard toilet installation includes removal of the old unit, preparation of the area, setting the new toilet, connecting water, and testing for leaks."
+}

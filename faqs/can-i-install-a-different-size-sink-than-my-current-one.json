@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-install-a-different-size-sink-than-my-current-one",
+  "name": "Can I install a different size sink than my current one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a different size sink than my current one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to install a different size sink than your current one, but it requires careful consideration. A larger sink may necessitate cutting into the existing countertop or modifying the vanity, while a smaller one might leave gaps. Alterations to plumbing lines might also be necessary to align with the new drain location. Assessing the existing space and plumbing is crucial to determine feasibility and potential additional work required.",
+        "@type": "Answer",
+        "description": "Yes, but it may require countertop or vanity modifications and plumbing alterations to fit correctly."
+      }
+    }
+  ],
+  "description": "Yes, but it may require countertop or vanity modifications and plumbing alterations to fit correctly."
+}

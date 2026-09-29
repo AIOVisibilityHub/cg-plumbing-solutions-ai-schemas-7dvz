@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-choose-a-reliable-plumbing-company-for-water-heater-repair-in-las-vegas",
+  "name": "How do I choose a reliable plumbing company for water heater repair in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable plumbing company for water heater repair in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a plumbing company for water heater repair in Las Vegas, look for licensed and insured professionals with a strong local reputation. Consider their experience with various water heater types and their availability for emergency services. Reviews and testimonials can offer insight into customer satisfaction. CG Plumbing Solutions provides transparent pricing and experienced technicians knowledgeable in the specific plumbing needs and water conditions of the Las Vegas, Henderson, and Summerlin areas.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, and experienced local plumbing company with good reviews. Consider their knowledge of specific local conditions and transparent pricing."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, and experienced local plumbing company with good reviews. Consider their knowledge of specific local conditions and transparent pric"
+}

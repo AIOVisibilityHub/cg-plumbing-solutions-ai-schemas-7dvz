@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-shower-installation",
+  "name": "What factors influence the cost of shower installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of shower installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of shower installation is influenced by several factors, including the type of shower unit selected (e.g., basic stand-alone, custom tiled, walk-in), the extent of plumbing modifications needed, and any demolition or structural work required. For example, converting a bathtub into a walk-in shower often incurs higher costs due to additional labor for plumbing relocation and waterproofing. We provide detailed estimates after an on-site assessment to ensure transparency.",
+        "@type": "Answer",
+        "description": "Shower installation costs depend on the shower type, required plumbing modifications, and any demolition work. Complex projects like tub-to-shower conversions typically cost more."
+      }
+    }
+  ],
+  "description": "Shower installation costs depend on the shower type, required plumbing modifications, and any demolition work. Complex projects like tub-to-shower conversions t"
+}

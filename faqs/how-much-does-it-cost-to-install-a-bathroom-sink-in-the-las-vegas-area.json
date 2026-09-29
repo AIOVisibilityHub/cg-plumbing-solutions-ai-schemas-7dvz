@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-install-a-bathroom-sink-in-the-las-vegas-area",
+  "name": "How much does it cost to install a bathroom sink in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a bathroom sink in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a bathroom sink in the Las Vegas area varies based on factors like the complexity of the installation, the type of sink, and whether new plumbing lines or faucet installations are required. A simple drop-in replacement might be less costly than installing a new vessel sink that requires specific countertop modifications. We provide transparent estimates after assessing your specific installation needs. Factors like existing plumbing condition can also influence the total cost.",
+        "@type": "Answer",
+        "description": "Costs vary based on sink type, installation complexity, and whether new plumbing is needed. We provide estimates after assessment."
+      }
+    }
+  ],
+  "description": "Costs vary based on sink type, installation complexity, and whether new plumbing is needed. We provide estimates after assessment."
+}

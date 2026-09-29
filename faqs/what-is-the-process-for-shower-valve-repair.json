@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-shower-valve-repair",
+  "name": "What is the process for shower valve repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for shower valve repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The shower valve repair process typically begins with a diagnosis to identify the source of the problem, such as a faulty cartridge, O-rings, or seals. Once diagnosed, the water supply to the shower is shut off, and the trim and faceplate are removed to access the valve. Worn or damaged components are replaced with new ones, and then the valve is reassembled and tested for proper function and leaks. Our plumbers will clearly explain the steps and parts needed before beginning work.",
+        "@type": "Answer",
+        "description": "The process involves diagnosis, shutting off water, accessing the valve, replacing damaged parts, and then reassembling and testing."
+      }
+    }
+  ],
+  "description": "The process involves diagnosis, shutting off water, accessing the valve, replacing damaged parts, and then reassembling and testing."
+}

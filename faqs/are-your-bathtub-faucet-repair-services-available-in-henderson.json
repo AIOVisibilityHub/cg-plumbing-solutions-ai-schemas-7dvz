@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-your-bathtub-faucet-repair-services-available-in-henderson",
+  "name": "Are your bathtub faucet repair services available in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your bathtub faucet repair services available in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CG Plumbing Solutions proudly offers bathtub faucet repair services throughout Henderson, as well as Las Vegas, North Las Vegas, Paradise, and Summerlin. Our team is equipped to serve residents across these communities. When scheduling your service, please provide your full address so we can ensure the nearest available technician is dispatched to your Henderson location promptly.",
+        "@type": "Answer",
+        "description": "Yes, our bathtub faucet repair services are available in Henderson and other surrounding areas like Las Vegas and Summerlin."
+      }
+    }
+  ],
+  "description": "Yes, our bathtub faucet repair services are available in Henderson and other surrounding areas like Las Vegas and Summerlin."
+}

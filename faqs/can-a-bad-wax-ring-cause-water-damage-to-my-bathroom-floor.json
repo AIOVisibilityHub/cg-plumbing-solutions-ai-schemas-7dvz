@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-a-bad-wax-ring-cause-water-damage-to-my-bathroom-floor",
+  "name": "Can a bad wax ring cause water damage to my bathroom floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a bad wax ring cause water damage to my bathroom floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a faulty or deteriorated toilet wax ring can absolutely lead to significant water damage to your bathroom floor and the subfloor beneath it. Even small, continuous leaks that are not immediately visible can seep into the flooring material, causing rot, mold growth, and structural weakening over time. This damage can be costly to repair, extending beyond just the plumbing issue. CG Plumbing Solutions technicians inspect for any existing water damage during the replacement process, providing recommendations for remediation if necessary to protect your home's integrity. This focuses on Process Clarity by explaining the consequences of a bad seal and our inspection during service.",
+        "@type": "Answer",
+        "description": "Yes, a bad wax ring causes leaks that can lead to significant and costly water damage, including rot and mold, to your bathroom floor."
+      }
+    }
+  ],
+  "description": "Yes, a bad wax ring causes leaks that can lead to significant and costly water damage, including rot and mold, to your bathroom floor."
+}

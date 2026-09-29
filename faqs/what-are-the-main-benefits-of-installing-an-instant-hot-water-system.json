@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-main-benefits-of-installing-an-instant-hot-water-system",
+  "name": "What are the main benefits of installing an instant hot water system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main benefits of installing an instant hot water system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing an instant hot water system offers several benefits, primarily continuous hot water and potential energy savings. Because water is only heated when needed, these systems can reduce standby energy losses common with traditional tank heaters. They also take up less space due to the absence of a large storage tank. When considering an upgrade with CG Plumbing Solutions, one practical tradeoff to weigh is the upfront installation cost against the long-term energy savings and convenience of endless hot water.",
+        "@type": "Answer",
+        "description": "Benefits include continuous hot water, potential energy savings, and space-saving design. You gain endless hot water but should consider the initial installation cost."
+      }
+    }
+  ],
+  "description": "Benefits include continuous hot water, potential energy savings, and space-saving design. You gain endless hot water but should consider the initial installatio"
+}

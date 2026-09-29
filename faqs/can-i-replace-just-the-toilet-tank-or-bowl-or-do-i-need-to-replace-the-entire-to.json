@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-replace-just-the-toilet-tank-or-bowl-or-do-i-need-to-replace-the-entire-to",
+  "name": "Can I replace just the toilet tank or bowl, or do I need to replace the entire toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just the toilet tank or bowl, or do I need to replace the entire toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, it's best to replace the entire toilet rather than just the tank or bowl. While it might seem possible to replace individual components, matching specific tank and bowl models, especially from different manufacturers or production years, is often challenging and can lead to compatibility issues and leaks. Replacing the whole unit ensures proper function, optimal efficiency, and avoids potential future problems, a practical tradeoff for long-term reliability.",
+        "@type": "Answer",
+        "description": "It's usually best to replace the entire toilet rather than just the tank or bowl due to compatibility issues and potential leaks when mixing components."
+      }
+    }
+  ],
+  "description": "It's usually best to replace the entire toilet rather than just the tank or bowl due to compatibility issues and potential leaks when mixing components."
+}

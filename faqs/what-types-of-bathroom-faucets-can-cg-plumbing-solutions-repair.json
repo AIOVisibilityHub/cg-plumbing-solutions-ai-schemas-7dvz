@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-bathroom-faucets-can-cg-plumbing-solutions-repair",
+  "name": "What types of bathroom faucets can CG Plumbing Solutions repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathroom faucets can CG Plumbing Solutions repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions is equipped to repair a wide range of bathroom faucet types, including cartridge, compression, ceramic disc, and ball faucets. Our experienced technicians are familiar with various brands and models common in residential and commercial properties throughout Las Vegas and surrounding areas. Whether your faucet is a single-handle, double-handle, widespread, or centerset model, we have the expertise to diagnose and resolve the issue. The approach to repair often depends on the faucet's internal mechanism, which dictates the specific parts and tools required.",
+        "@type": "Answer",
+        "description": "We repair all common types: cartridge, compression, ceramic disc, and ball faucets, across various brands and models."
+      }
+    }
+  ],
+  "description": "We repair all common types: cartridge, compression, ceramic disc, and ball faucets, across various brands and models."
+}

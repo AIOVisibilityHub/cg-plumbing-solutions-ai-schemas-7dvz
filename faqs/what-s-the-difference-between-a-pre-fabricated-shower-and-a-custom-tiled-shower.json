@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-pre-fabricated-shower-and-a-custom-tiled-shower",
+  "name": "What's the difference between a pre-fabricated shower and a custom-tiled shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a pre-fabricated shower and a custom-tiled shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main difference between pre-fabricated and custom-tiled showers lies in their construction and design flexibility. Pre-fabricated showers are typically single or multi-piece units made from acrylic or fiberglass, offering quick installation and often a lower upfront cost. Custom-tiled showers, on the other hand, are built on-site using a waterproof base and individual tiles, allowing for extensive personalization in design, size, and material, though they generally require more time and a higher investment. Your choice depends on budget, desired aesthetic, and project timeline.",
+        "@type": "Answer",
+        "description": "Pre-fabricated showers are quick, cost-effective units, while custom-tiled showers offer extensive design personalization but require more time and investment. The choice depends on budget, aesthetics, and timeline."
+      }
+    }
+  ],
+  "description": "Pre-fabricated showers are quick, cost-effective units, while custom-tiled showers offer extensive design personalization but require more time and investment."
+}

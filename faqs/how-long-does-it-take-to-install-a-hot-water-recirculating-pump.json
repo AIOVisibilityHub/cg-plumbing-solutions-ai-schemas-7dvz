@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-hot-water-recirculating-pump",
+  "name": "How long does it take to install a hot water recirculating pump?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a hot water recirculating pump?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a hot water recirculating pump can vary depending on the system type and the complexity of your home's plumbing. A comfort valve (under-sink) system can often be installed within a few hours. A dedicated return line system, which may require running new piping, could take longer, potentially a full day or more. During our initial consultation, CG Plumbing Solutions provides an estimated timeline based on your specific setup and needs. We aim to complete installations efficiently while ensuring quality workmanship.",
+        "@type": "Answer",
+        "description": "Installation time varies: a comfort valve system can take a few hours, while a dedicated return line system might take a full day or more depending on plumbing complexity."
+      }
+    }
+  ],
+  "description": "Installation time varies: a comfort valve system can take a few hours, while a dedicated return line system might take a full day or more depending on plumbing"
+}

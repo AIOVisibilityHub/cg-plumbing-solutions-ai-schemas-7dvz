@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-causes-of-a-clogged-toilet",
+  "name": "What are common causes of a clogged toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common causes of a clogged toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common causes of a clogged toilet include excessive toilet paper, flushing non-biodegradable items like wet wipes or feminine hygiene products, and foreign objects such as small toys. Structural issues within your plumbing system, such as pipe corrosion or tree root intrusion, can also lead to recurring clogs. Identifying the cause is crucial for effective repair and preventing future blockages. For instance, if you frequently flush flushable wipes, despite their label, they can accumulate and cause significant obstructions over time.",
+        "@type": "Answer",
+        "description": "Common causes of a clogged toilet include excessive toilet paper, flushing non-biodegradable items, foreign objects, and structural plumbing issues."
+      }
+    }
+  ],
+  "description": "Common causes of a clogged toilet include excessive toilet paper, flushing non-biodegradable items, foreign objects, and structural plumbing issues."
+}

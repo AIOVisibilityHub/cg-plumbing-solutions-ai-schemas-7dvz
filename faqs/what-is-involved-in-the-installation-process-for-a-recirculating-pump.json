@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-installation-process-for-a-recirculating-pump",
+  "name": "What is involved in the installation process for a recirculating pump?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the installation process for a recirculating pump?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically involves assessing your plumbing system, selecting the appropriate pump type (dedicated line or comfort valve), and then plumbing the pump into your hot water supply. For comfort valve systems, this often means installing a small pump under the furthest sink. Dedicated return line systems are more complex and may require running new piping. Our team at CG Plumbing Solutions ensures minimal disruption and handles all necessary connections, testing, and adjustments to guarantee proper function and efficiency.",
+        "@type": "Answer",
+        "description": "Installation involves assessing your plumbing, choosing the pump type, and connecting it to your hot water supply, with dedicated lines being more complex than comfort valve systems."
+      }
+    }
+  ],
+  "description": "Installation involves assessing your plumbing, choosing the pump type, and connecting it to your hot water supply, with dedicated lines being more complex than"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-cg-plumbing-solutions-repairing-a-running-toilet",
+  "name": "What is the process for CG Plumbing Solutions repairing a running toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for CG Plumbing Solutions repairing a running toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When you contact CG Plumbing Solutions for a running toilet repair, our process typically involves a few key steps. First, our technician will conduct a thorough diagnostic to accurately identify the specific component causing the toilet to run, whether it's the flapper, fill valve, or another issue. Once identified, we'll explain the problem and present the best repair options along with a transparent upfront price. With your approval, we'll proceed with the repair using quality replacement parts, ensuring the toilet functions correctly before we leave. This clear process ensures you are informed at every stage.",
+        "@type": "Answer",
+        "description": "Our process involves diagnosis, explaining the issue and repair options with transparent pricing, then expertly completing the repair with quality parts."
+      }
+    }
+  ],
+  "description": "Our process involves diagnosis, explaining the issue and repair options with transparent pricing, then expertly completing the repair with quality parts."
+}

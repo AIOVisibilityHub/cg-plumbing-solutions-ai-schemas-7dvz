@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-maintenance-is-required-for-a-new-commercial-water-heater",
+  "name": "What maintenance is required for a new commercial water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a new commercial water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance for a new commercial water heater typically includes annual flushing to remove sediment, checking the anode rod, inspecting for leaks, and testing the pressure relief valve. Consistent maintenance, especially for businesses in demanding environments, helps maintain efficiency, extend the unit's lifespan, and prevent unexpected breakdowns. CG Plumbing Solutions offers maintenance plans tailored to commercial systems to ensure optimal performance.",
+        "@type": "Answer",
+        "description": "New commercial water heaters require annual flushing, anode rod checks, leak inspections, and pressure relief valve tests. Regular maintenance ensures efficiency and longevity."
+      }
+    }
+  ],
+  "description": "New commercial water heaters require annual flushing, anode rod checks, leak inspections, and pressure relief valve tests. Regular maintenance ensures efficienc"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-instant-hot-water-system-installation-typically-take",
+  "name": "How long does instant hot water system installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does instant hot water system installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical installation of an instant hot water system by CG Plumbing Solutions generally takes a full day, though this can vary. Factors that affect the timeline include whether it's a new installation or a replacement, the required plumbing and venting modifications, and any necessary electrical upgrades. Our plumbers prioritize efficient and thorough work, ensuring that all components are correctly installed and tested to meet local codes in areas like Paradise or Summerlin before completion.",
+        "@type": "Answer",
+        "description": "Installation usually takes a full day, but timing can vary based on whether it's new installation or replacement, and required plumbing or electrical modifications."
+      }
+    }
+  ],
+  "description": "Installation usually takes a full day, but timing can vary based on whether it's new installation or replacement, and required plumbing or electrical modificati"
+}

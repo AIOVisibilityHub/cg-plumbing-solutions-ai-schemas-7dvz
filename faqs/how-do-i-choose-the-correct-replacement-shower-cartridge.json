@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-choose-the-correct-replacement-shower-cartridge",
+  "name": "How do I choose the correct replacement shower cartridge?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the correct replacement shower cartridge?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the correct replacement shower cartridge depends heavily on the brand and model of your shower faucet. Different manufacturers use unique cartridge designs that are not interchangeable. To identify the right part, you'll need to know the faucet brand, and often the specific model number, which can sometimes be found on the trim plate or original installation manual. You may need to remove the old cartridge to match it visually with a new one. A professional plumber from CG Plumbing Solutions can accurately identify and source the correct cartridge for your specific fixture, saving you time and ensuring compatibility.",
+        "@type": "Answer",
+        "description": "The correct cartridge depends on your shower faucet's brand and model. You may need the model number or visual matching of the old cartridge. A plumber can identify the right part."
+      }
+    }
+  ],
+  "description": "The correct cartridge depends on your shower faucet's brand and model. You may need the model number or visual matching of the old cartridge. A plumber can iden"
+}

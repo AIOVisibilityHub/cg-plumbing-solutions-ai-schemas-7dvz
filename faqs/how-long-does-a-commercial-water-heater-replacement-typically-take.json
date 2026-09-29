@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-commercial-water-heater-replacement-typically-take",
+  "name": "How long does a commercial water heater replacement typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a commercial water heater replacement typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a commercial water heater replacement typically ranges from 4 to 8 hours, depending on the system's complexity, size, and whether any piping modifications are needed. Factors such as access to the installation area and existing infrastructure can affect the timeline. CG Plumbing Solutions provides an estimated timeframe after an initial assessment to help businesses plan for minimal disruption.",
+        "@type": "Answer",
+        "description": "Replacement usually takes 4-8 hours, but can vary based on system complexity and necessary modifications. An assessment by CG Plumbing Solutions provides a more precise estimate."
+      }
+    }
+  ],
+  "description": "Replacement usually takes 4-8 hours, but can vary based on system complexity and necessary modifications. An assessment by CG Plumbing Solutions provides a more"
+}

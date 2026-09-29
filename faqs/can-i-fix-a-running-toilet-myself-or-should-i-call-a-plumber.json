@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-fix-a-running-toilet-myself-or-should-i-call-a-plumber",
+  "name": "Can I fix a running toilet myself, or should I call a plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a running toilet myself, or should I call a plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often fix minor running toilet issues yourself if you have basic plumbing knowledge and the correct replacement parts, such as a new flapper or fill valve. However, if you're unsure about diagnosing the problem, lack the proper tools, or if the issue persists after your attempts, it's best to call a professional plumber. A professional can quickly identify complex issues and ensure the repair is done correctly, preventing further water waste or potential damage. Consider your comfort level with plumbing tasks and the potential for exacerbating the problem if not done correctly.",
+        "@type": "Answer",
+        "description": "You can try DIY fixes for minor issues, but for complex problems or persistent leaks, calling a plumber ensures correct repair and prevents further issues."
+      }
+    }
+  ],
+  "description": "You can try DIY fixes for minor issues, but for complex problems or persistent leaks, calling a plumber ensures correct repair and prevents further issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-my-toilet-running-constantly",
+  "name": "Why is my toilet running constantly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my toilet running constantly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A constantly running toilet typically indicates a problem with internal tank components, such as a faulty flapper valve that isn't sealing correctly, a fill valve that isn't shutting off water flow, or an improperly set float cup. These issues prevent the tank from properly refilling and signaling the water supply to stop, leading to continuous water waste. Before calling for service, you can often identify the cause by listening for leaks or observing if the water level in the tank reaches the top of the overflow tube.",
+        "@type": "Answer",
+        "description": "A constantly running toilet is usually caused by a faulty flapper valve, fill valve, or an improperly set float cup, leading to continuous water waste."
+      }
+    }
+  ],
+  "description": "A constantly running toilet is usually caused by a faulty flapper valve, fill valve, or an improperly set float cup, leading to continuous water waste."
+}

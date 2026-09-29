@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-should-i-consider-when-choosing-between-a-gas-or-electric-instant-h",
+  "name": "What factors should I consider when choosing between a gas or electric instant hot water system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing between a gas or electric instant hot water system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing between a gas or electric instant hot water system, consider your home's existing utility infrastructure and energy costs. Gas models often have higher flow rates and lower operating costs if natural gas is readily available and affordable in your area. Electric models are typically easier to install if you lack gas lines, but may require significant electrical panel upgrades and can have higher operating costs depending on electricity rates. A key decision factor involves assessing your current home setup to see which option requires fewer costly modifications for installation.",
+        "@type": "Answer",
+        "description": "Consider existing utility infrastructure and energy costs. Gas offers higher flow rates but needs gas lines; electric is easier to install but may need electrical upgrades."
+      }
+    }
+  ],
+  "description": "Consider existing utility infrastructure and energy costs. Gas offers higher flow rates but needs gas lines; electric is easier to install but may need electric"
+}

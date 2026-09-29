@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-bathtub-drain-repair-cost-in-the-las-vegas-area",
+  "name": "How much does bathtub drain repair cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does bathtub drain repair cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of bathtub drain repair in the Las Vegas area can vary significantly depending on the complexity of the clog and the required repair method. Simple clogs might be resolved with basic drain snaking, while more severe blockages or pipe damage could require more extensive work like hydro-jetting or pipe section replacement. We provide an upfront estimate after diagnosing the issue. Factors like accessibility to the drain, the type of pipe, and the severity of the obstruction will all influence the final price.",
+        "@type": "Answer",
+        "description": "Bathtub drain repair costs in Las Vegas vary based on clog complexity and repair method. A diagnosis provides an upfront estimate."
+      }
+    }
+  ],
+  "description": "Bathtub drain repair costs in Las Vegas vary based on clog complexity and repair method. A diagnosis provides an upfront estimate."
+}

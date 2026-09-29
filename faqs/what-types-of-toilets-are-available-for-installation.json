@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-toilets-are-available-for-installation",
+  "name": "What types of toilets are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of toilets are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several types of toilets available for installation, including gravity-fed, pressure-assisted, dual-flush, and wall-mounted models. Each type offers different features in terms of water efficiency, flushing power, and aesthetics. When making a decision, consider factors like your household's water usage habits, bathroom size, and accessibility needs. For example, dual-flush toilets offer water savings, while wall-mounted units can free up floor space for easier cleaning.",
+        "@type": "Answer",
+        "description": "Available toilet types include gravity-fed, pressure-assisted, dual-flush, and wall-mounted models, each with different features and benefits."
+      }
+    }
+  ],
+  "description": "Available toilet types include gravity-fed, pressure-assisted, dual-flush, and wall-mounted models, each with different features and benefits."
+}

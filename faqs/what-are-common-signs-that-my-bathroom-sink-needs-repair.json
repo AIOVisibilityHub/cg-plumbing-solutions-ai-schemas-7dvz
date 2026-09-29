@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-bathroom-sink-needs-repair",
+  "name": "What are common signs that my bathroom sink needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my bathroom sink needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your bathroom sink needs repair include slow drainage, leaks around the base or P-trap, unusual noises like gurgling, or persistent odors. These issues often indicate blockages, loose connections, or deteriorating seals. It's important to address these promptly, as ignoring them can lead to more significant water damage or plumbing complications, potentially increasing the repair scope. Early intervention can often prevent minor problems from becoming major ones.",
+        "@type": "Answer",
+        "description": "Slow drainage, leaks, gurgling noises, or persistent odors are common signs your bathroom sink needs repair."
+      }
+    }
+  ],
+  "description": "Slow drainage, leaks, gurgling noises, or persistent odors are common signs your bathroom sink needs repair."
+}

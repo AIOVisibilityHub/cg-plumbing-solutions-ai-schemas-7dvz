@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-turn-off-my-main-water-supply-before-a-plumber-arrives-for-toilet-r",
+  "name": "Do I need to turn off my main water supply before a plumber arrives for toilet repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to turn off my main water supply before a plumber arrives for toilet repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly necessary for you to turn off the main water supply before a plumber arrives, it can be helpful if you're experiencing an active, significant leak that could cause water damage. For most toilet repairs, our technicians will only need to turn off the water supply specifically to the toilet, which is done using the shut-off valve located behind or near the base of the toilet. Knowing the location of this individual toilet shut-off valve, and ensuring it functions correctly, can speed up the repair process and prevent larger issues if a problem arises suddenly.",
+        "@type": "Answer",
+        "description": "You don't typically need to turn off the main water supply; plumbers usually just use the toilet's individual shut-off valve. However, if there's an active, significant leak, turning off the main supply beforehand can prevent damage."
+      }
+    }
+  ],
+  "description": "You don't typically need to turn off the main water supply; plumbers usually just use the toilet's individual shut-off valve. However, if there's an active, sig"
+}

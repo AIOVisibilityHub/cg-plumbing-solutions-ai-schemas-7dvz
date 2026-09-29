@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-involved-in-the-process-of-repairing-a-leaking-bathroom-sink-faucet",
+  "name": "What's involved in the process of repairing a leaking bathroom sink faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's involved in the process of repairing a leaking bathroom sink faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a leaking bathroom sink faucet typically involves diagnosing the source of the leak, which is often a worn-out washer, O-ring, or a faulty cartridge. The plumber will turn off the water supply, disassemble the faucet, replace the defective part, and then reassemble and test it. The process requires specific tools and knowledge of different faucet models. Before the service, consider noting the brand and model of your faucet if known, as this can help the plumber bring the correct replacement parts more quickly.",
+        "@type": "Answer",
+        "description": "Repairing a leaking faucet involves turning off water, disassembling the faucet, replacing worn parts like washers or cartridges, and then reassembling and testing it."
+      }
+    }
+  ],
+  "description": "Repairing a leaking faucet involves turning off water, disassembling the faucet, replacing worn parts like washers or cartridges, and then reassembling and test"
+}

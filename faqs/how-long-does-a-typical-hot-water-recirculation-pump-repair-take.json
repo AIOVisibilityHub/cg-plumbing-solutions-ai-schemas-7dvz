@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-hot-water-recirculation-pump-repair-take",
+  "name": "How long does a typical hot water recirculation pump repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical hot water recirculation pump repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a hot water recirculation pump repair can vary based on the issue's complexity and the specific pump model. Minor repairs, such as addressing a simple blockage or electrical connection, might take 1-2 hours. More complex issues, like motor replacement or diagnosing intermittent problems, could require a few hours. We prioritize efficient service to minimize disruption to your home's hot water supply, often completing repairs in a single visit if parts are readily available.",
+        "@type": "Answer",
+        "description": "Most hot water recirculation pump repairs can take 1-3 hours, depending on the complexity of the issue and parts availability."
+      }
+    }
+  ],
+  "description": "Most hot water recirculation pump repairs can take 1-3 hours, depending on the complexity of the issue and parts availability."
+}

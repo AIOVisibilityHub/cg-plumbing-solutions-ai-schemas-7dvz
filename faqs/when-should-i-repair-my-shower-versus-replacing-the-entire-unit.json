@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-repair-my-shower-versus-replacing-the-entire-unit",
+  "name": "When should I repair my shower versus replacing the entire unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my shower versus replacing the entire unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repairing and replacing your shower depends on the extent of the damage, the age of the unit, and your budget. If the issue is isolated, such as a leaky faucet or a clogged drain, repair is usually the most cost-effective solution. However, if there are multiple recurring problems, significant structural damage, or if the unit is very old, replacement might be a better long-term investment. Our technicians can assess the condition and provide options to help you make an informed decision based on the specific issues observed.",
+        "@type": "Answer",
+        "description": "Repair minor, isolated issues; consider replacement for extensive damage, frequent problems, or very old units. We help assess and advise."
+      }
+    }
+  ],
+  "description": "Repair minor, isolated issues; consider replacement for extensive damage, frequent problems, or very old units. We help assess and advise."
+}

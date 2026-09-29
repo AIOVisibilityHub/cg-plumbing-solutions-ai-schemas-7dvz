@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-tell-if-my-current-water-heater-installation-is-up-to-code",
+  "name": "How can I tell if my current water heater installation is up to code?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my current water heater installation is up to code?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining if your current water heater installation is up to code often requires a professional assessment. While you can visually check for basic elements like seismic straps or a drain pan, local codes change, and an older installation might not meet current standards. A qualified plumber can inspect your unit for proper venting, T&P valve discharge, expansion tank presence, and other specific local requirements. We offer inspections to assess compliance and advise on necessary upgrades.",
+        "@type": "Answer",
+        "description": "A professional assessment is the best way to determine if your water heater meets current code, as standards change."
+      }
+    }
+  ],
+  "description": "A professional assessment is the best way to determine if your water heater meets current code, as standards change."
+}

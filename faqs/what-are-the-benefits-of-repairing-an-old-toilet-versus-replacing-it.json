@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-benefits-of-repairing-an-old-toilet-versus-replacing-it",
+  "name": "What are the benefits of repairing an old toilet versus replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of repairing an old toilet versus replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing an old toilet can be a cost-effective solution if the issues are minor and the toilet itself is in good condition. Benefits include saving money on a new unit, avoiding disposal fees, and maintaining the existing aesthetic of your bathroom. However, if the toilet is very old, frequently malfunctioning, or inefficient with water usage, replacement might be a better long-term investment. Modern toilets offer improved flushing technology and significant water savings, which can reduce your utility bills over time. We can help you assess whether a repair or replacement offers the best value based on your toilet's condition and your budget.",
+        "@type": "Answer",
+        "description": "Repairing an old toilet saves money and maintains aesthetics for minor issues, but replacing an inefficient, frequently malfunctioning unit offers long-term benefits like water savings and improved performance."
+      }
+    }
+  ],
+  "description": "Repairing an old toilet saves money and maintains aesthetics for minor issues, but replacing an inefficient, frequently malfunctioning unit offers long-term ben"
+}

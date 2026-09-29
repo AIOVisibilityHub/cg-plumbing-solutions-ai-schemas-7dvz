@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-common-problems-indicate-i-need-bathtub-faucet-repair",
+  "name": "What common problems indicate I need bathtub faucet repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common problems indicate I need bathtub faucet repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond a visible leak, other signs that your bathtub faucet needs repair include inconsistent water temperature, low water pressure specifically from the faucet, a squealing or grinding noise when turning the handles, or difficulty turning the handles themselves. These issues often point to internal component wear or mineral buildup. If you notice any of these symptoms, it's best to address them promptly to prevent further damage. CG Plumbing Solutions advises addressing these issues early to prevent minor problems from escalating into more costly repairs.",
+        "@type": "Answer",
+        "description": "Look for inconsistent water temperature, low pressure, squealing noises, or difficulty turning handles as signs your bathtub faucet needs repair."
+      }
+    }
+  ],
+  "description": "Look for inconsistent water temperature, low pressure, squealing noises, or difficulty turning handles as signs your bathtub faucet needs repair."
+}

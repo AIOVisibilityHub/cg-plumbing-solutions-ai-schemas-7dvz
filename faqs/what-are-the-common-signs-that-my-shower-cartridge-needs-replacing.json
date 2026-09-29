@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-that-my-shower-cartridge-needs-replacing",
+  "name": "What are the common signs that my shower cartridge needs replacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my shower cartridge needs replacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your shower cartridge needs replacement include a leaky faucet, difficulty controlling water temperature, inconsistent water flow, or the handle becoming stiff or hard to turn. A constant drip after turning off the shower is a clear indicator that the cartridge seals are worn. Ignoring these issues can lead to increased water bills or more significant plumbing damage over time, making timely replacement important. If you're experiencing these issues in your Las Vegas home, addressing them promptly can prevent further complications.",
+        "@type": "Answer",
+        "description": "Signs include leaks, temperature control issues, inconsistent flow, or a stiff handle. A constant drip is a key indicator of worn seals."
+      }
+    }
+  ],
+  "description": "Signs include leaks, temperature control issues, inconsistent flow, or a stiff handle. A constant drip is a key indicator of worn seals."
+}

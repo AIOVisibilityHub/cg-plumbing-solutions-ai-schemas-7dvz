@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-repair-a-shower-valve",
+  "name": "How long does it take to repair a shower valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a shower valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most shower valve repairs can be completed within 1 to 3 hours, depending on the complexity of the problem and the accessibility of the valve. Simple issues like replacing a cartridge are often quicker, while extensive repairs or those requiring wall access can take longer. Our experienced technicians from CG Plumbing Solutions work efficiently to minimize disruption to your home. We strive to provide a clear timeline once the issue has been diagnosed.",
+        "@type": "Answer",
+        "description": "Most shower valve repairs take 1 to 3 hours, depending on the complexity and accessibility of the valve."
+      }
+    }
+  ],
+  "description": "Most shower valve repairs take 1 to 3 hours, depending on the complexity and accessibility of the valve."
+}

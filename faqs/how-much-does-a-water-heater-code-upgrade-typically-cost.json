@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-a-water-heater-code-upgrade-typically-cost",
+  "name": "How much does a water heater code upgrade typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a water heater code upgrade typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a water heater code upgrade can vary significantly depending on the specific upgrades needed and the complexity of your existing installation. Factors influencing the price include whether new venting is required, if a drain pan needs to be installed, or if gas line modifications are necessary. It's best to get a detailed estimate after an assessment, as prices fluctuate based on labor and material costs. We provide transparent quotes for all necessary code compliance work.",
+        "@type": "Answer",
+        "description": "The cost of a water heater code upgrade varies based on required updates like venting, drain pan, or gas line modifications."
+      }
+    }
+  ],
+  "description": "The cost of a water heater code upgrade varies based on required updates like venting, drain pan, or gas line modifications."
+}

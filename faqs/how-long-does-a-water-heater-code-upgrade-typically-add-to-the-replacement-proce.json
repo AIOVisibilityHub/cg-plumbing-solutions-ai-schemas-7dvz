@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-water-heater-code-upgrade-typically-add-to-the-replacement-proce",
+  "name": "How long does a water heater code upgrade typically add to the replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a water heater code upgrade typically add to the replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water heater code upgrade can add several hours to the overall replacement timeline, depending on the number and complexity of the required updates. Simple upgrades like seismic strapping or minor T&P valve adjustments might add an hour or two. More involved changes, such as re-routing venting or installing new drain lines, could extend the process significantly. We strive to complete installations efficiently while ensuring all code requirements are met.",
+        "@type": "Answer",
+        "description": "Code upgrades can add several hours to the replacement, depending on the complexity of updates like venting or drain line changes."
+      }
+    }
+  ],
+  "description": "Code upgrades can add several hours to the replacement, depending on the complexity of updates like venting or drain line changes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-bathtub-faucet-repair-take",
+  "name": "How long does a typical bathtub faucet repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathtub faucet repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common bathtub faucet repairs can be completed within 1 to 3 hours, depending on the complexity of the issue and the type of faucet. If specialized parts need to be ordered, the repair might extend over a couple of days. Our CG Plumbing Solutions technicians aim for efficient service, arriving with a well-stocked truck to handle common repairs on the first visit. We prioritize completing the repair promptly to restore your plumbing functionality with minimal disruption.",
+        "@type": "Answer",
+        "description": "Typical bathtub faucet repairs take 1-3 hours, but complex issues or ordered parts can extend the timeline."
+      }
+    }
+  ],
+  "description": "Typical bathtub faucet repairs take 1-3 hours, but complex issues or ordered parts can extend the timeline."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-bathroom-sink-repair-take",
+  "name": "How long does a typical bathroom sink repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom sink repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom sink repair can range from 30 minutes for simple fixes like clearing a minor clog to several hours for more complex issues such as replacing a P-trap, repairing hidden pipe leaks, or installing new faucet components. The timing also depends on the availability of specific replacement parts, especially for older or less common sink models. CG Plumbing Solutions aims to complete repairs efficiently while ensuring a lasting solution, minimizing disruption to your home.",
+        "@type": "Answer",
+        "description": "Bathroom sink repair can take 30 minutes for minor clogs up to several hours for complex issues like pipe leaks or component replacement, depending on the problem's nature."
+      }
+    }
+  ],
+  "description": "Bathroom sink repair can take 30 minutes for minor clogs up to several hours for complex issues like pipe leaks or component replacement, depending on the probl"
+}

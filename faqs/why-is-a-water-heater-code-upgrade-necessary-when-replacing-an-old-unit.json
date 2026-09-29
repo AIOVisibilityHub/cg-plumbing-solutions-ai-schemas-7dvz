@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-a-water-heater-code-upgrade-necessary-when-replacing-an-old-unit",
+  "name": "Why is a water heater code upgrade necessary when replacing an old unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is a water heater code upgrade necessary when replacing an old unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Code upgrades are necessary when replacing an old water heater to ensure the new unit operates safely and efficiently in compliance with current regulations. Older installations may not meet today's standards for safety features like seismic strapping or proper venting, which are crucial for preventing hazards. Failing to upgrade can lead to permit issues, safety risks, or potential complications during inspections. We ensure all new installations adhere to current local codes.",
+        "@type": "Answer",
+        "description": "Code upgrades are necessary during water heater replacement to ensure the new unit operates safely, efficiently, and in compliance with current local regulations."
+      }
+    }
+  ],
+  "description": "Code upgrades are necessary during water heater replacement to ensure the new unit operates safely, efficiently, and in compliance with current local regulation"
+}

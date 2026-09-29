@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-maintenance-does-an-instant-hot-water-system-require",
+  "name": "What kind of maintenance does an instant hot water system require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does an instant hot water system require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Instant hot water systems require periodic maintenance, primarily flushing the unit to remove mineral sediment buildup. This is especially important in areas with hard water, like parts of Las Vegas. Flushing helps maintain efficiency and extend the system's lifespan. We recommend professional annual or biennial maintenance, which includes checking connections, heat exchangers, and safety valves. This preventative care helps identify potential issues early and ensures your system continues to operate reliably.",
+        "@type": "Answer",
+        "description": "Maintenance primarily involves periodic flushing to remove mineral buildup, especially in hard water areas. Annual or biennial professional service is recommended."
+      }
+    }
+  ],
+  "description": "Maintenance primarily involves periodic flushing to remove mineral buildup, especially in hard water areas. Annual or biennial professional service is recommend"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-repairing-and-replacing-a-bathroom-faucet",
+  "name": "What is the difference between repairing and replacing a bathroom faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and replacing a bathroom faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a bathroom faucet involves fixing specific broken or worn components, such as replacing a washer, cartridge, or O-ring, to restore its functionality. Replacement, on the other hand, means removing the entire old faucet and installing a new one. The decision between repair and replacement often depends on the age of the faucet, the severity of the damage, and the availability of replacement parts. If your faucet is old, severely corroded, or if replacement parts are hard to find, a full replacement might be more cost-effective in the long run. CG Plumbing Solutions technicians can help assess whether a repair is sufficient or if a replacement offers better value.",
+        "@type": "Answer",
+        "description": "Repairing fixes specific parts, while replacing involves installing a new faucet. The choice depends on age, damage, and part availability."
+      }
+    }
+  ],
+  "description": "Repairing fixes specific parts, while replacing involves installing a new faucet. The choice depends on age, damage, and part availability."
+}

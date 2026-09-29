@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-you-repair-all-types-of-shower-faucets-including-older-models",
+  "name": "Can you repair all types of shower faucets, including older models?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair all types of shower faucets, including older models?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our experienced technicians are equipped to repair a wide range of shower faucet types, including single-handle, double-handle, and thermostatic models, as well as many older or discontinued designs. While most repairs are straightforward, older or specialty faucets might require ordering specific replacement parts, which could affect the timeline. We maintain a network of suppliers to source parts efficiently, but it's important to understand that availability can sometimes be a factor for very old or unique fixtures.",
+        "@type": "Answer",
+        "description": "We repair various shower faucet types, including older models. Specialty faucets may require ordering specific parts, affecting repair time."
+      }
+    }
+  ],
+  "description": "We repair various shower faucet types, including older models. Specialty faucets may require ordering specific parts, affecting repair time."
+}

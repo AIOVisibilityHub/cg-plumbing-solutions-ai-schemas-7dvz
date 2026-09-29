@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-choose-the-right-recirculating-pump-for-my-home",
+  "name": "How do I choose the right recirculating pump for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right recirculating pump for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right recirculating pump depends on several factors: your budget, the size and layout of your home, whether you have an existing dedicated return line, and your desired level of hot water immediacy and energy efficiency. For homes without a return line, a comfort valve system is a simpler choice. If maximum efficiency and constant instant hot water are priorities, a dedicated return line system may be better. Preparing by considering these factors and noting the furthest hot water faucet from your water heater can help us recommend the best fit during a consultation with CG Plumbing Solutions.",
+        "@type": "Answer",
+        "description": "Choose based on budget, home layout, existing plumbing (dedicated return line?), and desired efficiency. Considering these factors helps us recommend the best pump."
+      }
+    }
+  ],
+  "description": "Choose based on budget, home layout, existing plumbing (dedicated return line?), and desired efficiency. Considering these factors helps us recommend the best p"
+}

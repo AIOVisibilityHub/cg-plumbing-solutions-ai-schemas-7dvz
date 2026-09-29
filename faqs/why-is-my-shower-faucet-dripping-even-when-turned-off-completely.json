@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-my-shower-faucet-dripping-even-when-turned-off-completely",
+  "name": "Why is my shower faucet dripping even when turned off completely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my shower faucet dripping even when turned off completely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A dripping shower faucet when turned off typically indicates a worn-out internal component, most commonly the cartridge, washer, or O-rings. These parts are designed to create a watertight seal, and over time, they can degrade due to mineral buildup or general wear and tear, allowing water to pass through. Repairing this usually involves replacing the faulty component. We frequently observe this issue in homes across the Las Vegas Valley due to the hard water conditions, which can accelerate wear on internal faucet mechanisms.",
+        "@type": "Answer",
+        "description": "A dripping faucet usually means a worn-out cartridge, washer, or O-rings. Hard water in the Las Vegas Valley can accelerate this wear."
+      }
+    }
+  ],
+  "description": "A dripping faucet usually means a worn-out cartridge, washer, or O-rings. Hard water in the Las Vegas Valley can accelerate this wear."
+}

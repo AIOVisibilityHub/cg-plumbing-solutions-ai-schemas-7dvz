@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-tools-do-professional-plumbers-use-for-stubborn-toilet-clogs",
+  "name": "What tools do professional plumbers use for stubborn toilet clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What tools do professional plumbers use for stubborn toilet clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional plumbers use specialized tools to tackle stubborn toilet clogs that household plungers can't handle. These often include closet augers, designed to navigate the toilet's trap without scratching the porcelain, and more robust drain snakes (cable augers) for deeper clogs in the drainpipe or sewer line. For severe blockages, especially those caused by grease buildup or tree roots, hydro-jetting equipment, which blasts water at high pressure, is used to thoroughly clean the pipes. These tools allow for efficient and effective clog removal.",
+        "@type": "Answer",
+        "description": "Professionals use specialized closet augers, drain snakes, and hydro-jetting equipment to clear stubborn toilet clogs that household tools cannot resolve."
+      }
+    }
+  ],
+  "description": "Professionals use specialized closet augers, drain snakes, and hydro-jetting equipment to clear stubborn toilet clogs that household tools cannot resolve."
+}

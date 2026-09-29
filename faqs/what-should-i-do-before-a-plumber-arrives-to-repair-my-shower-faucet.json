@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-before-a-plumber-arrives-to-repair-my-shower-faucet",
+  "name": "What should I do before a plumber arrives to repair my shower faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before a plumber arrives to repair my shower faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber arrives, it's helpful to clear the area around the shower and faucet, ensuring easy access to the plumbing. If you know how, turning off the water supply to the shower or the entire house can prevent further water damage in case of a severe leak. Additionally, making a note of specific symptoms, when they started, and if you've noticed any other plumbing issues can assist the technician. Having details like the faucet's brand or model can also be beneficial for efficient problem-solving.",
+        "@type": "Answer",
+        "description": "Clear the area, turn off the water if possible, and note specific symptoms and faucet details to help the plumber."
+      }
+    }
+  ],
+  "description": "Clear the area, turn off the water if possible, and note specific symptoms and faucet details to help the plumber."
+}

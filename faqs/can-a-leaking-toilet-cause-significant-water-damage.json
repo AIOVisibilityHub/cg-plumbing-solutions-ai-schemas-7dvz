@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-a-leaking-toilet-cause-significant-water-damage",
+  "name": "Can a leaking toilet cause significant water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a leaking toilet cause significant water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, even a small, consistent toilet leak can cause significant water damage over time, leading to costly repairs. Water can seep into flooring, subflooring, walls, and even ceilings if the leak is on an upper floor. This moisture can promote mold growth, rot wooden structures, and damage drywall. Prompt repair by a professional from CG Plumbing Solutions is crucial to mitigate these risks and protect your property from extensive damage.",
+        "@type": "Answer",
+        "description": "Yes, even small leaks can cause significant water damage to floors, walls, and ceilings, leading to mold and structural issues if not repaired promptly."
+      }
+    }
+  ],
+  "description": "Yes, even small leaks can cause significant water damage to floors, walls, and ceilings, leading to mold and structural issues if not repaired promptly."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-a-plumber-to-repair-a-clogged-toilet",
+  "name": "What is the typical process for a plumber to repair a clogged toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a plumber to repair a clogged toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When our plumbers at CG Plumbing Solutions arrive for a clogged toilet repair, they first assess the severity and potential cause of the clog. This may involve a visual inspection or using a camera for deeper issues. They typically start with professional-grade augers or plungers. If the clog is persistent, they may employ hydro-jetting, which uses high-pressure water to clear the drain line thoroughly. The process often concludes with testing the toilet to ensure proper flushing and discussing preventative measures. We aim to identify and resolve the root cause efficiently.",
+        "@type": "Answer",
+        "description": "Plumbers assess the clog, use professional tools like augers or hydro-jetting, then test the toilet to ensure proper function and discuss prevention."
+      }
+    }
+  ],
+  "description": "Plumbers assess the clog, use professional tools like augers or hydro-jetting, then test the toilet to ensure proper function and discuss prevention."
+}

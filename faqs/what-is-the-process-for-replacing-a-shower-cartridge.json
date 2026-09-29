@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-replacing-a-shower-cartridge",
+  "name": "What is the process for replacing a shower cartridge?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a shower cartridge?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for replacing a shower cartridge begins with turning off the water supply to the shower, typically at the main shut-off valve. The plumber will then remove the shower handle and trim plate to access the valve. The old cartridge is carefully extracted, and the new one is installed, ensuring all seals are correctly seated. Finally, the handle and trim are reassembled, and the water supply is restored to test for proper function and leaks. Before a plumber arrives, you can gather any warranty information or model numbers for your shower fixture, which can help them quickly identify the correct replacement cartridge.",
+        "@type": "Answer",
+        "description": "The process involves shutting off water, removing the handle, extracting the old cartridge, installing the new one, and reassembling. Preparation includes gathering fixture information."
+      }
+    }
+  ],
+  "description": "The process involves shutting off water, removing the handle, extracting the old cartridge, installing the new one, and reassembling. Preparation includes gathe"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-process-of-repairing-or-replacing-a-toilet-flange",
+  "name": "What is involved in the process of repairing or replacing a toilet flange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of repairing or replacing a toilet flange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with shutting off the water and removing the toilet. The plumber will then assess the extent of the flange damage. Depending on the issue, they may repair it using a flange extender or repair kit, or fully replace it if the damage is severe. Replacement involves removing the old flange, preparing the drainpipe, installing the new flange, and ensuring a proper seal with a new wax ring before reinstalling the toilet. The specific steps vary based on the flange material and subfloor condition.",
+        "@type": "Answer",
+        "description": "The process involves removing the toilet, assessing damage, then either repairing with a kit or extender, or fully replacing the flange and reinstalling the toilet."
+      }
+    }
+  ],
+  "description": "The process involves removing the toilet, assessing damage, then either repairing with a kit or extender, or fully replacing the flange and reinstalling the toi"
+}

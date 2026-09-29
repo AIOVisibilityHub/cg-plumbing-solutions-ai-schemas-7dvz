@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-fix-a-running-toilet-in-las-vegas",
+  "name": "How much does it cost to fix a running toilet in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a running toilet in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a running toilet in the Las Vegas area can vary depending on the specific cause and the parts required. Minor issues like a simple flapper replacement might be on the lower end, while more complex problems involving a full fill valve replacement or diagnosing multiple failing components could be more. We offer transparent pricing after diagnosing the problem, ensuring you understand the repair scope before any work begins. Obtaining an estimate after a professional assessment is crucial for accurate cost planning.",
+        "@type": "Answer",
+        "description": "The cost to fix a running toilet in Las Vegas varies based on the issue, from simple flapper replacements to more complex fill valve repairs. We provide transparent pricing after diagnosis."
+      }
+    }
+  ],
+  "description": "The cost to fix a running toilet in Las Vegas varies based on the issue, from simple flapper replacements to more complex fill valve repairs. We provide transpa"
+}

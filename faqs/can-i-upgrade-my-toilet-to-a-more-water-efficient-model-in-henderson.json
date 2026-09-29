@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-upgrade-my-toilet-to-a-more-water-efficient-model-in-henderson",
+  "name": "Can I upgrade my toilet to a more water-efficient model in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I upgrade my toilet to a more water-efficient model in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can upgrade to a more water-efficient toilet model in Henderson. Many modern toilets use significantly less water per flush than older models, which can help reduce your water bill and conserve resources. When selecting a new model, look for WaterSense labeled toilets, as they meet strict EPA criteria for efficiency and performance. Consideration of the existing rough-in measurement is also important to ensure the new toilet fits your current plumbing setup without major modifications.",
+        "@type": "Answer",
+        "description": "You can upgrade to a water-efficient toilet in Henderson; WaterSense labeled models save water and reduce utility costs."
+      }
+    }
+  ],
+  "description": "You can upgrade to a water-efficient toilet in Henderson; WaterSense labeled models save water and reduce utility costs."
+}

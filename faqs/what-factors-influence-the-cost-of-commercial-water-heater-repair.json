@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-commercial-water-heater-repair",
+  "name": "What factors influence the cost of commercial water heater repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of commercial water heater repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of commercial water heater repair is influenced by several factors, including the type and brand of the water heater, the specific component that needs replacement, and the labor required for the job. More advanced systems or those requiring specialized parts typically incur higher costs. Additionally, emergency services outside of standard business hours may also affect the overall price. CG Plumbing Solutions provides transparent quotes after assessing the problem.",
+        "@type": "Answer",
+        "description": "Repair costs depend on the water heater type, required parts, labor, and whether it's an emergency service."
+      }
+    }
+  ],
+  "description": "Repair costs depend on the water heater type, required parts, labor, and whether it's an emergency service."
+}

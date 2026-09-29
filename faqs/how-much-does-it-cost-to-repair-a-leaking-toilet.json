@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-repair-a-leaking-toilet",
+  "name": "How much does it cost to repair a leaking toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a leaking toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a leaking toilet can vary significantly depending on the issue's complexity and the required parts. Minor repairs, like replacing a flapper or fill valve, are typically less expensive. More involved problems, such as replacing a wax ring or fixing a cracked tank, might incur higher costs due to labor and material expenses. For an accurate estimate, CG Plumbing Solutions offers transparent pricing after diagnosing the specific leak during a service call in areas like Las Vegas and Henderson.",
+        "@type": "Answer",
+        "description": "Costs vary based on the leak's complexity and parts needed; minor repairs are less expensive than replacing wax rings or cracked components."
+      }
+    }
+  ],
+  "description": "Costs vary based on the leak's complexity and parts needed; minor repairs are less expensive than replacing wax rings or cracked components."
+}

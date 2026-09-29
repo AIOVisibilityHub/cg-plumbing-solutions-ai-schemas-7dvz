@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-bathroom-sinks-can-be-installed",
+  "name": "What types of bathroom sinks can be installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathroom sinks can be installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom sinks come in various styles, including pedestal, wall-mounted, drop-in, undermount, vessel, and integrated. The best type for your bathroom often depends on your existing vanity configuration, plumbing rough-ins, and aesthetic preferences. For example, a vessel sink requires specific countertop clearance and faucet height, while an undermount sink offers easier countertop cleaning but needs a compatible countertop material.",
+        "@type": "Answer",
+        "description": "Common types include pedestal, wall-mounted, drop-in, undermount, vessel, and integrated sinks, each suiting different bathroom designs and plumbing setups."
+      }
+    }
+  ],
+  "description": "Common types include pedestal, wall-mounted, drop-in, undermount, vessel, and integrated sinks, each suiting different bathroom designs and plumbing setups."
+}

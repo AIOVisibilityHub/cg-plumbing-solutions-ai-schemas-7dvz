@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-bathroom-faucet-repair-take",
+  "name": "How long does a typical bathroom faucet repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom faucet repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom faucet repair depends on the complexity of the problem. Simple repairs, such as replacing a leaky washer or O-ring, can often be completed within an hour. More involved issues, like replacing a cartridge or dealing with corrosion, may take longer, especially if specific parts need to be sourced. CG Plumbing Solutions aims for efficient service and typically completes most standard faucet repairs on the first visit, as our service vehicles are stocked with common replacement parts to minimize delays.",
+        "@type": "Answer",
+        "description": "Most simple repairs take under an hour; more complex issues may take longer. CG Plumbing Solutions often completes repairs on the first visit."
+      }
+    }
+  ],
+  "description": "Most simple repairs take under an hour; more complex issues may take longer. CG Plumbing Solutions often completes repairs on the first visit."
+}

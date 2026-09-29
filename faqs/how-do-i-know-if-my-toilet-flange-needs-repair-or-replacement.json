@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-toilet-flange-needs-repair-or-replacement",
+  "name": "How do I know if my toilet flange needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my toilet flange needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your toilet flange needs attention include a wobbly toilet, water leaking from the base of the toilet, a foul sewer gas smell in the bathroom, or visible damage to the flange itself, such as cracks or corrosion. Often, older homes or toilets that have been removed and reinstalled multiple times are more prone to flange issues. A professional inspection can accurately diagnose the problem.",
+        "@type": "Answer",
+        "description": "Signs include a wobbly toilet, leaks at the base, sewer gas odors, or visible flange damage."
+      }
+    }
+  ],
+  "description": "Signs include a wobbly toilet, leaks at the base, sewer gas odors, or visible flange damage."
+}

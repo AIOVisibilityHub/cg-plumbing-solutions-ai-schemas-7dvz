@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-my-toilet-instead-of-repairing-it",
+  "name": "When should I consider replacing my toilet instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my toilet instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your toilet if it's constantly running, frequently clogs, has visible cracks in the porcelain, or if the repairs are becoming more expensive than a new unit. Toilets older than 20 years may also lack water-saving features, making a replacement a practical tradeoff for long-term water bill savings. We often see older models in Las Vegas properties that are less efficient, making a new installation a wise choice for both functionality and utility costs.",
+        "@type": "Answer",
+        "description": "Replace your toilet if it has constant issues like running or clogging, visible cracks, or if repair costs exceed a new unit's price. Older models are often less water-efficient."
+      }
+    }
+  ],
+  "description": "Replace your toilet if it has constant issues like running or clogging, visible cracks, or if repair costs exceed a new unit's price. Older models are often les"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-bathroom-sink-installation-take",
+  "name": "How long does a typical bathroom sink installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom sink installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard bathroom sink installation typically takes 2-4 hours, assuming the plumbing is readily accessible and no significant modifications are required. The process can be extended if there's old plumbing to remove, countertop alterations needed for a new sink type, or if a new faucet is also being installed, which adds complexity. We aim to complete the work efficiently while ensuring proper seals and functionality.",
+        "@type": "Answer",
+        "description": "Most installations take 2-4 hours, but complexity increases with plumbing modifications or countertop alterations."
+      }
+    }
+  ],
+  "description": "Most installations take 2-4 hours, but complexity increases with plumbing modifications or countertop alterations."
+}

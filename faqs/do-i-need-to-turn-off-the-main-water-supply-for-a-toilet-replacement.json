@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-turn-off-the-main-water-supply-for-a-toilet-replacement",
+  "name": "Do I need to turn off the main water supply for a toilet replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to turn off the main water supply for a toilet replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, turning off the main water supply to your home is a necessary preparation step for a toilet replacement if the shut-off valve behind the toilet is faulty or non-existent. While most toilets have a dedicated shut-off valve, older homes, especially in areas like Paradise or Summerlin, sometimes have valves that don't fully close. We always check the local shut-off first, but being aware of your home's main water valve location is always helpful.",
+        "@type": "Answer",
+        "description": "Yes, you may need to turn off the main water supply if the toilet's individual shut-off valve is faulty or missing. This is a common preparation step."
+      }
+    }
+  ],
+  "description": "Yes, you may need to turn off the main water supply if the toilet's individual shut-off valve is faulty or missing. This is a common preparation step."
+}

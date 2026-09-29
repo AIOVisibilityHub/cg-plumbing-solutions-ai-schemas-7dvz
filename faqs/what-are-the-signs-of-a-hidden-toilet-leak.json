@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-of-a-hidden-toilet-leak",
+  "name": "What are the signs of a hidden toilet leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of a hidden toilet leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hidden toilet leaks often manifest subtly, making them difficult to detect without careful observation. Common signs include a constantly running toilet, phantom flushing (when the toilet flushes itself without being used), or a sudden increase in your water bill. You might also notice water stains on the ceiling below the bathroom or a musty odor near the toilet. For a simple test, add food coloring to the tank; if it appears in the bowl without flushing, you have a leak.",
+        "@type": "Answer",
+        "description": "Signs include a constantly running toilet, phantom flushing, increased water bills, water stains below the bathroom, or musty odors."
+      }
+    }
+  ],
+  "description": "Signs include a constantly running toilet, phantom flushing, increased water bills, water stains below the bathroom, or musty odors."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-a-new-toilet-save-me-money-on-my-water-bill",
+  "name": "Will a new toilet save me money on my water bill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a new toilet save me money on my water bill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, upgrading to a new, water-efficient toilet can significantly reduce your water bill, especially if your current toilet is an older, high-gallon-per-flush model. Many modern toilets are WaterSense certified and use 1.28 gallons per flush or less, compared to older models that might use 3.5 to 7 gallons. This practical tradeoff offers ongoing savings, which is particularly beneficial for residents in water-conscious regions like Las Vegas.",
+        "@type": "Answer",
+        "description": "Yes, a new, water-efficient toilet, especially WaterSense certified models, can significantly lower your water bill compared to older, high-gallon-per-flush units."
+      }
+    }
+  ],
+  "description": "Yes, a new, water-efficient toilet, especially WaterSense certified models, can significantly lower your water bill compared to older, high-gallon-per-flush uni"
+}

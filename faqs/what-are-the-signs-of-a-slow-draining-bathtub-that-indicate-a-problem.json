@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-of-a-slow-draining-bathtub-that-indicate-a-problem",
+  "name": "What are the signs of a slow-draining bathtub that indicate a problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of a slow-draining bathtub that indicate a problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a slow-draining bathtub that indicate a problem include water pooling around your feet while showering, slower than usual drainage after a bath, gurgling sounds coming from the drain, or a foul odor emanating from the drain. These symptoms suggest a partial clog is forming and water flow is restricted. Addressing these early warning signs promptly can prevent the clog from becoming a complete blockage, which can be more difficult and costly to resolve. Early detection allows for simpler repairs.",
+        "@type": "Answer",
+        "description": "Signs of a slow-draining bathtub include pooling water, slow drainage, gurgling, or odors, indicating a partial clog."
+      }
+    }
+  ],
+  "description": "Signs of a slow-draining bathtub include pooling water, slow drainage, gurgling, or odors, indicating a partial clog."
+}

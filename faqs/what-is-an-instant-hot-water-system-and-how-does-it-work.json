@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-an-instant-hot-water-system-and-how-does-it-work",
+  "name": "What is an instant hot water system and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an instant hot water system and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An instant hot water system, also known as a tankless or on-demand water heater, heats water directly without using a storage tank. When a hot water tap is turned on, cold water travels through a pipe into the unit, where a heating element rapidly warms it. This system provides a continuous supply of hot water, eliminating the wait associated with traditional tank heaters. For installation by CG Plumbing Solutions, our technicians assess your home's existing plumbing and gas or electrical lines to ensure compatibility and optimal placement for efficiency.",
+        "@type": "Answer",
+        "description": "An instant hot water system heats water on demand, providing a continuous supply without a storage tank. Cold water is heated as it flows through the unit when a hot tap is opened."
+      }
+    }
+  ],
+  "description": "An instant hot water system heats water on demand, providing a continuous supply without a storage tank. Cold water is heated as it flows through the unit when"
+}

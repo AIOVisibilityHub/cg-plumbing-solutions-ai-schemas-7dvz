@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-happens-if-a-shower-valve-leak-goes-unrepaired-in-a-las-vegas-home",
+  "name": "What happens if a shower valve leak goes unrepaired in a Las Vegas home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if a shower valve leak goes unrepaired in a Las Vegas home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a shower valve leak goes unrepaired in a Las Vegas home, it can lead to significant water damage to walls, flooring, and even the ceiling below. The dry climate in Las Vegas means that homeowners are often less attuned to ambient moisture, but leaks can still cause mold growth, structural damage, and increased water bills. Early detection and repair by a local professional like CG Plumbing Solutions can prevent these costly and inconvenient issues specific to our arid region.",
+        "@type": "Answer",
+        "description": "Unrepaired shower valve leaks in Las Vegas can cause water damage to walls and floors, mold, and increased water bills."
+      }
+    }
+  ],
+  "description": "Unrepaired shower valve leaks in Las Vegas can cause water damage to walls and floors, mold, and increased water bills."
+}

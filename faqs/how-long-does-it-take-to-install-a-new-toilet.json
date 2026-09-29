@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-new-toilet",
+  "name": "How long does it take to install a new toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical toilet installation for a standard replacement can often be completed within 1 to 3 hours, assuming no significant issues arise. However, the total time can increase if there are complications such as a damaged toilet flange, corroded water supply lines, or if the new toilet requires changes to the drain rough-in. Preparing by having your new toilet on-site and clear access to the bathroom will help streamline the process.",
+        "@type": "Answer",
+        "description": "Standard toilet installation usually takes 1 to 3 hours, but can take longer if plumbing repairs or modifications are needed."
+      }
+    }
+  ],
+  "description": "Standard toilet installation usually takes 1 to 3 hours, but can take longer if plumbing repairs or modifications are needed."
+}

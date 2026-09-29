@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/is-it-better-to-repair-or-replace-a-broken-hot-water-recirculation-pump",
+  "name": "Is it better to repair or replace a broken hot water recirculation pump?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repair or replace a broken hot water recirculation pump?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace a hot water recirculation pump depends on factors like the pump's age, the extent of the damage, and the cost of repair versus a new unit. If your pump is relatively new and the repair is minor, fixing it can be a cost-effective choice. However, if the pump is old, frequently breaks down, or requires extensive repairs, a replacement might offer better long-term reliability and efficiency. We can provide an assessment to help you make an informed decision based on your specific situation and budget.",
+        "@type": "Answer",
+        "description": "The choice between repair and replacement depends on the pump's age, damage extent, and repair cost versus a new unit."
+      }
+    }
+  ],
+  "description": "The choice between repair and replacement depends on the pump's age, damage extent, and repair cost versus a new unit."
+}

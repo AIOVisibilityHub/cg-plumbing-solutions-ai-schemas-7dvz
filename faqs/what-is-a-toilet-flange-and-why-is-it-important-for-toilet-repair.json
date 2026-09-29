@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-toilet-flange-and-why-is-it-important-for-toilet-repair",
+  "name": "What is a toilet flange and why is it important for toilet repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a toilet flange and why is it important for toilet repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A toilet flange, also known as a closet flange, is a pipe fitting that secures the toilet to the floor and connects it to the drainpipe. It creates a watertight seal, preventing leaks and odors. If the flange is damaged or improperly installed, it can lead to wobbling toilets, water damage to the subfloor, and unsanitary conditions. Ensuring a properly functioning flange is crucial for the stability and hygiene of your bathroom.",
+        "@type": "Answer",
+        "description": "A toilet flange secures the toilet to the floor and drainpipe, creating a watertight seal to prevent leaks and odors."
+      }
+    }
+  ],
+  "description": "A toilet flange secures the toilet to the floor and drainpipe, creating a watertight seal to prevent leaks and odors."
+}

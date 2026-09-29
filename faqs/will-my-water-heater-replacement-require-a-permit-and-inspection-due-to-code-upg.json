@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-my-water-heater-replacement-require-a-permit-and-inspection-due-to-code-upg",
+  "name": "Will my water heater replacement require a permit and inspection due to code upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my water heater replacement require a permit and inspection due to code upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most cases, a water heater replacement that involves code upgrades will require a permit from your local building department, such as in Las Vegas or Henderson. This ensures the installation meets all safety and performance standards. An inspection by a city or county official typically follows the installation to verify compliance. Obtaining permits and arranging inspections is part of our standard process for water heater replacements to ensure everything is done correctly and legally.",
+        "@type": "Answer",
+        "description": "Most water heater replacements with code upgrades require a permit and inspection from the local building department to ensure compliance."
+      }
+    }
+  ],
+  "description": "Most water heater replacements with code upgrades require a permit and inspection from the local building department to ensure compliance."
+}

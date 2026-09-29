@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-repairing-a-leaky-shower-faucet-and-a-leaky-shower",
+  "name": "What's the difference between repairing a leaky shower faucet and a leaky shower drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between repairing a leaky shower faucet and a leaky shower drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a leaky shower faucet typically involves addressing internal components like cartridges, O-rings, or washers within the faucet body that control water flow. A leaky shower drain, however, usually involves issues with the drain seal, the P-trap, or cracks in the drain assembly itself, which can lead to water escaping into the subfloor. Each requires a different diagnostic approach and set of repair techniques to ensure water tightness. Our technicians are equipped to handle both types of leaks efficiently.",
+        "@type": "Answer",
+        "description": "Faucet leaks are internal component issues; drain leaks involve the drain seal or assembly. Each requires different repair methods."
+      }
+    }
+  ],
+  "description": "Faucet leaks are internal component issues; drain leaks involve the drain seal or assembly. Each requires different repair methods."
+}
