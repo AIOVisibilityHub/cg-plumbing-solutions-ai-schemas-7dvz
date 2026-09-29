@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-existing-water-heater-needs-an-expansion-tank",
+  "name": "How do I know if my existing water heater needs an expansion tank?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my existing water heater needs an expansion tank?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You likely need an expansion tank if your home has a closed-loop plumbing system, which is common in many modern houses. Signs that you might need one or that an existing one is failing include water dripping from your water heater's temperature and pressure relief valve, fluctuating water pressure, or frequent plumbing repairs. As a preparation step, checking your water heater's immediate vicinity for a tank can give you an initial idea, but a professional plumbing inspection can confirm the necessity and assess your system's specific needs.",
+        "@type": "Answer",
+        "description": "Check for a closed-loop system or signs like dripping relief valves. A professional inspection can confirm if you need one."
+      }
+    }
+  ],
+  "description": "Check for a closed-loop system or signs like dripping relief valves. A professional inspection can confirm if you need one."
+}

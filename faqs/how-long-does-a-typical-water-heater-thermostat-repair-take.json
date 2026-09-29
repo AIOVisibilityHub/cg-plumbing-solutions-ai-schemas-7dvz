@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-water-heater-thermostat-repair-take",
+  "name": "How long does a typical water heater thermostat repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical water heater thermostat repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to repair a water heater thermostat can vary, but most straightforward repairs typically take 1 to 2 hours. This can depend on the type of water heater (electric or gas), the accessibility of the thermostat, and whether additional components need inspection or replacement. When you schedule a service with CG Plumbing Solutions, our technicians will provide an estimated timeframe after an initial assessment.",
+        "@type": "Answer",
+        "description": "Most water heater thermostat repairs take 1 to 2 hours, depending on the type of water heater and accessibility."
+      }
+    }
+  ],
+  "description": "Most water heater thermostat repairs take 1 to 2 hours, depending on the type of water heater and accessibility."
+}

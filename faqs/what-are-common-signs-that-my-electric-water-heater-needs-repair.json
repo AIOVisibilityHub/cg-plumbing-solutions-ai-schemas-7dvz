@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-electric-water-heater-needs-repair",
+  "name": "What are common signs that my electric water heater needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my electric water heater needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your electric water heater needs repair include a lack of hot water, inconsistent water temperature, strange noises like popping or rumbling coming from the tank, visible leaks around the unit, or a sudden increase in your energy bills. Discolored or foul-smelling hot water can also indicate a problem. Before contacting us, you can check if the circuit breaker for the water heater has tripped, as this is a common, easy-to-resolve issue. However, persistent problems usually require professional diagnosis.",
+        "@type": "Answer",
+        "description": "Signs include no hot water, inconsistent temperatures, strange noises, leaks, or increased energy bills. Discolored water also indicates an issue."
+      }
+    }
+  ],
+  "description": "Signs include no hot water, inconsistent temperatures, strange noises, leaks, or increased energy bills. Discolored water also indicates an issue."
+}

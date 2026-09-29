@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-repipe-after-a-slab-leak-typically-take",
+  "name": "How long does a repipe after a slab leak typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a repipe after a slab leak typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a repipe after a slab leak varies based on the size of your home and the complexity of the plumbing system. Generally, it can take anywhere from 3 to 7 days. During the process, water service may be intermittently shut off, but our team at CG Plumbing Solutions works to minimize disruption. We provide a detailed timeline upfront, allowing you to prepare for the temporary changes to your daily routine, such as arranging for water supply or alternative accommodation if preferred.",
+        "@type": "Answer",
+        "description": "A repipe typically takes 3 to 7 days, depending on home size and system complexity. Water service may be intermittently affected during this time."
+      }
+    }
+  ],
+  "description": "A repipe typically takes 3 to 7 days, depending on home size and system complexity. Water service may be intermittently affected during this time."
+}

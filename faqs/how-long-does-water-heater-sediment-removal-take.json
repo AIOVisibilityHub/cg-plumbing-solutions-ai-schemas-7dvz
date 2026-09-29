@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-water-heater-sediment-removal-take",
+  "name": "How long does water heater sediment removal take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water heater sediment removal take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard water heater sediment removal and flush typically takes about 30 to 60 minutes for a professional. However, the duration can vary based on the amount of sediment present, the size of your water heater, and its accessibility. If there's significant buildup, the process might take longer as multiple flushing cycles may be needed to thoroughly clean the tank. It's a relatively quick process that yields long-term benefits.",
+        "@type": "Answer",
+        "description": "Professional sediment removal usually takes 30-60 minutes, but can take longer depending on sediment amount and water heater size."
+      }
+    }
+  ],
+  "description": "Professional sediment removal usually takes 30-60 minutes, but can take longer depending on sediment amount and water heater size."
+}

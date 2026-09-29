@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-does-my-water-heater-pilot-light-keep-going-out",
+  "name": "Why does my water heater pilot light keep going out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my water heater pilot light keep going out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pilot light that repeatedly goes out often indicates an issue with the thermocouple, a safety device that senses the pilot flame. If the thermocouple is faulty, it won't signal the gas valve to stay open, causing the pilot to extinguish. Other common reasons include a dirty pilot orifice, a weak gas supply, or a faulty gas control valve. During an inspection, our technicians will assess these components to accurately diagnose the root cause and recommend the most effective repair to restore consistent hot water to your Las Vegas home.",
+        "@type": "Answer",
+        "description": "A pilot light that frequently extinguishes typically points to a faulty thermocouple, a dirty pilot orifice, or a weak gas supply. We diagnose the specific cause to ensure proper repair."
+      }
+    }
+  ],
+  "description": "A pilot light that frequently extinguishes typically points to a faulty thermocouple, a dirty pilot orifice, or a weak gas supply. We diagnose the specific caus"
+}

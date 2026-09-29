@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-water-heater-flush-typically-take",
+  "name": "How long does a water heater flush typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a water heater flush typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional water heater flush usually takes about 30 to 90 minutes to complete. The exact duration can vary based on the amount of sediment buildup, the size of your water heater, and its accessibility. A technician from CG Plumbing Solutions will ensure a thorough job, taking the time to properly drain, flush, and refill the tank. This allows them to inspect for any other emerging issues during the service, providing comprehensive care for your unit.",
+        "@type": "Answer",
+        "description": "A water heater flush typically takes 30-90 minutes, depending on sediment levels and tank size. A professional ensures thorough cleaning and inspection."
+      }
+    }
+  ],
+  "description": "A water heater flush typically takes 30-90 minutes, depending on sediment levels and tank size. A professional ensures thorough cleaning and inspection."
+}

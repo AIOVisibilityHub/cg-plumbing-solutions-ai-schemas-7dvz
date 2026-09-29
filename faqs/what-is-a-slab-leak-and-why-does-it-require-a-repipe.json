@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-slab-leak-and-why-does-it-require-a-repipe",
+  "name": "What is a slab leak and why does it require a repipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a slab leak and why does it require a repipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A slab leak occurs when a water pipe underneath your home's concrete foundation develops a leak. This can cause significant water damage, compromise the foundation, and lead to increased water bills. A full repipe is often recommended after a slab leak, especially if the home has older, corroded piping or if multiple leaks have occurred. This ensures the replacement of the compromised section and often the entire outdated plumbing system, preventing future issues. CG Plumbing Solutions assesses the extent of the damage to determine if a spot repair or full repipe is the most durable solution for your property.",
+        "@type": "Answer",
+        "description": "A slab leak is a pipe leak under your home's foundation. A repipe is often needed to replace old, corroded pipes and prevent future leaks after a slab leak."
+      }
+    }
+  ],
+  "description": "A slab leak is a pipe leak under your home's foundation. A repipe is often needed to replace old, corroded pipes and prevent future leaks after a slab leak."
+}

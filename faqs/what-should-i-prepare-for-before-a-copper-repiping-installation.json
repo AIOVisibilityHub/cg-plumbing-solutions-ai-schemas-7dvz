@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-prepare-for-before-a-copper-repiping-installation",
+  "name": "What should I prepare for before a copper repiping installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for before a copper repiping installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your copper repiping installation begins, it's helpful to clear access to plumbing fixtures, beneath sinks, and around water heaters. Removing valuables and easily breakable items from work areas can help prevent accidental damage. Our team will need access to all areas where pipes run, including walls and ceilings. This preparation ensures a smoother and more efficient process, reducing potential delays. By taking these steps, you help our technicians work more effectively and safely, contributing to a quicker project completion.",
+        "@type": "Answer",
+        "description": "Before repiping, clear access to plumbing fixtures, beneath sinks, and around water heaters, and remove valuables from work areas. This preparation helps ensure a smoother, more efficient installation process."
+      }
+    }
+  ],
+  "description": "Before repiping, clear access to plumbing fixtures, beneath sinks, and around water heaters, and remove valuables from work areas. This preparation helps ensure"
+}

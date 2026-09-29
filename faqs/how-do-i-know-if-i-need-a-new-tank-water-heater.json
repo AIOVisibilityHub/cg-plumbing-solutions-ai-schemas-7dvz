@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-i-need-a-new-tank-water-heater",
+  "name": "How do I know if I need a new tank water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a new tank water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that indicate you might need a new tank water heater include a lack of hot water, rust-colored water, strange noises like rumbling or popping from the tank, or visible leaks. The typical lifespan of a tank water heater is 8-12 years. If your unit is older than this and exhibiting these symptoms, it's often more cost-effective to replace it than to repair it, especially when considering potential efficiency gains from newer models. Our technicians can assess the condition of your current unit.",
+        "@type": "Answer",
+        "description": "Look for lack of hot water, rust, strange noises, or leaks. Tank water heaters typically last 8-12 years."
+      }
+    }
+  ],
+  "description": "Look for lack of hot water, rust, strange noises, or leaks. Tank water heaters typically last 8-12 years."
+}

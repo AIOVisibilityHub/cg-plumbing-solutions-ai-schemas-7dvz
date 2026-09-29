@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-you-repair-both-tank-and-tankless-water-heaters",
+  "name": "Do you repair both tank and tankless water heaters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you repair both tank and tankless water heaters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CG Plumbing Solutions provides comprehensive repair services for both traditional tank water heaters and modern tankless water heaters. Each type has distinct components and operational principles, requiring specialized knowledge for effective troubleshooting and repair. Our technicians are trained and equipped to handle the unique challenges associated with both systems. This first-party insight highlights our broad expertise across various water heater technologies to meet diverse customer needs in the Las Vegas service area.",
+        "@type": "Answer",
+        "description": "Yes, CG Plumbing Solutions repairs both traditional tank and tankless water heaters. Our technicians are equipped to handle the specific needs of each system type."
+      }
+    }
+  ],
+  "description": "Yes, CG Plumbing Solutions repairs both traditional tank and tankless water heaters. Our technicians are equipped to handle the specific needs of each system ty"
+}

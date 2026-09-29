@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-repair-a-water-heater-pilot-light-in-las-vegas",
+  "name": "How much does it cost to repair a water heater pilot light in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a water heater pilot light in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a water heater pilot light varies depending on the underlying issue. A simple re-lighting might not incur a service charge if part of a broader inspection, while replacing a faulty thermocouple or gas control valve will involve parts and labor. We provide transparent estimates after diagnosing the problem. Our service calls in Las Vegas, North Las Vegas, and Henderson ensure you understand the repair scope and associated costs before any work begins, preventing unexpected expenses.",
+        "@type": "Answer",
+        "description": "Repair costs depend on the specific issue, like a faulty thermocouple or gas valve, and include parts and labor. We provide transparent estimates after diagnosis."
+      }
+    }
+  ],
+  "description": "Repair costs depend on the specific issue, like a faulty thermocouple or gas valve, and include parts and labor. We provide transparent estimates after diagnosi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-be-home-for-the-repipe-estimate-appointment",
+  "name": "Do I need to be home for the repipe estimate appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home for the repipe estimate appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended that you are home for the repipe estimate appointment. Being present allows the plumbing technician to thoroughly assess your current plumbing system, identify any specific concerns you may have, and discuss the various repiping options available. This interaction ensures the estimate accurately reflects your needs and property specifics, and allows CG Plumbing Solutions to address any questions immediately for homeowners in places like Green Valley or Seven Hills.",
+        "@type": "Answer",
+        "description": "Yes, it is recommended to be home for the repipe estimate appointment to allow the technician to assess your system and discuss options effectively."
+      }
+    }
+  ],
+  "description": "Yes, it is recommended to be home for the repipe estimate appointment to allow the technician to assess your system and discuss options effectively."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-a-tankless-water-heater-replacement-in-las-ve",
+  "name": "What factors influence the cost of a tankless water heater replacement in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a tankless water heater replacement in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a tankless water heater replacement in the Las Vegas area depends on several factors, including the specific model chosen, the complexity of the installation, and any necessary plumbing or gas line modifications. For example, if you're upgrading from a traditional tank heater, additional work for gas line sizing or new venting may be required. We provide detailed estimates tailored to your specific home and installation needs.",
+        "@type": "Answer",
+        "description": "Replacement costs depend on the model, installation complexity, and necessary plumbing or gas line modifications, especially when upgrading from a tank heater."
+      }
+    }
+  ],
+  "description": "Replacement costs depend on the model, installation complexity, and necessary plumbing or gas line modifications, especially when upgrading from a tank heater."
+}

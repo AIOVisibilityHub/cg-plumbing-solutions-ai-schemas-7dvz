@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-prepare-for-a-tankless-water-heater-replacement-service",
+  "name": "How do I prepare for a tankless water heater replacement service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare for a tankless water heater replacement service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your scheduled replacement, ensure the area around your existing water heater is clear and accessible for our technicians. If you have any specific concerns or preferences regarding the new unit's placement, please discuss them with us in advance. Having a clear path to the installation site and ensuring pets are secured will help our team work efficiently and safely during the service appointment.",
+        "@type": "Answer",
+        "description": "Clear the area around your water heater, ensure easy access, and discuss any placement preferences with technicians before service."
+      }
+    }
+  ],
+  "description": "Clear the area around your water heater, ensure easy access, and discuss any placement preferences with technicians before service."
+}

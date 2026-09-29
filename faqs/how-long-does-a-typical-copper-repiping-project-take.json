@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-copper-repiping-project-take",
+  "name": "How long does a typical copper repiping project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical copper repiping project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a copper repiping project depends on the size of your home and the complexity of its plumbing system. Generally, most residential repipes can be completed within 3 to 5 business days. This timeframe includes draining the system, installing new pipes, connecting fixtures, and pressure testing. For larger homes or more intricate layouts, it might take a bit longer. To ensure process clarity, CG Plumbing Solutions aims to minimize disruption and will provide a detailed timeline upfront, often completing the work efficiently to restore your water service promptly.",
+        "@type": "Answer",
+        "description": "A typical residential copper repiping project usually takes 3 to 5 business days, varying by home size and plumbing complexity. We provide a detailed timeline to ensure process clarity and minimize disruption."
+      }
+    }
+  ],
+  "description": "A typical residential copper repiping project usually takes 3 to 5 business days, varying by home size and plumbing complexity. We provide a detailed timeline t"
+}

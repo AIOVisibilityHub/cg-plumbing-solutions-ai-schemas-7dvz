@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-replace-a-water-heater-pressure-relief-valve",
+  "name": "How much does it cost to replace a water heater pressure relief valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace a water heater pressure relief valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace a water heater pressure relief valve varies depending on factors such as the type of water heater (tank or tankless), the complexity of the installation, and labor rates in your specific area. Generally, you can expect the cost to include the new valve part and the plumber's labor. In the Las Vegas area, specific pricing can differ, so we provide transparent quotes after assessing your specific setup. We recommend getting a professional estimate to understand the full scope and cost for your particular water heater system.",
+        "@type": "Answer",
+        "description": "Costs vary based on water heater type and installation complexity; contact us for a specific quote in the Las Vegas area."
+      }
+    }
+  ],
+  "description": "Costs vary based on water heater type and installation complexity; contact us for a specific quote in the Las Vegas area."
+}

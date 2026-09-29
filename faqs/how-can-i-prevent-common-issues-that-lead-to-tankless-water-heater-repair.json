@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prevent-common-issues-that-lead-to-tankless-water-heater-repair",
+  "name": "How can I prevent common issues that lead to tankless water heater repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent common issues that lead to tankless water heater repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing common tankless water heater issues primarily involves regular maintenance and proper usage. Schedule annual professional descaling, especially in areas with hard water, to remove mineral buildup. Ensure the unit has proper ventilation and that air intakes are clear. Avoid using harsh chemicals in the system. Additionally, being mindful of the unit's capacity and not overtaxing it can extend its lifespan. Our team can provide personalized advice on preventive care tailored to your specific unit and water conditions.",
+        "@type": "Answer",
+        "description": "Prevent issues with annual professional descaling, proper ventilation, avoiding harsh chemicals, and not overtaxing the unit to extend its lifespan."
+      }
+    }
+  ],
+  "description": "Prevent issues with annual professional descaling, proper ventilation, avoiding harsh chemicals, and not overtaxing the unit to extend its lifespan."
+}

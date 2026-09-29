@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-i-have-to-move-out-of-my-house-during-the-copper-repiping-process",
+  "name": "Will I have to move out of my house during the copper repiping process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I have to move out of my house during the copper repiping process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most standard copper repiping projects, homeowners do not need to move out. Our team works efficiently to minimize disruption, typically restoring water service daily or isolating work to specific zones. There will be periods where water might be shut off to certain sections of your home, or entirely, for several hours. We prioritize maintaining essential services whenever possible. Process clarity is key; we will communicate any necessary water interruptions in advance so you can plan accordingly, ensuring you know what to expect each day.",
+        "@type": "Answer",
+        "description": "Typically, you will not need to move out during copper repiping, as we work to minimize disruption and restore water daily. We will provide advance notice of any necessary water shutdowns."
+      }
+    }
+  ],
+  "description": "Typically, you will not need to move out during copper repiping, as we work to minimize disruption and restore water daily. We will provide advance notice of an"
+}

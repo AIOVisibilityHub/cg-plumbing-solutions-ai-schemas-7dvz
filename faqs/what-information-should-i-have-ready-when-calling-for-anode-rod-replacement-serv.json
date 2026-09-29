@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-information-should-i-have-ready-when-calling-for-anode-rod-replacement-serv",
+  "name": "What information should I have ready when calling for anode rod replacement service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready when calling for anode rod replacement service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When calling CG Plumbing Solutions for anode rod replacement, it's helpful to have your water heater's brand, model number, and age. Knowing its location in your home and if you've noticed any specific issues like smells or reduced hot water will also assist our team. This information allows us to better understand your system and prepare for the service, ensuring a more efficient and effective visit to your Las Vegas area home.",
+        "@type": "Answer",
+        "description": "When scheduling anode rod replacement, provide your water heater's brand, model, age, location, and any observed issues to help our plumbers prepare."
+      }
+    }
+  ],
+  "description": "When scheduling anode rod replacement, provide your water heater's brand, model, age, location, and any observed issues to help our plumbers prepare."
+}

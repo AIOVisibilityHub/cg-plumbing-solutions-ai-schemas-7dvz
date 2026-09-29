@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-do-anything-to-prepare-for-a-tank-water-heater-installation",
+  "name": "Do I need to do anything to prepare for a tank water heater installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do anything to prepare for a tank water heater installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for your tank water heater installation, please ensure the area around your current water heater is clear and accessible. Remove any stored items, furniture, or debris from the pathway to and around the unit. Also, make sure any pets are secured during the installation period. Having the area readily accessible helps our technicians work efficiently and safely, speeding up the process for you.",
+        "@type": "Answer",
+        "description": "Clear the area around your current water heater and ensure an accessible path for technicians to prepare for installation."
+      }
+    }
+  ],
+  "description": "Clear the area around your current water heater and ensure an accessible path for technicians to prepare for installation."
+}

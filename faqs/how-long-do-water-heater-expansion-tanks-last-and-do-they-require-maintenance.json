@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-do-water-heater-expansion-tanks-last-and-do-they-require-maintenance",
+  "name": "How long do water heater expansion tanks last, and do they require maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do water heater expansion tanks last, and do they require maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water heater expansion tanks typically last 5 to 10 years, similar to the lifespan of many water heaters, but this can vary based on water quality and installation quality. They do require periodic checks to ensure proper air pressure and diaphragm integrity. A practical tradeoff is that while regular, simple checks can extend its life and prevent system issues, neglecting this maintenance might lead to premature failure, requiring replacement and potentially causing damage to your overall plumbing system. CG Plumbing Solutions can include these checks during routine water heater maintenance.",
+        "@type": "Answer",
+        "description": "Expansion tanks last 5-10 years and need periodic checks. Regular maintenance can extend life and prevent issues."
+      }
+    }
+  ],
+  "description": "Expansion tanks last 5-10 years and need periodic checks. Regular maintenance can extend life and prevent issues."
+}

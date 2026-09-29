@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-temperature-relief-valve-and-a-pressure-relief",
+  "name": "What is the difference between a temperature relief valve and a pressure relief valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a temperature relief valve and a pressure relief valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Often referred to interchangeably, a water heater's pressure relief valve (PRV) is primarily designed to release water if pressure becomes too high, while a temperature relief valve (TRV) opens if the water temperature exceeds a safe limit. Most modern water heaters, however, use a single combination valve called a Temperature and Pressure Relief Valve (TPRV) that reacts to both conditions, offering comprehensive safety. When CG Plumbing Solutions replaces your valve, we install a new TPRV that addresses both potential hazards, ensuring your water heater operates safely according to current plumbing codes.",
+        "@type": "Answer",
+        "description": "A PRV reacts to high pressure, a TRV to high temperature; most modern units use a combined TPRV for both functions."
+      }
+    }
+  ],
+  "description": "A PRV reacts to high pressure, a TRV to high temperature; most modern units use a combined TPRV for both functions."
+}

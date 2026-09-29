@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-happens-to-my-old-tankless-water-heater-after-replacement",
+  "name": "What happens to my old tankless water heater after replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to my old tankless water heater after replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After your new tankless water heater is installed, our team will responsibly remove and dispose of your old unit. This is part of our comprehensive service, ensuring you don't have to worry about old equipment. We handle the proper recycling or disposal of components in accordance with local regulations in the Las Vegas metropolitan area, minimizing environmental impact.",
+        "@type": "Answer",
+        "description": "We remove and responsibly dispose of your old tankless water heater after the replacement, handling all recycling or disposal according to local regulations."
+      }
+    }
+  ],
+  "description": "We remove and responsibly dispose of your old tankless water heater after the replacement, handling all recycling or disposal according to local regulations."
+}

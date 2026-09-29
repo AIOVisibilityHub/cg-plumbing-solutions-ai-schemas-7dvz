@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-a-water-heater-to-leak",
+  "name": "What causes a water heater to leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a water heater to leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water heater leaks are commonly caused by a variety of factors, including corrosion within the tank due to sediment buildup, loose plumbing connections, a failing pressure relief valve, or cracks in the tank itself. Age is a significant factor, as older units are more prone to wear and tear. Sediment accumulation at the bottom of the tank can also lead to overheating and stress on the tank, contributing to leaks. Regular maintenance, such as flushing the tank, can help prevent some of these issues.",
+        "@type": "Answer",
+        "description": "Leaks are often caused by corrosion, loose connections, a failing pressure relief valve, or tank cracks. Sediment buildup and age are common contributing factors."
+      }
+    }
+  ],
+  "description": "Leaks are often caused by corrosion, loose connections, a failing pressure relief valve, or tank cracks. Sediment buildup and age are common contributing factor"
+}

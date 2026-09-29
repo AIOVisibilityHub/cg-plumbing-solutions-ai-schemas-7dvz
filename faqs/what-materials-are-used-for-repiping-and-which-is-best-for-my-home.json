@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-materials-are-used-for-repiping-and-which-is-best-for-my-home",
+  "name": "What materials are used for repiping, and which is best for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for repiping, and which is best for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for repiping include PEX (cross-linked polyethylene) and copper. PEX is flexible, corrosion-resistant, and less expensive to install, often making it a cost-effective choice for many homeowners. Copper is highly durable, heat-resistant, and has a long lifespan, though it can be more expensive. The 'best' material depends on your budget, water quality, and specific plumbing needs. During our consultation, CG Plumbing Solutions will explain the pros and cons of each material in the context of your home and preferences, helping you make an informed decision.",
+        "@type": "Answer",
+        "description": "PEX and copper are common repipe materials. PEX is flexible and cost-effective, while copper is highly durable. The best choice depends on budget and specific needs."
+      }
+    }
+  ],
+  "description": "PEX and copper are common repipe materials. PEX is flexible and cost-effective, while copper is highly durable. The best choice depends on budget and specific n"
+}

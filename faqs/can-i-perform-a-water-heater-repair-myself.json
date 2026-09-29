@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-perform-a-water-heater-repair-myself",
+  "name": "Can I perform a water heater repair myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform a water heater repair myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some minor water heater issues might seem simple to fix, it's generally recommended to hire a professional for repairs. Water heaters involve connections to gas lines or high-voltage electricity, and improper handling can lead to serious safety hazards like gas leaks, electrical shock, or water damage. A practical tradeoff is that while DIY might save initial costs, incorrect repairs can void warranties, lead to more expensive damage, or create unsafe conditions. CG Plumbing Solutions technicians are trained to safely handle these complex systems.",
+        "@type": "Answer",
+        "description": "It's best to hire a professional for water heater repair due to safety risks involving gas and electricity. DIY attempts can lead to hazards, void warranties, or cause more damage."
+      }
+    }
+  ],
+  "description": "It's best to hire a professional for water heater repair due to safety risks involving gas and electricity. DIY attempts can lead to hazards, void warranties, o"
+}

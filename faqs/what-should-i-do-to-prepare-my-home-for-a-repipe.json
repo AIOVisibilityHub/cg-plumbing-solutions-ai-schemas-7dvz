@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-to-prepare-my-home-for-a-repipe",
+  "name": "What should I do to prepare my home for a repipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home for a repipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for a repipe, you should clear access to plumbing fixtures (sinks, toilets, showers) and areas where pipes run, such as under sinks or in utility closets. Remove any valuables or fragile items from work areas to prevent accidental damage. It's also helpful to discuss with CG Plumbing Solutions any specific access concerns or areas you want to protect. A little preparation beforehand helps our team work more efficiently and ensures a smoother repiping process.",
+        "@type": "Answer",
+        "description": "Clear access to plumbing fixtures and pipe routes, and remove valuables from work areas. Discuss any access concerns with CG Plumbing Solutions."
+      }
+    }
+  ],
+  "description": "Clear access to plumbing fixtures and pipe routes, and remove valuables from work areas. Discuss any access concerns with CG Plumbing Solutions."
+}

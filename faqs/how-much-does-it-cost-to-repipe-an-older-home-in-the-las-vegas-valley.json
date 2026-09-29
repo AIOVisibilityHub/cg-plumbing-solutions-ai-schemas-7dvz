@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-repipe-an-older-home-in-the-las-vegas-valley",
+  "name": "How much does it cost to repipe an older home in the Las Vegas valley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repipe an older home in the Las Vegas valley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of repiping an older home in the Las Vegas valley varies widely, influenced by factors such as the size of your home, the number of fixtures, the type of piping material chosen (PEX vs. copper), and the complexity of the installation. A small single-story home will naturally incur different costs than a large two-story house. It's crucial to obtain a detailed quote after a thorough on-site inspection. CG Plumbing Solutions provides transparent, upfront pricing specific to your property’s requirements.",
+        "@type": "Answer",
+        "description": "Repipe costs vary significantly based on home size, number of fixtures, chosen material (PEX vs. copper), and installation complexity. A detailed quote is provided after an on-site inspection."
+      }
+    }
+  ],
+  "description": "Repipe costs vary significantly based on home size, number of fixtures, chosen material (PEX vs. copper), and installation complexity. A detailed quote is provi"
+}

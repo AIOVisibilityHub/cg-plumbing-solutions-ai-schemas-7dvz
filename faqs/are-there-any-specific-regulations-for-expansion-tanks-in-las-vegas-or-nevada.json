@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-there-any-specific-regulations-for-expansion-tanks-in-las-vegas-or-nevada",
+  "name": "Are there any specific regulations for expansion tanks in Las Vegas or Nevada?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any specific regulations for expansion tanks in Las Vegas or Nevada?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, plumbing codes in Las Vegas and throughout Nevada often require the installation of expansion tanks on hot water systems, especially in homes with a backflow prevention device or a closed-loop system, to safely manage thermal expansion. These regulations are in place to prevent damage to plumbing systems and ensure safety. As a contextual relevance, compliance with these local codes, enforced by authorities such as the Southern Nevada Health District, is a key consideration for all installations performed by CG Plumbing Solutions in areas like Silverado Ranch and The Lakes, ensuring your home meets all safety standards.",
+        "@type": "Answer",
+        "description": "Yes, local codes in Las Vegas and Nevada often require expansion tanks for safety and plumbing system protection."
+      }
+    }
+  ],
+  "description": "Yes, local codes in Las Vegas and Nevada often require expansion tanks for safety and plumbing system protection."
+}

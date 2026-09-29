@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-water-heater-pressure-relief-valve-and-why-is-it-important",
+  "name": "What is a water heater pressure relief valve and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a water heater pressure relief valve and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water heater pressure relief valve (TPRV) is a safety device designed to open and release water if the temperature or pressure inside your water heater exceeds safe limits. This prevents excessive pressure buildup, which can lead to leaks, tank damage, or even catastrophic rupture. In the Las Vegas area, extreme summer temperatures can sometimes contribute to higher ambient temperatures in garages or utility closets where water heaters are located, making a properly functioning TPRV even more critical for safety. Regular inspection ensures it can perform its vital safety function.",
+        "@type": "Answer",
+        "description": "A water heater pressure relief valve is a safety device that releases pressure and water to prevent tank damage or rupture. It's especially important in areas like Las Vegas with high ambient temperatures."
+      }
+    }
+  ],
+  "description": "A water heater pressure relief valve is a safety device that releases pressure and water to prevent tank damage or rupture. It's especially important in areas l"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-flushing-and-descaling-a-water-heater",
+  "name": "What's the difference between flushing and descaling a water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between flushing and descaling a water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flushing primarily involves draining the water heater to remove loose sediment, which are solid mineral deposits that settle at the bottom. Descaling, on the other hand, is a more intensive process that uses a specialized acidic solution to dissolve harder, calcified scale buildup that adheres to heating elements and tank walls. While flushing is regular maintenance, descaling is typically done when flushing isn't enough to remove persistent mineral deposits that affect performance.",
+        "@type": "Answer",
+        "description": "Flushing removes loose sediment by draining, while descaling uses an acidic solution to dissolve hardened mineral scale from heating elements and tank walls."
+      }
+    }
+  ],
+  "description": "Flushing removes loose sediment by draining, while descaling uses an acidic solution to dissolve hardened mineral scale from heating elements and tank walls."
+}

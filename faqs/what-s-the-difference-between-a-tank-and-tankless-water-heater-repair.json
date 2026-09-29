@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-tank-and-tankless-water-heater-repair",
+  "name": "What's the difference between a tank and tankless water heater repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a tank and tankless water heater repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairs for tank and tankless water heaters differ due to their distinct designs. Tank water heater repairs often involve components like heating elements, thermostats, or anode rods, and addressing sediment. Tankless repairs typically focus on igniters, heat exchangers, flow sensors, or descaling. Technicians at CG Plumbing Solutions are experienced with both types, ensuring specialized knowledge for each repair scenario. The approach and parts needed will vary significantly.",
+        "@type": "Answer",
+        "description": "Tank heater repairs focus on elements and thermostats; tankless repairs target igniters and heat exchangers. Both require specialized knowledge."
+      }
+    }
+  ],
+  "description": "Tank heater repairs focus on elements and thermostats; tankless repairs target igniters and heat exchangers. Both require specialized knowledge."
+}

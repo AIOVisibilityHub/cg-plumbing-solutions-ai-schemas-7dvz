@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-water-heaters-are-available-for-replacement",
+  "name": "What types of water heaters are available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of water heaters are available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When replacing your water heater, you primarily choose between traditional tank-style heaters and tankless water heaters. Tank-style heaters store and heat a reserve of water, while tankless models heat water on demand, providing a continuous supply. Other options include heat pump water heaters, which draw heat from the air. The best type for you depends on factors like your household's hot water demand, available space, energy efficiency goals, and budget. CG Plumbing Solutions offers installation for various models and can help you compare efficiency ratings and operational costs to find the ideal fit for your Las Vegas home.",
+        "@type": "Answer",
+        "description": "Main types are traditional tank and tankless water heaters. Your choice depends on hot water demand, space, and energy goals."
+      }
+    }
+  ],
+  "description": "Main types are traditional tank and tankless water heaters. Your choice depends on hot water demand, space, and energy goals."
+}

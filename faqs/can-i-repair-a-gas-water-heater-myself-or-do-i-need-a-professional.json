@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-repair-a-gas-water-heater-myself-or-do-i-need-a-professional",
+  "name": "Can I repair a gas water heater myself, or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a gas water heater myself, or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a gas water heater involves working with gas lines, electrical components, and plumbing, which can be dangerous if not handled correctly. Attempting DIY repairs without proper training can lead to gas leaks, carbon monoxide poisoning, explosions, or water damage. Due to the inherent safety risks and the complexity of these systems, it is highly recommended to hire a licensed and experienced professional like CG Plumbing Solutions for any gas water heater repair, ensuring safety and compliance with local codes.",
+        "@type": "Answer",
+        "description": "Due to safety risks involving gas and electrical components, professional repair by a licensed plumber is strongly recommended for gas water heaters."
+      }
+    }
+  ],
+  "description": "Due to safety risks involving gas and electrical components, professional repair by a licensed plumber is strongly recommended for gas water heaters."
+}

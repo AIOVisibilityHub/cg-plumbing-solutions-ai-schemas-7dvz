@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-does-tankless-water-heater-maintenance-typically-involve",
+  "name": "What does tankless water heater maintenance typically involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does tankless water heater maintenance typically involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tankless water heater maintenance primarily involves flushing the system to remove mineral deposits and inspecting key components. Our technicians in Las Vegas will use a specialized solution to descale the heat exchanger, ensuring efficient operation. They will also check the gas or electrical connections, exhaust venting, and water filters to identify any potential issues before they become major problems.",
+        "@type": "Answer",
+        "description": "Maintenance typically involves flushing the system to remove mineral deposits, descaling the heat exchanger, and inspecting components like connections and filters."
+      }
+    }
+  ],
+  "description": "Maintenance typically involves flushing the system to remove mineral deposits, descaling the heat exchanger, and inspecting components like connections and filt"
+}

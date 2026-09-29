@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-lifespan-of-a-new-water-heater",
+  "name": "What is the lifespan of a new water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the lifespan of a new water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of a new water heater varies significantly by type and how well it's maintained. Traditional tank-style water heaters typically last 10-15 years, while tankless water heaters can often last 20 years or more due to fewer corrosive elements and replaceable parts. Regular maintenance, such as flushing the tank annually to remove sediment in hard water areas like Las Vegas, can extend a unit's life and maintain efficiency. Ignoring maintenance can lead to premature failure. Investing in proper installation and periodic servicing by CG Plumbing Solutions can help maximize your unit's longevity.",
+        "@type": "Answer",
+        "description": "Tank heaters last 10-15 years, tankless 20+ years. Lifespan depends on type and maintenance; regular flushing is crucial, especially in Las Vegas."
+      }
+    }
+  ],
+  "description": "Tank heaters last 10-15 years, tankless 20+ years. Lifespan depends on type and maintenance; regular flushing is crucial, especially in Las Vegas."
+}

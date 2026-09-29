@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-water-heater-installation-process",
+  "name": "What is involved in the water heater installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the water heater installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The water heater installation process typically involves disconnecting and removing the old unit, preparing the site, installing the new water heater, connecting it to the water and fuel lines (gas or electric), and ensuring proper ventilation if it's a gas unit. For tankless heaters, additional steps like upgrading gas lines or electrical circuits might be necessary. After installation, our technicians will test the unit to confirm proper operation and check for leaks. We then educate you on basic maintenance and safety features. This comprehensive approach ensures a safe, efficient, and code-compliant installation.",
+        "@type": "Answer",
+        "description": "The process includes removing the old unit, installing the new one, connecting it to utilities, ensuring proper ventilation, and testing for safe operation."
+      }
+    }
+  ],
+  "description": "The process includes removing the old unit, installing the new one, connecting it to utilities, ensuring proper ventilation, and testing for safe operation."
+}

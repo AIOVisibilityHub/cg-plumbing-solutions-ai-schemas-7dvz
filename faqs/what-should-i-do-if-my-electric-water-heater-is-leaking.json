@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-my-electric-water-heater-is-leaking",
+  "name": "What should I do if my electric water heater is leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my electric water heater is leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your electric water heater is leaking, first turn off the power to the unit at your home’s circuit breaker to prevent electrical hazards. Next, shut off the cold water supply valve, usually located on top of the water heater, to stop water flow into the tank. Then, contact us immediately for professional assessment and repair. Attempting to fix a leak yourself can worsen the problem or pose safety risks. Our technicians can promptly diagnose the source of the leak and recommend the necessary steps.",
+        "@type": "Answer",
+        "description": "If your electric water heater leaks, immediately turn off its power at the circuit breaker and shut off the cold water supply. Then, contact a professional plumber."
+      }
+    }
+  ],
+  "description": "If your electric water heater leaks, immediately turn off its power at the circuit breaker and shut off the cold water supply. Then, contact a professional plum"
+}

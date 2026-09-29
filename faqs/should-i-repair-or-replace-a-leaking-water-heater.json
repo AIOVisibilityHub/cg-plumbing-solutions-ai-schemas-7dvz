@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-repair-or-replace-a-leaking-water-heater",
+  "name": "Should I repair or replace a leaking water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace a leaking water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace a leaking water heater often depends on its age, the severity of the leak, and the overall condition of the unit. If your water heater is over 10 years old and has a significant tank leak, replacement is generally more cost-effective in the long run. Minor issues like a leaking valve or pipe can often be repaired. Our technicians can assess your specific situation and provide professional guidance, considering factors like potential future repairs and energy efficiency of new units.",
+        "@type": "Answer",
+        "description": "Consider repair for minor leaks or newer units, but replacement is often better for older water heaters (over 10 years) with major tank leaks. Our technicians can advise."
+      }
+    }
+  ],
+  "description": "Consider repair for minor leaks or newer units, but replacement is often better for older water heaters (over 10 years) with major tank leaks. Our technicians c"
+}

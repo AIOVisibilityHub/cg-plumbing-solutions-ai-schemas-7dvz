@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-gas-water-heater-repair-usually-take",
+  "name": "How long does a gas water heater repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a gas water heater repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gas water heater repair depends on the complexity of the problem. Simple fixes, such as replacing a thermocouple or tightening a loose connection, can often be completed within a few hours. More complex repairs involving major component replacements or leak detection may take longer. CG Plumbing Solutions aims to diagnose and resolve issues efficiently, and our technicians will provide an estimated repair timeline after assessing your unit to keep you informed.",
+        "@type": "Answer",
+        "description": "Repair time depends on the issue's complexity; simple fixes take a few hours, while more complex repairs may take longer."
+      }
+    }
+  ],
+  "description": "Repair time depends on the issue's complexity; simple fixes take a few hours, while more complex repairs may take longer."
+}

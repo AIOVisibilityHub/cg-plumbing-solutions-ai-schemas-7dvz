@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-call-a-professional-for-a-water-heater-thermostat-issue",
+  "name": "When should I call a professional for a water heater thermostat issue?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a water heater thermostat issue?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for a water heater thermostat issue as soon as you notice persistent problems like no hot water, excessively hot water, or frequent temperature fluctuations. Attempting to fix complex issues yourself without proper training can be dangerous and may void warranties. CG Plumbing Solutions recommends contacting us promptly for an accurate diagnosis and safe repair, ensuring your system operates efficiently and prevents further damage to your water heater.",
+        "@type": "Answer",
+        "description": "Call a professional immediately for persistent hot water issues like no hot water, overheating, or temperature fluctuations to ensure safe and correct repair."
+      }
+    }
+  ],
+  "description": "Call a professional immediately for persistent hot water issues like no hot water, overheating, or temperature fluctuations to ensure safe and correct repair."
+}

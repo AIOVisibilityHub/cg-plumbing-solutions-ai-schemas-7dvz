@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-cost-for-water-heater-expansion-tank-installation-in-the-las",
+  "name": "What is the typical cost for water heater expansion tank installation in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for water heater expansion tank installation in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for water heater expansion tank installation can vary based on factors like the type and size of the tank needed, the complexity of the installation, and local labor rates. Generally, customers in the Las Vegas area, including Henderson and North Las Vegas, can expect the total cost to cover both the tank itself and professional labor. For an accurate estimate, CG Plumbing Solutions offers detailed quotes after assessing your specific situation, as pricing can differ based on unique plumbing configurations or additional necessary components.",
+        "@type": "Answer",
+        "description": "Costs vary based on tank size, installation complexity, and labor. We provide quotes after assessing your specific needs."
+      }
+    }
+  ],
+  "description": "Costs vary based on tank size, installation complexity, and labor. We provide quotes after assessing your specific needs."
+}

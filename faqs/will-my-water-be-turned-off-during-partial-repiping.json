@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-my-water-be-turned-off-during-partial-repiping",
+  "name": "Will my water be turned off during partial repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my water be turned off during partial repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, your water supply will need to be turned off during the partial repiping process to safely remove old pipes and install new ones. We coordinate with you to schedule this interruption at the most convenient time possible and strive to complete the work efficiently to restore your water service quickly. For preparation, we recommend filling some containers with water beforehand for essential needs like flushing toilets or basic washing. We work to minimize the outage, often completing the necessary water shut-off within a few hours for typical partial repiping jobs.",
+        "@type": "Answer",
+        "description": "Yes, your water will be turned off during partial repiping. We aim to minimize the outage, and recommend preparing by storing water for essential needs."
+      }
+    }
+  ],
+  "description": "Yes, your water will be turned off during partial repiping. We aim to minimize the outage, and recommend preparing by storing water for essential needs."
+}

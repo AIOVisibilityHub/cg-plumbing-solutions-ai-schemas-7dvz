@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preparations-should-i-make-before-a-repipe-begins",
+  "name": "What preparations should I make before a repipe begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before a repipe begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a repipe begins, it is helpful to clear pathways to walls, ceilings, and access panels where plumbers will be working. Moving furniture, valuables, and electronics away from work areas will protect them from dust and allow for efficient work. You might also consider securing pets in a safe area. CG Plumbing Solutions will provide a checklist of preparations unique to your home's layout during the initial consultation. This preparation helps ensure the project proceeds smoothly and minimizes potential damage or delays.",
+        "@type": "Answer",
+        "description": "Clear work areas by moving furniture and valuables, and secure pets. We will provide a specific preparation checklist."
+      }
+    }
+  ],
+  "description": "Clear work areas by moving furniture and valuables, and secure pets. We will provide a specific preparation checklist."
+}

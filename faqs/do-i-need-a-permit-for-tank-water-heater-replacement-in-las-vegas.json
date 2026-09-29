@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-a-permit-for-tank-water-heater-replacement-in-las-vegas",
+  "name": "Do I need a permit for tank water heater replacement in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for tank water heater replacement in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a permit is typically required for tank water heater replacement in the Las Vegas area to ensure that the installation complies with local building and plumbing codes. This requirement helps guarantee safety and proper operation, protecting homeowners. CG Plumbing Solutions handles the necessary permitting process for our clients, ensuring all installations meet local standards set by jurisdictions like the City of Las Vegas or Clark County.",
+        "@type": "Answer",
+        "description": "Yes, a permit is usually required for tank water heater replacement in Las Vegas to ensure code compliance and safety."
+      }
+    }
+  ],
+  "description": "Yes, a permit is usually required for tank water heater replacement in Las Vegas to ensure code compliance and safety."
+}

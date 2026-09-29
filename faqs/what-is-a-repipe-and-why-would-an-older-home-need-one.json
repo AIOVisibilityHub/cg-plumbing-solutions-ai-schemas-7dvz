@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-repipe-and-why-would-an-older-home-need-one",
+  "name": "What is a repipe and why would an older home need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a repipe and why would an older home need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A repipe involves replacing existing plumbing lines with new, more durable materials throughout your home. Older homes often have pipes made from galvanized steel or polybutylene, which are prone to corrosion, leaks, reduced water pressure, and can even pose health concerns due to material degradation. A repipe significantly improves water quality, pressure, and avoids future costly repairs. CG Plumbing Solutions assesses your current plumbing system to determine the most suitable repiping solution for your home's needs.",
+        "@type": "Answer",
+        "description": "A repipe replaces old, failing plumbing lines in older homes, typically due to corrosion, leaks, or low water pressure from outdated materials like galvanized steel or polybutylene."
+      }
+    }
+  ],
+  "description": "A repipe replaces old, failing plumbing lines in older homes, typically due to corrosion, leaks, or low water pressure from outdated materials like galvanized s"
+}

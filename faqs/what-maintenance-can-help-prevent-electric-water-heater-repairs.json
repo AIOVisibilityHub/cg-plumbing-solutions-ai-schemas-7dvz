@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-maintenance-can-help-prevent-electric-water-heater-repairs",
+  "name": "What maintenance can help prevent electric water heater repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance can help prevent electric water heater repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance can significantly extend the life of your electric water heater and prevent costly repairs. This includes annually flushing the tank to remove sediment buildup, inspecting the anode rod every 3-5 years for corrosion, and checking the pressure relief valve. Consistent maintenance helps maintain efficiency and prevents common issues like noisy operation or reduced hot water capacity. We offer maintenance services that can proactively identify and address potential problems, ensuring your unit runs smoothly.",
+        "@type": "Answer",
+        "description": "Regular maintenance, like annual tank flushing, anode rod inspection, and pressure relief valve checks, can prevent many electric water heater repairs."
+      }
+    }
+  ],
+  "description": "Regular maintenance, like annual tank flushing, anode rod inspection, and pressure relief valve checks, can prevent many electric water heater repairs."
+}

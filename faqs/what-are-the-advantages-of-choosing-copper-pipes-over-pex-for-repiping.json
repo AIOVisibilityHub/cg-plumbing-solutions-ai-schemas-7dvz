@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-advantages-of-choosing-copper-pipes-over-pex-for-repiping",
+  "name": "What are the advantages of choosing copper pipes over PEX for repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of choosing copper pipes over PEX for repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Copper pipes offer superior rigidity and durability, making them highly resistant to punctures and damage, and they do not leach chemicals into the water. PEX, while flexible and often less expensive, is susceptible to rodent damage and can be affected by UV light if exposed. For homeowners prioritizing long-term strength and minimal chemical interaction with their drinking water, copper remains a premium choice. This comparison highlights a practical tradeoff between material cost and installation flexibility (PEX) versus the proven longevity and robust nature of copper.",
+        "@type": "Answer",
+        "description": "Copper provides superior durability, chemical inertness, and rodent resistance compared to PEX. The main tradeoff is copper's higher cost versus PEX's flexibility and lower material price."
+      }
+    }
+  ],
+  "description": "Copper provides superior durability, chemical inertness, and rodent resistance compared to PEX. The main tradeoff is copper's higher cost versus PEX's flexibili"
+}

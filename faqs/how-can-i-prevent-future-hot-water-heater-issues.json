@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prevent-future-hot-water-heater-issues",
+  "name": "How can I prevent future hot water heater issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future hot water heater issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance can significantly extend your water heater's lifespan and prevent common issues. This includes periodically flushing the tank to remove sediment buildup, inspecting the anode rod every few years, and checking the pressure relief valve annually. Setting the thermostat to an appropriate temperature can also reduce wear and tear. Scheduling professional maintenance with CG Plumbing Solutions ensures these critical checks are performed correctly.",
+        "@type": "Answer",
+        "description": "Prevent future water heater issues with regular flushing, anode rod inspection, pressure relief valve checks, and proper thermostat settings."
+      }
+    }
+  ],
+  "description": "Prevent future water heater issues with regular flushing, anode rod inspection, pressure relief valve checks, and proper thermostat settings."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-you-remove-the-old-water-heater-after-installation",
+  "name": "Do you remove the old water heater after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you remove the old water heater after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as part of our standard tank water heater installation service, we will safely and responsibly remove and dispose of your old water heater. You do not need to arrange for its removal or disposal yourself. This is an integral part of our full-service approach, ensuring a hassle-free experience for our customers in all areas we serve, including North Las Vegas and Henderson.",
+        "@type": "Answer",
+        "description": "Yes, we include the safe removal and disposal of your old water heater as part of our standard installation service."
+      }
+    }
+  ],
+  "description": "Yes, we include the safe removal and disposal of your old water heater as part of our standard installation service."
+}

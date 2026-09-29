@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-makes-an-electric-water-heater-less-efficient-leading-to-higher-bills",
+  "name": "What makes an electric water heater less efficient, leading to higher bills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What makes an electric water heater less efficient, leading to higher bills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors can make an electric water heater less efficient, causing higher energy bills. The most common is sediment buildup at the bottom of the tank, which acts as an insulator and forces the heating elements to work harder and longer. Worn-out or faulty heating elements and thermostats can also lead to inefficient operation or continuous heating cycles. Additionally, poor insulation around the tank or pipes allows heat to escape. Regular flushing and inspections by a professional can identify and correct these issues, optimizing efficiency.",
+        "@type": "Answer",
+        "description": "Sediment buildup, faulty heating elements or thermostats, and poor insulation make electric water heaters less efficient, increasing energy bills."
+      }
+    }
+  ],
+  "description": "Sediment buildup, faulty heating elements or thermostats, and poor insulation make electric water heaters less efficient, increasing energy bills."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-that-my-water-heater-needs-to-be-flushed",
+  "name": "What are the signs that my water heater needs to be flushed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my water heater needs to be flushed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your water heater may need flushing. These include strange noises like popping or rumbling coming from the tank, which are often caused by sediment heating and expanding. A decrease in hot water availability or fluctuating water temperatures can also point to sediment interference. Additionally, if you notice rusty or discolored hot water, it could be a sign of internal corrosion exacerbated by sediment buildup. Addressing these signs promptly can prevent more significant damage and costly repairs.",
+        "@type": "Answer",
+        "description": "Signs include popping or rumbling noises, reduced hot water, fluctuating temperatures, or rusty water. These indicate sediment buildup and a need for flushing."
+      }
+    }
+  ],
+  "description": "Signs include popping or rumbling noises, reduced hot water, fluctuating temperatures, or rusty water. These indicate sediment buildup and a need for flushing."
+}

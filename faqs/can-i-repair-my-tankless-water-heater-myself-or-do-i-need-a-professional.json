@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-repair-my-tankless-water-heater-myself-or-do-i-need-a-professional",
+  "name": "Can I repair my tankless water heater myself, or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair my tankless water heater myself, or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some basic troubleshooting, like checking power connections or resetting the unit, can be done by homeowners, most tankless water heater repairs require professional expertise. These systems involve complex gas or electrical components and intricate water flow mechanisms, making DIY repairs potentially dangerous or damaging. A professional plumber has the specialized tools, training, and knowledge to diagnose and fix issues safely and correctly, ensuring your unit operates efficiently and reliably. Our technicians are trained specifically for these systems.",
+        "@type": "Answer",
+        "description": "Most tankless water heater repairs need a professional due to complex gas/electrical components. DIY is risky; experts have tools and training for safe, correct repairs."
+      }
+    }
+  ],
+  "description": "Most tankless water heater repairs need a professional due to complex gas/electrical components. DIY is risky; experts have tools and training for safe, correct"
+}

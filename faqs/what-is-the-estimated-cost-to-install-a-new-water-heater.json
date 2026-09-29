@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-estimated-cost-to-install-a-new-water-heater",
+  "name": "What is the estimated cost to install a new water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the estimated cost to install a new water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a new water heater varies widely depending on several factors, including the type of water heater (traditional tank vs. tankless), its capacity, fuel source, and any necessary plumbing or electrical modifications. For example, upgrading to a tankless unit often has a higher initial cost due to more complex installation requirements. Our plumbers provide a detailed, transparent estimate after assessing your specific situation and discussing your preferences during a consultation, ensuring there are no hidden fees. We consider factors like the unit's cost, labor, and any required modifications to give you an accurate price.",
+        "@type": "Answer",
+        "description": "Installation costs vary based on water heater type, capacity, fuel source, and necessary modifications. We provide a detailed estimate after assessing your specific needs."
+      }
+    }
+  ],
+  "description": "Installation costs vary based on water heater type, capacity, fuel source, and necessary modifications. We provide a detailed estimate after assessing your spec"
+}

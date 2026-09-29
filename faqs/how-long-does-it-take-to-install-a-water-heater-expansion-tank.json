@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-water-heater-expansion-tank",
+  "name": "How long does it take to install a water heater expansion tank?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a water heater expansion tank?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a water heater expansion tank is a relatively quick procedure for experienced plumbers. Typically, the installation takes about 1 to 2 hours, assuming there are no unforeseen complications or extensive plumbing modifications required. This timing includes isolating the water heater, installing the tank, and testing the system for proper operation. The actual duration can vary slightly depending on the accessibility of your water heater and the complexity of your existing plumbing configuration.",
+        "@type": "Answer",
+        "description": "Installation usually takes 1 to 2 hours. Timing can vary based on water heater accessibility and plumbing complexity."
+      }
+    }
+  ],
+  "description": "Installation usually takes 1 to 2 hours. Timing can vary based on water heater accessibility and plumbing complexity."
+}

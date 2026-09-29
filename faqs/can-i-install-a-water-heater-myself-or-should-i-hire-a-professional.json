@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-install-a-water-heater-myself-or-should-i-hire-a-professional",
+  "name": "Can I install a water heater myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a water heater myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it might seem like a DIY project, installing a water heater involves working with gas, electricity, and water lines, which can be dangerous if not handled correctly. Incorrect installation can lead to leaks, carbon monoxide poisoning, electrical hazards, or voiding the manufacturer's warranty. Additionally, local codes in areas like Las Vegas require permits and inspections for such installations. Hiring a licensed professional ensures the job is done safely, adheres to all local codes, and the unit operates efficiently, protecting your home and family. Our experienced plumbers have the expertise to manage all aspects of the installation securely.",
+        "@type": "Answer",
+        "description": "Due to safety risks involving gas, electricity, and water lines, and the need for permits and code compliance, professional installation is strongly recommended over DIY."
+      }
+    }
+  ],
+  "description": "Due to safety risks involving gas, electricity, and water lines, and the need for permits and code compliance, professional installation is strongly recommended"
+}

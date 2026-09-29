@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-perform-tankless-water-heater-maintenance-myself",
+  "name": "Can I perform tankless water heater maintenance myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform tankless water heater maintenance myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some basic tasks like cleaning external filters can be done by homeowners, comprehensive tankless water heater maintenance, especially descaling, is best left to a professional. Improper flushing can damage the unit or lead to safety hazards. Our technicians have the specialized tools and training to safely and effectively service all major tankless water heater brands.",
+        "@type": "Answer",
+        "description": "Basic filter cleaning can be done by homeowners, but comprehensive maintenance and descaling should be performed by a professional to avoid damage or safety risks."
+      }
+    }
+  ],
+  "description": "Basic filter cleaning can be done by homeowners, but comprehensive maintenance and descaling should be performed by a professional to avoid damage or safety ris"
+}

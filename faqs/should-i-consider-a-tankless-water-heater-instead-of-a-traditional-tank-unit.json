@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-consider-a-tankless-water-heater-instead-of-a-traditional-tank-unit",
+  "name": "Should I consider a tankless water heater instead of a traditional tank unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider a tankless water heater instead of a traditional tank unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a tank and tankless water heater involves a practical tradeoff between upfront cost and long-term energy savings. Tankless units provide endless hot water and higher energy efficiency but have a higher initial purchase and installation cost. Traditional tank heaters are generally more affordable upfront. Consider your hot water demands, budget, and long-term energy goals; we can help you weigh these factors to determine which option best suits your household in areas like Summerlin or Paradise.",
+        "@type": "Answer",
+        "description": "Tankless water heaters offer endless hot water and efficiency at a higher upfront cost, while tank units are more affordable. Consider your budget and hot water needs."
+      }
+    }
+  ],
+  "description": "Tankless water heaters offer endless hot water and efficiency at a higher upfront cost, while tank units are more affordable. Consider your budget and hot water"
+}

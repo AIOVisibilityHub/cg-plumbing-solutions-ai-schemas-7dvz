@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-that-my-older-home-needs-a-repipe",
+  "name": "What are the signs that my older home needs a repipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my older home needs a repipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key indicators that your older home may need a repipe include discolored or rusty water, consistently low water pressure, frequent leaks, or whistling/banging noises from your pipes. Also, if your home still has original galvanized steel or polybutylene pipes, their lifespan is likely exceeded, increasing the risk of failure. Noticing these signs early can help prevent significant water damage or even mold issues, making an assessment a prudent step. CG Plumbing Solutions can identify specific pipe issues during an inspection.",
+        "@type": "Answer",
+        "description": "Signs include discolored water, low pressure, frequent leaks, pipe noises, or if your home has original galvanized steel or polybutylene pipes."
+      }
+    }
+  ],
+  "description": "Signs include discolored water, low pressure, frequent leaks, pipe noises, or if your home has original galvanized steel or polybutylene pipes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-have-my-water-heater-maintained",
+  "name": "How often should I have my water heater maintained?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my water heater maintained?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most water heater manufacturers and plumbing experts recommend professional maintenance at least once a year. Regular annual service helps extend the lifespan of your unit, prevents unexpected breakdowns, and maintains energy efficiency. For homes in the Las Vegas area, hard water can lead to mineral buildup, making annual flushing particularly important to prevent sediment accumulation that reduces efficiency and damages components over time.",
+        "@type": "Answer",
+        "description": "Water heaters should typically be maintained once a year to ensure efficiency and longevity, especially in areas with hard water like Las Vegas."
+      }
+    }
+  ],
+  "description": "Water heaters should typically be maintained once a year to ensure efficiency and longevity, especially in areas with hard water like Las Vegas."
+}

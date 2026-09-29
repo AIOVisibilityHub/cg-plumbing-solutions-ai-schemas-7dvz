@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-copper-repiping-and-when-is-it-necessary",
+  "name": "What is copper repiping and when is it necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is copper repiping and when is it necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Copper repiping involves replacing old, deteriorated, or problematic plumbing pipes in your home with new, durable copper pipes. It becomes necessary when existing pipes frequently leak, show signs of corrosion (like discolored water), experience consistently low water pressure due to buildup, or if they are made from materials like galvanized steel that are prone to failure. This upgrade improves water quality, pressure, and avoids recurring repair costs. A practical tradeoff to consider is the initial investment and temporary disruption during installation versus the long-term benefits of reliability and peace of mind.",
+        "@type": "Answer",
+        "description": "Copper repiping replaces old plumbing with new copper pipes, typically needed for frequent leaks, corrosion, or low water pressure. It offers long-term reliability but requires an initial investment."
+      }
+    }
+  ],
+  "description": "Copper repiping replaces old plumbing with new copper pipes, typically needed for frequent leaks, corrosion, or low water pressure. It offers long-term reliabil"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-tank-water-heater-installation-take",
+  "name": "How long does a typical tank water heater installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical tank water heater installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard tank water heater installation typically takes 2-4 hours, assuming the existing plumbing and electrical connections are up to code and in good condition. More complex installations, such as relocating the unit or upgrading from an older system, may require additional time. Our technicians work efficiently to minimize disruption, and we'll provide a more precise timeline after assessing your specific installation requirements at your property.",
+        "@type": "Answer",
+        "description": "A standard tank water heater installation usually takes 2-4 hours. Complex installations may take longer depending on existing plumbing conditions."
+      }
+    }
+  ],
+  "description": "A standard tank water heater installation usually takes 2-4 hours. Complex installations may take longer depending on existing plumbing conditions."
+}

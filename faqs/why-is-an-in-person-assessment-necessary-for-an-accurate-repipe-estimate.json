@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-an-in-person-assessment-necessary-for-an-accurate-repipe-estimate",
+  "name": "Why is an in-person assessment necessary for an accurate repipe estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is an in-person assessment necessary for an accurate repipe estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An in-person assessment is necessary for an accurate repipe estimate because it allows a plumbing professional to physically inspect your home's unique plumbing layout, pipe materials, and the condition of your existing system. Photos or virtual assessments cannot fully capture the complexities, such as hidden pipe routes, structural considerations, or accessibility challenges, that directly impact the labor and materials required. This ensures CG Plumbing Solutions delivers a precise quote that avoids unforeseen costs during the project for homeowners in areas like Anthem or Rhodes Ranch.",
+        "@type": "Answer",
+        "description": "An in-person assessment is crucial for accurate repipe estimates to inspect unique plumbing layouts, pipe conditions, and structural complexities."
+      }
+    }
+  ],
+  "description": "An in-person assessment is crucial for accurate repipe estimates to inspect unique plumbing layouts, pipe conditions, and structural complexities."
+}

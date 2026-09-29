@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-there-financing-options-available-for-partial-repiping",
+  "name": "Are there financing options available for partial repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there financing options available for partial repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CG Plumbing Solutions understands that plumbing repairs can be an unexpected expense. We offer various financing options to help make partial repiping services more manageable for our customers. These options can help spread the cost over time, making essential plumbing upgrades accessible without immediate financial strain. As a practical tradeoff, while financing adds to the overall cost due to interest, it allows you to address urgent plumbing issues without delaying critical repairs. We can discuss available plans during your consultation.",
+        "@type": "Answer",
+        "description": "Yes, CG Plumbing Solutions offers financing options for partial repiping to make services more affordable. This allows addressing urgent repairs without immediate financial strain, though interest may apply."
+      }
+    }
+  ],
+  "description": "Yes, CG Plumbing Solutions offers financing options for partial repiping to make services more affordable. This allows addressing urgent repairs without immedia"
+}

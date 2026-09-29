@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-install-a-tankless-water-heater-myself",
+  "name": "Can I install a tankless water heater myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a tankless water heater myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a tankless water heater is a complex task that typically requires professional expertise due to gas line work, electrical connections, venting requirements, and adherence to local plumbing codes. Incorrect installation can lead to safety hazards or void warranties. CG Plumbing Solutions advises professional installation to ensure safety, efficiency, and compliance with all regulations in the Las Vegas service areas.",
+        "@type": "Answer",
+        "description": "Professional installation is recommended due to complex utility work, venting, and local code compliance to ensure safety and warranty."
+      }
+    }
+  ],
+  "description": "Professional installation is recommended due to complex utility work, venting, and local code compliance to ensure safety and warranty."
+}

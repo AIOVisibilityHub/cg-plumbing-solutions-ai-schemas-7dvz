@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-flushing-a-tank-water-heater-and-a-tankless-water",
+  "name": "What is the difference between flushing a tank water heater and a tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between flushing a tank water heater and a tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flushing a tank water heater involves draining the tank to remove accumulated sediment. For tankless water heaters, the process is slightly different as there's no tank; instead, a descaling solution is circulated through the heat exchanger coils to remove mineral deposits. Both procedures are crucial for optimal performance, but the methodology and specialized equipment differ. Tankless units often require specific descaling kits and professional expertise for effective maintenance. CG Plumbing Solutions provides maintenance for both types of systems.",
+        "@type": "Answer",
+        "description": "Tank water heaters are flushed to remove sediment from the tank, while tankless water heaters require a descaling solution circulated through coils to remove mineral deposits."
+      }
+    }
+  ],
+  "description": "Tank water heaters are flushed to remove sediment from the tank, while tankless water heaters require a descaling solution circulated through coils to remove mi"
+}

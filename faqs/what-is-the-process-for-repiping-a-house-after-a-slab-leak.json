@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-repiping-a-house-after-a-slab-leak",
+  "name": "What is the process for repiping a house after a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repiping a house after a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repiping process after a slab leak begins with an initial inspection to locate the leak and assess pipe condition. Next, our plumbers plan the new pipe routing to minimize disruption. Existing pipes are then rerouted through walls or the attic, often bypassing the slab entirely. After new pipes are installed and connected, the system is tested for leaks. Finally, any necessary wall or ceiling repairs are completed. CG Plumbing Solutions handles each step, coordinating with you to ensure a smooth transition and minimal impact on your daily life.",
+        "@type": "Answer",
+        "description": "Repiping involves inspection, planning new pipe routes, installation through walls or attic, system testing, and final repairs. We manage the entire process."
+      }
+    }
+  ],
+  "description": "Repiping involves inspection, planning new pipe routes, installation through walls or attic, system testing, and final repairs. We manage the entire process."
+}

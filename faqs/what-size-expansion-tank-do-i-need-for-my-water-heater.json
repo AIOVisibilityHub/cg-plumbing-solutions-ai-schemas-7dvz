@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-size-expansion-tank-do-i-need-for-my-water-heater",
+  "name": "What size expansion tank do I need for my water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What size expansion tank do I need for my water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The correct expansion tank size depends primarily on the size of your water heater and your home's water pressure. A general rule of thumb is that the expansion tank should be about 2 gallons for every 40 gallons of water heater capacity. However, water pressure, which can vary across Las Vegas service areas like Summerlin or Anthem, also plays a critical role. A professional plumber will calculate the precise size needed to effectively accommodate thermal expansion and protect your system based on these factors, ensuring optimal performance.",
+        "@type": "Answer",
+        "description": "Tank size depends on your water heater's capacity and water pressure. A plumber calculates the precise size for optimal function."
+      }
+    }
+  ],
+  "description": "Tank size depends on your water heater's capacity and water pressure. A plumber calculates the precise size for optimal function."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-information-should-i-have-ready-before-calling-for-hot-water-repair",
+  "name": "What information should I have ready before calling for hot water repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before calling for hot water repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before calling for hot water repair, it's helpful to know your water heater's type (gas, electric, tankless), brand, approximate age, and any observed symptoms (e.g., no hot water, lukewarm, strange noises, leaks). Also, note if you've checked the breaker or pilot light. This information helps CG Plumbing Solutions diagnose the problem more efficiently and ensures our technicians arrive prepared to address your specific situation promptly.",
+        "@type": "Answer",
+        "description": "Have your water heater's type, brand, age, symptoms, and any checks performed (breaker, pilot light) ready before calling for repair."
+      }
+    }
+  ],
+  "description": "Have your water heater's type, brand, age, symptoms, and any checks performed (breaker, pilot light) ready before calling for repair."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-do-i-need-to-replace-my-water-heater-instead-of-just-repairing-the-pilot-li",
+  "name": "When do I need to replace my water heater instead of just repairing the pilot light?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to replace my water heater instead of just repairing the pilot light?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might consider replacing your water heater if pilot light issues are frequent, alongside other problems like leaks, rust, or insufficient hot water, especially if the unit is over 10-12 years old. While a pilot light repair is often more cost-effective for isolated issues, recurring problems on an old unit can signal the end of its lifespan. Our technicians can help you weigh the cost of repairs against the benefits of a new, more efficient installation, providing clear options for your home in areas like Summerlin or Paradise.",
+        "@type": "Answer",
+        "description": "Consider replacement if pilot light issues are frequent on an older water heater (over 10-12 years) or if accompanied by other major problems like leaks or rust."
+      }
+    }
+  ],
+  "description": "Consider replacement if pilot light issues are frequent on an older water heater (over 10-12 years) or if accompanied by other major problems like leaks or rust"
+}

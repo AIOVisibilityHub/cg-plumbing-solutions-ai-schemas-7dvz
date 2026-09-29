@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-regular-maintenance-extend-the-life-of-my-water-heater",
+  "name": "How can regular maintenance extend the life of my water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can regular maintenance extend the life of my water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance significantly extends the life of your water heater by addressing common issues that lead to premature failure. Flushing the tank removes sediment that insulates the heating elements, ensuring they don't overwork and burn out. Inspecting and replacing the anode rod prevents tank corrosion. Catching small problems early prevents them from escalating into major system breakdowns, ensuring your unit operates efficiently and reliably for many years.",
+        "@type": "Answer",
+        "description": "Maintenance extends lifespan by removing sediment, preventing corrosion with anode rod checks, and addressing minor issues before they worsen."
+      }
+    }
+  ],
+  "description": "Maintenance extends lifespan by removing sediment, preventing corrosion with anode rod checks, and addressing minor issues before they worsen."
+}

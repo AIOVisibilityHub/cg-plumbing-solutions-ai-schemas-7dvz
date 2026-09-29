@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-tankless-water-heater-needs-repair",
+  "name": "What are common signs that my tankless water heater needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my tankless water heater needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your tankless water heater may need repair include a sudden loss of hot water, inconsistent water temperature, unusual noises like banging or whistling, or a reduction in water pressure. Error codes displayed on the unit are also a clear indicator. Addressing these issues promptly can prevent further damage. For instance, mineral buildup from hard water in the Las Vegas area often causes these symptoms, necessitating professional descaling or repair.",
+        "@type": "Answer",
+        "description": "Signs include no hot water, inconsistent temperature, strange noises, low pressure, or error codes. Hard water buildup is a common cause in the Las Vegas region."
+      }
+    }
+  ],
+  "description": "Signs include no hot water, inconsistent temperature, strange noises, low pressure, or error codes. Hard water buildup is a common cause in the Las Vegas region"
+}

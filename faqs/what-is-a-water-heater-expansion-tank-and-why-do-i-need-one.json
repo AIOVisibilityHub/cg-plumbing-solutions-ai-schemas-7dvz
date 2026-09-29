@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-water-heater-expansion-tank-and-why-do-i-need-one",
+  "name": "What is a water heater expansion tank and why do I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a water heater expansion tank and why do I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water heater expansion tank is a small tank installed near your water heater that absorbs excess water pressure created when water heats up. Without an expansion tank, this pressure can damage your water heater, plumbing fixtures, and even lead to leaks. In many areas, including Las Vegas and surrounding communities like Henderson and Summerlin, expansion tanks are often required by local plumbing codes to ensure system safety and longevity, especially for closed-loop hot water systems.",
+        "@type": "Answer",
+        "description": "An expansion tank absorbs excess water pressure from your water heater, protecting your plumbing system and complying with local codes."
+      }
+    }
+  ],
+  "description": "An expansion tank absorbs excess water pressure from your water heater, protecting your plumbing system and complying with local codes."
+}

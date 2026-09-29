@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-a-water-heater-pressure-relief-valve-be-replaced",
+  "name": "How often should a water heater pressure relief valve be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should a water heater pressure relief valve be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There isn't a universally fixed schedule, but most manufacturers recommend inspecting your water heater's pressure relief valve annually and replacing it every 3 to 5 years, or immediately if it shows signs of leakage or failure. During annual maintenance, a plumber can test the valve to ensure it opens and closes correctly. If the valve leaks or drips constantly, it’s a clear sign it needs replacement. Neglecting replacement can compromise your system's safety, potentially leading to more severe issues down the line.",
+        "@type": "Answer",
+        "description": "Water heater pressure relief valves should be inspected annually and typically replaced every 3 to 5 years, or sooner if leaking or failing."
+      }
+    }
+  ],
+  "description": "Water heater pressure relief valves should be inspected annually and typically replaced every 3 to 5 years, or sooner if leaking or failing."
+}

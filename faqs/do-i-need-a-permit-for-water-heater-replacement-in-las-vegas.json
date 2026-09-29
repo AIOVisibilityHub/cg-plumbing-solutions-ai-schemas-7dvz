@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-a-permit-for-water-heater-replacement-in-las-vegas",
+  "name": "Do I need a permit for water heater replacement in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for water heater replacement in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in the Las Vegas area, a permit is typically required for water heater replacement to ensure the installation adheres to local building codes and safety regulations. This ensures proper venting, drainage, and connections are made safely and correctly. Failing to obtain a permit can lead to issues with home inspections, insurance claims, or potential fines. As part of our service, CG Plumbing Solutions handles all necessary permitting processes, ensuring your new water heater installation meets all local requirements in cities like Las Vegas, North Las Vegas, and Henderson for your peace of mind and safety.",
+        "@type": "Answer",
+        "description": "Yes, a permit is generally required in Las Vegas to ensure code compliance and safety. CG Plumbing Solutions handles this process for you."
+      }
+    }
+  ],
+  "description": "Yes, a permit is generally required in Las Vegas to ensure code compliance and safety. CG Plumbing Solutions handles this process for you."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-water-heater-pilot-light-repair-take",
+  "name": "How long does a typical water heater pilot light repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical water heater pilot light repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most water heater pilot light repairs are relatively quick, often completed within one to two hours once a technician arrives. The exact time depends on the complexity of the problem, such as whether it's a simple thermocouple replacement or a more involved gas valve issue. Our goal is to diagnose and resolve the issue efficiently, restoring your hot water as quickly as possible. We prioritize timely service across our Las Vegas service area, understanding the inconvenience of a lack of hot water.",
+        "@type": "Answer",
+        "description": "Most pilot light repairs are completed within 1-2 hours, depending on the complexity of the issue like a thermocouple or gas valve replacement. We aim for efficient service."
+      }
+    }
+  ],
+  "description": "Most pilot light repairs are completed within 1-2 hours, depending on the complexity of the issue like a thermocouple or gas valve replacement. We aim for effic"
+}

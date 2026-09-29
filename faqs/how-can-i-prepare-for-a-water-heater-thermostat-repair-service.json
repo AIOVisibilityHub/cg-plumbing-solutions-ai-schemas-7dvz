@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prepare-for-a-water-heater-thermostat-repair-service",
+  "name": "How can I prepare for a water heater thermostat repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare for a water heater thermostat repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a water heater thermostat repair service, ensure clear access to your water heater, removing any obstacles around the unit. It's also helpful to have any previous service records or the water heater's model and serial number readily available, as this information can assist the technician. CG Plumbing Solutions advises turning off the power or gas supply to the water heater before our arrival if you are comfortable doing so and only if instructed by our dispatch.",
+        "@type": "Answer",
+        "description": "Prepare for repair by ensuring clear access to the water heater, having service records ready, and potentially turning off power/gas if advised."
+      }
+    }
+  ],
+  "description": "Prepare for repair by ensuring clear access to the water heater, having service records ready, and potentially turning off power/gas if advised."
+}

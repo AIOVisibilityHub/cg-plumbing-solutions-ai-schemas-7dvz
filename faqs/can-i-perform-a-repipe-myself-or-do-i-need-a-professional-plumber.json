@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-perform-a-repipe-myself-or-do-i-need-a-professional-plumber",
+  "name": "Can I perform a repipe myself, or do I need a professional plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform a repipe myself, or do I need a professional plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repiping is a complex plumbing project that requires specialized tools, skills, and knowledge of local building codes. Attempting a DIY repipe without proper expertise can lead to serious issues, such as incorrect pipe sizing, improper connections, or code violations, resulting in leaks, water damage, or even health hazards. It is highly recommended to hire a professional, licensed plumber for a repipe to ensure the job is done correctly, safely, and in compliance with all regulations. CG Plumbing Solutions provides expert repiping services.",
+        "@type": "Answer",
+        "description": "Repiping is complex and requires professional expertise, tools, and knowledge of local building codes to avoid serious issues. It's highly recommended to hire a licensed plumber."
+      }
+    }
+  ],
+  "description": "Repiping is complex and requires professional expertise, tools, and knowledge of local building codes to avoid serious issues. It's highly recommended to hire a"
+}

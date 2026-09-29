@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-pipes-are-used-for-partial-repiping",
+  "name": "What types of pipes are used for partial repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of pipes are used for partial repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For partial repiping, common pipe materials include PEX (cross-linked polyethylene) and copper. PEX is flexible, durable, corrosion-resistant, and often more cost-effective to install. Copper is known for its longevity and resistance to bacteria, though it's typically a more expensive option. The best choice depends on factors like your existing plumbing, water chemistry, budget, and local building codes. When selecting materials for your home in areas like Las Vegas, we consider factors such as hard water conditions, which can impact the longevity of certain pipe types, and recommend the most suitable option.",
+        "@type": "Answer",
+        "description": "Common partial repiping materials are PEX and copper. PEX is flexible and cost-effective, while copper is durable. The choice depends on existing plumbing, budget, and local conditions like hard water."
+      }
+    }
+  ],
+  "description": "Common partial repiping materials are PEX and copper. PEX is flexible and cost-effective, while copper is durable. The choice depends on existing plumbing, budg"
+}

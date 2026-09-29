@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-to-prepare-my-home-for-partial-repiping-work",
+  "name": "What should I do to prepare my home for partial repiping work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home for partial repiping work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our technicians arrive for partial repiping, it's helpful to clear the work areas and provide easy access to the plumbing. This includes moving furniture, personal items, or anything obstructing access to walls, ceilings, or floors where pipes will be replaced. We also advise covering nearby items to protect them from dust. By taking these preparation steps, you help our team work more efficiently, which can reduce the overall time spent on the project. We will confirm specific access requirements during your pre-service consultation.",
+        "@type": "Answer",
+        "description": "Prepare for partial repiping by clearing work areas and ensuring easy access to plumbing. Move furniture and cover items to protect from dust, helping our team work efficiently."
+      }
+    }
+  ],
+  "description": "Prepare for partial repiping by clearing work areas and ensuring easy access to plumbing. Move furniture and cover items to protect from dust, helping our team"
+}

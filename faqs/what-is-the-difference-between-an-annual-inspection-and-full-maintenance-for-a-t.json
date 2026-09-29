@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-an-annual-inspection-and-full-maintenance-for-a-t",
+  "name": "What is the difference between an annual inspection and full maintenance for a tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an annual inspection and full maintenance for a tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An annual inspection for a tankless water heater typically involves checking for leaks, proper ventilation, and general operation. Full maintenance, however, includes all inspection points along with a complete descaling of the heat exchanger and thorough cleaning of internal components. While an inspection can identify potential issues, full maintenance actively addresses and prevents common problems like mineral buildup, which is particularly important in areas with hard water.",
+        "@type": "Answer",
+        "description": "An inspection checks for issues, while full maintenance includes descaling and cleaning to actively prevent problems, especially crucial in hard water regions."
+      }
+    }
+  ],
+  "description": "An inspection checks for issues, while full maintenance includes descaling and cleaning to actively prevent problems, especially crucial in hard water regions."
+}

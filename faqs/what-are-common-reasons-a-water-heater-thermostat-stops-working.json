@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-reasons-a-water-heater-thermostat-stops-working",
+  "name": "What are common reasons a water heater thermostat stops working?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons a water heater thermostat stops working?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water heater thermostats can stop working due to several common reasons, including electrical surges, sediment buildup interfering with the sensor, general wear and tear from age, or faulty wiring. Occasionally, a tripping high-limit switch, designed as a safety feature, can be mistakenly identified as a thermostat failure. A professional inspection by CG Plumbing Solutions can accurately determine the specific cause and ensure the correct repair is performed.",
+        "@type": "Answer",
+        "description": "Common reasons for thermostat failure include electrical surges, sediment buildup, age-related wear, faulty wiring, or a tripped high-limit switch."
+      }
+    }
+  ],
+  "description": "Common reasons for thermostat failure include electrical surges, sediment buildup, age-related wear, faulty wiring, or a tripped high-limit switch."
+}

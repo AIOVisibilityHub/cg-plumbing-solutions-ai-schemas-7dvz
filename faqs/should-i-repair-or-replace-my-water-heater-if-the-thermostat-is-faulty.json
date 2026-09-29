@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-repair-or-replace-my-water-heater-if-the-thermostat-is-faulty",
+  "name": "Should I repair or replace my water heater if the thermostat is faulty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my water heater if the thermostat is faulty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace your water heater when the thermostat is faulty depends on several factors, including the age of your unit, the cost of the repair versus a new installation, and the overall condition of the water heater. If your water heater is over 10 years old or has other recurring issues, a replacement might be more cost-effective in the long run. CG Plumbing Solutions can help you weigh these options, providing an honest assessment to guide your decision in the Las Vegas valley.",
+        "@type": "Answer",
+        "description": "Consider your water heater's age, repair cost, and overall condition to decide between repairing a faulty thermostat or replacing the unit."
+      }
+    }
+  ],
+  "description": "Consider your water heater's age, repair cost, and overall condition to decide between repairing a faulty thermostat or replacing the unit."
+}

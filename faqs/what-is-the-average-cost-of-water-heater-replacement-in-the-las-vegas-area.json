@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-average-cost-of-water-heater-replacement-in-the-las-vegas-area",
+  "name": "What is the average cost of water heater replacement in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of water heater replacement in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water heater replacement in the Las Vegas area can vary significantly based on the type of unit, its capacity, installation complexity, and any required plumbing or electrical modifications. For a standard tank-style unit, costs generally include the unit itself and labor. Tankless water heaters, while more expensive upfront, can offer long-term energy savings. Older homes or conversions to different heater types might incur additional costs for code compliance updates or utility line adjustments. CG Plumbing Solutions provides transparent, upfront quotes after a thorough inspection to ensure you understand all aspects of the investment.",
+        "@type": "Answer",
+        "description": "Cost varies based on unit type, capacity, and installation complexity. Tankless units are pricier but offer energy savings. Get an upfront quote for accuracy."
+      }
+    }
+  ],
+  "description": "Cost varies based on unit type, capacity, and installation complexity. Tankless units are pricier but offer energy savings. Get an upfront quote for accuracy."
+}

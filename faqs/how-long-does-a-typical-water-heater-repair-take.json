@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-water-heater-repair-take",
+  "name": "How long does a typical water heater repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical water heater repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a water heater repair depends on the complexity of the problem. Simple repairs, like replacing a thermostat or pilot light, might only take an hour or two. More involved issues, such as replacing a heating element or addressing a significant leak, could take several hours. If a full replacement is needed, that process will take longer. CG Plumbing Solutions aims to complete most repairs efficiently to minimize disruption, and our technicians can provide an estimated timeframe after diagnosing the issue. Process clarity means our team will communicate expected timelines upfront.",
+        "@type": "Answer",
+        "description": "Repair times vary; simple fixes take 1-2 hours, while complex issues or replacements take longer. Our technicians provide an estimated timeframe after diagnosis."
+      }
+    }
+  ],
+  "description": "Repair times vary; simple fixes take 1-2 hours, while complex issues or replacements take longer. Our technicians provide an estimated timeframe after diagnosis"
+}

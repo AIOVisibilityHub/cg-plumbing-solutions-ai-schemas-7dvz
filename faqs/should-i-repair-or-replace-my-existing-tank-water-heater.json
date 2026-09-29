@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-repair-or-replace-my-existing-tank-water-heater",
+  "name": "Should I repair or replace my existing tank water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my existing tank water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace your tank water heater depends on its age, the severity of the issue, and the repair cost. If your unit is close to or beyond its typical 8-12 year lifespan, replacement is generally recommended due to declining efficiency and higher risk of future failures. A minor component failure on a newer unit might be worth repairing, but significant issues like tank leaks almost always necessitate replacement, as repairing a leaking tank is rarely feasible or safe.",
+        "@type": "Answer",
+        "description": "Evaluate age, issue severity, and repair cost. Replacement is often better for older units or significant issues like tank leaks."
+      }
+    }
+  ],
+  "description": "Evaluate age, issue severity, and repair cost. Replacement is often better for older units or significant issues like tank leaks."
+}

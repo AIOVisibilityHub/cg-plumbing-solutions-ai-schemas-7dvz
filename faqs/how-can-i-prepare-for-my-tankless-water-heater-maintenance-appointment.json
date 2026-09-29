@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prepare-for-my-tankless-water-heater-maintenance-appointment",
+  "name": "How can I prepare for my tankless water heater maintenance appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare for my tankless water heater maintenance appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for your tankless water heater maintenance appointment, ensure clear access to the unit, as our technicians will need space to work. It's also helpful to have any previous service records or unit manuals available. You may want to note any unusual sounds, smells, or performance issues you've observed, as this information can help our plumbers diagnose any specific concerns efficiently.",
+        "@type": "Answer",
+        "description": "Ensure clear access to the unit, have service records ready, and note any performance issues to help technicians during your appointment."
+      }
+    }
+  ],
+  "description": "Ensure clear access to the unit, have service records ready, and note any performance issues to help technicians during your appointment."
+}

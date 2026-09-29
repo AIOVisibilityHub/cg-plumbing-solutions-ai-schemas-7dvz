@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-installing-a-tankless-water-heater",
+  "name": "What is the process for installing a tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process involves removing your old water heater, preparing the site, mounting the new tankless unit, connecting water and gas lines (or electrical), installing proper venting, and testing the system. A key part of the process, particularly with CG Plumbing Solutions, is ensuring local plumbing codes for Las Vegas are met, which might include specific requirements for gas line sizing or ventilation in our desert climate.",
+        "@type": "Answer",
+        "description": "The process includes removal, mounting, connecting utilities, venting, and testing, with adherence to local plumbing codes."
+      }
+    }
+  ],
+  "description": "The process includes removal, mounting, connecting utilities, venting, and testing, with adherence to local plumbing codes."
+}

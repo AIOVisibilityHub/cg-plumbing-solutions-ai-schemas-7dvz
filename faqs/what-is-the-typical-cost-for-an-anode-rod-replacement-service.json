@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-cost-for-an-anode-rod-replacement-service",
+  "name": "What is the typical cost for an anode rod replacement service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for an anode rod replacement service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of anode rod replacement can vary depending on factors such as the type of water heater, accessibility of the rod, and the specific parts needed. Generally, it includes the cost of the new anode rod and labor. It's a small investment compared to the cost of replacing an entire water heater due to tank corrosion. Contact CG Plumbing Solutions for a detailed estimate, as pricing can fluctuate based on the complexity of your unit and current labor rates in the Las Vegas valley.",
+        "@type": "Answer",
+        "description": "Anode rod replacement costs vary by water heater type and accessibility, but it's a small investment compared to replacing a corroded water heater. Contact us for an estimate."
+      }
+    }
+  ],
+  "description": "Anode rod replacement costs vary by water heater type and accessibility, but it's a small investment compared to replacing a corroded water heater. Contact us f"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-repipe-project-take-in-the-las-vegas-area",
+  "name": "How long does a typical repipe project take in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical repipe project take in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a repipe project in the Las Vegas area can vary depending on the size of your home, the complexity of its plumbing system, and the chosen piping material. Generally, a full home repipe can take anywhere from a few days to a week. For instance, a smaller home might be completed faster than a large multi-story residence. CG Plumbing Solutions provides a detailed timeline estimate after an initial on-site assessment, ensuring you understand the project's scope and schedule upfront.",
+        "@type": "Answer",
+        "description": "A typical repipe project takes a few days to a week, depending on home size and system complexity. CG Plumbing Solutions provides a timeline after assessment."
+      }
+    }
+  ],
+  "description": "A typical repipe project takes a few days to a week, depending on home size and system complexity. CG Plumbing Solutions provides a timeline after assessment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-water-heater-sediment-removal-important",
+  "name": "Why is water heater sediment removal important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is water heater sediment removal important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water heater sediment removal is crucial for maintaining your unit's efficiency and lifespan. Sediment, primarily mineral deposits from hard water, settles at the bottom of the tank, reducing heating efficiency and potentially causing overheating. Removing it prevents premature wear on components and helps avoid costly repairs, ensuring your water heater operates effectively in areas with hard water like Las Vegas.",
+        "@type": "Answer",
+        "description": "Removing sediment improves water heater efficiency, extends its lifespan, and prevents costly repairs by eliminating mineral buildup."
+      }
+    }
+  ],
+  "description": "Removing sediment improves water heater efficiency, extends its lifespan, and prevents costly repairs by eliminating mineral buildup."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-my-hot-water-not-lasting-as-long-as-it-used-to",
+  "name": "Why is my hot water not lasting as long as it used to?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my hot water not lasting as long as it used to?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your hot water supply isn't lasting as long, several factors could be at play. Common causes include a failing heating element (for electric heaters), a build-up of sediment in the tank reducing its capacity, an incorrectly set thermostat, or a dip tube issue. Over time, sediment accumulation is common, especially in areas like Las Vegas where water hardness can contribute to mineral deposits. This build-up reduces the effective volume of hot water your tank can hold and heat. Regular flushing of the tank can help mitigate this problem.",
+        "@type": "Answer",
+        "description": "Reduced hot water duration can be due to failing heating elements, sediment buildup, thermostat issues, or a faulty dip tube. Sediment buildup is common in areas with hard water."
+      }
+    }
+  ],
+  "description": "Reduced hot water duration can be due to failing heating elements, sediment buildup, thermostat issues, or a faulty dip tube. Sediment buildup is common in area"
+}

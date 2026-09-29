@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-there-no-hot-water-in-my-home",
+  "name": "Why is there no hot water in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is there no hot water in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several issues can cause a lack of hot water, including a tripped circuit breaker or blown fuse for electric water heaters, a pilot light out or gas supply issue for gas water heaters, a malfunctioning thermostat, or a faulty heating element. Sediment buildup in the tank can also reduce efficiency. A professional inspection can accurately diagnose the problem and recommend the correct repair for your specific water heater type.",
+        "@type": "Answer",
+        "description": "No hot water can be caused by electrical issues, pilot light problems, thermostat malfunctions, or sediment buildup in the water heater."
+      }
+    }
+  ],
+  "description": "No hot water can be caused by electrical issues, pilot light problems, thermostat malfunctions, or sediment buildup in the water heater."
+}

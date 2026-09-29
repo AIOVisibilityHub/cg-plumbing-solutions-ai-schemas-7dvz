@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-an-anode-rod-and-why-is-it-important-for-water-heater-maintenance",
+  "name": "What is an anode rod and why is it important for water heater maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an anode rod and why is it important for water heater maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The anode rod, often called a 'sacrificial rod,' is a metal rod inside your water heater designed to corrode instead of the steel tank lining. It's crucial for preventing rust and extending the life of your water heater. During maintenance, technicians inspect the anode rod and recommend replacement if it's significantly corroded. The lifespan of an anode rod can vary depending on water quality, and replacing it proactively is a cost-effective way to protect your investment.",
+        "@type": "Answer",
+        "description": "The anode rod prevents tank corrosion by sacrificing itself; regular inspection and replacement during maintenance extend water heater lifespan."
+      }
+    }
+  ],
+  "description": "The anode rod prevents tank corrosion by sacrificing itself; regular inspection and replacement during maintenance extend water heater lifespan."
+}

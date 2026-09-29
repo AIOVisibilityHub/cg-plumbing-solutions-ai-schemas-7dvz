@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-have-my-water-heater-flushed",
+  "name": "How often should I have my water heater flushed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my water heater flushed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most manufacturers and plumbing experts recommend flushing your water heater annually to prevent sediment buildup. However, the frequency can depend on your water quality and usage habits. Homes with hard water, common in the Las Vegas valley, may benefit from flushing more frequently, perhaps every 6-9 months, to combat mineral deposits. Neglecting regular flushes can lead to reduced efficiency, higher energy bills, and potential breakdowns, making this a key part of routine home maintenance.",
+        "@type": "Answer",
+        "description": "Water heaters should typically be flushed annually, but homes with hard water, like in the Las Vegas area, may require more frequent flushing to prevent sediment buildup."
+      }
+    }
+  ],
+  "description": "Water heaters should typically be flushed annually, but homes with hard water, like in the Las Vegas area, may require more frequent flushing to prevent sedimen"
+}

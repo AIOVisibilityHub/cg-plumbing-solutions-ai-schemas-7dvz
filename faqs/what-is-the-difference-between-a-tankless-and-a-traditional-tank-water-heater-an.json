@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-tankless-and-a-traditional-tank-water-heater-an",
+  "name": "What is the difference between a tankless and a traditional tank water heater, and which is right for me?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a tankless and a traditional tank water heater, and which is right for me?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tankless water heaters provide hot water on demand, heating water as it flows through the unit, which means an endless supply of hot water and greater energy efficiency. Traditional tank heaters store and continuously heat a reserve of water, ensuring hot water availability but often leading to standby energy loss. The right choice depends on your household's hot water demand, budget, and space availability. For instance, a larger family might benefit from the continuous hot water of a tankless system, while a smaller household might find a traditional tank sufficient. Our experts can help you compare initial costs, operating expenses, and space requirements to determine the best fit for your home.",
+        "@type": "Answer",
+        "description": "Tankless heaters offer on-demand, endless hot water and energy efficiency, while traditional tanks store and heat a fixed volume. The best choice depends on your household's hot water demand, budget, and space."
+      }
+    }
+  ],
+  "description": "Tankless heaters offer on-demand, endless hot water and energy efficiency, while traditional tanks store and heat a fixed volume. The best choice depends on you"
+}

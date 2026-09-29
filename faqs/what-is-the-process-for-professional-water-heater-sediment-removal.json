@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-professional-water-heater-sediment-removal",
+  "name": "What is the process for professional water heater sediment removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional water heater sediment removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically involves shutting off the water supply and power to the unit, connecting a hose to the drain valve, and opening the valve to allow water and sediment to drain out. Depending on the amount of sediment, a professional may use specialized tools or techniques to dislodge stubborn deposits. After draining, the tank is refilled and flushed again to ensure all loosened sediment is removed, then the power and water supply are restored.",
+        "@type": "Answer",
+        "description": "The process involves shutting off water and power, draining the tank to flush out sediment, refilling, and then restoring power and water."
+      }
+    }
+  ],
+  "description": "The process involves shutting off water and power, draining the tank to flush out sediment, refilling, and then restoring power and water."
+}

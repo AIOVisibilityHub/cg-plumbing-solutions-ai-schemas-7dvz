@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-lifespan-of-a-tank-water-heater",
+  "name": "What is the typical lifespan of a tank water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of a tank water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard tank water heater typically lasts between 8 and 12 years. However, this lifespan can vary based on factors like the water quality in your area, maintenance frequency, and the model's quality. For instance, hard water, common in parts of the Las Vegas valley, can lead to mineral buildup and reduce a unit's efficiency and lifespan if not properly maintained. Regular flushing can help extend its life, but eventually, replacement becomes necessary.",
+        "@type": "Answer",
+        "description": "Tank water heaters generally last 8-12 years, though this can vary with water quality and maintenance."
+      }
+    }
+  ],
+  "description": "Tank water heaters generally last 8-12 years, though this can vary with water quality and maintenance."
+}

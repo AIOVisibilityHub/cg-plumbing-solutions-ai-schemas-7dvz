@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-tank-water-heater-replacement-process",
+  "name": "What is involved in the tank water heater replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the tank water heater replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The tank water heater replacement process typically involves several steps: first, our technicians will drain and disconnect your old water heater. Next, they will carefully remove it and position the new unit. Plumbing and gas/electrical lines are then connected, and safety features like temperature and pressure relief valves are installed or checked. Finally, the system is filled, purged of air, and tested to ensure proper operation and check for leaks. We also ensure proper disposal of the old unit.",
+        "@type": "Answer",
+        "description": "The process includes draining, removal, new unit installation, line connections, safety checks, and system testing."
+      }
+    }
+  ],
+  "description": "The process includes draining, removal, new unit installation, line connections, safety checks, and system testing."
+}

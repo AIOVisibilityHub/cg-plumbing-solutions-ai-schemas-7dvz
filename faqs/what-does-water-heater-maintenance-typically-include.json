@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-does-water-heater-maintenance-typically-include",
+  "name": "What does water heater maintenance typically include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does water heater maintenance typically include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional water heater maintenance usually involves several key steps. Our technicians at CG Plumbing Solutions will drain and flush the tank to remove sediment, inspect the anode rod for corrosion, check the temperature and pressure relief valve, examine heating elements or burners, and inspect all connections for leaks. This comprehensive check helps identify potential issues before they become major problems, ensuring your system operates safely and efficiently.",
+        "@type": "Answer",
+        "description": "Maintenance typically includes draining and flushing the tank, inspecting the anode rod, checking safety valves, and examining heating components for optimal operation."
+      }
+    }
+  ],
+  "description": "Maintenance typically includes draining and flushing the tank, inspecting the anode rod, checking safety valves, and examining heating components for optimal op"
+}

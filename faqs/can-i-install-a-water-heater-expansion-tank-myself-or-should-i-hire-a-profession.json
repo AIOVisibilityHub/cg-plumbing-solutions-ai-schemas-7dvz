@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-install-a-water-heater-expansion-tank-myself-or-should-i-hire-a-profession",
+  "name": "Can I install a water heater expansion tank myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a water heater expansion tank myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While DIY installation might seem appealing, installing a water heater expansion tank involves working with pressurized water and specific plumbing codes, making professional installation highly recommended. Improper installation can lead to leaks, system damage, or failure to meet local regulations, potentially voiding warranties or creating safety hazards. For areas like Enterprise and Spring Valley, CG Plumbing Solutions ensures the installation is done correctly, adheres to all local standards, and that your system operates safely and efficiently, often preventing costlier issues down the line.",
+        "@type": "Answer",
+        "description": "Professional installation is recommended due to plumbing codes and safety concerns. Incorrect DIY can lead to issues."
+      }
+    }
+  ],
+  "description": "Professional installation is recommended due to plumbing codes and safety concerns. Incorrect DIY can lead to issues."
+}

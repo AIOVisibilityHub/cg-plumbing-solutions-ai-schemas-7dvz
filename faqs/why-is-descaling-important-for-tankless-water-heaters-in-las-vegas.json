@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-descaling-important-for-tankless-water-heaters-in-las-vegas",
+  "name": "Why is descaling important for tankless water heaters in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is descaling important for tankless water heaters in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Descaling is crucial for tankless water heaters, especially in Las Vegas and surrounding areas like Henderson and Summerlin, due to the prevalence of hard water. Hard water contains high levels of minerals like calcium and magnesium, which can accumulate in the heat exchanger, reducing efficiency and eventually causing blockages or damage. Regular descaling prevents this buildup, ensuring your unit provides consistent hot water and prolongs its lifespan.",
+        "@type": "Answer",
+        "description": "Descaling is vital in hard water areas like Las Vegas to remove mineral buildup from the heat exchanger, preventing damage and maintaining efficiency."
+      }
+    }
+  ],
+  "description": "Descaling is vital in hard water areas like Las Vegas to remove mineral buildup from the heat exchanger, preventing damage and maintaining efficiency."
+}

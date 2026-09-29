@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-repipe-estimate-and-what-does-it-include",
+  "name": "What is a repipe estimate and what does it include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a repipe estimate and what does it include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A repipe estimate provides a detailed breakdown of the costs and scope involved in replacing your home's entire plumbing system. It typically includes labor, materials (such as PEX or copper piping), removal of old pipes, and restoration of affected areas. CG Plumbing Solutions' estimates also consider the number of fixtures, the size of your home, and accessibility, ensuring all aspects of the project are covered for residents in areas like Las Vegas and Henderson.",
+        "@type": "Answer",
+        "description": "A repipe estimate details the cost and scope of replacing your home's plumbing system, including labor, materials, and restoration."
+      }
+    }
+  ],
+  "description": "A repipe estimate details the cost and scope of replacing your home's plumbing system, including labor, materials, and restoration."
+}

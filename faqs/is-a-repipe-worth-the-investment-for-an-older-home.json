@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/is-a-repipe-worth-the-investment-for-an-older-home",
+  "name": "Is a repipe worth the investment for an older home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a repipe worth the investment for an older home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A repipe is generally a significant long-term investment that can drastically improve the quality and safety of your home's water supply, increase water pressure, and eliminate costly leak repairs. For older homes with deteriorating plumbing, it prevents potential structural damage from leaks and enhances property value. While the upfront cost can be substantial, the benefits of reliable plumbing, peace of mind, and avoiding future problems often outweigh the initial expense. CG Plumbing Solutions can help you assess the return on investment for your specific situation.",
+        "@type": "Answer",
+        "description": "A repipe is a significant investment that improves water quality, pressure, prevents leaks, and can increase property value, making it worthwhile for older homes."
+      }
+    }
+  ],
+  "description": "A repipe is a significant investment that improves water quality, pressure, prevents leaks, and can increase property value, making it worthwhile for older home"
+}

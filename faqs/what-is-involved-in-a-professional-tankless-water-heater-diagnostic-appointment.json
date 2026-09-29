@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-a-professional-tankless-water-heater-diagnostic-appointment",
+  "name": "What is involved in a professional tankless water heater diagnostic appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a professional tankless water heater diagnostic appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a professional diagnostic appointment for your tankless water heater, our technician will conduct a thorough inspection. This typically involves checking the unit for error codes, examining gas or electrical connections, inspecting the heat exchanger for scale buildup or leaks, and testing water flow and temperature sensors. We also check exhaust venting and combustion for proper operation. This comprehensive process allows us to accurately identify the root cause of the problem and recommend the most effective repair solution, ensuring an accurate and lasting fix.",
+        "@type": "Answer",
+        "description": "A diagnostic appointment includes checking error codes, connections, heat exchanger, sensors, and venting to identify the problem and recommend repairs."
+      }
+    }
+  ],
+  "description": "A diagnostic appointment includes checking error codes, connections, heat exchanger, sensors, and venting to identify the problem and recommend repairs."
+}

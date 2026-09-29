@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-does-anode-rod-replacement-prevent-water-heater-leaks",
+  "name": "How does anode rod replacement prevent water heater leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does anode rod replacement prevent water heater leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The anode rod acts as a sacrificial protector, corroding instead of the steel tank liner. If the anode rod is fully consumed, the corrosive elements in the water will then begin to attack the exposed steel of the tank, leading to rust and eventual tank perforation. Once the tank is compromised, leaks develop, often requiring full water heater replacement. Replacing the anode rod regularly ensures continuous protection, preventing this internal corrosion that leads to leaks. This is especially important for extending water heater life in our service areas like Summerlin and Henderson.",
+        "@type": "Answer",
+        "description": "Anode rod replacement prevents water heater leaks by continuously sacrificing itself to protect the steel tank from corrosion. Without it, the tank rusts, leading to leaks."
+      }
+    }
+  ],
+  "description": "Anode rod replacement prevents water heater leaks by continuously sacrificing itself to protect the steel tank from corrosion. Without it, the tank rusts, leadi"
+}

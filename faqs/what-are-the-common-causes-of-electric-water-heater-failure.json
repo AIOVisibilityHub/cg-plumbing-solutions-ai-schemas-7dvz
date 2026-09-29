@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-causes-of-electric-water-heater-failure",
+  "name": "What are the common causes of electric water heater failure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of electric water heater failure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common causes of electric water heater failure include sediment buildup in the tank, which reduces efficiency and can damage heating elements, and worn-out heating elements or thermostats. Corroded anode rods fail to protect the tank from rust, leading to leaks over time. Additionally, electrical issues like faulty wiring or tripped breakers can prevent the unit from heating. Hard water conditions, prevalent in areas like Las Vegas, can accelerate sediment buildup, making regular flushing particularly important.",
+        "@type": "Answer",
+        "description": "Common causes of failure include sediment buildup, worn heating elements or thermostats, corroded anode rods, and electrical issues. Hard water in Las Vegas contributes to sediment buildup."
+      }
+    }
+  ],
+  "description": "Common causes of failure include sediment buildup, worn heating elements or thermostats, corroded anode rods, and electrical issues. Hard water in Las Vegas con"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-replace-a-water-heater-pressure-relief-valve",
+  "name": "How long does it take to replace a water heater pressure relief valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a water heater pressure relief valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a water heater pressure relief valve typically takes between 30 minutes to 1.5 hours. The exact time can vary depending on factors such as the accessibility of your water heater, the condition of the existing valve and plumbing, and whether any additional issues are discovered during the process. For instance, if the discharge pipe needs to be replaced due to corrosion or improper installation, it may extend the service time. Our plumbers work efficiently to minimize disruption while ensuring a safe and effective replacement.",
+        "@type": "Answer",
+        "description": "Replacement usually takes 30 minutes to 1.5 hours, depending on accessibility and the condition of the old valve and plumbing."
+      }
+    }
+  ],
+  "description": "Replacement usually takes 30 minutes to 1.5 hours, depending on accessibility and the condition of the old valve and plumbing."
+}

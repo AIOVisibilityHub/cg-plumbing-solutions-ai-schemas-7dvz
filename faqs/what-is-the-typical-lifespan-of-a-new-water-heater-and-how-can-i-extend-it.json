@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-lifespan-of-a-new-water-heater-and-how-can-i-extend-it",
+  "name": "What is the typical lifespan of a new water heater, and how can I extend it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of a new water heater, and how can I extend it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A new conventional tank water heater typically lasts between 10 to 15 years, while tankless models can last 20 years or more with proper maintenance. To extend its lifespan, annual maintenance is crucial. This includes flushing the tank to remove sediment buildup, checking the anode rod, inspecting the pressure relief valve, and ensuring there are no leaks. Hard water, common in the Las Vegas valley, can accelerate sediment accumulation, making regular flushing particularly important. Our preventative maintenance services can significantly prolong your water heater's life and ensure its efficiency.",
+        "@type": "Answer",
+        "description": "Conventional tank water heaters last 10-15 years, tankless 20+ years. Extend lifespan with annual maintenance like flushing to remove sediment, especially due to hard water in the Las Vegas area."
+      }
+    }
+  ],
+  "description": "Conventional tank water heaters last 10-15 years, tankless 20+ years. Extend lifespan with annual maintenance like flushing to remove sediment, especially due t"
+}

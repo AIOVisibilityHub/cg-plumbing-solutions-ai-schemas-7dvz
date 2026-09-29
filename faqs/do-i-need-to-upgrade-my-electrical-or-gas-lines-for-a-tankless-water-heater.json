@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-upgrade-my-electrical-or-gas-lines-for-a-tankless-water-heater",
+  "name": "Do I need to upgrade my electrical or gas lines for a tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to upgrade my electrical or gas lines for a tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is common to require upgrades to your electrical or gas lines when installing a tankless water heater, especially if you're replacing an older, less demanding unit. Gas tankless heaters often need a larger gas line, while electric models require significant amperage. During our assessment, CG Plumbing Solutions will inspect your existing utility connections to determine if any upgrades are necessary for safe and efficient operation.",
+        "@type": "Answer",
+        "description": "Upgrades to electrical or gas lines are often needed for tankless water heaters; an assessment determines specific requirements."
+      }
+    }
+  ],
+  "description": "Upgrades to electrical or gas lines are often needed for tankless water heaters; an assessment determines specific requirements."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prepare-for-a-tank-water-heater-replacement-appointment",
+  "name": "How can I prepare for a tank water heater replacement appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare for a tank water heater replacement appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for your tank water heater replacement appointment, please ensure there is clear access to the existing water heater, typically located in a garage, closet, or utility room. Clear any items stored around the unit to allow our technicians sufficient working space. If possible, make sure a path is clear from the access point to where the old unit will be removed and the new one brought in. This preparation helps our team work efficiently and safely.",
+        "@type": "Answer",
+        "description": "Clear access to the existing water heater and ensure a clear path for removal and installation."
+      }
+    }
+  ],
+  "description": "Clear access to the existing water heater and ensure a clear path for removal and installation."
+}

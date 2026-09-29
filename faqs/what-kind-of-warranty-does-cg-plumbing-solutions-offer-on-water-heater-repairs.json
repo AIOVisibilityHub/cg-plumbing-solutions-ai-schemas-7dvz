@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-warranty-does-cg-plumbing-solutions-offer-on-water-heater-repairs",
+  "name": "What kind of warranty does CG Plumbing Solutions offer on water heater repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty does CG Plumbing Solutions offer on water heater repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions stands behind the quality of our work and offers warranties on both parts and labor for water heater repairs. The specific warranty period can vary depending on the type of repair performed and the parts installed. Our technicians will provide detailed information regarding the warranty applicable to your specific service during the quoting process. This first-party insight ensures you have clarity on our commitment to your satisfaction and the longevity of our repairs.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions offers warranties on both parts and labor for water heater repairs. Specific warranty details will be provided by our technicians for your service."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions offers warranties on both parts and labor for water heater repairs. Specific warranty details will be provided by our technicians for your"
+}

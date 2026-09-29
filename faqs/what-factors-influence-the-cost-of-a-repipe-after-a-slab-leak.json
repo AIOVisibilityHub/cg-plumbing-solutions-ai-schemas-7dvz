@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-a-repipe-after-a-slab-leak",
+  "name": "What factors influence the cost of a repipe after a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a repipe after a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a repipe after a slab leak is influenced by several key factors. These include the size of your home, the type of piping materials used (e.g., PEX or copper), the accessibility of the existing pipes, and the extent of damage to be repaired. For instance, a larger home or one requiring extensive wall and flooring repairs will incur higher costs. CG Plumbing Solutions provides a comprehensive estimate after a thorough inspection, detailing all anticipated expenses and material options for properties in Las Vegas and surrounding areas.",
+        "@type": "Answer",
+        "description": "Repipe costs depend on home size, pipe material, accessibility, and damage extent. A detailed estimate is provided after inspection."
+      }
+    }
+  ],
+  "description": "Repipe costs depend on home size, pipe material, accessibility, and damage extent. A detailed estimate is provided after inspection."
+}

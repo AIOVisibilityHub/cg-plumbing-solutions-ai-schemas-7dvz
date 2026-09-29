@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-does-water-quality-in-las-vegas-affect-anode-rod-lifespan",
+  "name": "How does water quality in Las Vegas affect anode rod lifespan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does water quality in Las Vegas affect anode rod lifespan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The water quality in Las Vegas, North Las Vegas, Henderson, and surrounding areas is known to be hard, containing higher levels of minerals. This hard water can accelerate the electrochemical reaction that causes the anode rod to corrode, leading to a shorter lifespan for the rod compared to areas with softer water. Homeowners might find their anode rods need more frequent inspection and replacement due to these local water conditions to effectively protect their water heater tank.",
+        "@type": "Answer",
+        "description": "Hard water in the Las Vegas area contains high mineral levels, which can accelerate anode rod corrosion and shorten its lifespan, requiring more frequent replacements."
+      }
+    }
+  ],
+  "description": "Hard water in the Las Vegas area contains high mineral levels, which can accelerate anode rod corrosion and shorten its lifespan, requiring more frequent replac"
+}

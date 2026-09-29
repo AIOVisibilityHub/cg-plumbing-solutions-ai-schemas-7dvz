@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-does-my-home-s-foundation-affect-a-repipe-estimate",
+  "name": "How does my home's foundation affect a repipe estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does my home's foundation affect a repipe estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your home's foundation can significantly affect a repipe estimate, especially if pipes are routed through concrete slabs. Slab leaks require more complex and labor-intensive repairs or rerouting, which can increase the overall cost and duration of the repipe project. CG Plumbing Solutions' technicians evaluate how the existing plumbing interacts with your foundation to determine the least disruptive and most effective repiping strategy, ensuring an accurate estimate for homes in the diverse terrains of Henderson or Silverado Ranch.",
+        "@type": "Answer",
+        "description": "Your home's foundation, especially concrete slabs, affects repipe estimates by influencing the complexity and cost of pipe routing and repair."
+      }
+    }
+  ],
+  "description": "Your home's foundation, especially concrete slabs, affects repipe estimates by influencing the complexity and cost of pipe routing and repair."
+}

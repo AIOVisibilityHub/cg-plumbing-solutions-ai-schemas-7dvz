@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-choose-pex-or-copper-for-a-repipe-in-las-vegas",
+  "name": "Should I choose PEX or copper for a repipe in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose PEX or copper for a repipe in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing between PEX and copper for a repipe in Las Vegas, both have distinct advantages. PEX is often more affordable, flexible, and resistant to corrosion, which is beneficial for the local water conditions. Copper, while more expensive, is highly durable, lasts a long time, and is naturally antimicrobial. Your decision might hinge on budget, long-term durability goals, and preferences for pipe material. CG Plumbing Solutions can help you compare these options, discussing the pros and cons relative to your home’s specific needs and the local environment, ensuring an informed choice.",
+        "@type": "Answer",
+        "description": "PEX is more affordable and flexible, while copper is highly durable. Consider budget and durability goals when choosing for your Las Vegas home."
+      }
+    }
+  ],
+  "description": "PEX is more affordable and flexible, while copper is highly durable. Consider budget and durability goals when choosing for your Las Vegas home."
+}

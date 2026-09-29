@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-partial-repiping-and-when-is-it-a-suitable-solution",
+  "name": "What is partial repiping and when is it a suitable solution?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is partial repiping and when is it a suitable solution?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Partial repiping involves replacing only a section of your home's plumbing system rather than the entire network. This approach is suitable when issues like isolated leaks, corrosion, or persistent low water pressure are confined to a specific area, such as a single bathroom or kitchen. It's often chosen to address immediate problems and extend the lifespan of the remaining, still functional plumbing. During an inspection, our technicians at CG Plumbing Solutions can identify the extent of the damage and help determine if partial repiping is the most cost-effective and appropriate solution for your specific situation.",
+        "@type": "Answer",
+        "description": "Partial repiping replaces a section of your plumbing system, suitable for isolated issues like leaks or low pressure in specific areas. It can be a cost-effective solution to address immediate problems."
+      }
+    }
+  ],
+  "description": "Partial repiping replaces a section of your plumbing system, suitable for isolated issues like leaks or low pressure in specific areas. It can be a cost-effecti"
+}

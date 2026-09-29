@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-an-electric-water-heater-repair-usually-take",
+  "name": "How long does an electric water heater repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an electric water heater repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most electric water heater repairs can be completed within 1 to 3 hours, depending on the complexity of the issue and the availability of parts. Simple fixes like replacing a heating element or thermostat are typically quicker. For more intricate problems, or if a specialized part needs to be ordered, the repair time might extend. Our technicians carry common parts, which often allows for same-day resolution of many issues. We aim to restore your hot water as quickly as possible.",
+        "@type": "Answer",
+        "description": "Most electric water heater repairs take 1 to 3 hours. Complexity and part availability can influence the total time."
+      }
+    }
+  ],
+  "description": "Most electric water heater repairs take 1 to 3 hours. Complexity and part availability can influence the total time."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-warranty-does-cg-plumbing-solutions-offer-on-copper-repiping",
+  "name": "What kind of warranty does CG Plumbing Solutions offer on copper repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty does CG Plumbing Solutions offer on copper repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions stands behind the quality of our copper repiping services with a comprehensive warranty on both materials and labor. While specific terms are detailed in your service agreement, our standard commitment ensures peace of mind regarding the longevity and integrity of your new plumbing system. This first-party insight means that in the rare event of an issue related to our installation or the copper piping itself, we will address it promptly and efficiently. We are dedicated to providing durable solutions and exceptional customer satisfaction in the Las Vegas valley.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions offers a comprehensive warranty on copper repiping materials and labor, ensuring peace of mind. We stand by our durable solutions and address any installation-related issues promptly."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions offers a comprehensive warranty on copper repiping materials and labor, ensuring peace of mind. We stand by our durable solutions and addr"
+}

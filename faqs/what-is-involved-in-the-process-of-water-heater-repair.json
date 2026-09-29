@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-process-of-water-heater-repair",
+  "name": "What is involved in the process of water heater repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of water heater repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The water heater repair process typically begins with a diagnostic assessment by a qualified technician to identify the root cause of the problem. Once the issue is pinpointed, the technician will explain the necessary repairs and provide a quote for parts and labor. With your approval, they will proceed with the repair, which may involve draining the tank, replacing components, or sealing leaks. After the repair, the system is tested to ensure it's functioning correctly. CG Plumbing Solutions technicians ensure thorough testing before considering the job complete, providing process clarity.",
+        "@type": "Answer",
+        "description": "The repair process involves diagnosis, explaining necessary repairs and costs, performing the repair, and then testing the system to ensure proper function."
+      }
+    }
+  ],
+  "description": "The repair process involves diagnosis, explaining necessary repairs and costs, performing the repair, and then testing the system to ensure proper function."
+}

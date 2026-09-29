@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-have-my-tankless-water-heater-serviced",
+  "name": "How often should I have my tankless water heater serviced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my tankless water heater serviced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tankless water heaters should typically be serviced annually to maintain efficiency and extend their lifespan. In areas with hard water, like parts of Las Vegas, more frequent descaling might be necessary to prevent mineral buildup. Regular maintenance helps ensure optimal performance and can prevent unexpected breakdowns, saving you money on costly repairs.",
+        "@type": "Answer",
+        "description": "Annual maintenance is recommended for tankless water heaters, with more frequent descaling possibly needed in hard water areas like Las Vegas."
+      }
+    }
+  ],
+  "description": "Annual maintenance is recommended for tankless water heaters, with more frequent descaling possibly needed in hard water areas like Las Vegas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-consider-before-scheduling-a-water-heater-flush",
+  "name": "What should I consider before scheduling a water heater flush?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before scheduling a water heater flush?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling a water heater flush, consider the age of your unit, your home's water hardness, and when it was last serviced. If your water heater is very old (over 10-12 years) and has never been flushed, a flush might dislodge significant scale that could lead to leaks, making replacement a more viable option. Also, gather any service records you have. CG Plumbing Solutions can discuss these factors with you to determine the best approach, ensuring the most appropriate service for your specific situation in areas like Paradise or North Las Vegas.",
+        "@type": "Answer",
+        "description": "Consider your water heater's age, water hardness, and last service date. If it's very old and unflushed, a replacement might be safer than a flush."
+      }
+    }
+  ],
+  "description": "Consider your water heater's age, water hardness, and last service date. If it's very old and unflushed, a replacement might be safer than a flush."
+}

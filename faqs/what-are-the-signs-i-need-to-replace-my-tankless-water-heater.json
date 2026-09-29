@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-i-need-to-replace-my-tankless-water-heater",
+  "name": "What are the signs I need to replace my tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs I need to replace my tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that indicate a tankless water heater replacement may be necessary include inconsistent water temperature, reduced hot water flow, frequent error codes, or visible leaks. A significant increase in repair frequency or cost also suggests it might be more economical to replace the unit. Our technicians can assess your unit's performance and provide a professional recommendation based on its age and condition.",
+        "@type": "Answer",
+        "description": "Inconsistent water temperature, reduced flow, frequent error codes, or leaks are signs you may need a tankless water heater replacement."
+      }
+    }
+  ],
+  "description": "Inconsistent water temperature, reduced flow, frequent error codes, or leaks are signs you may need a tankless water heater replacement."
+}

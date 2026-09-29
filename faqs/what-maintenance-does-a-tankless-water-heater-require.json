@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-maintenance-does-a-tankless-water-heater-require",
+  "name": "What maintenance does a tankless water heater require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance does a tankless water heater require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tankless water heaters require periodic flushing to remove mineral buildup, especially in areas with hard water like the Las Vegas region, to maintain efficiency and extend their lifespan. Manufacturers typically recommend flushing annually or bi-annually. CG Plumbing Solutions can perform this essential maintenance to prevent issues and keep your unit running optimally.",
+        "@type": "Answer",
+        "description": "Tankless water heaters require periodic flushing to remove mineral buildup, especially in hard water areas like Las Vegas, for efficiency."
+      }
+    }
+  ],
+  "description": "Tankless water heaters require periodic flushing to remove mineral buildup, especially in hard water areas like Las Vegas, for efficiency."
+}

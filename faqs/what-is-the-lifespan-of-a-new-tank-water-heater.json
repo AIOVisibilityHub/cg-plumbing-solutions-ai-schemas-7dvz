@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-lifespan-of-a-new-tank-water-heater",
+  "name": "What is the lifespan of a new tank water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the lifespan of a new tank water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A new tank water heater typically lasts between 8 to 12 years, depending on the model, water quality, and maintenance frequency. Regular maintenance, such as annual flushing to remove sediment buildup, can significantly extend its lifespan and maintain efficiency. During our service calls in Las Vegas, we often discuss maintenance tips to help customers maximize their unit's longevity and performance.",
+        "@type": "Answer",
+        "description": "A new tank water heater usually lasts 8-12 years. Regular maintenance, like annual flushing, can extend its lifespan."
+      }
+    }
+  ],
+  "description": "A new tank water heater usually lasts 8-12 years. Regular maintenance, like annual flushing, can extend its lifespan."
+}

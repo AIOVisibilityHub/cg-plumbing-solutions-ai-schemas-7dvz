@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-cost-range-for-tank-water-heater-installation-in-the-las-veg",
+  "name": "What is the typical cost range for tank water heater installation in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for tank water heater installation in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical cost for tank water heater installation in the Las Vegas area can vary widely based on the heater's size, type (gas or electric), brand, and any necessary modifications to your existing plumbing or ventilation. While we cannot provide exact pricing without a direct assessment, standard installations for a typical home can range. We provide a clear, upfront estimate after assessing your specific needs during a consultation, ensuring no hidden fees.",
+        "@type": "Answer",
+        "description": "Installation costs in Las Vegas vary based on heater size, type, and plumbing modifications. We provide a specific estimate after an assessment."
+      }
+    }
+  ],
+  "description": "Installation costs in Las Vegas vary based on heater size, type, and plumbing modifications. We provide a specific estimate after an assessment."
+}

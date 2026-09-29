@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-cost-for-partial-repiping-services",
+  "name": "What is the typical cost for partial repiping services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for partial repiping services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of partial repiping varies significantly based on factors such as the type of pipe material used (e.g., PEX or copper), the linear footage of pipe to be replaced, accessibility of the plumbing, and the complexity of the installation. For example, replacing pipes in a wall may incur additional drywall repair costs. We provide detailed estimates after an on-site assessment to give you an accurate understanding of the investment. We can also discuss options like PEX which can be a more budget-friendly choice compared to copper for partial repiping in many Las Vegas homes.",
+        "@type": "Answer",
+        "description": "Partial repiping costs depend on pipe material, length, accessibility, and complexity. An on-site assessment is needed for an accurate estimate, with PEX often being a more budget-friendly option."
+      }
+    }
+  ],
+  "description": "Partial repiping costs depend on pipe material, length, accessibility, and complexity. An on-site assessment is needed for an accurate estimate, with PEX often"
+}

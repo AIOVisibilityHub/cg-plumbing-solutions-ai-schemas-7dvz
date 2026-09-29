@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-main-benefits-of-installing-a-tankless-water-heater",
+  "name": "What are the main benefits of installing a tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main benefits of installing a tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tankless water heaters provide hot water on demand, which means you won't run out during peak usage and can save energy by not continuously heating a large tank of water. They are also more compact than traditional tank models, freeing up valuable space in your home. When considering an installation with CG Plumbing Solutions, we can help you assess your household's hot water demand to ensure the unit selected meets your specific needs.",
+        "@type": "Answer",
+        "description": "Tankless water heaters offer endless hot water, energy savings, and a compact design compared to traditional tank models."
+      }
+    }
+  ],
+  "description": "Tankless water heaters offer endless hot water, energy savings, and a compact design compared to traditional tank models."
+}

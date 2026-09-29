@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/is-it-safe-to-try-and-fix-my-water-heater-pilot-light-myself",
+  "name": "Is it safe to try and fix my water heater pilot light myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it safe to try and fix my water heater pilot light myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Attempting to fix a water heater pilot light yourself can be risky, especially if you're not experienced with gas appliances. Incorrect handling can lead to gas leaks, carbon monoxide exposure, or other hazards. While re-lighting a pilot light following manufacturer instructions is generally safe, any further troubleshooting or component replacement should be left to certified professionals. Our technicians at CG Plumbing Solutions are trained to safely diagnose and repair pilot light issues, protecting your home and family from potential dangers.",
+        "@type": "Answer",
+        "description": "Re-lighting the pilot following instructions can be safe, but complex troubleshooting or component replacement should be handled by a certified professional due to gas appliance risks."
+      }
+    }
+  ],
+  "description": "Re-lighting the pilot following instructions can be safe, but complex troubleshooting or component replacement should be handled by a certified professional due"
+}

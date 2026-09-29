@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-replacing-a-tankless-unit-and-upgrading-from-a-tan",
+  "name": "What's the difference between replacing a tankless unit and upgrading from a tank heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between replacing a tankless unit and upgrading from a tank heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing an existing tankless unit is generally a more straightforward process, as the necessary gas, water, and venting lines are already in place. Upgrading from a traditional tank heater to a tankless unit often requires modifications to gas lines, venting systems, and potentially electrical wiring to meet the new unit's requirements. This can affect the overall project duration and cost, as more extensive plumbing work is needed to convert your system.",
+        "@type": "Answer",
+        "description": "Replacing an existing tankless unit is simpler than upgrading from a tank heater, which requires more extensive plumbing and venting modifications."
+      }
+    }
+  ],
+  "description": "Replacing an existing tankless unit is simpler than upgrading from a tank heater, which requires more extensive plumbing and venting modifications."
+}

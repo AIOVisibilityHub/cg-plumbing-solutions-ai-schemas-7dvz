@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-check-before-calling-a-professional-for-a-pilot-light-repair",
+  "name": "What should I check before calling a professional for a pilot light repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I check before calling a professional for a pilot light repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before calling for a repair, you can check a few things. Ensure the gas supply to your water heater is turned on. Sometimes the pilot light simply needs to be re-lit following the instructions on your water heater's label, which often involves holding down a button and igniting. However, if the pilot light won't stay lit after several attempts, or if you smell gas, it's safer to contact a professional. CG Plumbing Solutions provides prompt service in the Las Vegas area for these more persistent issues, ensuring safety and proper function.",
+        "@type": "Answer",
+        "description": "Check if the gas supply is on and attempt to re-light the pilot following the water heater's instructions. If it won't stay lit or you smell gas, call a professional."
+      }
+    }
+  ],
+  "description": "Check if the gas supply is on and attempt to re-light the pilot following the water heater's instructions. If it won't stay lit or you smell gas, call a profess"
+}

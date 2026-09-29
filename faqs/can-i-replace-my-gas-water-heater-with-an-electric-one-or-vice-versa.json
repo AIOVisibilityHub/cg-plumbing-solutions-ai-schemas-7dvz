@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-replace-my-gas-water-heater-with-an-electric-one-or-vice-versa",
+  "name": "Can I replace my gas water heater with an electric one, or vice-versa?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my gas water heater with an electric one, or vice-versa?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is possible to switch from a gas water heater to an electric one, or from electric to gas, but it involves significant changes and additional costs. Converting from gas to electric requires adequate electrical capacity and wiring, while switching from electric to gas necessitates installing a gas line and venting system, often requiring permits and inspections. These conversions are more complex than a like-for-like replacement and impact both installation time and overall cost. CG Plumbing Solutions can assess your current setup and provide a detailed plan and estimate if you're considering such a conversion, ensuring all necessary infrastructure changes are handled safely and to code.",
+        "@type": "Answer",
+        "description": "Yes, but switching fuel types requires significant plumbing/electrical modifications, permits, and adds to cost and complexity. CG Plumbing Solutions can assess the feasibility."
+      }
+    }
+  ],
+  "description": "Yes, but switching fuel types requires significant plumbing/electrical modifications, permits, and adds to cost and complexity. CG Plumbing Solutions can assess"
+}

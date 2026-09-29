@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-my-water-heater-pressure-relief-valve-constantly-dripping",
+  "name": "Why is my water heater pressure relief valve constantly dripping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my water heater pressure relief valve constantly dripping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A constantly dripping pressure relief valve usually indicates one of a few issues: either the valve itself is faulty and needs replacement, or there is excessive pressure within your water heater system. High pressure can be caused by a failed expansion tank, a closed main water shut-off valve (creating a closed system), or municipal water pressure that is too high. Our technicians will diagnose the root cause, whether it's the valve, an expansion tank, or high incoming water pressure, to ensure a lasting solution and prevent future issues. This is a common issue we address in homes across Las Vegas and its surrounding communities.",
+        "@type": "Answer",
+        "description": "Constant dripping suggests a faulty valve or excessive system pressure, often from a failed expansion tank or high incoming water pressure."
+      }
+    }
+  ],
+  "description": "Constant dripping suggests a faulty valve or excessive system pressure, often from a failed expansion tank or high incoming water pressure."
+}

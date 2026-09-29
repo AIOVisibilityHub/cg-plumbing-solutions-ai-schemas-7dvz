@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-replace-the-anode-rod-in-my-water-heater",
+  "name": "How often should I replace the anode rod in my water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I replace the anode rod in my water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, anode rods should be inspected every 3-5 years and replaced as needed, but this can vary based on your water quality and usage. In areas with hard water, such as many communities around Las Vegas, anode rods may corrode more quickly and require more frequent inspection or replacement, sometimes every 2-3 years. A professional plumber from CG Plumbing Solutions can assess your specific situation and recommend an appropriate schedule during a routine maintenance visit.",
+        "@type": "Answer",
+        "description": "Anode rods typically need inspection every 3-5 years, but hard water in the Las Vegas area can accelerate corrosion, requiring more frequent checks."
+      }
+    }
+  ],
+  "description": "Anode rods typically need inspection every 3-5 years, but hard water in the Las Vegas area can accelerate corrosion, requiring more frequent checks."
+}

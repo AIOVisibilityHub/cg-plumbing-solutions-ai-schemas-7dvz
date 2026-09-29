@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-gas-water-heater-needs-repair",
+  "name": "What are common signs that my gas water heater needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my gas water heater needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your gas water heater needs repair include a lack of hot water, discolored hot water (rusty or cloudy), strange noises like rumbling or popping from the tank, or a pilot light that frequently goes out. Other indicators might be a rotten egg smell, which could signal a gas leak and requires immediate attention, or water leaking from around the base of the unit. Identifying these issues early can prevent more extensive damage and costly repairs, and helps CG Plumbing Solutions diagnose the problem quickly.",
+        "@type": "Answer",
+        "description": "Lack of hot water, discolored water, strange noises, or a pilot light that frequently goes out are common signs your gas water heater needs repair."
+      }
+    }
+  ],
+  "description": "Lack of hot water, discolored water, strange noises, or a pilot light that frequently goes out are common signs your gas water heater needs repair."
+}

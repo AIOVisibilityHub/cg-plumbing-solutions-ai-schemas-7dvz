@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-water-heater-thermostat-might-be-failing",
+  "name": "What are common signs that my water heater thermostat might be failing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my water heater thermostat might be failing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a failing water heater thermostat include inconsistent water temperature (either too hot or not hot enough), water that is lukewarm even after extended heating, or a complete lack of hot water. You might also notice the water heater cycling on and off more frequently than usual. Identifying these symptoms early can help prevent further damage to your unit. CG Plumbing Solutions technicians can diagnose these issues efficiently in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "Inconsistent water temperature, lukewarm water, or no hot water are common signs of a failing water heater thermostat."
+      }
+    }
+  ],
+  "description": "Inconsistent water temperature, lukewarm water, or no hot water are common signs of a failing water heater thermostat."
+}

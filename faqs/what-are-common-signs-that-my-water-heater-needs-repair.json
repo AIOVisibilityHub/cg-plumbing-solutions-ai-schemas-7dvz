@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-water-heater-needs-repair",
+  "name": "What are common signs that my water heater needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my water heater needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond a complete lack of hot water, other signs your water heater needs attention include strange noises like rumbling or popping, rusty or discolored water, foul odors from the hot water, or leaks around the base of the unit. A sudden decrease in hot water supply or a pilot light that frequently goes out also indicates a problem. Addressing these signs early can prevent more significant, costly damage.",
+        "@type": "Answer",
+        "description": "Signs a water heater needs repair include strange noises, discolored or odorous water, leaks, or a decrease in hot water supply."
+      }
+    }
+  ],
+  "description": "Signs a water heater needs repair include strange noises, discolored or odorous water, leaks, or a decrease in hot water supply."
+}

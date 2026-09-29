@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-repipe-estimates-from-different-companies-compare",
+  "name": "How do repipe estimates from different companies compare?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do repipe estimates from different companies compare?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When comparing repipe estimates from different companies, it's crucial to look beyond just the total price. Pay attention to the scope of work included, the type of materials specified, the warranty offered, and the estimated project timeline. Some estimates might be lower because they exclude certain restoration work or use different pipe materials. CG Plumbing Solutions provides detailed breakdowns so you can make an informed decision, comparing apples to apples across all aspects of the repipe project in the Las Vegas metropolitan area.",
+        "@type": "Answer",
+        "description": "Compare repipe estimates by looking at the scope of work, materials, warranty, and timeline, not just the total price."
+      }
+    }
+  ],
+  "description": "Compare repipe estimates by looking at the scope of work, materials, warranty, and timeline, not just the total price."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-i-need-a-water-heater-replacement",
+  "name": "How do I know if I need a water heater replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a water heater replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs you may need a water heater replacement include a lack of hot water, rust-colored water, strange noises like rumbling or popping from the tank, leaks around the base, or an aging unit (typically 10-15 years old for traditional tanks). These issues often indicate internal corrosion or component failure that can lead to inefficient operation or complete breakdown. If you notice any of these symptoms, especially consistent leaks or no hot water, it's best to have a professional assessment. CG Plumbing Solutions can inspect your unit to determine if repairs are feasible or if replacement is the more economical and reliable option.",
+        "@type": "Answer",
+        "description": "Signs include lack of hot water, rust, noises, leaks, or an old unit (10-15 years). A professional inspection can confirm if replacement is needed."
+      }
+    }
+  ],
+  "description": "Signs include lack of hot water, rust, noises, leaks, or an old unit (10-15 years). A professional inspection can confirm if replacement is needed."
+}

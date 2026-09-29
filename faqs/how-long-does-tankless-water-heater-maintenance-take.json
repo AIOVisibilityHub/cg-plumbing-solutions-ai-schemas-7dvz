@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-tankless-water-heater-maintenance-take",
+  "name": "How long does tankless water heater maintenance take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does tankless water heater maintenance take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard tankless water heater maintenance service typically takes about 1 to 2 hours. This timeframe allows our technicians to thoroughly flush the system, descale the heat exchanger, and perform a comprehensive inspection of all components. The exact duration can vary slightly depending on the unit's condition and the extent of mineral buildup.",
+        "@type": "Answer",
+        "description": "Standard maintenance usually takes 1 to 2 hours, allowing for thorough flushing, descaling, and inspection of the unit."
+      }
+    }
+  ],
+  "description": "Standard maintenance usually takes 1 to 2 hours, allowing for thorough flushing, descaling, and inspection of the unit."
+}

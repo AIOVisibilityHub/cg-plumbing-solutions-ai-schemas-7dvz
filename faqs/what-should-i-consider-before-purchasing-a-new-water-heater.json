@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-consider-before-purchasing-a-new-water-heater",
+  "name": "What should I consider before purchasing a new water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before purchasing a new water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before purchasing, consider your household's hot water demand, the unit's energy efficiency (look for the Energy Star label), the available space for installation, and your budget. Also, think about the type of fuel source available in your home (gas or electric) and local codes that might affect installation. For example, if your family often uses multiple hot water appliances simultaneously, a larger capacity or tankless unit might be necessary. Understanding these factors beforehand helps ensure you select a unit that meets your specific needs and avoids unexpected installation challenges.",
+        "@type": "Answer",
+        "description": "Consider your household's hot water demand, energy efficiency, available space, budget, fuel source, and local codes to choose the right water heater."
+      }
+    }
+  ],
+  "description": "Consider your household's hot water demand, energy efficiency, available space, budget, fuel source, and local codes to choose the right water heater."
+}

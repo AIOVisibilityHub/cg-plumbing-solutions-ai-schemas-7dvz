@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-my-gas-water-heater-instead-of-repairing-it",
+  "name": "When should I consider replacing my gas water heater instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my gas water heater instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your gas water heater rather than repairing it if the unit is over 10-12 years old, requires frequent or very costly repairs, or if it's operating inefficiently. For example, if the cost of a single repair approaches half the price of a new unit, or if significant leaks indicate tank failure, replacement is often the more economical long-term solution. CG Plumbing Solutions can help you weigh the pros and cons of repair versus replacement, considering your unit's age and the extent of the damage.",
+        "@type": "Answer",
+        "description": "Consider replacement if your gas water heater is old, needs costly repairs, or is inefficient; CG Plumbing Solutions can help you compare options."
+      }
+    }
+  ],
+  "description": "Consider replacement if your gas water heater is old, needs costly repairs, or is inefficient; CG Plumbing Solutions can help you compare options."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-process-of-installing-a-water-heater-expansion-tank",
+  "name": "What is involved in the process of installing a water heater expansion tank?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of installing a water heater expansion tank?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically involves shutting off the water supply and draining some water from the system to reduce pressure. The tank is then connected to the cold water supply line leading into the water heater. After installation, the system is refilled, and the pressure is checked. For CG Plumbing Solutions, our process clarity involves a thorough pre-installation assessment to determine the ideal tank size and placement for your specific water heater and plumbing setup, ensuring efficient operation and compliance with local codes in areas like Paradise and North Las Vegas.",
+        "@type": "Answer",
+        "description": "Installation involves connecting the tank to the cold water line. Our process includes an assessment for optimal size and placement."
+      }
+    }
+  ],
+  "description": "Installation involves connecting the tank to the cold water line. Our process includes an assessment for optimal size and placement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-hot-water-heater-repair-take",
+  "name": "How long does a typical hot water heater repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical hot water heater repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard hot water heater repairs can be completed within 1 to 3 hours, depending on the complexity of the issue and the availability of parts. Simple fixes, such as relighting a pilot light or resetting a breaker, are often quicker. More involved repairs, like replacing heating elements or a thermostat, may take longer. Our technicians at CG Plumbing Solutions aim for efficient service to restore your hot water as quickly as possible.",
+        "@type": "Answer",
+        "description": "Most hot water heater repairs take 1-3 hours, but complex issues or part availability can extend this. Simple fixes are often quicker."
+      }
+    }
+  ],
+  "description": "Most hot water heater repairs take 1-3 hours, but complex issues or part availability can extend this. Simple fixes are often quicker."
+}

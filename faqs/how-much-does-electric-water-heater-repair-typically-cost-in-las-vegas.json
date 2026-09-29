@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-electric-water-heater-repair-typically-cost-in-las-vegas",
+  "name": "How much does electric water heater repair typically cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does electric water heater repair typically cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of electric water heater repair in Las Vegas varies depending on the specific issue and the parts required. Minor repairs, such as replacing a heating element or thermostat, are generally less expensive than major repairs like tank leakage. We provide a detailed estimate after diagnosing the problem, and our technicians can explain the options available. The final cost will depend on the complexity of the repair and whether a replacement unit is a more cost-effective option for older systems.",
+        "@type": "Answer",
+        "description": "Repair costs vary based on the issue and parts needed. We provide detailed estimates after diagnosis in Las Vegas."
+      }
+    }
+  ],
+  "description": "Repair costs vary based on the issue and parts needed. We provide detailed estimates after diagnosis in Las Vegas."
+}

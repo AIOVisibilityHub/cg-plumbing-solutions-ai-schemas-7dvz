@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-i-need-partial-repiping-versus-full-repiping",
+  "name": "How do I know if I need partial repiping versus full repiping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need partial repiping versus full repiping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between partial and full repiping depends on the overall condition of your plumbing system. Partial repiping is ideal when problems are localized, such as a single leaky pipe or a section with significant corrosion. Full repiping is typically recommended for widespread issues, like multiple leaks, extensive pipe degradation throughout the home, or a desire to upgrade an entire outdated system. One practical tradeoff to consider is that while partial repiping has lower upfront costs, continued issues in other sections of older plumbing might lead to more interventions over time. An inspection from a licensed plumber can accurately assess your system's health.",
+        "@type": "Answer",
+        "description": "Partial repiping addresses localized plumbing issues, while full repiping is for widespread problems or system upgrades. Partial repiping has lower upfront costs, but future issues in other areas are possible."
+      }
+    }
+  ],
+  "description": "Partial repiping addresses localized plumbing issues, while full repiping is for widespread problems or system upgrades. Partial repiping has lower upfront cost"
+}

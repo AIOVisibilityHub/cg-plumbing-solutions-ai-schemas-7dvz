@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-that-i-might-need-a-repipe-after-a-slab-leak",
+  "name": "What are the signs that I might need a repipe after a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that I might need a repipe after a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate you might need a repipe following a slab leak. These include recurring slab leaks, a noticeable decrease in water pressure throughout your home, discolored or rusty water, or persistent rattling noises from your pipes. Additionally, if your home has older, galvanized, or polybutylene pipes, they are more prone to issues and a repipe might be a proactive measure. CG Plumbing Solutions can inspect your plumbing system to determine the cause of these symptoms and recommend the appropriate action to prevent further damage.",
+        "@type": "Answer",
+        "description": "Signs include recurring slab leaks, low water pressure, discolored water, pipe noises, or if your home has old pipe materials."
+      }
+    }
+  ],
+  "description": "Signs include recurring slab leaks, low water pressure, discolored water, pipe noises, or if your home has old pipe materials."
+}

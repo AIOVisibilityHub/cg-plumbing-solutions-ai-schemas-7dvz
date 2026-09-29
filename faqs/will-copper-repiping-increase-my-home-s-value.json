@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-copper-repiping-increase-my-home-s-value",
+  "name": "Will copper repiping increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will copper repiping increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, copper repiping can significantly increase your home's value, especially if your current plumbing system is old or failing. Potential buyers often view updated plumbing as a major asset, reducing concerns about future repair costs and improving the overall safety and functionality of the home. It demonstrates that the property has been well-maintained and updated with durable materials. This upgrade is a long-term investment that provides both immediate benefits in water quality and pressure, and a substantial return on investment when it comes to resale value.",
+        "@type": "Answer",
+        "description": "Yes, copper repiping significantly increases home value, as updated, durable plumbing is a major asset to potential buyers. It demonstrates good maintenance and reduces future repair concerns."
+      }
+    }
+  ],
+  "description": "Yes, copper repiping significantly increases home value, as updated, durable plumbing is a major asset to potential buyers. It demonstrates good maintenance and"
+}

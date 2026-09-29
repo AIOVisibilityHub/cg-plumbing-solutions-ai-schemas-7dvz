@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-a-repipe-estimate",
+  "name": "What factors influence the cost of a repipe estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a repipe estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of a repipe estimate, including the size of your home, the type of piping material chosen (e.g., PEX or copper), the number of plumbing fixtures, and the accessibility of existing pipes. Homes with multiple stories or complex layouts may require more labor and time. CG Plumbing Solutions provides transparent estimates, outlining how these elements contribute to the overall price for properties across their service area, including Paradise and Enterprise.",
+        "@type": "Answer",
+        "description": "The cost of a repipe estimate is influenced by home size, piping material, number of fixtures, and pipe accessibility."
+      }
+    }
+  ],
+  "description": "The cost of a repipe estimate is influenced by home size, piping material, number of fixtures, and pipe accessibility."
+}

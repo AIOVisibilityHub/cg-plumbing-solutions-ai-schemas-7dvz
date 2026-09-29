@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-my-gas-water-heater-making-a-loud-popping-or-rumbling-noise",
+  "name": "Why is my gas water heater making a loud popping or rumbling noise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my gas water heater making a loud popping or rumbling noise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Loud popping or rumbling noises from your gas water heater are typically caused by sediment buildup at the bottom of the tank. As the burner heats the water, the sediment traps pockets of water underneath, which then boil and explode, creating the noise. This buildup reduces efficiency and can lead to premature tank failure. CG Plumbing Solutions can perform a thorough tank flush to remove sediment, improving efficiency and prolonging your water heater's life.",
+        "@type": "Answer",
+        "description": "Popping or rumbling noises usually indicate sediment buildup in your gas water heater's tank, reducing efficiency."
+      }
+    }
+  ],
+  "description": "Popping or rumbling noises usually indicate sediment buildup in your gas water heater's tank, reducing efficiency."
+}

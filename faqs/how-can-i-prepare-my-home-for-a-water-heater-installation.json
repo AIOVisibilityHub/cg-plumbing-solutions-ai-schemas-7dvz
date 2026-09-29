@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prepare-my-home-for-a-water-heater-installation",
+  "name": "How can I prepare my home for a water heater installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for a water heater installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a water heater installation, ensure the area around the existing unit is clear and accessible for the technicians. Clear a pathway from your home's entry point to the installation site to allow easy movement of equipment. If your new unit is larger or of a different type, you might need to identify potential new locations or prepare for minor structural adjustments. Having any necessary permits secured (though we usually handle this) and making decisions on the specific unit type beforehand can also streamline the process. Communicating any concerns or special requests to our team in advance helps ensure a smooth installation day.",
+        "@type": "Answer",
+        "description": "Clear the installation area and pathway, and ensure access for technicians. Discuss any special unit requirements or location changes with our team beforehand for a smoother process."
+      }
+    }
+  ],
+  "description": "Clear the installation area and pathway, and ensure access for technicians. Discuss any special unit requirements or location changes with our team beforehand f"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-replace-a-tankless-water-heater",
+  "name": "How long does it take to replace a tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The replacement process for a tankless water heater usually takes 4-8 hours, depending on the complexity of the installation and whether any plumbing modifications are needed. If upgrading from a traditional tank water heater to a tankless unit, the process can take longer due to venting and gas line adjustments. Our team prioritizes efficient service to minimize disruption to your hot water supply.",
+        "@type": "Answer",
+        "description": "A tankless water heater replacement typically takes 4-8 hours, varying with installation complexity."
+      }
+    }
+  ],
+  "description": "A tankless water heater replacement typically takes 4-8 hours, varying with installation complexity."
+}

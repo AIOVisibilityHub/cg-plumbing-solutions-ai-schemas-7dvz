@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-tell-if-my-home-needs-copper-repiping-instead-of-just-repairs",
+  "name": "How can I tell if my home needs copper repiping instead of just repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my home needs copper repiping instead of just repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might need copper repiping if you experience recurring leaks, especially in multiple locations, consistently low water pressure throughout your home, or discolored water (reddish-brown) indicating internal pipe corrosion. While isolated leaks can often be repaired, widespread issues typically point to systemic pipe degradation that simple patches won't resolve long-term. This decision factor involves weighing the cumulative cost and inconvenience of frequent repairs against the comprehensive, lasting solution of a full repipe. CG Plumbing Solutions can help assess whether repiping is the most economical and effective option.",
+        "@type": "Answer",
+        "description": "Repiping is likely needed for recurring leaks, widespread low water pressure, or discolored water, indicating systemic pipe degradation. An assessment helps decide between frequent repairs and a lasting repipe solution."
+      }
+    }
+  ],
+  "description": "Repiping is likely needed for recurring leaks, widespread low water pressure, or discolored water, indicating systemic pipe degradation. An assessment helps dec"
+}

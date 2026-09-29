@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-should-i-consider-when-choosing-a-new-water-heater",
+  "name": "What factors should I consider when choosing a new water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a new water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a new water heater, key factors include fuel type (electric, gas, propane), storage capacity (for tank models) or flow rate (for tankless), energy efficiency ratings (like Energy Factor or Uniform Energy Factor), and warranty information. Your household's hot water usage patterns, the number of occupants, and available space for the unit will influence capacity and type. For instance, a large family might benefit from a high-capacity tank or tankless unit, while a smaller household might opt for a compact, efficient model. CG Plumbing Solutions can help you assess these factors to match a system that perfectly fits your specific needs and budget, considering your property's existing infrastructure.",
+        "@type": "Answer",
+        "description": "Consider fuel type, capacity/flow rate, energy efficiency, and warranty. Your household's hot water usage and available space are key decision factors."
+      }
+    }
+  ],
+  "description": "Consider fuel type, capacity/flow rate, energy efficiency, and warranty. Your household's hot water usage and available space are key decision factors."
+}

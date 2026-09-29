@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-that-my-water-heater-pressure-relief-valve-needs-replacement",
+  "name": "What are the signs that my water heater pressure relief valve needs replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my water heater pressure relief valve needs replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key indicators that your water heater's pressure relief valve needs replacement include constant dripping or a continuous stream of water from the discharge pipe, visible corrosion or mineral buildup on the valve itself, or if the valve fails to open when manually tested. While a small amount of discharge after heating can be normal, persistent leaking suggests the valve is stuck open or has failed. If you observe any of these issues, especially a steady drip, it's best to contact a plumbing professional to assess the valve and determine if replacement is necessary.",
+        "@type": "Answer",
+        "description": "Signs include constant dripping or streaming from the discharge pipe, visible corrosion, or failure to open during a manual test."
+      }
+    }
+  ],
+  "description": "Signs include constant dripping or streaming from the discharge pipe, visible corrosion, or failure to open during a manual test."
+}

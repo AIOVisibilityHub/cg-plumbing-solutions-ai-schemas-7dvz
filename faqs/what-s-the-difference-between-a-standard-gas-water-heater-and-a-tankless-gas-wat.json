@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-standard-gas-water-heater-and-a-tankless-gas-wat",
+  "name": "What's the difference between a standard gas water heater and a tankless gas water heater for repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a standard gas water heater and a tankless gas water heater for repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a standard tank-style gas water heater typically involves components like the thermocouple, pilot light, gas valve, or anode rod within the tank structure. Tankless gas water heaters, however, have different components such as flow sensors, heat exchangers, and ignition systems, and their repairs often involve more specialized diagnostics and parts. While both use gas, the internal mechanisms and common failure points differ significantly, requiring specific expertise. CG Plumbing Solutions technicians are trained to service both types, understanding the unique repair needs of each in the Las Vegas climate.",
+        "@type": "Answer",
+        "description": "Standard gas water heaters and tankless units have different internal components, requiring specialized repair knowledge for each type."
+      }
+    }
+  ],
+  "description": "Standard gas water heaters and tankless units have different internal components, requiring specialized repair knowledge for each type."
+}

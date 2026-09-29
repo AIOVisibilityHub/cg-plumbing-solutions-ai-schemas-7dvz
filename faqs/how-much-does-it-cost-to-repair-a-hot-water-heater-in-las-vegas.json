@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-repair-a-hot-water-heater-in-las-vegas",
+  "name": "How much does it cost to repair a hot water heater in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a hot water heater in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a hot water heater varies significantly based on the issue's complexity, the type of water heater (gas, electric, tankless), and whether parts need replacement. Minor repairs like a thermocouple or pilot light fix may be less expensive than replacing a heating element or addressing a significant leak. For an accurate estimate, CG Plumbing Solutions offers diagnostic services to assess the problem and provide a detailed quote tailored to your situation in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "Hot water heater repair costs in Las Vegas depend on the problem's nature and required parts. A diagnostic service provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Hot water heater repair costs in Las Vegas depend on the problem's nature and required parts. A diagnostic service provides an accurate estimate."
+}

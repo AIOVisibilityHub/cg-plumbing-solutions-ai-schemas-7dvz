@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-that-my-water-heater-needs-maintenance",
+  "name": "What are the signs that my water heater needs maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my water heater needs maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs can indicate your water heater needs attention. These include unusual noises like rumbling or popping from the tank, a noticeable decrease in hot water supply, water that smells metallic or rusty, or visible leaks around the unit's base. If you experience any of these issues, it's best to contact a professional for an inspection. Ignoring these signs can lead to more costly repairs or even premature unit replacement.",
+        "@type": "Answer",
+        "description": "Signs include strange noises, reduced hot water, discolored water, or leaks. Address these promptly to prevent further damage."
+      }
+    }
+  ],
+  "description": "Signs include strange noises, reduced hot water, discolored water, or leaks. Address these promptly to prevent further damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-gas-and-electric-tankless-water-heater",
+  "name": "What's the difference between a gas and electric tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a gas and electric tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas tankless water heaters generally provide higher flow rates and can heat water more quickly, making them suitable for larger households with high demand. Electric tankless heaters are often easier to install in homes without natural gas access but typically have lower flow rates, meaning they might struggle to supply multiple hot water fixtures simultaneously. The best choice depends on your home's existing utilities and hot water needs.",
+        "@type": "Answer",
+        "description": "Gas units offer higher flow and faster heating, while electric units are easier to install without gas access but have lower flow rates."
+      }
+    }
+  ],
+  "description": "Gas units offer higher flow and faster heating, while electric units are easier to install without gas access but have lower flow rates."
+}

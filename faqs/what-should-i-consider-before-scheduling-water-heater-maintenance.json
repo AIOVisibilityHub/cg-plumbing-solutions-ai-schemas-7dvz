@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-consider-before-scheduling-water-heater-maintenance",
+  "name": "What should I consider before scheduling water heater maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before scheduling water heater maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling water heater maintenance, consider the age of your unit, any recent performance issues, and when it was last serviced. Knowing these details can help our technicians assess the situation more quickly. Also, ensure there is clear access around your water heater for the technician. Providing this information and accessibility allows for a more efficient and thorough service appointment, helping us address your specific needs effectively.",
+        "@type": "Answer",
+        "description": "Before scheduling, note your water heater's age, performance issues, last service date, and ensure clear access for the technician."
+      }
+    }
+  ],
+  "description": "Before scheduling, note your water heater's age, performance issues, last service date, and ensure clear access for the technician."
+}

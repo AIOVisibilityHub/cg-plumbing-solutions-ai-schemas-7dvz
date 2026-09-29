@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-replace-a-water-heater-thermostat-myself-or-should-i-hire-a-professional",
+  "name": "Can I replace a water heater thermostat myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a water heater thermostat myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is possible for a homeowner with electrical or plumbing experience to replace a water heater thermostat, it's generally recommended to hire a professional. Working with electricity or gas can be hazardous if not done correctly, potentially leading to property damage or injury. CG Plumbing Solutions ensures the repair is performed safely, correctly, and up to local codes, giving you peace of mind and protecting your warranty.",
+        "@type": "Answer",
+        "description": "Due to safety risks and potential damage, hiring a professional for water heater thermostat replacement is recommended over a DIY approach."
+      }
+    }
+  ],
+  "description": "Due to safety risks and potential damage, hiring a professional for water heater thermostat replacement is recommended over a DIY approach."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-that-my-tankless-water-heater-needs-maintenance",
+  "name": "What are the signs that my tankless water heater needs maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my tankless water heater needs maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your tankless water heater needs maintenance include reduced hot water flow, inconsistent water temperature, or strange noises coming from the unit. If you notice any error codes displayed on the unit, it's also a strong indicator that professional service is needed. Addressing these signs promptly can prevent further damage and maintain energy efficiency.",
+        "@type": "Answer",
+        "description": "Signs include reduced hot water flow, inconsistent temperatures, strange noises, or error codes. Prompt maintenance can prevent further damage."
+      }
+    }
+  ],
+  "description": "Signs include reduced hot water flow, inconsistent temperatures, strange noises, or error codes. Prompt maintenance can prevent further damage."
+}

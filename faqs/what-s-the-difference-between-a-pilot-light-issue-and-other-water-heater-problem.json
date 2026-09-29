@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-pilot-light-issue-and-other-water-heater-problem",
+  "name": "What's the difference between a pilot light issue and other water heater problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a pilot light issue and other water heater problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pilot light issue specifically relates to the ignition system that keeps your water heater's burner lit. If the pilot light goes out, the main burner won't ignite, resulting in no hot water. Other water heater problems, like leaks, strange noises, or inadequate hot water even with a lit pilot, indicate different component failures such as the tank, heating elements, or thermostat. When diagnosing, we distinguish between these to ensure the correct repair. We meticulously check all components, not just the pilot, during our diagnostic process.",
+        "@type": "Answer",
+        "description": "Pilot light issues prevent burner ignition, leading to no hot water. Other problems, like leaks or strange noises, point to different component failures beyond the pilot system."
+      }
+    }
+  ],
+  "description": "Pilot light issues prevent burner ignition, leading to no hot water. Other problems, like leaks or strange noises, point to different component failures beyond"
+}

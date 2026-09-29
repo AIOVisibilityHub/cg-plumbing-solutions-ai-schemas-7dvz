@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-choose-a-plumbing-company-for-a-repipe-after-a-slab-leak",
+  "name": "How do I choose a plumbing company for a repipe after a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a plumbing company for a repipe after a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a plumbing company for a repipe after a slab leak, look for licensed and insured professionals with specific experience in repiping. Consider their reputation, customer reviews, and their transparency in quoting costs and timelines. It's also important to ensure they offer warranties on their work and materials. CG Plumbing Solutions, serving Las Vegas and surrounding areas, emphasizes clear communication, offers competitive warranties, and provides detailed proposals to help you make an informed decision for your significant plumbing repair.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured company with repiping experience, good reviews, transparent pricing, and warranties on work and materials."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured company with repiping experience, good reviews, transparent pricing, and warranties on work and materials."
+}

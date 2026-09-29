@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-perform-water-heater-maintenance-myself",
+  "name": "Can I perform water heater maintenance myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform water heater maintenance myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some basic tasks like checking for leaks can be done by homeowners, comprehensive water heater maintenance is best left to licensed plumbing professionals. Incorrectly performing tasks like flushing the tank or inspecting gas lines can be dangerous and may void your warranty. A professional plumber has the tools and expertise to safely and effectively service your unit, ensuring all components are functioning correctly and adhering to safety standards.",
+        "@type": "Answer",
+        "description": "Basic checks can be DIY, but professional maintenance is recommended for safety and to ensure proper function and warranty compliance."
+      }
+    }
+  ],
+  "description": "Basic checks can be DIY, but professional maintenance is recommended for safety and to ensure proper function and warranty compliance."
+}

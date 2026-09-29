@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-i-need-a-new-water-heater-installed",
+  "name": "What are the signs I need a new water heater installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs I need a new water heater installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that indicate you might need a new water heater include inconsistent water temperature, discolored or rusty hot water, strange noises like rumbling or popping from the tank, and visible leaks around the unit. A significant decrease in hot water supply or an increase in energy bills without other apparent reasons can also signal that your water heater is struggling. An average lifespan for a conventional tank water heater is 10-15 years, so age is a critical factor in determining if replacement is needed. Our technicians can assess your unit's performance and provide an expert recommendation.",
+        "@type": "Answer",
+        "description": "Signs include inconsistent water temperature, rusty water, strange noises, leaks, reduced hot water, or increased energy bills, especially if the unit is over 10 years old."
+      }
+    }
+  ],
+  "description": "Signs include inconsistent water temperature, rusty water, strange noises, leaks, reduced hot water, or increased energy bills, especially if the unit is over 1"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-get-a-repipe-estimate",
+  "name": "How long does it take to get a repipe estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to get a repipe estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to receive a repipe estimate can vary, but generally, an in-home assessment by a plumbing professional is required to accurately gauge the project's scope. This initial assessment typically takes 1-2 hours. Following the assessment, CG Plumbing Solutions aims to provide a comprehensive estimate within 24-48 hours. Factors such as the complexity of your plumbing system and the size of your property in locations like Summerlin or North Las Vegas can influence this timeframe.",
+        "@type": "Answer",
+        "description": "An in-home assessment for a repipe estimate typically takes 1-2 hours, with the estimate provided within 24-48 hours after the visit."
+      }
+    }
+  ],
+  "description": "An in-home assessment for a repipe estimate typically takes 1-2 hours, with the estimate provided within 24-48 hours after the visit."
+}

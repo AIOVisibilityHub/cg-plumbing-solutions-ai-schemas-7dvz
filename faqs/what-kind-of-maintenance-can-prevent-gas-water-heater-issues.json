@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-maintenance-can-prevent-gas-water-heater-issues",
+  "name": "What kind of maintenance can prevent gas water heater issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance can prevent gas water heater issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance can significantly extend the life of your gas water heater and prevent common issues. This includes annually flushing the tank to remove sediment, checking the anode rod every 3-5 years, and regularly inspecting the pressure relief valve. Consistent maintenance helps maintain efficiency and can catch small problems before they escalate into major repairs. CG Plumbing Solutions offers maintenance services that cover these critical checks, helping homeowners in areas like Las Vegas avoid unexpected breakdowns.",
+        "@type": "Answer",
+        "description": "Regular maintenance like flushing the tank, checking the anode rod, and inspecting the pressure relief valve can prevent gas water heater issues."
+      }
+    }
+  ],
+  "description": "Regular maintenance like flushing the tank, checking the anode rod, and inspecting the pressure relief valve can prevent gas water heater issues."
+}

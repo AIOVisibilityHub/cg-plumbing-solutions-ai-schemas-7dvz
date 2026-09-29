@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-consider-when-choosing-a-new-tankless-water-heater",
+  "name": "What should I consider when choosing a new tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a new tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a new tankless water heater, consider your household's hot water demand, fuel type (natural gas, propane, or electric), and the unit's flow rate. A larger household with multiple hot water appliances will require a higher GPM (gallons per minute) rating. Understanding these factors helps us recommend the most efficient and appropriately sized unit for your home to ensure you have an endless supply of hot water.",
+        "@type": "Answer",
+        "description": "Consider your household's hot water demand, fuel type, and the unit's flow rate when choosing a new tankless water heater."
+      }
+    }
+  ],
+  "description": "Consider your household's hot water demand, fuel type, and the unit's flow rate when choosing a new tankless water heater."
+}

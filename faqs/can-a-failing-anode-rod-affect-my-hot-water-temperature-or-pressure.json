@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-a-failing-anode-rod-affect-my-hot-water-temperature-or-pressure",
+  "name": "Can a failing anode rod affect my hot water temperature or pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a failing anode rod affect my hot water temperature or pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a failing anode rod primarily causes tank corrosion and potential odors, severe corrosion can indirectly affect hot water temperature and pressure. If rust and sediment build up significantly due to a depleted anode rod, they can settle at the bottom of the tank, reducing heating efficiency and potentially blocking water flow. This can lead to lukewarm water or reduced pressure at your taps. Regular maintenance, including anode rod checks, helps prevent such sediment buildup, ensuring optimal performance from your water heater.",
+        "@type": "Answer",
+        "description": "A failing anode rod's corrosion can lead to sediment buildup, which may indirectly reduce hot water temperature or pressure by hindering heating and water flow."
+      }
+    }
+  ],
+  "description": "A failing anode rod's corrosion can lead to sediment buildup, which may indirectly reduce hot water temperature or pressure by hindering heating and water flow."
+}

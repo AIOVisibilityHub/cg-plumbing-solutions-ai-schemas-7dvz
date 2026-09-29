@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-typically-cost-to-repair-a-water-heater-thermostat-in-las-vegas",
+  "name": "How much does it typically cost to repair a water heater thermostat in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it typically cost to repair a water heater thermostat in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a water heater thermostat in the Las Vegas area can vary depending on the type of water heater (gas or electric), the specific part needed, and the complexity of the installation. A diagnostic fee may apply, which is often waived if you proceed with the repair. For an accurate estimate, CG Plumbing Solutions offers transparent pricing after our technicians assess your unit. We serve Las Vegas, North Las Vegas, Henderson, and Summerlin.",
+        "@type": "Answer",
+        "description": "The cost to repair a water heater thermostat in Las Vegas varies by unit type and complexity; CG Plumbing Solutions offers transparent pricing after assessment."
+      }
+    }
+  ],
+  "description": "The cost to repair a water heater thermostat in Las Vegas varies by unit type and complexity; CG Plumbing Solutions offers transparent pricing after assessment."
+}

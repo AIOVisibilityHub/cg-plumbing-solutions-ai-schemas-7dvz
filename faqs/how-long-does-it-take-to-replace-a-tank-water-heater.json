@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-replace-a-tank-water-heater",
+  "name": "How long does it take to replace a tank water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a tank water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most tank water heater replacements can be completed in approximately 2 to 4 hours. This timeframe includes draining and removing the old unit, installing the new water heater, connecting the plumbing and electrical/gas lines, and testing for proper operation. The total time can vary depending on the complexity of the installation and if any code upgrades are required to meet current Las Vegas area regulations, ensuring a safe and compliant setup.",
+        "@type": "Answer",
+        "description": "Most tank water heater replacements take 2-4 hours, depending on installation complexity and local code requirements."
+      }
+    }
+  ],
+  "description": "Most tank water heater replacements take 2-4 hours, depending on installation complexity and local code requirements."
+}

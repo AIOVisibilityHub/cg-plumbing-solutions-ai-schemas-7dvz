@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-a-repipe-cause-major-disruption-to-my-home-during-the-process",
+  "name": "Will a repipe cause major disruption to my home during the process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a repipe cause major disruption to my home during the process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a repipe involves opening walls to access old plumbing, CG Plumbing Solutions takes measures to minimize disruption to your daily life. Our team works efficiently to complete the project, often installing new lines while old ones remain partially functional to maintain some water access. We use drop cloths, protective coverings, and careful techniques to protect your home. Afterward, we perform necessary patching of walls, leaving the surfaces ready for paint or finishes. The goal is to restore full plumbing function with minimal inconvenience.",
+        "@type": "Answer",
+        "description": "A repipe involves opening walls, but disruption is minimized by working efficiently and maintaining some water access. CG Plumbing Solutions protects your home and patches walls post-completion."
+      }
+    }
+  ],
+  "description": "A repipe involves opening walls, but disruption is minimized by working efficiently and maintaining some water access. CG Plumbing Solutions protects your home"
+}

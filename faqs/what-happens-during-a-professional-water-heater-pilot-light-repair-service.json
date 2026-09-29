@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-happens-during-a-professional-water-heater-pilot-light-repair-service",
+  "name": "What happens during a professional water heater pilot light repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a professional water heater pilot light repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a professional pilot light repair, a technician will first shut off the gas supply and inspect the pilot assembly, thermocouple, and gas control valve for wear or damage. They'll then clean any debris from the pilot orifice and test the thermocouple for proper voltage. If parts are faulty, they'll be replaced with new ones. Finally, the technician will re-light the pilot, test the water heater's operation to ensure the main burner ignites properly, and verify hot water production. We ensure a thorough and safe repair process.",
+        "@type": "Answer",
+        "description": "A technician will inspect and clean the pilot assembly, thermocouple, and gas control valve, replace faulty parts, and then re-light and test the water heater for proper operation."
+      }
+    }
+  ],
+  "description": "A technician will inspect and clean the pilot assembly, thermocouple, and gas control valve, replace faulty parts, and then re-light and test the water heater f"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-that-my-water-heater-s-anode-rod-needs-replacement",
+  "name": "What are the signs that my water heater's anode rod needs replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my water heater's anode rod needs replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your anode rod may need replacing include a sulfuric or 'rotten egg' smell in your hot water, reduced hot water output, or discoloration of the hot water. These symptoms indicate increased corrosion in the tank or a depleted anode rod. If you notice these issues, it's advisable to contact a professional for an inspection, as continued operation with a failing anode rod can lead to irreparable tank damage and costly water heater replacement.",
+        "@type": "Answer",
+        "description": "Signs of a failing anode rod include smelly hot water, reduced hot water, or discolored water. These indicate corrosion and warrant professional inspection."
+      }
+    }
+  ],
+  "description": "Signs of a failing anode rod include smelly hot water, reduced hot water, or discolored water. These indicate corrosion and warrant professional inspection."
+}

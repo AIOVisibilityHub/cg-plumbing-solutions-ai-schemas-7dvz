@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-repair-or-replace-my-old-water-heater",
+  "name": "Should I repair or replace my old water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my old water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace your water heater depends on its age, the extent of the damage, and repair cost. If your water heater is over 10-12 years old and requires a costly repair, replacement might be more economical in the long run due to improved efficiency of new models and reduced risk of future breakdowns. A technician from CG Plumbing Solutions can help assess the condition of your unit and provide an informed recommendation based on its remaining lifespan and potential repair expenses.",
+        "@type": "Answer",
+        "description": "Consider replacing a water heater over 10-12 years old, especially if repairs are costly. New units offer better efficiency and reliability."
+      }
+    }
+  ],
+  "description": "Consider replacing a water heater over 10-12 years old, especially if repairs are costly. New units offer better efficiency and reliability."
+}

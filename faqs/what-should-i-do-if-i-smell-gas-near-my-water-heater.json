@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-i-smell-gas-near-my-water-heater",
+  "name": "What should I do if I smell gas near my water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I smell gas near my water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you detect the smell of natural gas near your water heater or anywhere in your home, it is critical to act immediately for safety. Do not turn on or off any electrical switches, use your phone, or create any sparks. Evacuate everyone from the building right away. Once safely outside, contact your gas utility provider and then call 911. After the utility company has addressed the immediate danger, contact a licensed professional, like CG Plumbing Solutions, to inspect and repair the gas line. Never try to locate or fix a gas leak yourself, as this can be extremely dangerous. Our technicians are equipped to safely diagnose and repair gas line issues, restoring safety to your home.",
+        "@type": "Answer",
+        "description": "If you smell gas, evacuate immediately without using electronics, then call your gas utility and 911. After the utility addresses the danger, contact a licensed plumber for inspection and repair."
+      }
+    }
+  ],
+  "description": "If you smell gas, evacuate immediately without using electronics, then call your gas utility and 911. After the utility addresses the danger, contact a licensed"
+}

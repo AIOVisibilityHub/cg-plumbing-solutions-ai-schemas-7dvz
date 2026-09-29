@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-challenges-homeowners-face-during-a-repipe-and-how-are-they",
+  "name": "What are the common challenges homeowners face during a repipe and how are they managed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges homeowners face during a repipe and how are they managed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners often face challenges like temporary water disruptions, dust and debris from wall access, and the inconvenience of workers in their home during a repipe. To manage this, CG Plumbing Solutions schedules water shut-offs strategically to minimize impact and uses protective coverings to contain dust. Our team maintains clear communication, informing you daily about progress and next steps. We prioritize efficient work and thorough cleanup at the end of each day, aiming to complete the project with as little disruption as possible to your daily life.",
+        "@type": "Answer",
+        "description": "Common challenges include water disruptions and dust. We minimize these with strategic scheduling, protective coverings, clear communication, and daily cleanup."
+      }
+    }
+  ],
+  "description": "Common challenges include water disruptions and dust. We minimize these with strategic scheduling, protective coverings, clear communication, and daily cleanup."
+}

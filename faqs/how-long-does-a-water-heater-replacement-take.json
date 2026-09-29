@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-water-heater-replacement-take",
+  "name": "How long does a water heater replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a water heater replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard water heater replacement typically takes between 2 to 4 hours for a like-for-like swap of a traditional tank unit. However, the exact timing can vary depending on several factors, including the type of water heater being installed (tankless units often require more extensive plumbing and venting modifications), the complexity of the existing setup, and any necessary code upgrades. For instance, converting from a traditional tank to a tankless system may require rerouting gas lines or electrical connections. CG Plumbing Solutions will provide an estimated timeline after assessing your specific installation requirements during an on-site visit.",
+        "@type": "Answer",
+        "description": "Standard replacement takes 2-4 hours, but can vary based on unit type and existing plumbing complexity. Tankless installations often take longer."
+      }
+    }
+  ],
+  "description": "Standard replacement takes 2-4 hours, but can vary based on unit type and existing plumbing complexity. Tankless installations often take longer."
+}

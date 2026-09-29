@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-happens-if-i-don-t-replace-a-faulty-water-heater-pressure-relief-valve",
+  "name": "What happens if I don't replace a faulty water heater pressure relief valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I don't replace a faulty water heater pressure relief valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Failing to replace a faulty water heater pressure relief valve can lead to dangerous conditions. Without a functional TPRV, excessive pressure or temperature can build up inside the tank, potentially causing the water heater to rupture or explode. This can result in severe property damage, flooding, and serious injury. Even minor leaks from a faulty valve can lead to water damage, mold growth, and increased utility bills over time. Prompt replacement ensures the ongoing safety and efficient operation of your water heater, protecting your home and family.",
+        "@type": "Answer",
+        "description": "Not replacing a faulty valve risks tank rupture or explosion due to uncontrolled pressure, leading to property damage and injury."
+      }
+    }
+  ],
+  "description": "Not replacing a faulty valve risks tank rupture or explosion due to uncontrolled pressure, leading to property damage and injury."
+}

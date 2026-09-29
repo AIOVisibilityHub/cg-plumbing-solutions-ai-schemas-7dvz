@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-schedule-an-annual-inspection-to-prevent-pilot-light-issues",
+  "name": "Do I need to schedule an annual inspection to prevent pilot light issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to schedule an annual inspection to prevent pilot light issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not strictly required, annual water heater inspections can help prevent pilot light issues and extend the lifespan of your unit. During an inspection, technicians can clean the pilot assembly, check the thermocouple, and identify minor issues before they escalate into major problems, ensuring reliable hot water. For homes in areas like Enterprise or Southern Highlands, regular maintenance helps maintain efficiency and prevents unexpected cold showers, saving you from inconvenient breakdowns and costly emergency repairs.",
+        "@type": "Answer",
+        "description": "Annual inspections can prevent pilot light issues by allowing technicians to clean and check components, extending unit lifespan and preventing unexpected breakdowns."
+      }
+    }
+  ],
+  "description": "Annual inspections can prevent pilot light issues by allowing technicians to clean and check components, extending unit lifespan and preventing unexpected break"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-pilot-light-issues-affect-my-home-s-energy-efficiency",
+  "name": "Can pilot light issues affect my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can pilot light issues affect my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, while a pilot light itself consumes a small, continuous amount of gas, frequent pilot outages can indirectly affect energy efficiency. If your water heater isn't reliably heating water due to pilot issues, it might cycle on and off more often or fail to heat water altogether, prompting you to use backup heating or waste water waiting for warmth. Ensuring your pilot light functions correctly helps your water heater operate as intended, contributing to consistent energy use. Our repairs ensure your system runs optimally.",
+        "@type": "Answer",
+        "description": "Frequent pilot outages can indirectly impact energy efficiency by causing inconsistent heating or requiring more attempts to get hot water, wasting energy."
+      }
+    }
+  ],
+  "description": "Frequent pilot outages can indirectly impact energy efficiency by causing inconsistent heating or requiring more attempts to get hot water, wasting energy."
+}

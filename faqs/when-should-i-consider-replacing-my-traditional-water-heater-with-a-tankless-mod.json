@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-my-traditional-water-heater-with-a-tankless-mod",
+  "name": "When should I consider replacing my traditional water heater with a tankless model?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my traditional water heater with a tankless model?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your traditional water heater with a tankless model if your current unit is over 10-12 years old, frequently runs out of hot water, or is showing signs of corrosion or leakage. Upgrading to a tankless system can provide long-term energy savings and a continuous supply of hot water. CG Plumbing Solutions can help you assess the condition of your existing heater and determine if a tankless upgrade is a cost-effective choice.",
+        "@type": "Answer",
+        "description": "Consider a tankless upgrade if your current heater is old, runs out of hot water, or is leaking, to gain efficiency and continuous hot water."
+      }
+    }
+  ],
+  "description": "Consider a tankless upgrade if your current heater is old, runs out of hot water, or is leaking, to gain efficiency and continuous hot water."
+}

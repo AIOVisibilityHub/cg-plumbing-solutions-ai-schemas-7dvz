@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-does-a-water-heater-pressure-relief-valve-replacement-involve",
+  "name": "What does a water heater pressure relief valve replacement involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a water heater pressure relief valve replacement involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The replacement process typically involves turning off the water heater's power and water supply, draining some water from the tank to reduce pressure, unscrewing the old valve, cleaning the threads, applying pipe sealant or Teflon tape, screwing in the new valve, and then refilling the tank and restoring power. During this process, our technicians will also inspect the discharge pipe for proper sizing and slope, ensuring it correctly directs any discharged water to a safe location, often a floor drain. We always ensure the new valve meets safety standards and is properly seated to prevent leaks.",
+        "@type": "Answer",
+        "description": "Replacement involves depressurizing the tank, removing the old valve, installing a new one with sealant, and then restoring water and power."
+      }
+    }
+  ],
+  "description": "Replacement involves depressurizing the tank, removing the old valve, installing a new one with sealant, and then restoring water and power."
+}

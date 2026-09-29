@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-size-tank-water-heater-do-i-need-for-my-home",
+  "name": "What size tank water heater do I need for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What size tank water heater do I need for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal tank water heater size depends on the number of people in your household and your peak hot water usage. A general guideline is 30-40 gallons for 1-2 people, 40-50 gallons for 2-4 people, and 50-80 gallons for 5 or more. When we visit for a consultation in areas like Las Vegas or Henderson, we'll consider factors like the number of bathrooms and hot water appliances to recommend the most efficient size for your specific demands.",
+        "@type": "Answer",
+        "description": "Tank water heater size depends on household size and hot water usage. We'll assess your home's specific needs during a consultation to recommend the right capacity."
+      }
+    }
+  ],
+  "description": "Tank water heater size depends on household size and hot water usage. We'll assess your home's specific needs during a consultation to recommend the right capac"
+}

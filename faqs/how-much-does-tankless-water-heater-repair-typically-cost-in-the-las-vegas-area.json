@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-tankless-water-heater-repair-typically-cost-in-the-las-vegas-area",
+  "name": "How much does tankless water heater repair typically cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does tankless water heater repair typically cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of tankless water heater repair varies widely depending on the specific issue, the parts required, and the complexity of the labor. Minor repairs, such as a sensor replacement or descaling, will be less expensive than major component failures like a heat exchanger replacement. We provide a detailed estimate after diagnosing the problem, ensuring transparency before any work begins. It's often more cost-effective to repair than replace if the unit is relatively new and the issue is not catastrophic.",
+        "@type": "Answer",
+        "description": "Repair costs depend on the issue and parts needed. We provide an estimate after diagnosis to ensure transparency, as minor fixes are cheaper than major component replacements."
+      }
+    }
+  ],
+  "description": "Repair costs depend on the issue and parts needed. We provide an estimate after diagnosis to ensure transparency, as minor fixes are cheaper than major componen"
+}

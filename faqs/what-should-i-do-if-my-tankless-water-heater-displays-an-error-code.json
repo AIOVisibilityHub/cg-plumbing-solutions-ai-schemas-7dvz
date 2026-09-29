@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-my-tankless-water-heater-displays-an-error-code",
+  "name": "What should I do if my tankless water heater displays an error code?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my tankless water heater displays an error code?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your tankless water heater displays an error code, consult your owner's manual first, as it often provides specific troubleshooting steps for that code. Sometimes, a simple reset can resolve the issue. If the problem persists after basic troubleshooting, it indicates a more serious internal issue. It's crucial to contact a professional for diagnosis and repair to avoid further damage. We recommend shutting off the unit's power until a technician arrives to prevent potential safety hazards or additional system stress.",
+        "@type": "Answer",
+        "description": "Check your manual for error code troubleshooting; a reset might work. If not, shut off power and call a professional for diagnosis to prevent further damage."
+      }
+    }
+  ],
+  "description": "Check your manual for error code troubleshooting; a reset might work. If not, shut off power and call a professional for diagnosis to prevent further damage."
+}

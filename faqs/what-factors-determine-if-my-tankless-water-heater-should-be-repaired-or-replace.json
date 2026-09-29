@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-determine-if-my-tankless-water-heater-should-be-repaired-or-replace",
+  "name": "What factors determine if my tankless water heater should be repaired or replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine if my tankless water heater should be repaired or replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace a tankless water heater depends on several factors: the age of the unit, the cost of the repair versus a new unit, and the extent of the damage. If your unit is older than 10-15 years, frequently breaking down, or the repair cost exceeds 50% of a new unit's price, replacement might be more economical. We'll assess the condition of your existing unit and provide an honest recommendation, helping you weigh the long-term benefits and costs of each option.",
+        "@type": "Answer",
+        "description": "Consider age, repair cost vs. new unit price, and damage extent. If old, frequently breaking down, or repair cost is high, replacement might be better."
+      }
+    }
+  ],
+  "description": "Consider age, repair cost vs. new unit price, and damage extent. If old, frequently breaking down, or repair cost is high, replacement might be better."
+}

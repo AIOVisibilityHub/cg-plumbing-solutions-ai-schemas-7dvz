@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-choose-the-right-size-tankless-water-heater-for-my-home",
+  "name": "How do I choose the right size tankless water heater for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size tankless water heater for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right size tankless water heater depends on your household's peak hot water demand, which is the maximum number of hot water fixtures you anticipate using simultaneously. You'll also consider your incoming water temperature, which can vary by season in the Las Vegas valley. CG Plumbing Solutions can perform a professional calculation based on these factors to ensure your new unit provides adequate hot water for your family without issues.",
+        "@type": "Answer",
+        "description": "Size depends on peak hot water demand and incoming water temperature; professionals can calculate the right unit for your home."
+      }
+    }
+  ],
+  "description": "Size depends on peak hot water demand and incoming water temperature; professionals can calculate the right unit for your home."
+}

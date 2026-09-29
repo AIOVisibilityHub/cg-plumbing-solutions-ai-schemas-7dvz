@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-tank-and-tankless-water-heater-maintenance",
+  "name": "What's the difference between tank and tankless water heater maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between tank and tankless water heater maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for tank and tankless water heaters differs due to their operating mechanisms. Tank-style heaters primarily require flushing to remove sediment and anode rod inspection. Tankless units, however, need regular descaling to remove mineral buildup from their heat exchangers, which is critical for efficient operation. While both benefit from annual professional checks, the specific tasks performed will vary based on the type of unit you have installed. CG Plumbing Solutions is equipped to service both types.",
+        "@type": "Answer",
+        "description": "Tank heaters need flushing and anode rod checks, while tankless units require descaling of heat exchangers for optimal performance."
+      }
+    }
+  ],
+  "description": "Tank heaters need flushing and anode rod checks, while tankless units require descaling of heat exchangers for optimal performance."
+}

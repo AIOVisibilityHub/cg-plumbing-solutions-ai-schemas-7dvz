@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-prepare-before-a-repipe-estimate-visit",
+  "name": "What should I prepare before a repipe estimate visit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a repipe estimate visit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a repipe estimate visit, you should identify any areas of your home where you suspect plumbing issues, such as low water pressure or discolored water. Clearing access to utility rooms, water heaters, and under-sink areas can help the technician conduct a more efficient assessment. Also, consider any future renovation plans that might affect plumbing. This preparation helps CG Plumbing Solutions provide the most accurate and comprehensive estimate for your home in areas like Desert Shores or Aliante.",
+        "@type": "Answer",
+        "description": "Before a repipe estimate, identify plumbing issue areas, clear access to utilities, and consider future renovation plans."
+      }
+    }
+  ],
+  "description": "Before a repipe estimate, identify plumbing issue areas, clear access to utilities, and consider future renovation plans."
+}

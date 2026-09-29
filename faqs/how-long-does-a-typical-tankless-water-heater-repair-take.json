@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-tankless-water-heater-repair-take",
+  "name": "How long does a typical tankless water heater repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical tankless water heater repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a tankless water heater repair depends on the nature and severity of the problem. Simple repairs, such as resetting a faulty sensor or descaling, might take 1-2 hours. More complex issues, like replacing a heat exchanger or circuit board, could take longer, especially if specialized parts need to be ordered. We aim for efficient service to restore your hot water quickly and will communicate an estimated timeframe after our diagnosis.",
+        "@type": "Answer",
+        "description": "Repair time varies; simple fixes take 1-2 hours, while complex issues might take longer, especially if parts need ordering. We aim for efficiency."
+      }
+    }
+  ],
+  "description": "Repair time varies; simple fixes take 1-2 hours, while complex issues might take longer, especially if parts need ordering. We aim for efficiency."
+}

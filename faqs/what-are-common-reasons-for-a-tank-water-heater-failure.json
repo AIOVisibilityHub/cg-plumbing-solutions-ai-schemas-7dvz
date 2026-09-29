@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-reasons-for-a-tank-water-heater-failure",
+  "name": "What are common reasons for a tank water heater failure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons for a tank water heater failure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common reasons for tank water heater failure include sediment buildup, anode rod depletion, rust, and faulty heating elements or gas burners. Sediment buildup at the bottom of the tank, particularly in areas with hard water like Las Vegas, can reduce efficiency and lead to premature failure by overheating the tank bottom. The anode rod, designed to corrode instead of the tank, also needs periodic inspection and replacement; its depletion exposes the tank to rust. Regular maintenance can significantly mitigate many of these issues.",
+        "@type": "Answer",
+        "description": "Common failures stem from sediment buildup, anode rod depletion, rust, and faulty heating elements or burners."
+      }
+    }
+  ],
+  "description": "Common failures stem from sediment buildup, anode rod depletion, rust, and faulty heating elements or burners."
+}

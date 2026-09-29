@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-typically-cost-to-repair-a-gas-water-heater",
+  "name": "How much does it typically cost to repair a gas water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it typically cost to repair a gas water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a gas water heater varies significantly based on the specific issue, the required parts, and the labor involved. Minor repairs like a thermocouple replacement might be less expensive than issues requiring a new gas valve or anode rod. For an accurate estimate, CG Plumbing Solutions performs a diagnostic assessment to identify the exact problem and determine the best solution, ensuring transparency in pricing. We recommend discussing potential repair options and their costs during this assessment.",
+        "@type": "Answer",
+        "description": "Repair costs vary depending on the issue and parts needed; a diagnostic assessment by CG Plumbing Solutions provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Repair costs vary depending on the issue and parts needed; a diagnostic assessment by CG Plumbing Solutions provides an accurate estimate."
+}

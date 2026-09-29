@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-reasons-for-a-water-heater-to-fail-prematurely",
+  "name": "What are common reasons for a water heater to fail prematurely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons for a water heater to fail prematurely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Premature water heater failure is often caused by sediment buildup, which can corrode the tank lining and reduce heating efficiency. Other factors include rust, anode rod deterioration, or an improperly sized unit that is constantly overworking. In the hard water conditions common in the Las Vegas valley, regular flushing and anode rod inspection can be crucial for preventing early failure and extending the life of your unit.",
+        "@type": "Answer",
+        "description": "Common causes of premature failure include sediment buildup, rust, anode rod deterioration, and improper sizing. Hard water areas like Las Vegas benefit from regular maintenance."
+      }
+    }
+  ],
+  "description": "Common causes of premature failure include sediment buildup, rust, anode rod deterioration, and improper sizing. Hard water areas like Las Vegas benefit from re"
+}

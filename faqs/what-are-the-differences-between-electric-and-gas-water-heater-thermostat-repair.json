@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-differences-between-electric-and-gas-water-heater-thermostat-repair",
+  "name": "What are the differences between electric and gas water heater thermostat repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between electric and gas water heater thermostat repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing electric and gas water heater thermostats involves distinct processes due to their different operating mechanisms. Electric water heaters typically have two thermostats, each controlling a heating element, and repairs often involve electrical diagnostics. Gas water heaters use a single thermostat that controls the gas valve, and repairs can involve checking pilot lights, thermocouples, and gas lines. CG Plumbing Solutions technicians are trained to safely service both types, understanding the unique components and potential hazards of each.",
+        "@type": "Answer",
+        "description": "Electric water heater thermostat repairs involve electrical diagnostics for elements, while gas units require checks on the gas valve, pilot, and thermocouple."
+      }
+    }
+  ],
+  "description": "Electric water heater thermostat repairs involve electrical diagnostics for elements, while gas units require checks on the gas valve, pilot, and thermocouple."
+}

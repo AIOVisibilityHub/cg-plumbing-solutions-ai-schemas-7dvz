@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-copper-repiping-process-step-by-step",
+  "name": "What is involved in the copper repiping process, step by step?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the copper repiping process, step by step?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The copper repiping process typically involves several key steps. First, our technicians will assess your current plumbing and plan the new copper pipe routes. Next, the old water lines are drained and isolated. New copper pipes are then installed, often through strategic, minimal openings in walls and ceilings. After installation, all new connections are made to fixtures and appliances. Finally, the system is thoroughly pressure-tested to ensure no leaks, and all disturbed areas are patched. CG Plumbing Solutions focuses on a clean and efficient process, aiming to restore your home to its original condition.",
+        "@type": "Answer",
+        "description": "The copper repiping process involves assessment, draining old lines, installing new copper pipes, connecting fixtures, and pressure testing. We ensure a clean, efficient process and restore disturbed areas."
+      }
+    }
+  ],
+  "description": "The copper repiping process involves assessment, draining old lines, installing new copper pipes, connecting fixtures, and pressure testing. We ensure a clean,"
+}

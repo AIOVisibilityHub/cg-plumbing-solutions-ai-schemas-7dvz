@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-consider-when-choosing-a-new-tank-water-heater",
+  "name": "What should I consider when choosing a new tank water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a new tank water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a new tank water heater, key considerations include the tank's capacity (gallons), energy efficiency (Energy Factor or Uniform Energy Factor rating), and fuel type (electric or natural gas). It's important to select a size appropriate for your household's hot water demand to avoid running out. For example, a family of four typically needs a 40-50 gallon unit. Understanding your household's peak usage and the available utility connections will help determine the best fit for efficiency and comfort.",
+        "@type": "Answer",
+        "description": "Consider capacity, energy efficiency, and fuel type. Match the tank size to your household's hot water demand."
+      }
+    }
+  ],
+  "description": "Consider capacity, energy efficiency, and fuel type. Match the tank size to your household's hot water demand."
+}

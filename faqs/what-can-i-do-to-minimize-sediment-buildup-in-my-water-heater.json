@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-can-i-do-to-minimize-sediment-buildup-in-my-water-heater",
+  "name": "What can I do to minimize sediment buildup in my water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can I do to minimize sediment buildup in my water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To minimize sediment buildup, consider installing a water softener, especially in hard water areas like Las Vegas, North Las Vegas, and Henderson. Regular annual flushing is also key to preventing accumulation. If a water softener isn't an option, increasing the frequency of flushing to every 6-9 months can significantly reduce buildup and extend the life of your water heater. These proactive steps help maintain efficiency and prevent damage.",
+        "@type": "Answer",
+        "description": "Minimize sediment by installing a water softener in hard water areas like Las Vegas and performing regular annual or semi-annual flushing."
+      }
+    }
+  ],
+  "description": "Minimize sediment by installing a water softener in hard water areas like Las Vegas and performing regular annual or semi-annual flushing."
+}

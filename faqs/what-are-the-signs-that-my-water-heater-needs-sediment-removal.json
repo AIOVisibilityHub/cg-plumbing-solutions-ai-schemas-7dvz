@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-that-my-water-heater-needs-sediment-removal",
+  "name": "What are the signs that my water heater needs sediment removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my water heater needs sediment removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key signs include banging or rumbling noises from the tank, reduced hot water capacity, inconsistent water temperature, or discolored hot water. These symptoms indicate mineral buildup at the bottom of the tank, which can interfere with the heating element or burner. Addressing these signs promptly with sediment removal can prevent further damage and restore performance.",
+        "@type": "Answer",
+        "description": "Signs include banging noises, reduced hot water, inconsistent temperature, or discolored water, all indicating sediment buildup."
+      }
+    }
+  ],
+  "description": "Signs include banging noises, reduced hot water, inconsistent temperature, or discolored water, all indicating sediment buildup."
+}

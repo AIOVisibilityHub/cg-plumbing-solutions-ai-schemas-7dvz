@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-tank-water-heater-installation-process",
+  "name": "What is involved in the tank water heater installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the tank water heater installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process for a tank water heater involves several steps. First, we safely drain and remove your old unit. Next, the new water heater is positioned, and water lines, gas lines (if applicable), and electrical connections are properly installed and sealed. Finally, we fill the tank, test for leaks, ignite the pilot (for gas models), and ensure the unit is functioning correctly and safely. We also verify that the temperature and pressure relief valve is correctly installed.",
+        "@type": "Answer",
+        "description": "The installation process includes removing the old unit, positioning and connecting the new heater to water, gas, and electrical lines, and then testing for proper function and safety."
+      }
+    }
+  ],
+  "description": "The installation process includes removing the old unit, positioning and connecting the new heater to water, gas, and electrical lines, and then testing for pro"
+}

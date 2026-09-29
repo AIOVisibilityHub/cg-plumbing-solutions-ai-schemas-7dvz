@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-removing-sediment-improve-my-water-heater-s-energy-efficiency",
+  "name": "Will removing sediment improve my water heater's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will removing sediment improve my water heater's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely. Sediment acts as an insulator, creating a barrier between the heating element or burner and the water. This forces your water heater to work harder and longer to heat water, consuming more energy. By removing sediment, your unit can heat water more efficiently, potentially reducing your energy bills. This is especially true for homes in Las Vegas where hard water contributes to faster sediment accumulation.",
+        "@type": "Answer",
+        "description": "Yes, sediment removal improves energy efficiency by allowing the heating element to directly contact the water, reducing energy consumption."
+      }
+    }
+  ],
+  "description": "Yes, sediment removal improves energy efficiency by allowing the heating element to directly contact the water, reducing energy consumption."
+}

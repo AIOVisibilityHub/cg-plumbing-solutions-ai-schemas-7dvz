@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-lifespan-of-a-tankless-water-heater",
+  "name": "What is the typical lifespan of a tankless water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of a tankless water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tankless water heaters generally last 20 years or more with proper maintenance, which is significantly longer than traditional tank heaters. However, factors like water quality and usage habits can influence this. Regular annual maintenance, such as flushing the unit to prevent mineral buildup, can help maximize its lifespan. We offer comprehensive maintenance services in the Las Vegas area to ensure your unit performs optimally.",
+        "@type": "Answer",
+        "description": "Tankless water heaters typically last 20+ years with proper maintenance, which is longer than tank heaters."
+      }
+    }
+  ],
+  "description": "Tankless water heaters typically last 20+ years with proper maintenance, which is longer than tank heaters."
+}

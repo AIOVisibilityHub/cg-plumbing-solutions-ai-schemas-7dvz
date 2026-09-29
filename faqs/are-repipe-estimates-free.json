@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-repipe-estimates-free",
+  "name": "Are repipe estimates free?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are repipe estimates free?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many plumbing companies, including CG Plumbing Solutions, offer free repipe estimates as part of their service to homeowners. This allows you to understand the potential costs and scope of the project without an upfront financial commitment. However, it's always good practice to confirm this policy when scheduling your appointment. Our goal is to provide transparent and accessible information to residents considering a repipe in areas such as Mountain's Edge or Southern Highlands.",
+        "@type": "Answer",
+        "description": "Many plumbing companies, including CG Plumbing Solutions, offer free repipe estimates to help homeowners understand project costs without upfront fees."
+      }
+    }
+  ],
+  "description": "Many plumbing companies, including CG Plumbing Solutions, offer free repipe estimates to help homeowners understand project costs without upfront fees."
+}

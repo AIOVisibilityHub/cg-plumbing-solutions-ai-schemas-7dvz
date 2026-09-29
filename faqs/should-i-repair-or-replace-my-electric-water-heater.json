@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-repair-or-replace-my-electric-water-heater",
+  "name": "Should I repair or replace my electric water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my electric water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace your electric water heater depends on several factors, including its age, the extent of the damage, and the cost of the repair. Generally, if your water heater is over 10 years old and facing a significant repair like a leaking tank, replacement is often more cost-effective in the long run due to increased efficiency and reliability of new units. For newer units with minor issues, repair is usually the better option. We can assess your unit and provide a recommendation based on our professional assessment, considering potential long-term savings.",
+        "@type": "Answer",
+        "description": "Decide between repair or replacement based on your water heater's age, damage severity, and repair cost. Newer units with minor issues are usually repaired, while older, significantly damaged units often benefit from replacement."
+      }
+    }
+  ],
+  "description": "Decide between repair or replacement based on your water heater's age, damage severity, and repair cost. Newer units with minor issues are usually repaired, whi"
+}

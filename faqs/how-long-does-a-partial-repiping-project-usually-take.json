@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-partial-repiping-project-usually-take",
+  "name": "How long does a partial repiping project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a partial repiping project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a partial repiping project depends on the scope and accessibility of the affected area. A small, localized section in an easily accessible area might be completed within a day. More complex projects involving multiple rooms or difficult-to-reach pipes could take several days. We aim to minimize disruption to your home during the process. One process clarity insight is that factors like unexpected structural findings or the need for specific permits in certain areas like Henderson or Summerlin can sometimes affect the timeline, but we communicate any such changes promptly.",
+        "@type": "Answer",
+        "description": "Partial repiping duration varies; a small job might take a day, while complex projects could take several days. Project length can be affected by scope, accessibility, and local permit requirements."
+      }
+    }
+  ],
+  "description": "Partial repiping duration varies; a small job might take a day, while complex projects could take several days. Project length can be affected by scope, accessi"
+}

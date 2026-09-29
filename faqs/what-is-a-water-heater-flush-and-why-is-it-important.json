@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-water-heater-flush-and-why-is-it-important",
+  "name": "What is a water heater flush and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a water heater flush and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water heater flush involves draining the water heater and removing sediment that has accumulated at the bottom of the tank. This sediment, primarily mineral deposits from hard water, can reduce the efficiency of the unit, shorten its lifespan, and lead to various performance issues. Regular flushing helps maintain the heater's efficiency, prevents premature wear, and ensures a consistent supply of hot water. For homes in the Las Vegas area, where water hardness can be a factor, annual flushing is particularly beneficial to combat mineral buildup.",
+        "@type": "Answer",
+        "description": "A water heater flush removes sediment to improve efficiency and extend the lifespan of the unit. It's important to prevent mineral buildup and ensure consistent hot water."
+      }
+    }
+  ],
+  "description": "A water heater flush removes sediment to improve efficiency and extend the lifespan of the unit. It's important to prevent mineral buildup and ensure consistent"
+}

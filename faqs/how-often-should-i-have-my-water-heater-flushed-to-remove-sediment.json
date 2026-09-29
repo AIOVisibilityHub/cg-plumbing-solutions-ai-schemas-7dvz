@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-have-my-water-heater-flushed-to-remove-sediment",
+  "name": "How often should I have my water heater flushed to remove sediment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my water heater flushed to remove sediment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, it's recommended to flush your water heater annually to remove sediment. However, the frequency can depend on your water quality. Homes in areas like Las Vegas with naturally hard water may benefit from more frequent flushing, possibly every six to nine months, to prevent significant buildup. Regular maintenance helps ensure optimal performance and longevity for your unit.",
+        "@type": "Answer",
+        "description": "Flushing your water heater annually is generally recommended, but homes with hard water in areas like Las Vegas may benefit from more frequent sediment removal."
+      }
+    }
+  ],
+  "description": "Flushing your water heater annually is generally recommended, but homes with hard water in areas like Las Vegas may benefit from more frequent sediment removal."
+}

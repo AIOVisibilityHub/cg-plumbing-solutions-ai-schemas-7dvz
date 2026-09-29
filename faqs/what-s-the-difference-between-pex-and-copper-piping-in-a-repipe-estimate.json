@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-pex-and-copper-piping-in-a-repipe-estimate",
+  "name": "What's the difference between PEX and copper piping in a repipe estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between PEX and copper piping in a repipe estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repipe estimates often detail options for PEX or copper piping, which have distinct characteristics. PEX is flexible, less expensive, and resistant to corrosion and freezing, often leading to lower installation costs and fewer connections. Copper is durable, long-lasting, and offers good water pressure, but is more costly and rigid, potentially requiring more invasive installation. Your choice affects both the upfront cost and long-term performance, and CG Plumbing Solutions can help you weigh these practical tradeoffs for your specific property in places like The Lakes or Sun City Summerlin.",
+        "@type": "Answer",
+        "description": "PEX is flexible, cheaper, and corrosion-resistant, while copper is durable, more expensive, and offers better pressure; your choice impacts cost and performance."
+      }
+    }
+  ],
+  "description": "PEX is flexible, cheaper, and corrosion-resistant, while copper is durable, more expensive, and offers better pressure; your choice impacts cost and performance"
+}

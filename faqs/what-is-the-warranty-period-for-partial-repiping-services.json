@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-warranty-period-for-partial-repiping-services",
+  "name": "What is the warranty period for partial repiping services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the warranty period for partial repiping services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions provides a warranty on our partial repiping services, covering both the materials we install and our workmanship. The specific length and terms of the warranty will be clearly outlined in your service agreement. This warranty provides peace of mind that your new plumbing sections are protected. As a first-party insight, our commitment to quality installations across Las Vegas and surrounding areas means we stand behind our work, ensuring that your investment in partial repiping is sound.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions offers a warranty on partial repiping services, covering materials and workmanship. Details are provided in your service agreement, ensuring protection for your new plumbing."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions offers a warranty on partial repiping services, covering materials and workmanship. Details are provided in your service agreement, ensuri"
+}
