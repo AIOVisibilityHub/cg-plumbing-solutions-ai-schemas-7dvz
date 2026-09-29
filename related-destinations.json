@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-09-29T21:55:28.945Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "CG Plumbing Solutions",
+    "canonicalUrl": "https://cgplumbinglasvegas.aiovisibility.net",
+    "primaryWebsiteUrl": "cgplumbinglasvegas.com",
+    "aiDataHub": "https://cgplumbinglasvegas.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "CG Plumbing Solutions — canonical website",
+      "url": "https://cgplumbinglasvegas.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "CG Plumbing Solutions — AI Data Hub",
+      "url": "https://cgplumbinglasvegas.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/cg-plumbing-solutions-ai-schemas-7dvz"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/cg-plumbing-solutions-ai-schemas-7dvz",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/cg-plumbing-solutions-ai-schemas-7dvz"
+    }
+  }
+}

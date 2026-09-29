@@ -1,0 +1,344 @@
+# CG Plumbing Solutions — Full AI Context
+
+**Canonical URL:** https://cgplumbinglasvegas.aiovisibility.net
+**Generated:** 2026-09-29
+
+## Overview
+CG Plumbing Solutions publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
+
+## Package Contents
+- **2023** faqs
+- **296** services
+- **1** locations
+- **6** personnel
+- **285** helpArticles
+- **1** organization
+
+## Cross-Destination Index — Related AI Data Sources
+- [canonical] CG Plumbing Solutions — canonical website — https://cgplumbinglasvegas.aiovisibility.net
+- [ai-data-hub] CG Plumbing Solutions — AI Data Hub — https://cgplumbinglasvegas.aiovisibility.net/ai-data.html
+- [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/cg-plumbing-solutions-ai-schemas-7dvz
+
+Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
+
+## Services
+- Emergency plumbing
+- 24/7 Emergency Plumber
+- Emergency Plumbing Repair
+- Same-Day Plumber
+- After-Hours Plumber
+- Weekend Plumber
+- Holiday Emergency Plumber
+- Emergency Leak Repair
+- Burst Pipe Repair
+- Broken Pipe Repair
+- Emergency Water Line Repair
+- Emergency Drain Cleaning
+- Emergency Clogged Drain Service
+- Emergency Sewer Backup Repair
+- Emergency Toilet Overflow Repair
+- Emergency Water Heater Repair
+- No Hot Water Emergency Service
+- Emergency Commercial Plumber
+- Flooded Bathroom Plumbing Repair
+- Flooded Kitchen Plumbing Repair
+- Emergency Shutoff Valve Repair
+- Emergency Plumbing Inspection
+- Drain Cleaning
+- Clogged Drain Clearing
+- Kitchen Sink Drain Cleaning
+- Bathroom Sink Drain Cleaning
+- Shower Drain Cleaning
+- Bathtub Drain Cleaning
+- Toilet Clog Removal
+- Main Sewer Line Cleaning
+- Main Drain Cleaning
+- Floor Drain Cleaning
+- Laundry Drain Cleaning
+- Grease Clog Removal
+- Slow Drain Diagnosis
+- Recurring Drain Clog Diagnosis
+- Drain Repair
+- Drain Pipe Replacement
+- Sewer Line Repair
+- Sewer Line Replacement
+- Sewer Backup Cleanup Coordination
+- Sewer Camera Inspection
+- Video Pipe Inspection
+- Sewer Line Locating
+- Sewer Cleanout Installation
+- Sewer Cleanout Repair
+- Hydro Jetting
+- High Pressure Drain Jetting
+- Rooter Service
+- Root Removal From Sewer Lines
+- Cast Iron Drain Pipe Repair
+- Cast Iron Drain Pipe Replacement
+- Trenchless Sewer Repair
+- Pipe Bursting
+- Sewer Line Excavation
+- Underground Drain Repair
+- Storm Drain Repair
+- Backwater Valve Installation
+- Backflow Prevention Service
+- Septic Tank Replacement
+- Septic Line Repair
+- Leak Detection
+- Water Leak Repair
+- Hidden Leak Detection
+- Slab Leak Detection
+- Slab Leak Repair
+- Underground Water Leak Repair
+- Ceiling Leak Plumbing Repair
+- Wall Leak Repair
+- Bathroom Leak Repair
+- Kitchen Leak Repair
+- Pipe Leak Repair
+- Frozen Pipe Repair
+- Corroded Pipe Replacement
+- Copper Pipe Repair
+- Galvanized Pipe Replacement
+- PEX Pipe Repair
+- Water Line Repair
+- Main Water Line Repair
+- Main Water Line Replacement
+- Water Service Line Replacement
+- Water Pressure Troubleshooting
+- Low Water Pressure Repair
+- High Water Pressure Diagnosis
+- Water Pressure Regulator Installation
+- Pressure Reducing Valve Repair
+- Shutoff Valve Replacement
+- Main Shutoff Valve Repair
+- Angle Stop Valve Replacement
+- Water Hammer Repair
+- Pipe Rerouting
+- Whole House Repiping
+- PEX Repiping
+- Copper Repiping
+- Partial Repiping
+- Repipe Estimates
+- Repipe for Older Homes
+- Repipe After Slab Leak
+- Water Heater Repair
+- Water Heater Replacement
+- Water Heater Installation
+- No Hot Water Repair
+- Gas Water Heater Repair
+- Electric Water Heater Repair
+- Tank Water Heater Installation
+- Tank Water Heater Replacement
+- Tankless Water Heater Repair
+- Tankless Water Heater Installation
+- Tankless Water Heater Replacement
+- Tankless Water Heater Maintenance
+- Water Heater Flush
+- Water Heater Maintenance
+- Water Heater Sediment Removal
+- Water Heater Anode Rod Replacement
+- Water Heater Thermostat Repair
+- Water Heater Pilot Light Repair
+- Water Heater Pressure Relief Valve Replacement
+- Water Heater Expansion Tank Installation
+- Water Heater Leak Repair
+- Water Heater Code Upgrade
+- Commercial Water Heater Repair
+- Commercial Water Heater Replacement
+- Recirculating Pump Installation
+- Hot Water Recirculation Repair
+- Instant Hot Water System Installation
+- Toilet Repair
+- Toilet Installation
+- Toilet Replacement
+- Running Toilet Repair
+- Leaking Toilet Repair
+- Toilet Flange Repair
+- Toilet Wax Ring Replacement
+- Clogged Toilet Repair
+- Shower Repair
+- Shower Valve Repair
+- Shower Cartridge Replacement
+- Shower Faucet Repair
+- Shower Installation
+- Bathtub Repair
+- Bathtub Faucet Repair
+- Bathtub Drain Repair
+- Bathroom Faucet Repair
+- Bathroom Sink Installation
+- Bathroom Sink Repair
+- Vanity Plumbing Installation
+- Bidet Installation
+- Bidet Toilet Installation
+- Kitchen Faucet Repair
+- Kitchen Faucet Installation
+- Kitchen Sink Repair
+- Kitchen Sink Installation
+- Garbage Disposal Repair
+- Garbage Disposal Replacement
+- Garbage Disposal Installation
+- Dishwasher Water Line Installation
+- Dishwasher Drain Line Repair
+- Refrigerator Water Line Installation
+- Ice Maker Water Line Repair
+- Pot Filler Installation
+- Under Sink Leak Repair
+- Water Filter Faucet Installation
+- Gas Line Repair
+- Gas Line Installation
+- Gas Line Replacement
+- Gas Leak Inspection
+- Gas Line Pressure Testing
+- Gas Line Shutoff Valve Installation
+- Gas Line Relocation
+- Gas Line for Water Heater
+- Gas Line for Range or Stove
+- Gas Line for Dryer
+- Gas Line for Fireplace
+- Gas Line for Barbecue Grill
+- Outdoor Kitchen Gas Line
+- Pool Heater Gas Line
+- Natural Gas Piping
+- Propane Gas Line Work
+- Sump Pump Repair
+- Sump Pump Installation
+- Sump Pump Replacement
+- Battery Backup Sump Pump
+- Ejector Pump Repair
+- Sewage Ejector Pump Installation
+- Water Softener Installation
+- Water Softener Repair
+- Water Softener Replacement
+- Whole House Water Filtration
+- Reverse Osmosis System Installation
+- Reverse Osmosis Filter Replacement
+- Hard Water Treatment
+- Scale Control System Installation
+- Water Quality Testing
+- Residential Plumber
+- Home Plumbing Repair
+- House Plumbing Inspection
+- Whole Home Plumbing Maintenance
+- New Home Plumbing Installation
+- Home Renovation Plumbing
+- Kitchen Remodel Plumbing
+- Bathroom Remodel Plumbing
+- Laundry Room Plumbing
+- Outdoor Faucet Repair
+- Hose Bib Repair
+- Frost Free Hose Bib Installation
+- Yard Hydrant Repair
+- Outdoor Kitchen Plumbing
+- Pool House Plumbing
+- Water Feature Plumbing
+- Plumbing Code Corrections
+- Plumbing Permit Support
+- Pre Purchase Plumbing Inspection
+- Homebuyer Plumbing Inspection
+- Landlord Plumbing Service
+- Rental Property Plumbing Repair
+- Property Manager Plumbing Support
+- HOA Plumbing Service
+- Multi Family Plumbing
+- Apartment Plumbing Repair
+- Condo Plumbing Repair
+- Townhome Plumbing Repair
+- Mobile Home Plumbing Repair
+- Commercial Plumber
+- Commercial Plumbing Repair
+- Commercial Emergency Plumber
+- Commercial Drain Cleaning
+- Commercial Sewer Line Repair
+- Commercial Water Heater Repair
+- Commercial Water Heater Installation
+- Commercial Restroom Plumbing
+- Commercial Toilet Repair
+- Commercial Urinal Repair
+- Commercial Sink Repair
+- Commercial Faucet Repair
+- Restaurant Plumbing
+- Restaurant Grease Trap Service
+- Commercial Kitchen Plumbing
+- Retail Store Plumbing
+- Office Building Plumbing
+- Medical Office Plumbing
+- Dental Office Plumbing
+- Hotel Plumbing
+- Casino and Hospitality Plumbing
+- Apartment Complex Plumbing
+- Property Management Plumbing
+- Tenant Improvement Plumbing
+- Build Out Plumbing
+- Commercial Plumbing Maintenance
+- Preventive Plumbing Maintenance
+- Commercial Plumbing Inspection
+- Backflow Testing and Certification
+- Grease Interceptor Repair
+- Commercial Gas Line Work
+- Commercial Fixture Installation
+- Commercial Repiping
+- Commercial Remodel Plumbing
+- New Construction Plumbing
+- Rough In Plumbing
+- Underground Plumbing
+- Plumbing System Design Support
+- Plumbing Plan Review
+- Residential Remodel Plumbing
+- Commercial Remodel Plumbing
+- Bathroom Remodel Rough In
+- Kitchen Remodel Rough In
+- Laundry Room Rough In
+- Addition Plumbing
+- ADU Plumbing
+- Casita Plumbing
+- Garage Conversion Plumbing
+- Fixture Trim Out
+- Final Plumbing Connections
+- Plumbing Inspections
+- Permit Ready Plumbing Work
+- General Contractor Plumbing Support
+- Builder Plumbing Subcontractor
+- Multi Unit Plumbing Installation
+- Plumbing Maintenance
+- Annual Plumbing Inspection
+- Preventive Plumbing Maintenance
+- Whole Home Plumbing Inspection
+- Drain Maintenance Service
+- Tankless Water Heater Flush
+- Sewer Camera Inspection
+- Leak Inspection
+- Water Pressure Inspection
+- Plumbing Safety Inspection
+- Commercial Plumbing Maintenance Agreement
+- Rental Property Plumbing Inspection
+- HOA Plumbing Maintenance
+- Real Estate Plumbing Inspection
+- Pre Listing Plumbing Inspection
+- Plumbing Code Compliance Inspection
+- Plumbing Troubleshooting
+- Plumbing Repair Estimate
+- Second Opinion Plumbing Estimate
+
+## Areas Served
+- Las Vegas
+- North Las Vegas
+- Henderson
+- Paradise
+- Summerlin
+- Enterprise
+- Spring Valley
+- Anthem
+- Green Valley
+- Seven Hills
+- Silverado Ranch
+- Mountain’s Edge
+- Southern Highlands
+- The Lakes
+- Desert Shores
+- Aliante
+- Centennial Hills
+- Sun City Summerlin
+- Rhodes Ranch
+- Whitney Ranch
+
+## Machine-Readable Index
+See [data/publishing-manifest.json](./data/publishing-manifest.json) for the full file index with categories, byte counts, and purposes.
