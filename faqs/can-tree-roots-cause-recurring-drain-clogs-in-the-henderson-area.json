@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-tree-roots-cause-recurring-drain-clogs-in-the-henderson-area",
+  "name": "Can tree roots cause recurring drain clogs in the Henderson area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can tree roots cause recurring drain clogs in the Henderson area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, tree roots are a common cause of recurring drain clogs, especially in areas like Henderson with mature landscaping. Roots seek out moisture and can infiltrate small cracks in underground sewer lines, growing and creating significant blockages. If not properly addressed, the roots will continue to grow back after clearing, leading to repeated clogs. Our diagnostic process identifies if roots are the culprit and helps us recommend targeted solutions.",
+        "@type": "Answer",
+        "description": "Tree roots are a frequent cause of recurring drain clogs, particularly in Henderson's landscapes. They infiltrate pipes and grow, causing repeated blockages that require targeted solutions."
+      }
+    }
+  ],
+  "description": "Tree roots are a frequent cause of recurring drain clogs, particularly in Henderson's landscapes. They infiltrate pipes and grow, causing repeated blockages tha"
+}

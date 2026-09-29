@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-a-kitchen-sink-drain-to-clog",
+  "name": "What causes a kitchen sink drain to clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a kitchen sink drain to clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen sink drains commonly clog due to a buildup of grease, food particles, and soap scum. Over time, these materials accumulate on the interior walls of the pipes, restricting water flow until a complete blockage occurs. Regular disposal of grease in the trash rather than down the drain, and using a drain screen, can significantly reduce the frequency of these clogs. CG Plumbing Solutions addresses these common issues to restore proper drainage.",
+        "@type": "Answer",
+        "description": "Kitchen sink clogs are typically caused by accumulated grease, food particles, and soap scum. Preventative measures like proper grease disposal and drain screens can help."
+      }
+    }
+  ],
+  "description": "Kitchen sink clogs are typically caused by accumulated grease, food particles, and soap scum. Preventative measures like proper grease disposal and drain screen"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-typically-take-to-diagnose-a-recurring-drain-clog",
+  "name": "How long does it typically take to diagnose a recurring drain clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to diagnose a recurring drain clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to diagnose a recurring drain clog can vary but often takes between 1 to 2 hours for a thorough assessment, including a camera inspection. This duration allows our technicians to meticulously explore the drain system, identify the precise cause, and evaluate the overall condition of your pipes. The process ensures an accurate diagnosis, which is crucial for implementing an effective, lasting repair, rather than just a temporary fix.",
+        "@type": "Answer",
+        "description": "Diagnosing a recurring drain clog typically takes 1 to 2 hours, especially with a camera inspection. This ensures a thorough assessment to find the precise cause for lasting repairs."
+      }
+    }
+  ],
+  "description": "Diagnosing a recurring drain clog typically takes 1 to 2 hours, especially with a camera inspection. This ensures a thorough assessment to find the precise caus"
+}

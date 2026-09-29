@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-have-my-main-sewer-line-cleaned",
+  "name": "How often should I have my main sewer line cleaned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my main sewer line cleaned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of main sewer line cleaning depends on several factors, including the age of your plumbing system, the presence of trees near your sewer line, and your household's usage habits. For most homes, an annual or biennial cleaning can prevent common issues like root intrusion or grease buildup. However, if your property has older pipes or a history of recurring clogs, more frequent maintenance might be beneficial. We can assess your specific situation and recommend a personalized cleaning schedule during an inspection.",
+        "@type": "Answer",
+        "description": "Cleaning frequency varies, but typically every 1-2 years is recommended, depending on factors like pipe age and tree proximity. More frequent service may be needed for older pipes or recurring issues."
+      }
+    }
+  ],
+  "description": "Cleaning frequency varies, but typically every 1-2 years is recommended, depending on factors like pipe age and tree proximity. More frequent service may be nee"
+}

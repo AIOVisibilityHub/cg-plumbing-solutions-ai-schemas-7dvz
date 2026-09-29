@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/after-diagnosing-a-recurring-clog-what-are-my-options-for-repair",
+  "name": "After diagnosing a recurring clog, what are my options for repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "After diagnosing a recurring clog, what are my options for repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After diagnosing a recurring clog, your repair options will depend on the identified cause. For issues like tree roots, options may include hydro-jetting to clear roots and pipe lining or replacement to prevent recurrence. For damaged pipes, repair or replacement of the affected section might be necessary. CG Plumbing Solutions will present a clear explanation of the findings and discuss the most effective, long-term solutions tailored to your specific situation and budget.",
+        "@type": "Answer",
+        "description": "Repair options for recurring clogs depend on the cause, ranging from hydro-jetting for roots to pipe repair or replacement for damage. We will explain the findings and discuss suitable long-term solutions."
+      }
+    }
+  ],
+  "description": "Repair options for recurring clogs depend on the cause, ranging from hydro-jetting for roots to pipe repair or replacement for damage. We will explain the findi"
+}

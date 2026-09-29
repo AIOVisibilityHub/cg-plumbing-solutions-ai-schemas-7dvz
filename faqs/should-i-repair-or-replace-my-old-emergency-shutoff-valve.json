@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-repair-or-replace-my-old-emergency-shutoff-valve",
+  "name": "Should I repair or replace my old emergency shutoff valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my old emergency shutoff valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace often depends on the valve's age, condition, and the extent of the issue. If the valve is relatively new and has a minor leak, repair may be sufficient. However, for older, corroded valves or those with significant damage, replacement is generally recommended for long-term reliability and peace of mind. We can provide an assessment to help you weigh the practical tradeoffs between repair cost versus the lifespan and reliability of a new installation.",
+        "@type": "Answer",
+        "description": "For minor issues on newer valves, repair might suffice. Older, corroded, or significantly damaged valves are usually better replaced for reliability."
+      }
+    }
+  ],
+  "description": "For minor issues on newer valves, repair might suffice. Older, corroded, or significantly damaged valves are usually better replaced for reliability."
+}

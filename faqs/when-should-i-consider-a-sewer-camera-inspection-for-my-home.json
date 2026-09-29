@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-a-sewer-camera-inspection-for-my-home",
+  "name": "When should I consider a sewer camera inspection for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a sewer camera inspection for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a sewer camera inspection if you experience frequent clogs, slow drains, foul odors, or sewage backups. It's also advisable before purchasing a new home to assess the condition of the plumbing system. Another key time is if you plan major renovations that might impact your sewer lines, as identifying potential issues beforehand can prevent costly surprises. This proactive step helps avoid unexpected plumbing emergencies.",
+        "@type": "Answer",
+        "description": "Consider a sewer camera inspection for frequent clogs, slow drains, foul odors, sewage backups, before buying a new home, or prior to major renovations."
+      }
+    }
+  ],
+  "description": "Consider a sewer camera inspection for frequent clogs, slow drains, foul odors, sewage backups, before buying a new home, or prior to major renovations."
+}

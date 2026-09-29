@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-prepare-before-a-plumber-arrives-to-clean-my-bathtub-drain",
+  "name": "What should I prepare before a plumber arrives to clean my bathtub drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a plumber arrives to clean my bathtub drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber arrives, ensure the area around your bathtub is clear and accessible. Remove any bath mats, toiletries, or personal items from the tub and floor. If the clog is particularly severe and causing water backup, try to minimize water usage in other parts of the house if possible. Having a clear workspace allows our technicians to efficiently access the drain and begin the cleaning process without delay, ensuring a quicker resolution to your plumbing issue.",
+        "@type": "Answer",
+        "description": "Clear the area around the tub, removing personal items, and ensure easy access to the drain for the plumber."
+      }
+    }
+  ],
+  "description": "Clear the area around the tub, removing personal items, and ensure easy access to the drain for the plumber."
+}

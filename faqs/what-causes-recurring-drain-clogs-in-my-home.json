@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-recurring-drain-clogs-in-my-home",
+  "name": "What causes recurring drain clogs in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes recurring drain clogs in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Recurring drain clogs are often caused by a buildup of substances like hair, grease, soap scum, food particles, or mineral deposits over time. Deeper issues can include tree root intrusion in outdoor pipes, collapsed pipes, or improper pipe installation. Our diagnostic process at CG Plumbing Solutions includes a thorough inspection, often using camera technology, to accurately identify the root cause of the recurring blockage and prevent future occurrences.",
+        "@type": "Answer",
+        "description": "Recurring clogs are usually due to accumulated debris, tree roots, or pipe damage. We use camera inspections to find the exact cause."
+      }
+    }
+  ],
+  "description": "Recurring clogs are usually due to accumulated debris, tree roots, or pipe damage. We use camera inspections to find the exact cause."
+}

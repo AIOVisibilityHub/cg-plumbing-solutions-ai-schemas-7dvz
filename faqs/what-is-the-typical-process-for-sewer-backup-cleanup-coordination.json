@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-sewer-backup-cleanup-coordination",
+  "name": "What is the typical process for sewer backup cleanup coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for sewer backup cleanup coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for sewer backup cleanup coordination begins with a rapid assessment of the damage and the source of the backup. This is followed by containment of the contaminated area and extraction of sewage and wastewater. Next, affected porous materials are removed, and the remaining surfaces are thoroughly cleaned, disinfected, and deodorized. Finally, professional drying equipment is used to ensure all moisture is eliminated, preventing mold. We handle the full coordination, allowing you to focus on your property's well-being.",
+        "@type": "Answer",
+        "description": "The process involves damage assessment, sewage extraction, removal of contaminated materials, cleaning, disinfection, deodorization, and professional drying to prevent mold."
+      }
+    }
+  ],
+  "description": "The process involves damage assessment, sewage extraction, removal of contaminated materials, cleaning, disinfection, deodorization, and professional drying to"
+}

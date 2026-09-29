@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-replace-or-repair-my-water-damaged-kitchen-cabinets-and-flooring",
+  "name": "Should I replace or repair my water-damaged kitchen cabinets and flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace or repair my water-damaged kitchen cabinets and flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace water-damaged kitchen cabinets and flooring depends on the extent of the damage, the materials involved, and your budget. Minor water exposure might allow for drying and repair, especially for solid wood components. However, significant or prolonged water exposure often leads to warping, swelling, or mold growth, making replacement a more durable solution. Our plumbing technicians can assess the immediate impact on your plumbing, but you may need to consult a restoration specialist for a comprehensive evaluation of non-plumbing components and to ensure proper drying.",
+        "@type": "Answer",
+        "description": "Decide to repair or replace water-damaged kitchen cabinets and flooring based on damage extent, materials, and budget; significant damage often requires replacement."
+      }
+    }
+  ],
+  "description": "Decide to repair or replace water-damaged kitchen cabinets and flooring based on damage extent, materials, and budget; significant damage often requires replace"
+}

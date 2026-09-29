@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-turn-off-anything-before-a-technician-arrives-for-no-hot-water",
+  "name": "Do I need to turn off anything before a technician arrives for no hot water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to turn off anything before a technician arrives for no hot water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you suspect a leak from your water heater, it's advisable to turn off the water supply to the unit by locating the cold water shut-off valve near the top or bottom of the tank. For electric water heaters, you can turn off the power at the circuit breaker. For gas units, you can turn the gas valve to the 'off' position. These steps can help prevent further damage or safety risks. However, if you are unsure or uncomfortable, it's perfectly fine to wait for our experienced technicians to arrive and handle it safely.",
+        "@type": "Answer",
+        "description": "If there's a leak, turn off the water supply; for electric, turn off the breaker; for gas, turn off the gas valve, but only if you are comfortable."
+      }
+    }
+  ],
+  "description": "If there's a leak, turn off the water supply; for electric, turn off the breaker; for gas, turn off the gas valve, but only if you are comfortable."
+}

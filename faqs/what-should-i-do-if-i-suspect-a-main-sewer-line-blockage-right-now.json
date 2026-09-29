@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-i-suspect-a-main-sewer-line-blockage-right-now",
+  "name": "What should I do if I suspect a main sewer line blockage right now?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I suspect a main sewer line blockage right now?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you suspect an immediate main sewer line blockage, the first step is to stop using all water-fixtures in your home to prevent further backups and potential flooding. Avoid flushing toilets, running faucets, or using dishwashers and washing machines. Next, locate your main water shut-off valve and turn off your water supply if you see any signs of a backup, such as water rising in your toilet or coming out of a drain. Then, contact a professional plumbing service like CG Plumbing Solutions immediately for emergency assessment and clearing. Prompt action can minimize damage.",
+        "@type": "Answer",
+        "description": "If you suspect a main sewer line blockage, stop using all water, turn off your main water supply if needed, and immediately contact a professional plumbing service for emergency assistance."
+      }
+    }
+  ],
+  "description": "If you suspect a main sewer line blockage, stop using all water, turn off your main water supply if needed, and immediately contact a professional plumbing serv"
+}

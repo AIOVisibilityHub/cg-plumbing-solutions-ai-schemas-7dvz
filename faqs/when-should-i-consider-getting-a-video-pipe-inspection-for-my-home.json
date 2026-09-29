@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-getting-a-video-pipe-inspection-for-my-home",
+  "name": "When should I consider getting a video pipe inspection for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider getting a video pipe inspection for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a video pipe inspection if you experience frequent clogs, slow drains, foul odors, or suspect a hidden leak. It's also recommended before purchasing an older home to assess the condition of the sewer lines, or after a significant plumbing repair to ensure the issue is fully resolved. Our technicians at CG Plumbing Solutions can help you determine if an inspection is the appropriate first step, especially when conventional troubleshooting hasn't pinpointed the root cause of persistent plumbing problems in your Las Vegas area home.",
+        "@type": "Answer",
+        "description": "Consider an inspection for frequent clogs, slow drains, foul odors, suspected leaks, or before buying an older home."
+      }
+    }
+  ],
+  "description": "Consider an inspection for frequent clogs, slow drains, foul odors, suspected leaks, or before buying an older home."
+}

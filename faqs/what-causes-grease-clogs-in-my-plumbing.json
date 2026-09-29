@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-grease-clogs-in-my-plumbing",
+  "name": "What causes grease clogs in my plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes grease clogs in my plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Grease clogs typically form when cooking oils, fats, and food scraps are poured down drains. Over time, these substances cool and solidify within your pipes, accumulating other debris and eventually restricting water flow. Regular disposal of grease in the trash, not the drain, is crucial to prevent these blockages. Additionally, using hot water to try and flush grease can sometimes worsen the problem, as it only moves the grease further down where it can solidify again.",
+        "@type": "Answer",
+        "description": "Grease clogs form when cooking oils, fats, and food scraps solidify in pipes, blocking water flow. Proper disposal in the trash prevents these issues."
+      }
+    }
+  ],
+  "description": "Grease clogs form when cooking oils, fats, and food scraps solidify in pipes, blocking water flow. Proper disposal in the trash prevents these issues."
+}

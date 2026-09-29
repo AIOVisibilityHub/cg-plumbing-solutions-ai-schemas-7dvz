@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-a-toilet-to-clog-and-how-can-i-prevent-it",
+  "name": "What causes a toilet to clog and how can I prevent it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a toilet to clog and how can I prevent it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common causes of toilet clogs include flushing non-biodegradable items like wet wipes, paper towels, or feminine hygiene products, excessive toilet paper, and foreign objects. Mineral buildup in older pipes or tree root intrusion into sewer lines can also contribute to recurring clogs. To prevent clogs, only flush human waste and toilet paper. Consider a low-flow toilet if you have an older model prone to issues, as they can sometimes struggle with waste removal efficiency. Regular, professional drain cleaning can also help identify and clear potential blockages before they become severe, a service CG Plumbing Solutions offers in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "Toilet clogs are often caused by flushing non-flushable items or excessive toilet paper; prevent them by flushing only waste and toilet paper."
+      }
+    }
+  ],
+  "description": "Toilet clogs are often caused by flushing non-flushable items or excessive toilet paper; prevent them by flushing only waste and toilet paper."
+}

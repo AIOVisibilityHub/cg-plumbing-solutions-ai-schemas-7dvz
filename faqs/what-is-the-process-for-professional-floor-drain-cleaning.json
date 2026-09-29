@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-professional-floor-drain-cleaning",
+  "name": "What is the process for professional floor drain cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional floor drain cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional floor drain cleaning typically begins with an inspection, often using a camera, to identify the type and location of the clog. For minor blockages, plumbers may use augers or drain snakes to physically remove obstructions. For more stubborn clogs, hydro-jetting, which uses high-pressure water to scour the pipes clean, is often employed. The process concludes with a final check to ensure proper flow. Customers should note if their drain line connects to a main sewer line, as blockages can sometimes originate further down the system, influencing the tools and duration needed.",
+        "@type": "Answer",
+        "description": "Professional floor drain cleaning involves inspection, often with a camera, followed by augering, snaking, or hydro-jetting to clear clogs. The connection to a main sewer line can affect the required tools and time."
+      }
+    }
+  ],
+  "description": "Professional floor drain cleaning involves inspection, often with a camera, followed by augering, snaking, or hydro-jetting to clear clogs. The connection to a"
+}

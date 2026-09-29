@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-have-my-floor-drains-professionally-cleaned",
+  "name": "How often should I have my floor drains professionally cleaned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my floor drains professionally cleaned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of professional floor drain cleaning depends on usage and the type of debris they handle. For residential basement or utility room drains, annual inspection or cleaning might be sufficient, or more often if you notice slow drainage or odors. Commercial kitchens or facilities with heavy use may require quarterly or bi-annual service to prevent significant blockages and maintain proper sanitation. A key decision factor is the historical performance and the volume of waste water and solids entering the drain.",
+        "@type": "Answer",
+        "description": "Professional floor drain cleaning frequency varies by usage; residential drains might need annual service, while commercial drains could require quarterly attention. Usage patterns are a key decision factor."
+      }
+    }
+  ],
+  "description": "Professional floor drain cleaning frequency varies by usage; residential drains might need annual service, while commercial drains could require quarterly atten"
+}

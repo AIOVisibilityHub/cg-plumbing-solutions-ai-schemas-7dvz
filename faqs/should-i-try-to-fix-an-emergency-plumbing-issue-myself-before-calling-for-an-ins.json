@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-try-to-fix-an-emergency-plumbing-issue-myself-before-calling-for-an-ins",
+  "name": "Should I try to fix an emergency plumbing issue myself before calling for an inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I try to fix an emergency plumbing issue myself before calling for an inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most significant emergency plumbing issues, it is generally not recommended to attempt complex repairs yourself before calling for a professional inspection. Incorrectly attempting to fix problems like burst pipes or sewer backups can worsen the damage, create safety hazards, or lead to more expensive repairs in the long run. It's often safer and more effective to immediately shut off your main water supply if there's a leak, then contact CG Plumbing Solutions. Our trained technicians have the expertise and tools to diagnose and repair the issue correctly and safely.",
+        "@type": "Answer",
+        "description": "It's best to avoid complex DIY repairs for emergency plumbing. Instead, shut off your water supply and call a professional to prevent worsening damage or hazards."
+      }
+    }
+  ],
+  "description": "It's best to avoid complex DIY repairs for emergency plumbing. Instead, shut off your water supply and call a professional to prevent worsening damage or hazard"
+}

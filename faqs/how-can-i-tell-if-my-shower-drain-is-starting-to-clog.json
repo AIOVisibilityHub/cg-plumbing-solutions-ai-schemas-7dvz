@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-tell-if-my-shower-drain-is-starting-to-clog",
+  "name": "How can I tell if my shower drain is starting to clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my shower drain is starting to clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a developing shower drain clog include slow draining after showering, standing water in the tub or shower base, gurgling sounds from the drain, or an unpleasant odor emanating from the drain. Noticing standing water that takes several minutes to drain is a clear indicator that a blockage is forming. Addressing these early signs can often prevent the clog from becoming a full obstruction, potentially saving you from more extensive plumbing work.",
+        "@type": "Answer",
+        "description": "Slow draining, standing water, gurgling sounds, or odors from the drain indicate a potential clog."
+      }
+    }
+  ],
+  "description": "Slow draining, standing water, gurgling sounds, or odors from the drain indicate a potential clog."
+}

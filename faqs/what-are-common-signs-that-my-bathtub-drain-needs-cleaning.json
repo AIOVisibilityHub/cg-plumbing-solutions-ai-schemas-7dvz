@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-bathtub-drain-needs-cleaning",
+  "name": "What are common signs that my bathtub drain needs cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my bathtub drain needs cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs include slow draining water, standing water in the tub, gurgling sounds from the drain, and foul odors. These symptoms often indicate a buildup of hair, soap scum, or other debris. Addressing these early can prevent a complete clog and potential water damage. Regular observation of your drain's performance helps determine when professional intervention might be necessary, avoiding more complex and costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Slow draining, standing water, gurgling sounds, or foul odors are common signs your bathtub drain needs cleaning."
+      }
+    }
+  ],
+  "description": "Slow draining, standing water, gurgling sounds, or foul odors are common signs your bathtub drain needs cleaning."
+}

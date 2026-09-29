@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-before-the-plumber-arrives-for-a-kitchen-flood",
+  "name": "What should I do before the plumber arrives for a kitchen flood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before the plumber arrives for a kitchen flood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the plumber arrives for a kitchen flood, your immediate priority should be to safely shut off the main water supply to your home if possible, to stop the flow of water. You should also disconnect any electrical appliances in the flooded area to prevent hazards. Moving items away from the water path can help reduce further damage. This preparation can help our plumbers begin diagnostics and repairs more quickly upon arrival. Locating your main water shut-off valve beforehand is a good practice for any homeowner.",
+        "@type": "Answer",
+        "description": "Before the plumber arrives, safely shut off your home's main water supply, disconnect electrical appliances, and move items away from the water."
+      }
+    }
+  ],
+  "description": "Before the plumber arrives, safely shut off your home's main water supply, disconnect electrical appliances, and move items away from the water."
+}

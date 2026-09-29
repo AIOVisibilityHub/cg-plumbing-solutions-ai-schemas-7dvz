@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-drain-cleaning-and-drain-repair",
+  "name": "What is the difference between drain cleaning and drain repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between drain cleaning and drain repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drain cleaning primarily focuses on removing existing blockages and buildup to restore proper water flow, typically involving methods like snaking, chemical treatments, or hydro-jetting. Drain repair, on the other hand, addresses structural damage to the pipes themselves, such as cracks, leaks, corrosion, or collapsed sections, which may require patching, relining, or replacing portions of the pipe. While cleaning resolves clogs, repair fixes the integrity of the drainage system to prevent future issues.",
+        "@type": "Answer",
+        "description": "Drain cleaning removes clogs to restore flow; drain repair fixes structural damage like cracks or leaks in the pipes themselves."
+      }
+    }
+  ],
+  "description": "Drain cleaning removes clogs to restore flow; drain repair fixes structural damage like cracks or leaks in the pipes themselves."
+}

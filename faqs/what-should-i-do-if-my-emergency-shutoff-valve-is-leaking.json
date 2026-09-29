@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-my-emergency-shutoff-valve-is-leaking",
+  "name": "What should I do if my emergency shutoff valve is leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my emergency shutoff valve is leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your emergency shutoff valve is leaking, the first step is to try and tighten the packing nut, if safely accessible. If the leak persists or you cannot access it, contact a professional plumber immediately. Continuous leaks can indicate a deeper problem and lead to water damage over time. This is a common issue we observe, and prompt action helps prevent further complications and potential costly repairs in the future.",
+        "@type": "Answer",
+        "description": "If your emergency shutoff valve is leaking, tighten the packing nut if safe, then contact a plumber immediately to prevent further damage."
+      }
+    }
+  ],
+  "description": "If your emergency shutoff valve is leaking, tighten the packing nut if safe, then contact a plumber immediately to prevent further damage."
+}

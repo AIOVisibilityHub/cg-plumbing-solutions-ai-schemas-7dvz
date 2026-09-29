@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-call-a-professional-for-a-slow-drain-instead-of-trying-diy-methods",
+  "name": "When should I call a professional for a slow drain instead of trying DIY methods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a slow drain instead of trying DIY methods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for a slow drain if basic DIY methods like plunging don't work, if you have multiple slow drains in your home, or if you suspect a more serious issue like a main sewer line blockage. Attempting aggressive DIY solutions can sometimes damage your pipes, especially older ones, leading to more costly repairs. CG Plumbing Solutions can perform a video inspection to accurately diagnose the problem without guesswork. This precise diagnostic helps avoid unnecessary damage and ensures a long-lasting fix.",
+        "@type": "Answer",
+        "description": "Call a professional if DIY methods fail, you have multiple slow drains, or suspect a main line issue. Professionals can diagnose accurately to prevent pipe damage."
+      }
+    }
+  ],
+  "description": "Call a professional if DIY methods fail, you have multiple slow drains, or suspect a main line issue. Professionals can diagnose accurately to prevent pipe dama"
+}

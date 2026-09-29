@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-call-for-an-emergency-plumbing-inspection",
+  "name": "When should I call for an emergency plumbing inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call for an emergency plumbing inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call for an emergency plumbing inspection if you experience sudden, severe plumbing issues that could cause significant damage or pose a health risk. Examples include a burst pipe, a rapidly spreading water leak, a backed-up sewer line, or no water supply at all. Delaying an inspection in these situations can escalate the problem, leading to more extensive and costly repairs. CG Plumbing Solutions prioritizes these calls to dispatch a technician swiftly, minimizing property damage in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "Call for an emergency plumbing inspection when facing severe issues like burst pipes, major leaks, or sewer backups to prevent further damage."
+      }
+    }
+  ],
+  "description": "Call for an emergency plumbing inspection when facing severe issues like burst pipes, major leaks, or sewer backups to prevent further damage."
+}

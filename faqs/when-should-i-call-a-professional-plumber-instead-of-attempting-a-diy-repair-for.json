@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-call-a-professional-plumber-instead-of-attempting-a-diy-repair-for",
+  "name": "When should I call a professional plumber instead of attempting a DIY repair for a flooded bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional plumber instead of attempting a DIY repair for a flooded bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber immediately if the flood source is unclear, the water is contaminated (e.g., sewage backup), or if the damage is extensive. Professional plumbers have the expertise and specialized tools to diagnose complex issues, prevent further damage, and ensure repairs meet safety and code standards. Attempting complex DIY repairs without proper knowledge can often worsen the problem or lead to more costly fixes down the line.",
+        "@type": "Answer",
+        "description": "Call a professional plumber if the flood source is unclear, water is contaminated, or damage is extensive. DIY attempts can worsen complex issues."
+      }
+    }
+  ],
+  "description": "Call a professional plumber if the flood source is unclear, water is contaminated, or damage is extensive. DIY attempts can worsen complex issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-before-a-plumber-arrives-for-a-drain-cleaning-service",
+  "name": "What should I do before a plumber arrives for a drain cleaning service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before a plumber arrives for a drain cleaning service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your plumber arrives for drain cleaning, clear the area around the affected drain, removing any items from under sinks or around floor drains to allow easy access. If the issue is with a toilet, ensure the area is accessible. Inform the plumber if you've recently used any chemical drain cleaners, as this can affect safety protocols. Providing a brief history of the problem and any home remedies you've tried can also assist the technician in diagnosing the issue efficiently.",
+        "@type": "Answer",
+        "description": "Clear the area around the drain, remove obstructions, and be ready to provide a brief history of the problem and any prior attempts at remediation."
+      }
+    }
+  ],
+  "description": "Clear the area around the drain, remove obstructions, and be ready to provide a brief history of the problem and any prior attempts at remediation."
+}

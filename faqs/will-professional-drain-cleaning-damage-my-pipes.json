@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-professional-drain-cleaning-damage-my-pipes",
+  "name": "Will professional drain cleaning damage my pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will professional drain cleaning damage my pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, professional drain cleaning from experienced plumbers like CG Plumbing Solutions is designed to safely clear blockages without damaging your pipes. We use appropriate tools, such as professional-grade augers or hydro-jetting equipment, that are selected based on your pipe material and the nature of the clog. This approach protects your plumbing system while effectively resolving the issue.",
+        "@type": "Answer",
+        "description": "Professional drain cleaning uses specialized tools and techniques to safely clear clogs without damaging your pipes."
+      }
+    }
+  ],
+  "description": "Professional drain cleaning uses specialized tools and techniques to safely clear clogs without damaging your pipes."
+}

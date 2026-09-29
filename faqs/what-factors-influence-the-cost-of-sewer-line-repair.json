@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-sewer-line-repair",
+  "name": "What factors influence the cost of sewer line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of sewer line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of sewer line repair is influenced by several factors, including the severity and type of damage (e.g., crack, collapse, root intrusion), the length and depth of the affected pipe, and the chosen repair method (traditional excavation vs. trenchless). Additionally, site-specific challenges like landscaping, concrete, or utility lines can add to complexity. For homeowners in Paradise or Enterprise, a detailed estimate from CG Plumbing Solutions, following a camera inspection, is essential to understand the full scope and cost.",
+        "@type": "Answer",
+        "description": "Sewer line repair costs depend on damage type, pipe length/depth, repair method, and site-specific challenges like landscaping or concrete."
+      }
+    }
+  ],
+  "description": "Sewer line repair costs depend on damage type, pipe length/depth, repair method, and site-specific challenges like landscaping or concrete."
+}

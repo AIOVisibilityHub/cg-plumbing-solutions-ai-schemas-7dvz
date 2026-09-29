@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-sewer-camera-inspection",
+  "name": "What is a sewer camera inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a sewer camera inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sewer camera inspection involves inserting a high-resolution, waterproof camera attached to a flexible rod into your sewer lines. This allows our technicians to visually inspect the interior of the pipes in real-time. The video feed helps identify blockages, pipe damage, tree root intrusions, or other issues without extensive excavation. This process provides a clear diagnosis, which is crucial for determining the most effective repair strategy.",
+        "@type": "Answer",
+        "description": "A sewer camera inspection uses a waterproof camera to inspect the inside of your sewer lines for blockages, damage, or other problems without digging."
+      }
+    }
+  ],
+  "description": "A sewer camera inspection uses a waterproof camera to inspect the inside of your sewer lines for blockages, damage, or other problems without digging."
+}

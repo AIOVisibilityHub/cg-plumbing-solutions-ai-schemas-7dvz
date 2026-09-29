@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-a-bathroom-sink-drain-to-clog",
+  "name": "What causes a bathroom sink drain to clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a bathroom sink drain to clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom sink drains typically clog due to an accumulation of hair, soap scum, toothpaste, and sometimes small foreign objects. Over time, these materials combine to form a blockage that restricts water flow. Regular flushing with hot water and avoiding pouring grease down the drain can help prevent some clogs, but hair is often the primary culprit in bathroom sinks.",
+        "@type": "Answer",
+        "description": "Hair, soap scum, and toothpaste are the most common causes of bathroom sink drain clogs."
+      }
+    }
+  ],
+  "description": "Hair, soap scum, and toothpaste are the most common causes of bathroom sink drain clogs."
+}

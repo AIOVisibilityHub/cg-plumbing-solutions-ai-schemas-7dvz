@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-laundry-drain-clogs",
+  "name": "What causes laundry drain clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes laundry drain clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Laundry drain clogs are primarily caused by a buildup of lint, soap scum, fabric softener residue, and sometimes small articles of clothing or debris that bypass the washing machine's filter. Over time, these materials accumulate inside the drain pipes, narrowing the passage and eventually leading to blockages. Using excessive detergent or fabric softener can accelerate this buildup, creating a sticky residue that traps lint more effectively.",
+        "@type": "Answer",
+        "description": "Lint, soap scum, fabric softener residue, and small debris are the main causes of laundry drain clogs."
+      }
+    }
+  ],
+  "description": "Lint, soap scum, fabric softener residue, and small debris are the main causes of laundry drain clogs."
+}

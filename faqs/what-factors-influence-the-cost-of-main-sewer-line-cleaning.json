@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-main-sewer-line-cleaning",
+  "name": "What factors influence the cost of main sewer line cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of main sewer line cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of main sewer line cleaning can vary based on several factors, such as the severity and type of the blockage, the length of the sewer line, and its accessibility. For instance, a simple clog may be less expensive than extensive root intrusion requiring hydro-jetting. The condition and age of the pipes can also affect the complexity of the job. We provide transparent, upfront pricing after a thorough inspection, allowing you to understand the scope of work and associated costs before we begin. This ensures there are no surprises.",
+        "@type": "Answer",
+        "description": "Cost factors include blockage severity and type, line length, and accessibility. We provide transparent, upfront pricing after an inspection to determine the specific needs."
+      }
+    }
+  ],
+  "description": "Cost factors include blockage severity and type, line length, and accessibility. We provide transparent, upfront pricing after an inspection to determine the sp"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-sewer-backup-cleanup-coordination-typically-take",
+  "name": "How long does sewer backup cleanup coordination typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does sewer backup cleanup coordination typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of sewer backup cleanup coordination varies significantly depending on the severity and scope of the damage. A small, contained backup might take 1-3 days for initial cleanup and drying, while extensive damage involving multiple rooms or structural elements could take a week or more. The process includes cleanup, disinfection, and thorough drying, with drying times often depending on ambient humidity and the type of materials affected. The complexity of the cleanup, driven by the type of contamination, directly impacts timing.",
+        "@type": "Answer",
+        "description": "Cleanup duration varies based on severity and scope of damage, ranging from 1-3 days for minor issues to a week or more for extensive damage."
+      }
+    }
+  ],
+  "description": "Cleanup duration varies based on severity and scope of damage, ranging from 1-3 days for minor issues to a week or more for extensive damage."
+}

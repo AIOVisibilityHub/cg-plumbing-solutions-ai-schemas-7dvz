@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-a-video-pipe-inspection-cost-in-the-las-vegas-area",
+  "name": "How much does a video pipe inspection cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a video pipe inspection cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a video pipe inspection can vary based on factors like the length of the pipe to be inspected, the accessibility of the access point, and the complexity of the plumbing system. While we cannot provide exact pricing without assessing your specific situation, a standard inspection typically involves a service fee. We recommend contacting CG Plumbing Solutions directly for a personalized estimate. Providing details about your plumbing issue and the history of your home can help us give you a more accurate quote.",
+        "@type": "Answer",
+        "description": "Costs vary by pipe length, accessibility, and system complexity. Contact CG Plumbing Solutions for a personalized estimate."
+      }
+    }
+  ],
+  "description": "Costs vary by pipe length, accessibility, and system complexity. Contact CG Plumbing Solutions for a personalized estimate."
+}

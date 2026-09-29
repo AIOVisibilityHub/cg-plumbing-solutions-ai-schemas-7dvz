@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-hydro-jetting-for-shower-drains",
+  "name": "What is hydro-jetting for shower drains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hydro-jetting for shower drains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting is a highly effective drain cleaning method that uses high-pressure water streams to clear blockages and thoroughly clean the interior of pipes. Unlike snaking, which punctures clogs, hydro-jetting scours the entire pipe wall, removing accumulated grease, soap scum, hair, and even tree roots. This method is particularly useful for stubborn clogs or recurring issues, providing a comprehensive cleaning that helps prevent future blockages. It's a powerful tool for maintaining your home's plumbing system.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses high-pressure water to clear blockages and thoroughly clean shower drain pipes, removing stubborn buildup."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses high-pressure water to clear blockages and thoroughly clean shower drain pipes, removing stubborn buildup."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-to-prepare-for-a-sewer-camera-inspection",
+  "name": "What should I do to prepare for a sewer camera inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare for a sewer camera inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a sewer camera inspection, ensure easy access to your main sewer cleanout, typically located outside your home or in the basement. It's also helpful to minimize water usage for a few hours before the appointment, as this allows for clearer visibility during the inspection. Being aware of any recent plumbing issues or changes can also provide valuable context for our technicians before they begin the process. Providing any previous plumbing reports is also beneficial.",
+        "@type": "Answer",
+        "description": "Prepare for a sewer camera inspection by ensuring clear access to the main sewer cleanout and minimizing water usage beforehand."
+      }
+    }
+  ],
+  "description": "Prepare for a sewer camera inspection by ensuring clear access to the main sewer cleanout and minimizing water usage beforehand."
+}

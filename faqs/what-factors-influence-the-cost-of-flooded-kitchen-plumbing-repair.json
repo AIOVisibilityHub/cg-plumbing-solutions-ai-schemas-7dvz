@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-flooded-kitchen-plumbing-repair",
+  "name": "What factors influence the cost of flooded kitchen plumbing repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of flooded kitchen plumbing repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of flooded kitchen plumbing repair is influenced by several factors, including the source and severity of the flood, the extent of the plumbing damage, and the complexity of the repair. For instance, a simple pipe patch will cost less than replacing a section of damaged piping or a major appliance line. Location within our service area (e.g., Summerlin vs. North Las Vegas) doesn't typically impact the base service rates, but the extent of necessary water damage mitigation post-repair can add to overall expenses. We provide transparent estimates after diagnosing the issue.",
+        "@type": "Answer",
+        "description": "Repair cost depends on the flood's source, damage severity, and repair complexity; we provide estimates after diagnosis."
+      }
+    }
+  ],
+  "description": "Repair cost depends on the flood's source, damage severity, and repair complexity; we provide estimates after diagnosis."
+}

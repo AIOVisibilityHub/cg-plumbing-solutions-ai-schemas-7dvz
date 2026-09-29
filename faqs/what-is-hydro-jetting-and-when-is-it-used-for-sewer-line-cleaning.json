@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-hydro-jetting-and-when-is-it-used-for-sewer-line-cleaning",
+  "name": "What is hydro-jetting and when is it used for sewer line cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hydro-jetting and when is it used for sewer line cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting is a highly effective method for main sewer line cleaning that uses high-pressure water streams to blast away stubborn blockages and buildup. It's particularly useful for removing tree roots, grease accumulation, mineral deposits, and other debris that traditional snaking might not fully clear. We typically recommend hydro-jetting for severe clogs, recurring blockages, or as a preventative measure to thoroughly scour the pipe walls. The intense water pressure not only clears obstructions but also cleans the entire circumference of the pipe, restoring its flow capacity.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses high-pressure water to clear severe blockages like roots, grease, and mineral deposits from sewer lines. It's used for thorough cleaning and to prevent recurring clogs."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses high-pressure water to clear severe blockages like roots, grease, and mineral deposits from sewer lines. It's used for thorough cleaning and"
+}

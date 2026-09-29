@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-bathtub-drain-cleaning-take",
+  "name": "How long does a typical bathtub drain cleaning take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathtub drain cleaning take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical bathtub drain cleaning can take anywhere from 30 minutes to a couple of hours, depending on the severity and location of the clog. Simple blockages close to the drain opening are quicker to resolve, while deeper, more stubborn clogs requiring specialized equipment like hydro-jetting will extend the service time. The process timing can also be affected by accessibility to the drain and the overall condition of your plumbing system.",
+        "@type": "Answer",
+        "description": "A typical bathtub drain cleaning takes 30 minutes to a few hours, depending on the clog's severity, location, and accessibility."
+      }
+    }
+  ],
+  "description": "A typical bathtub drain cleaning takes 30 minutes to a few hours, depending on the clog's severity, location, and accessibility."
+}

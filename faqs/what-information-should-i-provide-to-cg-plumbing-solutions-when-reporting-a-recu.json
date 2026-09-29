@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-information-should-i-provide-to-cg-plumbing-solutions-when-reporting-a-recu",
+  "name": "What information should I provide to CG Plumbing Solutions when reporting a recurring clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I provide to CG Plumbing Solutions when reporting a recurring clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When reporting a recurring clog, it's helpful to provide details such as which drains are affected, how frequently the clogs occur, if you've tried any DIY solutions, and any recent changes to your plumbing system. Mentioning when the issue started and what might have gone down the drain can also assist in the diagnosis. This preparation helps our technicians quickly narrow down potential causes and select the most appropriate diagnostic tools.",
+        "@type": "Answer",
+        "description": "Provide details like affected drains, clog frequency, DIY attempts, and recent plumbing changes. This helps our technicians efficiently diagnose the issue."
+      }
+    }
+  ],
+  "description": "Provide details like affected drains, clog frequency, DIY attempts, and recent plumbing changes. This helps our technicians efficiently diagnose the issue."
+}

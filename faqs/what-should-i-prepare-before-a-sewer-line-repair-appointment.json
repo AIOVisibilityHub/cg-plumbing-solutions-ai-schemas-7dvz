@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-prepare-before-a-sewer-line-repair-appointment",
+  "name": "What should I prepare before a sewer line repair appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a sewer line repair appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a sewer line repair appointment, it is helpful to clear any access points to your main sewer line, such as manholes or cleanouts in your yard or basement. If you have any plumbing diagrams or property plans, having them available can also assist the technicians. Providing information about recent plumbing issues or past repairs helps CG Plumbing Solutions prepare for specific challenges. This preparation can help streamline the diagnostic and repair process for your property in areas like Summerlin or Anthem.",
+        "@type": "Answer",
+        "description": "Before an appointment, clear access to your sewer line, have plumbing diagrams ready, and inform technicians about recent issues or past repairs."
+      }
+    }
+  ],
+  "description": "Before an appointment, clear access to your sewer line, have plumbing diagrams ready, and inform technicians about recent issues or past repairs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-a-kitchen-flood",
+  "name": "What causes a kitchen flood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a kitchen flood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen floods commonly stem from burst pipes, overflowing sinks, dishwasher leaks, or issues with the refrigerator's water line. Aging plumbing, improper installation, or blockages in drains can exacerbate these problems, leading to significant water damage. Identifying the specific source quickly is crucial for effective repair. Our technicians are trained to diagnose the exact cause of your kitchen flood efficiently, helping to prevent future occurrences.",
+        "@type": "Answer",
+        "description": "Kitchen floods are often caused by burst pipes, overflowing sinks, dishwasher leaks, or refrigerator water line issues, often due to aging plumbing or blockages."
+      }
+    }
+  ],
+  "description": "Kitchen floods are often caused by burst pipes, overflowing sinks, dishwasher leaks, or refrigerator water line issues, often due to aging plumbing or blockages"
+}

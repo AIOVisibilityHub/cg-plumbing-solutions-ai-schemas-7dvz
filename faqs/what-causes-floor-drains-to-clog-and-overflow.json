@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-floor-drains-to-clog-and-overflow",
+  "name": "What causes floor drains to clog and overflow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes floor drains to clog and overflow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floor drains commonly clog due to an accumulation of debris like hair, soap scum, grease, dirt, and lint from washing machines. In commercial settings, food particles and sediment can also be significant culprits. Additionally, tree roots infiltrating the drain lines can cause severe blockages. Understanding the source of the clog helps determine the most effective cleaning method, from simple snaking to more advanced hydro-jetting.",
+        "@type": "Answer",
+        "description": "Floor drains clog from debris like hair, soap scum, grease, and dirt, or from tree root intrusion. Identifying the cause is key to effective cleaning."
+      }
+    }
+  ],
+  "description": "Floor drains clog from debris like hair, soap scum, grease, and dirt, or from tree root intrusion. Identifying the cause is key to effective cleaning."
+}

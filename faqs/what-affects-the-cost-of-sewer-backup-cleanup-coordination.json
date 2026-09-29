@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-affects-the-cost-of-sewer-backup-cleanup-coordination",
+  "name": "What affects the cost of sewer backup cleanup coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What affects the cost of sewer backup cleanup coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of sewer backup cleanup coordination is primarily affected by the extent of the damage, the category of water (e.g., blackwater from sewer), and the amount of contaminated materials that need removal and disposal. Factors like the size of the affected area, the type of materials contaminated (carpeting vs. concrete), and the duration the sewage was present before cleanup also influence the final cost. A detailed assessment is needed to provide an accurate estimate. The category of water dictates the necessary safety protocols and disposal, which is a practical tradeoff to ensure health and safety.",
+        "@type": "Answer",
+        "description": "Cost is affected by damage extent, water category, amount of contaminated materials, size of affected area, and duration of sewage presence."
+      }
+    }
+  ],
+  "description": "Cost is affected by damage extent, water category, amount of contaminated materials, size of affected area, and duration of sewage presence."
+}

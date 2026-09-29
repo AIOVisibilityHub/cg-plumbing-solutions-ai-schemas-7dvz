@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-does-cg-plumbing-solutions-diagnose-the-cause-of-a-recurring-drain-clog",
+  "name": "How does CG Plumbing Solutions diagnose the cause of a recurring drain clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does CG Plumbing Solutions diagnose the cause of a recurring drain clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We diagnose recurring drain clogs using advanced techniques, primarily professional drain camera inspections. This involves inserting a waterproof camera into your pipes to visually identify blockages, pipe damage, or other issues like tree roots or grease buildup. This process provides clear insights, allowing us to accurately determine the problem's source and recommend the most effective, long-term solution. Understanding the precise cause is crucial before any repair work begins.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions uses professional drain camera inspections to visually identify blockages, pipe damage, or root intrusion, ensuring an accurate diagnosis."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions uses professional drain camera inspections to visually identify blockages, pipe damage, or root intrusion, ensuring an accurate diagnosis."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-happens-during-an-emergency-plumbing-inspection",
+  "name": "What happens during an emergency plumbing inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during an emergency plumbing inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an emergency plumbing inspection, a technician will first assess the immediate danger and often take steps to mitigate further damage, such as shutting off the main water supply if there's a leak. They will then thoroughly investigate the affected area to pinpoint the exact cause of the problem. This process includes visual checks, listening for sounds, and sometimes using specialized equipment to locate hidden issues. At CG Plumbing Solutions, our technicians will provide an on-site diagnosis and explain the recommended repair options and next steps to the homeowner.",
+        "@type": "Answer",
+        "description": "A technician will assess immediate danger, mitigate further damage, and investigate the problem's cause, providing an on-site diagnosis and repair options."
+      }
+    }
+  ],
+  "description": "A technician will assess immediate danger, mitigate further damage, and investigate the problem's cause, providing an on-site diagnosis and repair options."
+}

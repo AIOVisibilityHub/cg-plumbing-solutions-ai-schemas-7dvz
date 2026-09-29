@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-an-emergency-plumbing-inspection-identify-hidden-leaks",
+  "name": "Can an emergency plumbing inspection identify hidden leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an emergency plumbing inspection identify hidden leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an emergency plumbing inspection can often identify hidden leaks, especially if the leak is causing noticeable symptoms like water stains, damp walls, or an unexplained increase in your water bill. While the immediate focus during an emergency is stopping active damage, technicians are equipped with diagnostic tools and experience to trace water sources. For CG Plumbing Solutions, our plumbers use their expertise to locate elusive leaks behind walls or under floors, even during an emergency call, to ensure the entire problem is addressed, preventing future complications.",
+        "@type": "Answer",
+        "description": "Yes, emergency inspections can identify hidden leaks, especially when causing noticeable symptoms. Technicians use diagnostic tools to trace and locate the source."
+      }
+    }
+  ],
+  "description": "Yes, emergency inspections can identify hidden leaks, especially when causing noticeable symptoms. Technicians use diagnostic tools to trace and locate the sour"
+}

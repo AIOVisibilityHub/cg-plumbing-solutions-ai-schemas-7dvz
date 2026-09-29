@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-bathtub-drains-to-clog",
+  "name": "What causes bathtub drains to clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes bathtub drains to clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathtub drains commonly clog due to a combination of hair, soap scum, and oils accumulating over time. Other factors can include mineral deposits from hard water, small objects accidentally falling into the drain, or even tree roots infiltrating older pipes outside the home. Regular maintenance, such as using a drain screen, can reduce the frequency of clogs, but professional cleaning may be needed to remove deep, stubborn blockages.",
+        "@type": "Answer",
+        "description": "Hair, soap scum, and oils are primary causes of bathtub drain clogs. Hard water deposits or foreign objects can also contribute."
+      }
+    }
+  ],
+  "description": "Hair, soap scum, and oils are primary causes of bathtub drain clogs. Hard water deposits or foreign objects can also contribute."
+}

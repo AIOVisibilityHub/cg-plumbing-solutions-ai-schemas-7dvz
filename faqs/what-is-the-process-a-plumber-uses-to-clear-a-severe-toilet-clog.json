@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-a-plumber-uses-to-clear-a-severe-toilet-clog",
+  "name": "What is the process a plumber uses to clear a severe toilet clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process a plumber uses to clear a severe toilet clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For severe toilet clogs, a plumber typically begins by assessing the situation to understand the likely cause and location of the blockage. They will then use specialized tools such as a closet auger (a toilet-specific snake) for clogs within the toilet trap or a larger drain snake for deeper clogs in the drainpipe. If the clog is suspected to be in the main sewer line, a video camera inspection may be used to pinpoint its exact location and nature, such as tree root intrusion. After clearing, they often run water to ensure proper drainage and confirm the blockage is resolved.",
+        "@type": "Answer",
+        "description": "A plumber clears severe toilet clogs by assessing, then using specialized augers or drain snakes, and potentially video inspection for main line issues."
+      }
+    }
+  ],
+  "description": "A plumber clears severe toilet clogs by assessing, then using specialized augers or drain snakes, and potentially video inspection for main line issues."
+}

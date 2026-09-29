@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-do-anything-to-prepare-for-sewer-backup-cleanup-services",
+  "name": "Do I need to do anything to prepare for sewer backup cleanup services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do anything to prepare for sewer backup cleanup services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before professionals arrive, it's safest to turn off your main water supply if the backup is ongoing and avoid contact with the contaminated water. If possible and safe, open windows to ventilate the area. You should also prepare to provide information on the approximate time of the backup and any recent plumbing issues you've observed. Documenting the damage with photos or videos can also be helpful for insurance purposes. These preparation steps aid in a faster and more efficient cleanup process.",
+        "@type": "Answer",
+        "description": "Turn off water, ventilate the area, avoid contact with sewage, and gather information about the backup and any damage for our team."
+      }
+    }
+  ],
+  "description": "Turn off water, ventilate the area, avoid contact with sewage, and gather information about the backup and any damage for our team."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-causes-of-a-flooded-bathroom",
+  "name": "What are the common causes of a flooded bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of a flooded bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A flooded bathroom can result from several issues, including overflowing toilets, burst pipes, clogged drains, or leaking water heaters. Fixture malfunctions, like a faulty showerhead or a continuously running toilet, can also contribute to water accumulation. Understanding the source is crucial for effective repair and preventing future incidents. When our technicians arrive, we first focus on identifying the precise origin of the water, which often dictates the most appropriate repair strategy.",
+        "@type": "Answer",
+        "description": "Common causes of a flooded bathroom include overflowing toilets, burst pipes, clogged drains, and leaking water heaters. Identifying the source is key for effective repair."
+      }
+    }
+  ],
+  "description": "Common causes of a flooded bathroom include overflowing toilets, burst pipes, clogged drains, and leaking water heaters. Identifying the source is key for effec"
+}

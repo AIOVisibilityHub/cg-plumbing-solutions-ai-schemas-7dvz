@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prevent-future-kitchen-floods",
+  "name": "How can I prevent future kitchen floods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future kitchen floods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future kitchen floods involves routine maintenance and awareness. Regularly check under sinks for leaks, inspect appliance hoses (like for dishwashers and refrigerators) for wear, and avoid pouring grease down drains. Consider installing leak detectors in vulnerable areas. For older homes in areas like Henderson or Summerlin, consider having a professional inspect your plumbing system for aging pipes that might be prone to bursting. Proactive measures can significantly reduce the risk of unexpected floods.",
+        "@type": "Answer",
+        "description": "Prevent kitchen floods by regularly checking for leaks, inspecting appliance hoses, avoiding grease down drains, and considering plumbing inspections."
+      }
+    }
+  ],
+  "description": "Prevent kitchen floods by regularly checking for leaks, inspecting appliance hoses, avoiding grease down drains, and considering plumbing inspections."
+}

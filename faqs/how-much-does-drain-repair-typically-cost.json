@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-drain-repair-typically-cost",
+  "name": "How much does drain repair typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does drain repair typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of drain repair varies significantly based on the severity of the blockage or damage, the location of the drain (e.g., sink, main sewer line), and the required repair method. Simple snaking might be less expensive than hydro-jetting a stubborn clog or repairing a damaged pipe section. For an accurate estimate, CG Plumbing Solutions offers an on-site assessment to diagnose the specific problem and provide transparent pricing tailored to your unique situation before any work begins.",
+        "@type": "Answer",
+        "description": "Drain repair costs depend on the issue's severity, location, and repair method. CG Plumbing Solutions provides on-site assessments for accurate pricing."
+      }
+    }
+  ],
+  "description": "Drain repair costs depend on the issue's severity, location, and repair method. CG Plumbing Solutions provides on-site assessments for accurate pricing."
+}

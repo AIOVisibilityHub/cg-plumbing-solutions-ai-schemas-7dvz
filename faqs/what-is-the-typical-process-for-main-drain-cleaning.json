@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-main-drain-cleaning",
+  "name": "What is the typical process for main drain cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for main drain cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for main drain cleaning begins with a thorough inspection, often using a camera, to identify the location and nature of the clog. Once the blockage is pinpointed, our technicians will use specialized equipment, such as a snake or hydro-jetter, to clear the obstruction. Snaking is effective for many common clogs like hair and grease, while hydro-jetting uses high-pressure water to remove stubborn blockages and thoroughly clean pipe walls. The process concludes with another inspection to ensure the drain is completely clear and flowing properly. This systematic approach ensures effective and lasting results for your plumbing system.",
+        "@type": "Answer",
+        "description": "Main drain cleaning involves camera inspection to locate the clog, then using a snake or hydro-jetter to clear it, followed by a final inspection to ensure proper flow."
+      }
+    }
+  ],
+  "description": "Main drain cleaning involves camera inspection to locate the clog, then using a snake or hydro-jetter to clear it, followed by a final inspection to ensure prop"
+}

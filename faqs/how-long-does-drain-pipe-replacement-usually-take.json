@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-drain-pipe-replacement-usually-take",
+  "name": "How long does drain pipe replacement usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does drain pipe replacement usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of drain pipe replacement varies significantly based on the extent of the damage, the type of pipes, and accessibility. A small section replacement might take a few hours, while a more extensive whole-house re-piping could take several days. We aim to complete projects efficiently while maintaining quality. We prioritize clear communication about timelines, especially for larger jobs in areas like Las Vegas, to help you plan accordingly.",
+        "@type": "Answer",
+        "description": "Replacement time varies from a few hours for small sections to several days for extensive re-piping, depending on the job's complexity."
+      }
+    }
+  ],
+  "description": "Replacement time varies from a few hours for small sections to several days for extensive re-piping, depending on the job's complexity."
+}

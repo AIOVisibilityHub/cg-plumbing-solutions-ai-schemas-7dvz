@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-main-drain-needs-cleaning",
+  "name": "What are common signs that my main drain needs cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my main drain needs cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that indicate your main drain needs cleaning include multiple plumbing fixtures backing up simultaneously, slow drains in several areas of your home, gurgling sounds from toilets or drains, and sewage odors emanating from your drains. If you observe water backing up into your shower when flushing the toilet, it's a strong indicator of a main line blockage. Addressing these issues promptly can prevent more significant plumbing emergencies and potential water damage to your property, especially in areas like Las Vegas where efficient drainage is crucial to prevent standing water issues. Regular attention to these warning signs can save you from costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Multiple slow drains, backups in several fixtures, gurgling noises, or sewage odors are common signs your main drain needs cleaning. Prompt action prevents larger issues."
+      }
+    }
+  ],
+  "description": "Multiple slow drains, backups in several fixtures, gurgling noises, or sewage odors are common signs your main drain needs cleaning. Prompt action prevents larg"
+}

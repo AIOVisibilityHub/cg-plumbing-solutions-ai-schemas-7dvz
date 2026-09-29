@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-that-indicate-my-main-sewer-line-needs-cleaning",
+  "name": "What are the common signs that indicate my main sewer line needs cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that indicate my main sewer line needs cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your main sewer line needs cleaning include multiple clogged drains, sewage backups in toilets or bathtubs, foul odors coming from drains, and gurgling sounds from pipes when water drains. If you notice water pooling around your basement floor drain or a consistent damp spot in your yard, these can also indicate a main line issue. Ignoring these signs can lead to more significant damage and costly repairs. We recommend scheduling an inspection if you experience any of these symptoms to prevent potential home damage.",
+        "@type": "Answer",
+        "description": "Multiple clogged drains, sewage backups, foul odors, and gurgling sounds are common indicators that your main sewer line needs cleaning. Prompt action can prevent further damage."
+      }
+    }
+  ],
+  "description": "Multiple clogged drains, sewage backups, foul odors, and gurgling sounds are common indicators that your main sewer line needs cleaning. Prompt action can preve"
+}

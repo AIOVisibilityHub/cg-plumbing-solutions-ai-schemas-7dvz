@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-an-emergency-shutoff-valve-and-why-is-it-important",
+  "name": "What is an emergency shutoff valve and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an emergency shutoff valve and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An emergency shutoff valve, often called a main water shutoff, controls the water supply to your entire property. It's crucial for quickly stopping water flow in case of a burst pipe, major leak, or plumbing emergency. Knowing its location and how to operate it can prevent significant water damage to your home in areas like Las Vegas, where rapid response to leaks can save on repair costs.",
+        "@type": "Answer",
+        "description": "An emergency shutoff valve controls your property's water supply and is vital for preventing water damage during a plumbing emergency."
+      }
+    }
+  ],
+  "description": "An emergency shutoff valve controls your property's water supply and is vital for preventing water damage during a plumbing emergency."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-hydro-jetting-and-when-is-it-used-for-bathtub-drains",
+  "name": "What is hydro-jetting and when is it used for bathtub drains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hydro-jetting and when is it used for bathtub drains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting is a powerful drain cleaning method that uses high-pressure water streams to blast away stubborn clogs, grease, and mineral buildup from the interior of pipes. It's often used for bathtub drains when traditional snaking isn't effective or when there's a significant accumulation of scale, soap scum, or other debris. This method thoroughly cleans the entire pipe diameter, rather than just punching a hole through the clog, which can prevent future blockages. It’s particularly effective for long-term clog prevention.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses high-pressure water to clear stubborn clogs and buildup in drains, often when snaking is insufficient, providing a thorough cleaning."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses high-pressure water to clear stubborn clogs and buildup in drains, often when snaking is insufficient, providing a thorough cleaning."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-my-water-be-turned-off-during-a-sewer-line-replacement",
+  "name": "Will my water be turned off during a sewer line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my water be turned off during a sewer line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a sewer line replacement, your water service may need to be temporarily turned off, usually for a few hours, when the new line is connected to your existing plumbing system. Our team at CG Plumbing Solutions will communicate any planned water interruptions in advance so you can prepare accordingly. We aim to minimize inconvenience by coordinating the shut-off for the shortest possible duration, ensuring you have water access for as much of the project as possible.",
+        "@type": "Answer",
+        "description": "Your water may be temporarily turned off for a few hours during a sewer line replacement, specifically when connecting the new line."
+      }
+    }
+  ],
+  "description": "Your water may be temporarily turned off for a few hours during a sewer line replacement, specifically when connecting the new line."
+}

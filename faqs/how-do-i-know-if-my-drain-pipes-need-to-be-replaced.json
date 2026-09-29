@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-drain-pipes-need-to-be-replaced",
+  "name": "How do I know if my drain pipes need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my drain pipes need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your drain pipes may need replacement include frequent clogs, slow drainage, foul odors, water stains on walls or ceilings, and visible cracks or leaks. If you notice a sudden drop in water pressure or unusually high water bills, it could also indicate a pipe issue. A professional inspection by a company like CG Plumbing Solutions can identify the exact problem and determine if replacement is necessary, especially if your home is older and has original plumbing.",
+        "@type": "Answer",
+        "description": "Look for frequent clogs, slow drainage, foul odors, water stains, or visible leaks. A professional inspection can confirm the need for replacement."
+      }
+    }
+  ],
+  "description": "Look for frequent clogs, slow drainage, foul odors, water stains, or visible leaks. A professional inspection can confirm the need for replacement."
+}

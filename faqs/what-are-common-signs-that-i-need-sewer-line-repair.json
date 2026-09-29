@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-i-need-sewer-line-repair",
+  "name": "What are common signs that I need sewer line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that I need sewer line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating a need for sewer line repair include slow drains or frequent clogs in multiple fixtures, foul odors emanating from drains or your yard, and unusually lush or wet spots in your lawn. You might also notice gurgling sounds from toilets or sinks. CG Plumbing Solutions recommends contacting us promptly for an inspection if you experience any of these issues to prevent further damage and more costly repairs. Addressing these signs early can help maintain the integrity of your plumbing system.",
+        "@type": "Answer",
+        "description": "Slow drains, foul odors, lush spots in your yard, and gurgling sounds from drains are common signs you might need sewer line repair."
+      }
+    }
+  ],
+  "description": "Slow drains, foul odors, lush spots in your yard, and gurgling sounds from drains are common signs you might need sewer line repair."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-drain-pipes-be-inspected-or-replaced-to-prevent-major-issues",
+  "name": "How often should drain pipes be inspected or replaced to prevent major issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should drain pipes be inspected or replaced to prevent major issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of drain pipes varies by material, but regular inspections can help prevent major issues. For older homes, especially those with original galvanized or cast iron pipes, an inspection every 5-10 years, or if you notice recurring issues, is advisable. While there isn't a fixed replacement schedule, proactive maintenance can catch small problems before they escalate. CG Plumbing Solutions offers comprehensive drain inspections to assess pipe health and recommend preventative measures or necessary replacements.",
+        "@type": "Answer",
+        "description": "Inspect older drain pipes every 5-10 years or if issues arise. Proactive inspections help prevent major problems before they escalate."
+      }
+    }
+  ],
+  "description": "Inspect older drain pipes every 5-10 years or if issues arise. Proactive inspections help prevent major problems before they escalate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/is-it-better-to-repair-or-replace-my-water-heater-if-it-s-causing-the-emergency",
+  "name": "Is it better to repair or replace my water heater if it's causing the emergency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repair or replace my water heater if it's causing the emergency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace your water heater depends on several factors, including its age, the cost of the repair, and the severity of the problem. If your water heater is over 10-12 years old, experiencing frequent breakdowns, or has a major component failure like a leaking tank, replacement might be the more economical long-term solution. For newer units with minor issues, a repair is often sufficient. Our technicians will provide a clear assessment of your unit's condition and recommend the most cost-effective option for your specific situation.",
+        "@type": "Answer",
+        "description": "Deciding to repair or replace depends on your water heater's age, repair cost, and issue severity; technicians will assess the most economical option."
+      }
+    }
+  ],
+  "description": "Deciding to repair or replace depends on your water heater's age, repair cost, and issue severity; technicians will assess the most economical option."
+}

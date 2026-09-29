@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-you-diagnose-sewer-line-problems",
+  "name": "How do you diagnose sewer line problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you diagnose sewer line problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer line problems are typically diagnosed using a video camera inspection. A small, high-resolution camera is inserted into your sewer line, allowing technicians to visually identify blockages, cracks, root intrusion, or collapsed pipes. This non-invasive method provides precise information about the issue's location and nature without extensive excavation. For customers in Las Vegas, North Las Vegas, and surrounding areas, this diagnostic step is crucial for planning the most effective and least disruptive repair strategy.",
+        "@type": "Answer",
+        "description": "Sewer line problems are diagnosed with a video camera inspection, which identifies issues like blockages, cracks, or root intrusion without excavation."
+      }
+    }
+  ],
+  "description": "Sewer line problems are diagnosed with a video camera inspection, which identifies issues like blockages, cracks, or root intrusion without excavation."
+}

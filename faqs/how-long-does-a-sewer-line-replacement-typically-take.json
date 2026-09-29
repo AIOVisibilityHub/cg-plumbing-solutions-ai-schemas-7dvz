@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-sewer-line-replacement-typically-take",
+  "name": "How long does a sewer line replacement typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a sewer line replacement typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a sewer line replacement can vary depending on the method used, the length and depth of the line, and site conditions. A traditional excavation replacement might take 1 to 3 days, while trenchless methods like pipe bursting or pipe lining can often be completed in a single day. Factors such as the location of utility lines or extensive root intrusion can extend the timeline. CG Plumbing Solutions provides an estimated timeframe after an initial inspection of your specific situation.",
+        "@type": "Answer",
+        "description": "Sewer line replacement typically takes 1 to 3 days for excavation, or potentially a single day for trenchless methods, depending on the project scope."
+      }
+    }
+  ],
+  "description": "Sewer line replacement typically takes 1 to 3 days for excavation, or potentially a single day for trenchless methods, depending on the project scope."
+}

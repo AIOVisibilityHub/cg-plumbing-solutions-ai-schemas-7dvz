@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-that-my-floor-drain-needs-cleaning",
+  "name": "What are the signs that my floor drain needs cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my floor drain needs cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your floor drain needs cleaning include slow drainage, standing water around the drain, gurgling sounds coming from the drain, or unpleasant odors emanating from it. If water backs up into a different fixture when another is used, it could indicate a more significant main line issue. Pay attention to these early warning signs, as addressing them promptly can prevent more severe and costly plumbing problems like backups or flooding in your Las Vegas home or business.",
+        "@type": "Answer",
+        "description": "Signs a floor drain needs cleaning include slow drainage, standing water, gurgling, or odors. Early detection prevents larger issues like backups in your Las Vegas property."
+      }
+    }
+  ],
+  "description": "Signs a floor drain needs cleaning include slow drainage, standing water, gurgling, or odors. Early detection prevents larger issues like backups in your Las Ve"
+}

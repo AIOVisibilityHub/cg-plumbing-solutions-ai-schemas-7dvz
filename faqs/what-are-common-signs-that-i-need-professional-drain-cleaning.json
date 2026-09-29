@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-i-need-professional-drain-cleaning",
+  "name": "What are common signs that I need professional drain cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that I need professional drain cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating the need for professional drain cleaning include slow drainage in sinks, showers, or tubs, foul odors emanating from drains, gurgling sounds after flushing or using a sink, and water backing up into fixtures. If you notice persistent issues after attempting basic home remedies, it's often a good time to call a professional. Ignoring these signs can lead to more significant plumbing problems and potential water damage over time.",
+        "@type": "Answer",
+        "description": "Slow drainage, foul odors, gurgling sounds, or water backing up are common signs you need professional drain cleaning."
+      }
+    }
+  ],
+  "description": "Slow drainage, foul odors, gurgling sounds, or water backing up are common signs you need professional drain cleaning."
+}

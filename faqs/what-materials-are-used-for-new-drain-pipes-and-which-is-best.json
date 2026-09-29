@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-materials-are-used-for-new-drain-pipes-and-which-is-best",
+  "name": "What materials are used for new drain pipes, and which is best?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for new drain pipes, and which is best?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New drain pipes are typically installed using PVC (polyvinyl chloride) or ABS (acrylonitrile butadiene styrene) materials. PVC is common for its durability, corrosion resistance, and ease of installation, while ABS offers similar benefits and is often preferred in specific regional building codes. The 'best' material depends on your existing plumbing, local regulations, and specific drainage needs. We discuss material options with you, explaining the benefits of each to help you make an informed decision for your home.",
+        "@type": "Answer",
+        "description": "New drain pipes commonly use PVC or ABS. The best material depends on existing plumbing, local codes, and specific drainage needs."
+      }
+    }
+  ],
+  "description": "New drain pipes commonly use PVC or ABS. The best material depends on existing plumbing, local codes, and specific drainage needs."
+}

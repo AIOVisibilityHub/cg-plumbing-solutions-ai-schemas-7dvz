@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prevent-future-drain-clogs-after-a-repair",
+  "name": "How can I prevent future drain clogs after a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future drain clogs after a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future drain clogs, avoid pouring grease down drains, dispose of food scraps in the trash, and use drain strainers to catch hair and debris in sinks and showers. Periodically flush drains with hot water and baking soda, followed by vinegar, to help break down minor buildup. CG Plumbing Solutions also offers annual drain maintenance checks, which can help identify potential issues early and keep your plumbing system in optimal condition, especially considering the mineral content in local water.",
+        "@type": "Answer",
+        "description": "Prevent clogs by avoiding grease and food scraps, using strainers, and flushing with hot water and baking soda. Annual maintenance can also help."
+      }
+    }
+  ],
+  "description": "Prevent clogs by avoiding grease and food scraps, using strainers, and flushing with hot water and baking soda. Annual maintenance can also help."
+}

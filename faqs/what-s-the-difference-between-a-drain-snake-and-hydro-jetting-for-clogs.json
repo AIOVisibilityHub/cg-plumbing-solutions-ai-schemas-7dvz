@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-drain-snake-and-hydro-jetting-for-clogs",
+  "name": "What's the difference between a drain snake and hydro-jetting for clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a drain snake and hydro-jetting for clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A drain snake, or auger, is a mechanical tool used to break apart or pull out clogs that are typically closer to the drain opening. It's effective for common blockages like hair and small obstructions. Hydro-jetting, on the other hand, uses highly pressurized water to scour the entire interior of the pipe, removing stubborn buildup, grease, and even tree roots. The choice between them depends on the clog's nature, location, and severity. CG Plumbing Solutions uses camera inspections to accurately diagnose the clog's type and condition, allowing us to select the most appropriate and least invasive method, which could be either snaking or hydro-jetting, for effective and lasting results.",
+        "@type": "Answer",
+        "description": "Drain snakes clear local clogs by breaking them up, while hydro-jetting uses high-pressure water to clean entire pipes of severe blockages like grease or roots."
+      }
+    }
+  ],
+  "description": "Drain snakes clear local clogs by breaking them up, while hydro-jetting uses high-pressure water to clean entire pipes of severe blockages like grease or roots."
+}

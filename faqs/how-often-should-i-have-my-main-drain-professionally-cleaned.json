@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-have-my-main-drain-professionally-cleaned",
+  "name": "How often should I have my main drain professionally cleaned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my main drain professionally cleaned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency for professional main drain cleaning depends on several factors, including the age of your plumbing system, the type of pipes, and your household's usage habits. On average, homeowners may benefit from a main drain cleaning every 1-2 years to prevent blockages. However, if your home has older pipes, large trees near the sewer line, or experiences frequent minor clogs, annual cleaning might be more appropriate. A professional inspection can help determine the optimal schedule for your specific property, balancing preventative maintenance with cost-effectiveness. This preventative approach helps avoid unexpected emergencies in your Las Vegas home.",
+        "@type": "Answer",
+        "description": "Cleaning frequency varies based on pipe age, type, and usage, typically every 1-2 years. Older pipes or frequent clogs may require annual service."
+      }
+    }
+  ],
+  "description": "Cleaning frequency varies based on pipe age, type, and usage, typically every 1-2 years. Older pipes or frequent clogs may require annual service."
+}

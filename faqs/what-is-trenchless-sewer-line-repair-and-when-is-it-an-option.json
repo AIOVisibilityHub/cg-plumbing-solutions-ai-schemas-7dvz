@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-trenchless-sewer-line-repair-and-when-is-it-an-option",
+  "name": "What is trenchless sewer line repair, and when is it an option?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is trenchless sewer line repair, and when is it an option?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trenchless sewer line repair is a method that fixes pipes with minimal digging, preserving your landscaping and property. It's often an option when the existing pipe needs to be relined or replaced without extensive excavation. This approach is beneficial for homes in areas like Summerlin and Henderson, where maintaining property aesthetics is a high priority. While often more expensive upfront, the decision to opt for trenchless repair can lead to significant savings in landscape restoration costs and reduces project duration.",
+        "@type": "Answer",
+        "description": "Trenchless sewer line repair fixes pipes with minimal digging, often by relining, preserving landscaping. It's an option when extensive excavation is undesirable or costly."
+      }
+    }
+  ],
+  "description": "Trenchless sewer line repair fixes pipes with minimal digging, often by relining, preserving landscaping. It's an option when extensive excavation is undesirabl"
+}

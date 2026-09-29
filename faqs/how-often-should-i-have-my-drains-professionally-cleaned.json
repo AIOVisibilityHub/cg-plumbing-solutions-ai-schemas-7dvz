@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-have-my-drains-professionally-cleaned",
+  "name": "How often should I have my drains professionally cleaned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my drains professionally cleaned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of professional drain cleaning depends on factors like household usage, the age of your plumbing system, and the presence of any recurring issues. For many homes, an annual or biennial cleaning can help prevent clogs and maintain optimal flow. However, households with long hair, high grease usage, or older pipes prone to buildup may benefit from more frequent service. Regular maintenance can proactively address minor issues before they escalate into costly repairs.",
+        "@type": "Answer",
+        "description": "Drain cleaning frequency varies, but annual or biennial service is often recommended to prevent clogs and maintain optimal flow, especially for older pipes or heavy usage."
+      }
+    }
+  ],
+  "description": "Drain cleaning frequency varies, but annual or biennial service is often recommended to prevent clogs and maintain optimal flow, especially for older pipes or h"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-cost-range-for-flooded-bathroom-repair",
+  "name": "What is the typical cost range for flooded bathroom repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for flooded bathroom repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of flooded bathroom repair varies significantly depending on the source of the flood, the extent of the water damage, and the complexity of the repair. Minor issues like a simple clog might be less expensive than repairs for a burst main pipe requiring wall access and reconstruction. After a thorough assessment of the damage and the necessary interventions, we provide a transparent, upfront estimate for the required plumbing repairs before any work begins.",
+        "@type": "Answer",
+        "description": "Flooded bathroom repair costs vary based on the flood source and damage extent. We provide a transparent, upfront estimate after assessing the situation."
+      }
+    }
+  ],
+  "description": "Flooded bathroom repair costs vary based on the flood source and damage extent. We provide a transparent, upfront estimate after assessing the situation."
+}

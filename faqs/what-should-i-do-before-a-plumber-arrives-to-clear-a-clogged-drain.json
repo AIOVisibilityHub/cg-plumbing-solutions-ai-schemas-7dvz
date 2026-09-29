@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-before-a-plumber-arrives-to-clear-a-clogged-drain",
+  "name": "What should I do before a plumber arrives to clear a clogged drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before a plumber arrives to clear a clogged drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber from CG Plumbing Solutions arrives, it's helpful to clear the area around the affected drain, removing any items from under the sink or around the toilet/shower that might obstruct access. If possible and safe, try to limit water usage in that specific fixture to prevent further overflow. You might also want to note down any unusual symptoms you've observed, such as slow draining, gurgling sounds, or unpleasant odors, as this information can assist the plumber in diagnosing the issue more quickly and accurately. Having clear access and providing detailed observations helps streamline the service process for our technicians.",
+        "@type": "Answer",
+        "description": "Before a plumber arrives, clear the area around the drain and limit water use. Note any symptoms to help them diagnose the problem efficiently."
+      }
+    }
+  ],
+  "description": "Before a plumber arrives, clear the area around the drain and limit water use. Note any symptoms to help them diagnose the problem efficiently."
+}

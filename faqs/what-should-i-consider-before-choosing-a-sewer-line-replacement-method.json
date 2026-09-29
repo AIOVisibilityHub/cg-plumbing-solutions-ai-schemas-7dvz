@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-consider-before-choosing-a-sewer-line-replacement-method",
+  "name": "What should I consider before choosing a sewer line replacement method?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before choosing a sewer line replacement method?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a sewer line replacement method, consider the extent and type of damage to your existing pipes, such as cracks, corrosion, or root intrusion, as this impacts repair feasibility. Also, evaluate the impact on your property; trenchless options minimize landscape disruption. Your budget and the long-term durability of the chosen material are also critical factors. CG Plumbing Solutions will assess these elements during our inspection to recommend the most suitable and cost-effective solution for your home.",
+        "@type": "Answer",
+        "description": "Consider the type of pipe damage, impact on your property (trenchless vs. traditional), budget, and long-term durability of the chosen material."
+      }
+    }
+  ],
+  "description": "Consider the type of pipe damage, impact on your property (trenchless vs. traditional), budget, and long-term durability of the chosen material."
+}

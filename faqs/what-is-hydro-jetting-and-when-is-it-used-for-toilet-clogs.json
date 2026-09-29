@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-hydro-jetting-and-when-is-it-used-for-toilet-clogs",
+  "name": "What is hydro-jetting and when is it used for toilet clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hydro-jetting and when is it used for toilet clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting is a powerful drain cleaning method that uses high-pressure water streams to blast away stubborn clogs, grease buildup, tree roots, and other debris from pipes. It's often used when traditional snaking isn't effective or when there's a recurring clog indicating significant buildup in the main sewer line. While not typically needed for a simple toilet clog, it's a valuable solution for comprehensive pipe cleaning that can prevent future blockages. CG Plumbing Solutions uses hydro-jetting for more extensive plumbing issues, offering a thorough cleaning compared to just breaking through a blockage.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses high-pressure water to clear severe clogs, grease, and roots from pipes, typically for main sewer line issues when snaking isn't enough."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses high-pressure water to clear severe clogs, grease, and roots from pipes, typically for main sewer line issues when snaking isn't enough."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-use-chemical-drain-cleaners-to-clear-my-main-sewer-line",
+  "name": "Can I use chemical drain cleaners to clear my main sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use chemical drain cleaners to clear my main sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While chemical drain cleaners are readily available, we strongly advise against using them for main sewer line clogs. These chemicals are often corrosive and can damage your pipes, especially older ones, leading to costly leaks or bursts over time. They are also less effective on significant main line blockages like tree roots or heavy grease accumulation. Professional cleaning methods, such as hydro-jetting, are safer and more effective for thoroughly clearing your main sewer line without harming your plumbing system. Choosing professional service prevents potential long-term pipe damage.",
+        "@type": "Answer",
+        "description": "Chemical drain cleaners are not recommended for main sewer lines as they can damage pipes and are ineffective against serious blockages like roots. Professional cleaning is a safer, more effective option."
+      }
+    }
+  ],
+  "description": "Chemical drain cleaners are not recommended for main sewer lines as they can damage pipes and are ineffective against serious blockages like roots. Professional"
+}

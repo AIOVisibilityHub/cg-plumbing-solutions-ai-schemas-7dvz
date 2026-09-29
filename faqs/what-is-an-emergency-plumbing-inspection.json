@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-an-emergency-plumbing-inspection",
+  "name": "What is an emergency plumbing inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an emergency plumbing inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An emergency plumbing inspection is a rapid assessment of a plumbing issue requiring immediate attention to prevent further damage or health hazards. It typically involves a plumber quickly identifying the source and scope of a problem, such as a major leak, burst pipe, or significant clog, to determine the necessary repairs. For CG Plumbing Solutions, this initial inspection helps our technicians understand the urgency and allocate appropriate resources for a prompt resolution, often leading directly into repair work.",
+        "@type": "Answer",
+        "description": "An emergency plumbing inspection is a quick assessment of an urgent plumbing problem to identify its source and scope, preventing further damage."
+      }
+    }
+  ],
+  "description": "An emergency plumbing inspection is a quick assessment of an urgent plumbing problem to identify its source and scope, preventing further damage."
+}

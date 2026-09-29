@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-hydro-jetting-and-when-is-it-used-for-drain-repair",
+  "name": "What is hydro-jetting and when is it used for drain repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hydro-jetting and when is it used for drain repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting is a highly effective method for clearing tough drain blockages by using high-pressure water streams to blast away obstructions, including grease, mineral buildup, and tree roots. It's typically used when traditional snaking isn't sufficient for clearing a clog or for preventative maintenance to thoroughly clean pipes. This technique can restore pipes to their original diameter, significantly improving drainage, and is often recommended for main sewer lines or commercial drain systems in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses high-pressure water to clear tough drain blockages like grease and roots. It's used when snaking isn't enough, often for main sewer lines."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses high-pressure water to clear tough drain blockages like grease and roots. It's used when snaking isn't enough, often for main sewer lines."
+}

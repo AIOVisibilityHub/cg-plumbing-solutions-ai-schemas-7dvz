@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-sewer-line-repair-and-replacement",
+  "name": "What is the difference between sewer line repair and replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between sewer line repair and replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer line repair addresses specific, localized issues like a small crack or blockage, aiming to fix the problem section without disturbing the entire line. Replacement, conversely, involves removing and installing an entirely new sewer line, which is typically recommended for extensive damage, multiple recurring issues, or an aging system beyond repair. For residents in North Las Vegas, CG Plumbing Solutions helps determine whether repair or full replacement is the most cost-effective and long-term solution based on the extent of damage found during inspection.",
+        "@type": "Answer",
+        "description": "Repair fixes localized issues in a sewer line, while replacement involves installing an entirely new line for extensive or unfixable damage."
+      }
+    }
+  ],
+  "description": "Repair fixes localized issues in a sewer line, while replacement involves installing an entirely new line for extensive or unfixable damage."
+}

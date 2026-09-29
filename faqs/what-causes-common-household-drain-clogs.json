@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-common-household-drain-clogs",
+  "name": "What causes common household drain clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes common household drain clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common household drain clogs are often caused by a buildup of hair, soap scum, grease, food particles, and mineral deposits. In kitchens, grease and food debris are frequent culprits, while bathrooms typically see issues from hair and soap. Understanding the source helps prevent recurrence; for instance, avoid pouring grease down kitchen drains. Regular maintenance, such as flushing drains with hot water or using enzyme-based cleaners, can help reduce buildup. However, for stubborn clogs, professional intervention may be necessary to properly identify and clear the blockage.",
+        "@type": "Answer",
+        "description": "Common household drain clogs result from hair, soap scum, grease, and food particles. Identifying the cause helps prevent future blockages."
+      }
+    }
+  ],
+  "description": "Common household drain clogs result from hair, soap scum, grease, and food particles. Identifying the cause helps prevent future blockages."
+}

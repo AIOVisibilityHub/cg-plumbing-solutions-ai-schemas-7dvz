@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-clear-a-clogged-drain",
+  "name": "How much does it cost to clear a clogged drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to clear a clogged drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to clear a clogged drain varies based on the severity of the clog, its location within your plumbing system, and the method required to remove it. Simple clogs accessible with a snake might be less expensive than those requiring advanced techniques like hydro-jetting for a main sewer line. Factors like emergency service outside normal business hours can also influence the final price. CG Plumbing Solutions provides transparent pricing and will assess the issue on-site to give you an accurate estimate before any work begins, ensuring you understand the investment involved in restoring your plumbing.",
+        "@type": "Answer",
+        "description": "Drain clearing costs depend on clog severity, location, and required methods. Professional plumbers provide estimates after assessing the issue."
+      }
+    }
+  ],
+  "description": "Drain clearing costs depend on clog severity, location, and required methods. Professional plumbers provide estimates after assessing the issue."
+}

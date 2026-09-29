@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-do-multiple-drains-in-my-house-keep-clogging-at-the-same-time",
+  "name": "Why do multiple drains in my house keep clogging at the same time?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do multiple drains in my house keep clogging at the same time?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multiple drains clogging simultaneously often indicates a larger issue within your main sewer line rather than isolated fixture problems. This could be due to a significant blockage caused by tree root intrusion, accumulated grease, or a structural issue like a collapsed pipe. If you're experiencing this in areas like Henderson or Paradise, it's crucial to address it promptly to prevent raw sewage backups. CG Plumbing Solutions uses advanced diagnostic tools, such as sewer camera inspections, to pinpoint the exact location and cause of such main line blockages, allowing for targeted and effective repair or clearing.",
+        "@type": "Answer",
+        "description": "Multiple clogged drains usually signal a main sewer line blockage, possibly from tree roots or grease. Professional inspection is needed to diagnose and resolve this."
+      }
+    }
+  ],
+  "description": "Multiple clogged drains usually signal a main sewer line blockage, possibly from tree roots or grease. Professional inspection is needed to diagnose and resolve"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-professional-bathtub-drain-cleaning",
+  "name": "What is the process for professional bathtub drain cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional bathtub drain cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for professional bathtub drain cleaning typically begins with an inspection to identify the cause and location of the clog. For common clogs like hair and soap scum, a plumber might use a drain snake to physically break up and remove the obstruction. For more severe blockages or recurring issues, hydro-jetting, which uses high-pressure water, may be employed to thoroughly clean the pipe walls. The technician will then test the drain flow to ensure the issue is fully resolved.",
+        "@type": "Answer",
+        "description": "Professional bathtub drain cleaning involves inspection, using a drain snake or hydro-jetting to clear the clog, and then testing the flow."
+      }
+    }
+  ],
+  "description": "Professional bathtub drain cleaning involves inspection, using a drain snake or hydro-jetting to clear the clog, and then testing the flow."
+}

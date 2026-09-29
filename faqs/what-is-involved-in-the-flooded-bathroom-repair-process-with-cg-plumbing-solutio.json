@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-flooded-bathroom-repair-process-with-cg-plumbing-solutio",
+  "name": "What is involved in the flooded bathroom repair process with CG Plumbing Solutions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the flooded bathroom repair process with CG Plumbing Solutions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our flooded bathroom repair process typically begins with a rapid response to your location to identify and stop the source of the water. Following this, we assess the damage, which may include using moisture meters to detect hidden saturation. We then provide a detailed repair plan and an estimate. The actual repair involves fixing the plumbing issue, which could range from pipe repair to fixture replacement. After the repair, we ensure the area is secure and provide recommendations for preventing future incidents.",
+        "@type": "Answer",
+        "description": "Our repair process involves rapid response, stopping the water source, assessing damage, providing an estimate, performing repairs, and offering prevention recommendations."
+      }
+    }
+  ],
+  "description": "Our repair process involves rapid response, stopping the water source, assessing damage, providing an estimate, performing repairs, and offering prevention reco"
+}

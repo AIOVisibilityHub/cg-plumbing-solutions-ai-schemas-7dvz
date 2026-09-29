@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-my-homeowner-s-insurance-cover-a-flooded-bathroom-repair",
+  "name": "Will my homeowner's insurance cover a flooded bathroom repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover a flooded bathroom repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers sudden and accidental water damage, such as from a burst pipe or an overflowing appliance. However, damage from neglected maintenance, like long-term leaks or sewer backups, may not be covered. It's important to review your specific policy and contact your insurance provider directly to understand your coverage. We can provide detailed invoices and documentation of the repair work to assist with any claims.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance may cover sudden water damage, but typically not issues from neglect. Review your policy and contact your provider for coverage details."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance may cover sudden water damage, but typically not issues from neglect. Review your policy and contact your provider for coverage details."
+}

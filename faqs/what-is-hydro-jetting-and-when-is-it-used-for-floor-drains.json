@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-hydro-jetting-and-when-is-it-used-for-floor-drains",
+  "name": "What is hydro-jetting and when is it used for floor drains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hydro-jetting and when is it used for floor drains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting is a powerful drain cleaning method that uses high-pressure water streams to blast away stubborn blockages, grease, mineral buildup, and even tree roots from pipes. It's often used for floor drains when traditional snaking isn't sufficient or for preventive maintenance in systems prone to heavy grease or sediment accumulation, such as commercial kitchens. The process thoroughly cleans the entire pipe diameter, restoring optimal flow. This method is particularly effective for systems that require complete pipe wall cleaning, offering a long-term solution compared to simply poking a hole through a clog.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses high-pressure water to clear tough clogs, grease, and roots. It's used when snaking isn't enough, offering a thorough pipe cleaning and longer-term solution."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses high-pressure water to clear tough clogs, grease, and roots. It's used when snaking isn't enough, offering a thorough pipe cleaning and longe"
+}

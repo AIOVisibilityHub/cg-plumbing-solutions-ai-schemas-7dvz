@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-kitchen-sink-drain-cleaning-usually-take",
+  "name": "How long does kitchen sink drain cleaning usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does kitchen sink drain cleaning usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for kitchen sink drain cleaning varies depending on the severity and location of the clog. Simple blockages might be cleared in as little as 30 minutes to an hour. More complex clogs, or those requiring advanced tools like hydro-jetting or extensive camera inspection, could take a few hours. CG Plumbing Solutions provides an estimated timeframe after an initial assessment, ensuring you're informed about the expected duration of the service.",
+        "@type": "Answer",
+        "description": "Cleaning time varies from 30 minutes to a few hours, depending on the clog's severity and location. We provide an estimate after assessment."
+      }
+    }
+  ],
+  "description": "Cleaning time varies from 30 minutes to a few hours, depending on the clog's severity and location. We provide an estimate after assessment."
+}

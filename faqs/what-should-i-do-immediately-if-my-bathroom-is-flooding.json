@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-immediately-if-my-bathroom-is-flooding",
+  "name": "What should I do immediately if my bathroom is flooding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if my bathroom is flooding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your bathroom is flooding, your first action should be to turn off the main water supply to your home to stop the flow of water. Then, if safe to do so, unplug any electrical appliances to prevent electrical hazards. Our technicians advise clearing as much standing water as possible and removing any valuables to minimize damage. Taking these steps promptly can significantly reduce water damage before a professional plumber arrives.",
+        "@type": "Answer",
+        "description": "Immediately turn off your home's main water supply and unplug electrical appliances if your bathroom is flooding. Clear standing water and remove valuables to minimize damage."
+      }
+    }
+  ],
+  "description": "Immediately turn off your home's main water supply and unplug electrical appliances if your bathroom is flooding. Clear standing water and remove valuables to m"
+}

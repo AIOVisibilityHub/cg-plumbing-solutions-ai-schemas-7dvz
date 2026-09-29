@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-repair-an-emergency-shutoff-valve-myself",
+  "name": "Can I repair an emergency shutoff valve myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair an emergency shutoff valve myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some minor issues might seem fixable, repairing an emergency shutoff valve involves working with your home's main water supply, and mistakes can lead to significant water damage or even a burst pipe. It is generally recommended to have a licensed plumber handle these repairs. A professional ensures the repair is done correctly and safely, adhering to all plumbing standards in areas like Las Vegas.",
+        "@type": "Answer",
+        "description": "It is not recommended to repair an emergency shutoff valve yourself due to the risk of water damage. A professional plumber ensures safe and correct repair."
+      }
+    }
+  ],
+  "description": "It is not recommended to repair an emergency shutoff valve yourself due to the risk of water damage. A professional plumber ensures safe and correct repair."
+}

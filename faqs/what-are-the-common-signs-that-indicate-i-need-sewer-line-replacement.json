@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-that-indicate-i-need-sewer-line-replacement",
+  "name": "What are the common signs that indicate I need sewer line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that indicate I need sewer line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs you may need sewer line replacement include frequent clogs, slow drains in multiple fixtures, sewage odors, gurgling noises from toilets, or standing water in your yard. Another key indicator is unusually lush patches of grass, which can suggest a leak nourishing the vegetation. If you notice persistent issues after basic drain cleaning attempts, it's wise to consider a professional inspection to assess the sewer line's condition and determine if a replacement is necessary.",
+        "@type": "Answer",
+        "description": "Signs include frequent clogs, slow drains, sewage odors, gurgling toilets, or standing water in the yard."
+      }
+    }
+  ],
+  "description": "Signs include frequent clogs, slow drains, sewage odors, gurgling toilets, or standing water in the yard."
+}

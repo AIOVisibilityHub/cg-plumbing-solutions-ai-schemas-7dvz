@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-problems-can-a-sewer-camera-inspection-detect",
+  "name": "What kind of problems can a sewer camera inspection detect?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of problems can a sewer camera inspection detect?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sewer camera inspection can detect a wide range of issues within your sewer lines. These include common problems like tree root intrusion, which can crack or obstruct pipes, and severe blockages caused by grease or foreign objects. It also reveals pipe damage such as cracks, corrosion, misaligned joints, or collapsed sections. The inspection can also identify bellied pipes where sections have sunk, leading to waste accumulation. This comprehensive view helps us recommend the most appropriate repair.",
+        "@type": "Answer",
+        "description": "A sewer camera inspection detects issues like tree roots, blockages, cracks, corrosion, misaligned joints, collapsed pipes, and bellied sections."
+      }
+    }
+  ],
+  "description": "A sewer camera inspection detects issues like tree roots, blockages, cracks, corrosion, misaligned joints, collapsed pipes, and bellied sections."
+}

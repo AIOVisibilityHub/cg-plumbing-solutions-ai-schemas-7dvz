@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-happens-after-a-sewer-camera-inspection",
+  "name": "What happens after a sewer camera inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a sewer camera inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a sewer camera inspection, our technician will provide you with a detailed report of their findings, often including video footage of the pipe's interior. Based on the identified issues, they will explain the problem's severity and recommend the most effective solutions, which could range from hydro-jetting for blockages to trenchless pipe repair for damaged sections. Understanding these options allows you to make an informed decision about the next steps. We also discuss any preventative measures to avoid future problems.",
+        "@type": "Answer",
+        "description": "After inspection, you'll receive a detailed report and recommendations for repair or maintenance, based on the findings."
+      }
+    }
+  ],
+  "description": "After inspection, you'll receive a detailed report and recommendations for repair or maintenance, based on the findings."
+}

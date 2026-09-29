@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-call-a-professional-plumber-for-a-clogged-drain",
+  "name": "When should I call a professional plumber for a clogged drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional plumber for a clogged drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber for a clogged drain if DIY methods like plungers or chemical cleaners fail, if multiple drains in your home are slow or clogged, or if you notice foul odors or gurgling sounds coming from your pipes. These signs can indicate a more severe blockage deeper in your plumbing system, potentially involving the main sewer line. CG Plumbing Solutions, serving areas like Las Vegas and Henderson, has specialized equipment such as augers and hydro-jetting tools to effectively clear complex clogs that household tools cannot address. Professional intervention prevents potential damage to your pipes.",
+        "@type": "Answer",
+        "description": "Call a plumber when DIY methods fail, multiple drains are affected, or you hear gurgling sounds. These issues suggest a deeper blockage."
+      }
+    }
+  ],
+  "description": "Call a plumber when DIY methods fail, multiple drains are affected, or you hear gurgling sounds. These issues suggest a deeper blockage."
+}

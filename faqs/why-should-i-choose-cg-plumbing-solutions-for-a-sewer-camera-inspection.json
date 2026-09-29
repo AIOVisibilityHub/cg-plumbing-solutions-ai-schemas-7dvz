@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-should-i-choose-cg-plumbing-solutions-for-a-sewer-camera-inspection",
+  "name": "Why should I choose CG Plumbing Solutions for a sewer camera inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose CG Plumbing Solutions for a sewer camera inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should choose CG Plumbing Solutions for a sewer camera inspection because we prioritize clear communication and precise diagnostics. Our technicians are equipped with advanced camera technology to accurately identify issues without invasive methods. We serve a broad range of areas, including Las Vegas, North Las Vegas, Henderson, and Summerlin, ensuring accessibility for many residents. Our commitment is to provide honest assessments and effective solutions tailored to your specific needs, helping you make informed decisions about your plumbing. We focus on transparent reporting and reliable service.",
+        "@type": "Answer",
+        "description": "Choose CG Plumbing Solutions for accurate diagnostics, advanced camera technology, and clear communication on sewer camera inspections in our service areas."
+      }
+    }
+  ],
+  "description": "Choose CG Plumbing Solutions for accurate diagnostics, advanced camera technology, and clear communication on sewer camera inspections in our service areas."
+}

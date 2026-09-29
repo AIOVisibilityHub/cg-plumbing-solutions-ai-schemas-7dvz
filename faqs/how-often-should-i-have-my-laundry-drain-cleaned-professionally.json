@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-have-my-laundry-drain-cleaned-professionally",
+  "name": "How often should I have my laundry drain cleaned professionally?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my laundry drain cleaned professionally?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of professional laundry drain cleaning depends on several factors, including the age of your plumbing system, the type of washing machine you have, and how often you do laundry. For most households, an annual inspection and cleaning can prevent significant blockages. However, if you frequently wash items that shed a lot of lint or have an older plumbing system, you might consider professional cleaning every 6-9 months to maintain optimal drain performance and avoid unexpected issues.",
+        "@type": "Answer",
+        "description": "Professional laundry drain cleaning is typically recommended annually, but can be more frequent based on usage and plumbing age."
+      }
+    }
+  ],
+  "description": "Professional laundry drain cleaning is typically recommended annually, but can be more frequent based on usage and plumbing age."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-to-prepare-for-a-main-drain-cleaning-service",
+  "name": "What should I do to prepare for a main drain cleaning service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare for a main drain cleaning service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a main drain cleaning service, ensure clear access to your main cleanout access point, which is typically located outside near your home's foundation or in your basement/crawl space. Please remove any obstacles like storage items, vehicles, or landscaping decorations that might impede our technicians' access to this area. It's also helpful to inform us of any recent plumbing issues or strange odors you've noticed. This preparation helps our team efficiently diagnose and address the blockage, reducing the overall service time and allowing us to begin work immediately upon arrival at your Las Vegas area property.",
+        "@type": "Answer",
+        "description": "Clear access to your main drain cleanout point and inform technicians of recent plumbing issues or odors to prepare for service."
+      }
+    }
+  ],
+  "description": "Clear access to your main drain cleanout point and inform technicians of recent plumbing issues or odors to prepare for service."
+}

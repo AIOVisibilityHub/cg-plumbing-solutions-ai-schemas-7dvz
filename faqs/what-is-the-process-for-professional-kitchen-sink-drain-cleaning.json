@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-professional-kitchen-sink-drain-cleaning",
+  "name": "What is the process for professional kitchen sink drain cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional kitchen sink drain cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When CG Plumbing Solutions handles a kitchen sink drain cleaning, our plumbers typically begin by diagnosing the clog's location and severity, often using an inspection camera. Depending on the issue, we might use hydro-jetting, which employs high-pressure water to scour the pipes clean, or mechanical snaking to break up and remove blockages. The process aims to thoroughly clear the obstruction and restore full drainage, often providing a longer-lasting solution than DIY methods.",
+        "@type": "Answer",
+        "description": "Professional drain cleaning involves diagnosing the clog, then using methods like hydro-jetting or mechanical snaking to clear the obstruction."
+      }
+    }
+  ],
+  "description": "Professional drain cleaning involves diagnosing the clog, then using methods like hydro-jetting or mechanical snaking to clear the obstruction."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-a-drain-repair-service",
+  "name": "What is the typical process for a drain repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a drain repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The drain repair process usually begins with a thorough inspection, often using a video camera, to accurately locate and diagnose the cause of the blockage or damage within your pipes. Once the issue is identified, the plumber will discuss the best repair options, which could range from snaking or hydro-jetting for clogs to trenchless repair or traditional excavation for damaged pipes. CG Plumbing Solutions provides clear explanations of the proposed solution and ensures the work area is cleaned after the repair is completed.",
+        "@type": "Answer",
+        "description": "Drain repair starts with a video inspection to diagnose the issue. Then, the plumber discusses repair options like snaking or pipe repair, and cleans the work area."
+      }
+    }
+  ],
+  "description": "Drain repair starts with a video inspection to diagnose the issue. Then, the plumber discusses repair options like snaking or pipe repair, and cleans the work a"
+}

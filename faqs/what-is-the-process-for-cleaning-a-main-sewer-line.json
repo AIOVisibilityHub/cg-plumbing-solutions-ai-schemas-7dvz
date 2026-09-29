@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-cleaning-a-main-sewer-line",
+  "name": "What is the process for cleaning a main sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for cleaning a main sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Main sewer line cleaning typically involves using specialized equipment to remove blockages and buildup. The process usually begins with an inspection using a sewer camera to identify the exact nature and location of the problem. Once identified, we use hydro-jetting, which employs high-pressure water to clear roots, grease, and debris, or a drain snake for smaller clogs. The choice of method depends on the blockage type and pipe condition. After clearing, a follow-up camera inspection ensures the line is thoroughly cleaned and free of obstructions. We ensure minimal disruption to your property during the service.",
+        "@type": "Answer",
+        "description": "The process involves an initial camera inspection to locate the blockage, followed by hydro-jetting or snaking to clear it, and a final camera inspection to confirm the line is clean."
+      }
+    }
+  ],
+  "description": "The process involves an initial camera inspection to locate the blockage, followed by hydro-jetting or snaking to clear it, and a final camera inspection to con"
+}

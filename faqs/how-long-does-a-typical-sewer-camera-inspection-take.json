@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-sewer-camera-inspection-take",
+  "name": "How long does a typical sewer camera inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical sewer camera inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical sewer camera inspection usually takes between one to two hours, depending on the length and complexity of your sewer system. Factors like the size of your property, the age of your pipes, and any existing blockages can influence the duration. Our technicians ensure a thorough assessment to accurately diagnose any issues present. This timeframe allows for comprehensive video recording and analysis.",
+        "@type": "Answer",
+        "description": "A typical sewer camera inspection takes 1-2 hours, varying with system complexity, property size, and pipe conditions."
+      }
+    }
+  ],
+  "description": "A typical sewer camera inspection takes 1-2 hours, varying with system complexity, property size, and pipe conditions."
+}

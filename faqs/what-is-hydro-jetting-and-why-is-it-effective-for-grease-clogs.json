@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-hydro-jetting-and-why-is-it-effective-for-grease-clogs",
+  "name": "What is hydro-jetting and why is it effective for grease clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hydro-jetting and why is it effective for grease clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting is a highly effective method for clearing stubborn grease clogs, especially those that have accumulated and hardened over time. It uses a specialized hose with a nozzle that delivers high-pressure streams of water, often exceeding 4,000 PSI, into the drainpipe. This powerful force effectively blasts away grease, sludge, scale buildup, and other debris from the pipe walls, thoroughly cleaning the entire circumference. Unlike snaking, which can only puncture a hole through a clog, hydro-jetting completely cleans the pipes, significantly reducing the likelihood of future blockages. This method is preferred by CG Plumbing Solutions for its comprehensive cleaning capability.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses high-pressure water to thoroughly blast away hardened grease and debris from pipe walls, providing a complete and lasting clog removal."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses high-pressure water to thoroughly blast away hardened grease and debris from pipe walls, providing a complete and lasting clog removal."
+}

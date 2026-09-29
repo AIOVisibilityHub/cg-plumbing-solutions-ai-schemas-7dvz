@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-repair-an-emergency-shutoff-valve",
+  "name": "How long does it take to repair an emergency shutoff valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair an emergency shutoff valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most emergency shutoff valve repairs can be completed within 1 to 3 hours, depending on the severity of the damage and whether parts need to be sourced. A full replacement might take slightly longer. The time needed can also vary based on the valve's accessibility and its current condition. We prioritize efficient service to restore your water control quickly, minimizing disruption to your home in areas like Summerlin or Henderson.",
+        "@type": "Answer",
+        "description": "Most repairs take 1 to 3 hours, but time can vary based on damage, accessibility, and whether a full replacement is needed."
+      }
+    }
+  ],
+  "description": "Most repairs take 1 to 3 hours, but time can vary based on damage, accessibility, and whether a full replacement is needed."
+}

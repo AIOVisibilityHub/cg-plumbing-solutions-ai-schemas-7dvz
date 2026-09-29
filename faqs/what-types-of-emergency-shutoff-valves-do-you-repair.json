@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-emergency-shutoff-valves-do-you-repair",
+  "name": "What types of emergency shutoff valves do you repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of emergency shutoff valves do you repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We repair various types of emergency shutoff valves, including gate valves, ball valves, and globe valves, commonly found in residential properties. Each type has specific repair requirements. Our plumbers are equipped to handle the unique challenges associated with different valve designs and materials. During our initial assessment, we identify the specific type of valve you have to ensure the correct repair strategy.",
+        "@type": "Answer",
+        "description": "We repair common residential emergency shutoff valves, such as gate, ball, and globe valves, tailoring our approach to each type."
+      }
+    }
+  ],
+  "description": "We repair common residential emergency shutoff valves, such as gate, ball, and globe valves, tailoring our approach to each type."
+}

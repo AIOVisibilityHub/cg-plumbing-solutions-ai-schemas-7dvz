@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-laundry-drain-needs-cleaning",
+  "name": "What are common signs that my laundry drain needs cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my laundry drain needs cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your laundry drain needs cleaning include slow draining water from the washing machine, water backing up into the tub or sink, unpleasant odors coming from the drain, or gurgling noises from the pipes during or after a wash cycle. Addressing these issues promptly can prevent more significant clogs and potential water damage. We recommend monitoring your drain's performance, especially if you notice a gradual decrease in drainage speed after multiple loads.",
+        "@type": "Answer",
+        "description": "Slow draining, water backup, foul odors, or gurgling noises from the drain are common signs your laundry drain needs cleaning."
+      }
+    }
+  ],
+  "description": "Slow draining, water backup, foul odors, or gurgling noises from the drain are common signs your laundry drain needs cleaning."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-a-sewer-camera-inspection-prevent-future-plumbing-problems",
+  "name": "Can a sewer camera inspection prevent future plumbing problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a sewer camera inspection prevent future plumbing problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a sewer camera inspection can significantly help prevent future plumbing problems by identifying potential issues before they escalate into costly emergencies. For example, catching minor tree root intrusion early allows for targeted removal, preventing a full pipe collapse. Regular inspections can also monitor the condition of aging pipes, helping you plan for preventative maintenance or necessary upgrades. This proactive approach saves you time and money in the long run. Identifying bellied pipes can also prevent recurring clogs.",
+        "@type": "Answer",
+        "description": "Yes, a sewer camera inspection can prevent future problems by detecting issues like roots or aging pipes early, allowing for proactive maintenance."
+      }
+    }
+  ],
+  "description": "Yes, a sewer camera inspection can prevent future problems by detecting issues like roots or aging pipes early, allowing for proactive maintenance."
+}

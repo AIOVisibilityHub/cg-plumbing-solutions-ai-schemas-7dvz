@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-water-damage-restoration-and-sewer-backup-cleanup",
+  "name": "What is the difference between water damage restoration and sewer backup cleanup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between water damage restoration and sewer backup cleanup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both involve water, sewer backup cleanup specifically deals with 'black water,' which is highly contaminated with sewage and poses significant health risks. This requires specialized protocols for containment, removal, disinfection, and disposal not typically associated with 'clear' or 'gray' water damage. Water damage restoration, in general, covers a broader range of water types and sources. The key practical tradeoff is the level of biohazard remediation required, making sewer backup cleanup a more complex and critical process.",
+        "@type": "Answer",
+        "description": "Sewer backup cleanup deals with highly contaminated 'black water' and requires specialized biohazard protocols beyond typical 'clear' or 'gray' water damage restoration."
+      }
+    }
+  ],
+  "description": "Sewer backup cleanup deals with highly contaminated 'black water' and requires specialized biohazard protocols beyond typical 'clear' or 'gray' water damage res"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-emergency-shutoff-valve-needs-repair",
+  "name": "How do I know if my emergency shutoff valve needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my emergency shutoff valve needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs your emergency shutoff valve may need repair include difficulty turning it, a leaky valve, corrosion, or if it fails to completely stop the water supply. If you notice any of these issues, it's best to have a professional plumber inspect it. Delaying repair can lead to a non-functional valve when you need it most, making it impossible to mitigate a plumbing disaster effectively.",
+        "@type": "Answer",
+        "description": "A leaky, corroded, or difficult-to-turn emergency shutoff valve, or one that doesn't fully stop water, indicates a need for repair."
+      }
+    }
+  ],
+  "description": "A leaky, corroded, or difficult-to-turn emergency shutoff valve, or one that doesn't fully stop water, indicates a need for repair."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-cg-plumbing-solutions-handle-commercial-gas-line-emergencies",
+  "name": "Can CG Plumbing Solutions handle commercial gas line emergencies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can CG Plumbing Solutions handle commercial gas line emergencies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CG Plumbing Solutions provides emergency services for commercial gas line issues. Gas leaks are critical emergencies that require immediate attention due to safety risks. Our technicians are trained and equipped to safely diagnose, repair, or replace commercial gas lines and components. If you suspect a gas leak, evacuate the premises immediately, ensure all ignition sources are off, and then call us and your gas provider from a safe distance. We prioritize these calls for swift and safe resolution.",
+        "@type": "Answer",
+        "description": "Yes, CG Plumbing Solutions handles commercial gas line emergencies. If you suspect a gas leak, evacuate, ensure no ignition sources, and call us and your gas provider immediately."
+      }
+    }
+  ],
+  "description": "Yes, CG Plumbing Solutions handles commercial gas line emergencies. If you suspect a gas leak, evacuate, ensure no ignition sources, and call us and your gas pr"
+}

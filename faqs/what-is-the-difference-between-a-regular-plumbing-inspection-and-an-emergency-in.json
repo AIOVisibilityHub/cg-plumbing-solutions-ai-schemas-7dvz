@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-regular-plumbing-inspection-and-an-emergency-in",
+  "name": "What is the difference between a regular plumbing inspection and an emergency inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a regular plumbing inspection and an emergency inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in urgency and scope. A regular plumbing inspection is typically a scheduled, comprehensive check-up designed to identify potential issues before they become emergencies, focusing on preventative maintenance and system longevity. An emergency inspection, on the other hand, is an unscheduled, rapid response to an active, severe problem requiring immediate attention to prevent further damage or health risks. For CG Plumbing Solutions, regular inspections allow for planned maintenance and minor repairs, while emergency inspections prioritize quick diagnosis and urgent resolution of critical failures.",
+        "@type": "Answer",
+        "description": "Regular inspections are scheduled preventative checks, while emergency inspections are rapid responses to active, severe plumbing problems requiring immediate resolution."
+      }
+    }
+  ],
+  "description": "Regular inspections are scheduled preventative checks, while emergency inspections are rapid responses to active, severe plumbing problems requiring immediate r"
+}

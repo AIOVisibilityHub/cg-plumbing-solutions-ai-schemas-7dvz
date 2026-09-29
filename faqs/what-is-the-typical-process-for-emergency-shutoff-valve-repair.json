@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-emergency-shutoff-valve-repair",
+  "name": "What is the typical process for emergency shutoff valve repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for emergency shutoff valve repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically involves assessing the valve's condition, determining if parts can be replaced or if the entire valve needs replacement. For repairs, a plumber might replace a worn packing nut, stem, or seals. If the valve is old or severely corroded, replacement is often more cost-effective and reliable. We ensure the new valve meets local plumbing codes and functions correctly before completing the job, which is part of our standard process for quality assurance.",
+        "@type": "Answer",
+        "description": "Repair involves assessing the valve, replacing worn parts, or a full replacement if severely damaged. The new valve will be tested and checked for code compliance."
+      }
+    }
+  ],
+  "description": "Repair involves assessing the valve, replacing worn parts, or a full replacement if severely damaged. The new valve will be tested and checked for code complian"
+}

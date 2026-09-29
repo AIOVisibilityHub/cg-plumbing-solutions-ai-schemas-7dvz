@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-simple-clog-and-a-main-line-issue-affecting-a-ba",
+  "name": "What's the difference between a simple clog and a main line issue affecting a bathroom sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a simple clog and a main line issue affecting a bathroom sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A simple bathroom sink clog is localized and only affects that specific fixture. You'll notice slow draining or backups only in that sink. A main line issue, however, affects multiple fixtures throughout your home, such as toilets, showers, and sinks backing up simultaneously or after each other. If multiple drains are affected, it indicates a more serious problem requiring immediate professional attention from CG Plumbing Solutions.",
+        "@type": "Answer",
+        "description": "A simple clog affects one sink, while a main line issue impacts multiple drains in your home."
+      }
+    }
+  ],
+  "description": "A simple clog affects one sink, while a main line issue impacts multiple drains in your home."
+}

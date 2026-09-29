@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-prepare-for-before-a-drain-pipe-replacement-service",
+  "name": "What should I prepare for before a drain pipe replacement service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for before a drain pipe replacement service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your drain pipe replacement service, it's helpful to clear the areas around the affected pipes to allow plumbers easy access. This might involve moving furniture, removing items from under sinks, or clearing pathways. If you have any recent plumbing inspection reports or blueprints of your home's plumbing system, having them available can also assist our technicians. Communicating any specific concerns or observations about your drainage issues helps us better prepare for the job.",
+        "@type": "Answer",
+        "description": "Clear the areas around affected pipes for access. Have any plumbing reports or blueprints ready, and communicate your specific concerns."
+      }
+    }
+  ],
+  "description": "Clear the areas around affected pipes for access. Have any plumbing reports or blueprints ready, and communicate your specific concerns."
+}

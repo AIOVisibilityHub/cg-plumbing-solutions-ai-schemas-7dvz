@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prepare-my-property-for-a-sewer-line-replacement",
+  "name": "How can I prepare my property for a sewer line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my property for a sewer line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your property for sewer line replacement can help streamline the process. Before work begins, ensure clear access to the affected areas, such as the main cleanout or the sewer line's path, by moving any vehicles, outdoor furniture, or decorative items. If you have significant landscaping or valuable plants in the excavation path for a traditional replacement, you might consider relocating them temporarily. We will discuss specific preparation needs during your consultation.",
+        "@type": "Answer",
+        "description": "Prepare your property by ensuring clear access to the work area and considering the temporary relocation of landscaping if traditional excavation is used."
+      }
+    }
+  ],
+  "description": "Prepare your property by ensuring clear access to the work area and considering the temporary relocation of landscaping if traditional excavation is used."
+}

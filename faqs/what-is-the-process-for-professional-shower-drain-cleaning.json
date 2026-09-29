@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-professional-shower-drain-cleaning",
+  "name": "What is the process for professional shower drain cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional shower drain cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional shower drain cleaning typically involves an inspection to determine the clog's location and severity, often using a camera if the issue is deep. Depending on the blockage, plumbers may use a drain snake (auger) to physically break apart or remove the obstruction, or hydro-jetting, which uses high-pressure water to clear the pipes and remove buildup. Understanding this process can help you prepare for the service, knowing what to expect during the appointment.",
+        "@type": "Answer",
+        "description": "The process involves inspection, often with a camera, followed by drain snaking or hydro-jetting to clear the clog."
+      }
+    }
+  ],
+  "description": "The process involves inspection, often with a camera, followed by drain snaking or hydro-jetting to clear the clog."
+}

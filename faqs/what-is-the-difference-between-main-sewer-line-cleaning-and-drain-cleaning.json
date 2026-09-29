@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-main-sewer-line-cleaning-and-drain-cleaning",
+  "name": "What is the difference between main sewer line cleaning and drain cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between main sewer line cleaning and drain cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Main sewer line cleaning addresses blockages in the primary pipe that carries all wastewater from your home to the municipal sewer system or septic tank. A clog here affects all drains in your home. In contrast, drain cleaning typically refers to clearing blockages in individual branch lines connected to specific fixtures like sinks, showers, or toilets. While both involve clearing pipes, the scope and impact differ significantly. Main line issues are more critical due to the potential for widespread backups, requiring specialized equipment and expertise that we provide for comprehensive solutions.",
+        "@type": "Answer",
+        "description": "Main sewer line cleaning clears the primary pipe affecting all drains, while drain cleaning addresses blockages in individual fixture lines. Main line issues have broader impact and require specialized service."
+      }
+    }
+  ],
+  "description": "Main sewer line cleaning clears the primary pipe affecting all drains, while drain cleaning addresses blockages in individual fixture lines. Main line issues ha"
+}

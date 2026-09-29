@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-get-a-permit-for-sewer-line-replacement-in-las-vegas",
+  "name": "Do I need to get a permit for sewer line replacement in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to get a permit for sewer line replacement in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sewer line replacement projects in Las Vegas, as well as surrounding areas like Henderson and North Las Vegas, typically require permits from the local building department or sanitation district. These permits ensure the work complies with local codes and standards. Obtaining the necessary permits is an important step in the process, and CG Plumbing Solutions handles the permit application process to ensure all work is compliant and properly documented.",
+        "@type": "Answer",
+        "description": "Yes, permits are typically required for sewer line replacement in Las Vegas and surrounding areas to ensure compliance with local building codes."
+      }
+    }
+  ],
+  "description": "Yes, permits are typically required for sewer line replacement in Las Vegas and surrounding areas to ensure compliance with local building codes."
+}

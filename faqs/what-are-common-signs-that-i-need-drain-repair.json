@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-i-need-drain-repair",
+  "name": "What are common signs that I need drain repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that I need drain repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs you need drain repair include slow drainage, recurring clogs, foul odors emanating from drains, gurgling sounds from pipes, or water backing up in sinks, showers, or toilets. If you notice persistent puddles around your floor drains or an unexplained increase in your water bill, it could also indicate an issue. Prompt attention to these signs can prevent minor issues from escalating into major plumbing emergencies, particularly with the hard water conditions sometimes found in the Las Vegas area that can contribute to mineral buildup.",
+        "@type": "Answer",
+        "description": "Slow drainage, recurring clogs, foul odors, gurgling sounds, or water backing up are common signs you need drain repair. Addressing these early can prevent bigger problems."
+      }
+    }
+  ],
+  "description": "Slow drainage, recurring clogs, foul odors, gurgling sounds, or water backing up are common signs you need drain repair. Addressing these early can prevent bigg"
+}

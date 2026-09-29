@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-be-home-during-a-sewer-line-repair",
+  "name": "Do I need to be home during a sewer line repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during a sewer line repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most sewer line repair processes, your physical presence might not be required for the entire duration, especially for outdoor work. However, initial access for inspection and final walkthroughs to ensure satisfaction typically require homeowner access to the property. CG Plumbing Solutions will coordinate with you regarding necessary access points and times. It is advisable to be available by phone in case technicians need to communicate unexpected findings or discuss decisions during the repair, ensuring a smooth process.",
+        "@type": "Answer",
+        "description": "Your physical presence isn't always needed for the whole repair, but access for inspection and final walkthroughs requires coordination with our team."
+      }
+    }
+  ],
+  "description": "Your physical presence isn't always needed for the whole repair, but access for inspection and final walkthroughs requires coordination with our team."
+}

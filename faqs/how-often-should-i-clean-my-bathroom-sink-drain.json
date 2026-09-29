@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-clean-my-bathroom-sink-drain",
+  "name": "How often should I clean my bathroom sink drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I clean my bathroom sink drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of cleaning depends on usage. For heavily used sinks, a monthly preventative flush with hot water and baking soda followed by vinegar can help maintain flow. If you notice slow draining, a more thorough cleaning is warranted. Waiting until the drain is fully blocked can lead to more complex and costly service calls.",
+        "@type": "Answer",
+        "description": "Clean your bathroom sink drain preventatively every 1-3 months, or immediately when slow draining occurs."
+      }
+    }
+  ],
+  "description": "Clean your bathroom sink drain preventatively every 1-3 months, or immediately when slow draining occurs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-drain-pipe-repair-and-replacement",
+  "name": "What's the difference between drain pipe repair and replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between drain pipe repair and replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drain pipe repair typically involves fixing a small, localized issue, such as patching a minor leak or clearing a single blockage. Replacement, on the other hand, means removing and installing new sections or the entire length of piping. The choice depends on the pipe's condition, age, and the extent of the damage. If pipes are extensively corroded, frequently failing, or have structural integrity issues, full replacement is often more cost-effective and reliable long-term than repeated repairs.",
+        "@type": "Answer",
+        "description": "Repair fixes localized issues; replacement involves installing new pipes. Replacement is better for extensive damage or frequent failures."
+      }
+    }
+  ],
+  "description": "Repair fixes localized issues; replacement involves installing new pipes. Replacement is better for extensive damage or frequent failures."
+}

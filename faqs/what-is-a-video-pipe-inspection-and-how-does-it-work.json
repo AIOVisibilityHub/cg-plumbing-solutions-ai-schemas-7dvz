@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-video-pipe-inspection-and-how-does-it-work",
+  "name": "What is a video pipe inspection and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a video pipe inspection and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A video pipe inspection involves inserting a high-resolution, waterproof camera into your plumbing lines to visually assess their condition. This camera transmits a live feed to a monitor, allowing a technician to identify issues like cracks, blockages, root intrusion, or corrosion without intrusive digging. For CG Plumbing Solutions, this non-invasive approach is crucial for accurately diagnosing problems in the varied plumbing systems found across Las Vegas, helping us determine the most effective repair strategy, which saves both time and potential damage to your property.",
+        "@type": "Answer",
+        "description": "A video pipe inspection uses a camera to examine plumbing lines, identifying issues like cracks or blockages without digging."
+      }
+    }
+  ],
+  "description": "A video pipe inspection uses a camera to examine plumbing lines, identifying issues like cracks or blockages without digging."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-my-homeowner-s-insurance-cover-kitchen-flood-repair",
+  "name": "Will my homeowner's insurance cover kitchen flood repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover kitchen flood repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers sudden and accidental water damage, such as from a burst pipe. However, damage resulting from negligence or lack of maintenance, like a long-term leak, may not be covered. It's important to review your specific policy or contact your insurance provider directly to understand your coverage. While we focus on the plumbing repair, documenting the damage with photos or videos before and after can be helpful for your insurance claim.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers sudden kitchen flood damage, but typically excludes issues from negligence; check your specific policy for details."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers sudden kitchen flood damage, but typically excludes issues from negligence; check your specific policy for details."
+}

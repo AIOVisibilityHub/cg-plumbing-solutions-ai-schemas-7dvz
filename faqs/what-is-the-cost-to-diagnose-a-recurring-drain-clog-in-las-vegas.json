@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-cost-to-diagnose-a-recurring-drain-clog-in-las-vegas",
+  "name": "What is the cost to diagnose a recurring drain clog in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost to diagnose a recurring drain clog in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to diagnose a recurring drain clog in the Las Vegas area can vary depending on the complexity of the issue and the diagnostic methods required, such as a camera inspection. CG Plumbing Solutions provides transparent pricing after an initial assessment. Factors influencing cost include the drain's location, the severity of the blockage, and the extent of the inspection needed to accurately pinpoint the problem. We aim to provide clear estimates upfront.",
+        "@type": "Answer",
+        "description": "The cost to diagnose a recurring drain clog in Las Vegas varies based on complexity and required diagnostic methods, like camera inspections. We provide transparent estimates after assessment."
+      }
+    }
+  ],
+  "description": "The cost to diagnose a recurring drain clog in Las Vegas varies based on complexity and required diagnostic methods, like camera inspections. We provide transpa"
+}

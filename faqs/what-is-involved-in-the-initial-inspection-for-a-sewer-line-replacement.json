@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-initial-inspection-for-a-sewer-line-replacement",
+  "name": "What is involved in the initial inspection for a sewer line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the initial inspection for a sewer line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An initial inspection for sewer line replacement typically involves a comprehensive video camera inspection. A small, high-resolution camera is inserted into your sewer line to visually assess its condition, identify blockages, cracks, root intrusion, or collapses. This inspection helps pinpoint the exact location and nature of the problem without intrusive digging. Based on these findings, we can accurately determine if replacement is needed and recommend the most effective solution.",
+        "@type": "Answer",
+        "description": "The initial inspection uses a video camera to assess the sewer line's condition, identify problems, and determine the best course of action."
+      }
+    }
+  ],
+  "description": "The initial inspection uses a video camera to assess the sewer line's condition, identify problems, and determine the best course of action."
+}

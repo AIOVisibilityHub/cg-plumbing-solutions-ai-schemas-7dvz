@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-a-typical-drain-pipe-replacement-process",
+  "name": "What is involved in a typical drain pipe replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a typical drain pipe replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The drain pipe replacement process typically involves diagnosing the problem, locating the damaged sections, and then carefully removing the old pipes. New piping, often made of PVC or ABS, is then installed and connected, ensuring proper grading for effective drainage. After installation, the system is tested for leaks and proper function. For complex replacements, we often provide a detailed project overview and timeline to manage expectations and minimize disruption to your home.",
+        "@type": "Answer",
+        "description": "The process includes diagnosis, removal of old pipes, installation of new ones, and system testing. We provide a detailed project overview."
+      }
+    }
+  ],
+  "description": "The process includes diagnosis, removal of old pipes, installation of new ones, and system testing. We provide a detailed project overview."
+}

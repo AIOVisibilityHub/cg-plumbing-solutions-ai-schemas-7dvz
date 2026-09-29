@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-remove-a-grease-clog",
+  "name": "How long does it take to remove a grease clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove a grease clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to remove a grease clog can vary significantly based on its size, location, and severity within your plumbing system. A relatively minor clog in an accessible area might be cleared within an hour, while a more extensive or deeply embedded blockage, especially in a main line, could take several hours. Our technicians will provide an estimated timeframe after an initial assessment of the situation. Factors like pipe material and accessibility also influence the duration of the service.",
+        "@type": "Answer",
+        "description": "Grease clog removal time varies by clog size and location, ranging from one hour for minor clogs to several hours for severe blockages."
+      }
+    }
+  ],
+  "description": "Grease clog removal time varies by clog size and location, ranging from one hour for minor clogs to several hours for severe blockages."
+}

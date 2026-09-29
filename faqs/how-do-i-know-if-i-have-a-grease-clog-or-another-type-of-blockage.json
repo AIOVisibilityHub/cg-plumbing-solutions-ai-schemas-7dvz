@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-i-have-a-grease-clog-or-another-type-of-blockage",
+  "name": "How do I know if I have a grease clog or another type of blockage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I have a grease clog or another type of blockage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You likely have a grease clog if you notice slow drainage primarily in kitchen sinks, foul odors resembling rotten food, or a gurgling sound coming from the drain. Other blockages, like those caused by hair in bathrooms, might present differently. If you're experiencing issues in multiple drains throughout your home, it could indicate a main line issue. A professional inspection can accurately diagnose the cause and location of the clog. CG Plumbing Solutions uses specialized tools to determine the exact nature of the blockage.",
+        "@type": "Answer",
+        "description": "Grease clogs often manifest as slow kitchen sink drains, foul odors, or gurgling sounds. A professional can accurately diagnose the clog type."
+      }
+    }
+  ],
+  "description": "Grease clogs often manifest as slow kitchen sink drains, foul odors, or gurgling sounds. A professional can accurately diagnose the clog type."
+}

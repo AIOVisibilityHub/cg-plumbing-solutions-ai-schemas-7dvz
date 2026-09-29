@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-professional-bathtub-drain-cleaning-cost-in-las-vegas",
+  "name": "How much does professional bathtub drain cleaning cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does professional bathtub drain cleaning cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional bathtub drain cleaning in the Las Vegas area can vary depending on the severity of the clog and the method required to clear it. A simple blockage that can be cleared with a standard snake will typically be less expensive than a severe obstruction requiring hydro-jetting or specialized equipment. To accurately determine the cost, we provide an upfront estimate after assessing the specific issue at your property, offering transparency before any work begins.",
+        "@type": "Answer",
+        "description": "Cost varies based on clog severity and method used. We provide an upfront estimate after assessing the issue in the Las Vegas area."
+      }
+    }
+  ],
+  "description": "Cost varies based on clog severity and method used. We provide an upfront estimate after assessing the issue in the Las Vegas area."
+}

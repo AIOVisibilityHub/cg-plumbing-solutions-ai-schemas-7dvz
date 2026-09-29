@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-i-might-need-an-emergency-plumbing-inspection",
+  "name": "What are common signs I might need an emergency plumbing inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs I might need an emergency plumbing inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating a need for an emergency plumbing inspection include a sudden loss of water pressure, a complete lack of water, visible water overflowing from drains or toilets, or water rapidly accumulating in unexpected areas of your home. You might also notice a persistent gurgling sound from drains, a strong sewer smell, or bubbling paint or sagging ceilings indicative of a hidden leak. These are strong indicators of a significant issue that needs immediate professional attention. CG Plumbing Solutions advises contacting us right away if you observe any of these critical signs to prevent extensive property damage.",
+        "@type": "Answer",
+        "description": "Signs needing emergency inspection include sudden water loss, overflowing drains, rapid water accumulation, gurgling sounds, strong sewer smells, or water damage on walls/ceilings."
+      }
+    }
+  ],
+  "description": "Signs needing emergency inspection include sudden water loss, overflowing drains, rapid water accumulation, gurgling sounds, strong sewer smells, or water damag"
+}

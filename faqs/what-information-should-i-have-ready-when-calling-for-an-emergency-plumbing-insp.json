@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-information-should-i-have-ready-when-calling-for-an-emergency-plumbing-insp",
+  "name": "What information should I have ready when calling for an emergency plumbing inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready when calling for an emergency plumbing inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When calling for an emergency plumbing inspection, having specific details ready can significantly expedite the process. Be prepared to describe the nature of the emergency (e.g., burst pipe, severe leak, no water), its location within your property, and when you first noticed the problem. Also, provide your full address, contact information, and any relevant details about your plumbing system if known. This information allows CG Plumbing Solutions' dispatchers to assess the situation quickly and relay crucial details to the responding technician, helping them arrive prepared.",
+        "@type": "Answer",
+        "description": "When calling, have details ready: nature and location of the problem, when it started, your address, and contact info, to help dispatch and the technician."
+      }
+    }
+  ],
+  "description": "When calling, have details ready: nature and location of the problem, when it started, your address, and contact info, to help dispatch and the technician."
+}

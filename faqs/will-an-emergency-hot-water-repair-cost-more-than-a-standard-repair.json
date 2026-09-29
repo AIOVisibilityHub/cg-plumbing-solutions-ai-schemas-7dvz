@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-an-emergency-hot-water-repair-cost-more-than-a-standard-repair",
+  "name": "Will an emergency hot water repair cost more than a standard repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an emergency hot water repair cost more than a standard repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emergency hot water repairs might incur different pricing compared to pre-scheduled, non-urgent services. This is primarily due to the immediate dispatch required and the potential for after-hours or weekend work. While we aim to provide transparent and fair pricing, the urgent nature of emergency calls typically reflects the prioritization of rapid response and immediate problem resolution. Our technicians will always provide a clear, upfront estimate before any work begins, so you understand the costs involved.",
+        "@type": "Answer",
+        "description": "Emergency repairs may cost more due to immediate dispatch and potential after-hours work; technicians provide upfront estimates."
+      }
+    }
+  ],
+  "description": "Emergency repairs may cost more due to immediate dispatch and potential after-hours work; technicians provide upfront estimates."
+}

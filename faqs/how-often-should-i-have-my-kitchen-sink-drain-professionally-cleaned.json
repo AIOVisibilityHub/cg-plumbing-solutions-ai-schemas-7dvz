@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-have-my-kitchen-sink-drain-professionally-cleaned",
+  "name": "How often should I have my kitchen sink drain professionally cleaned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my kitchen sink drain professionally cleaned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of professional kitchen sink drain cleaning depends on usage and habits. For most homes, an annual cleaning is a good preventative measure, especially if you cook frequently or have an older plumbing system. However, if you experience recurrent clogs or slow draining despite preventative efforts, more frequent cleaning might be beneficial. Regular maintenance by CG Plumbing Solutions can help identify potential issues before they become major problems.",
+        "@type": "Answer",
+        "description": "Annual professional cleaning is often recommended, especially for frequent cooks or older systems. More frequent service may be needed for recurrent issues."
+      }
+    }
+  ],
+  "description": "Annual professional cleaning is often recommended, especially for frequent cooks or older systems. More frequent service may be needed for recurrent issues."
+}

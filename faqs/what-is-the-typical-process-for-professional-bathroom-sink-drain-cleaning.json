@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-professional-bathroom-sink-drain-cleaning",
+  "name": "What is the typical process for professional bathroom sink drain cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for professional bathroom sink drain cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our professional drain cleaning process usually begins with an assessment of the clog's location and severity. We often use a plumber's snake, or auger, to physically break up and remove blockages without damaging your pipes. For more complex issues, we may use camera inspection to pinpoint the problem before clearing. The goal is to restore full drainage efficiently and prevent recurrence.",
+        "@type": "Answer",
+        "description": "Professionals assess the clog, then use a plumber's snake to clear it. Camera inspection may be used for complex blockages."
+      }
+    }
+  ],
+  "description": "Professionals assess the clog, then use a plumber's snake to clear it. Camera inspection may be used for complex blockages."
+}

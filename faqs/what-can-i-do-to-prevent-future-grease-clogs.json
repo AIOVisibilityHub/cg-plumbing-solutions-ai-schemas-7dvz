@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-can-i-do-to-prevent-future-grease-clogs",
+  "name": "What can I do to prevent future grease clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can I do to prevent future grease clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future grease clogs involves consistently avoiding pouring cooking oils, fats, and grease down your drains. Instead, allow them to cool and solidify, then scrape them into the trash. Wiping greasy pans with a paper towel before washing can also help. Additionally, installing drain screens or strainers in your sinks can catch food particles that contribute to clogs. Regularly flushing drains with hot water (without soap) or a vinegar-baking soda solution can also help maintain clear pipes, but these are not substitutes for proper grease disposal.",
+        "@type": "Answer",
+        "description": "Prevent grease clogs by always disposing of cooking oils and fats in the trash, using drain screens, and avoiding pouring grease down sinks."
+      }
+    }
+  ],
+  "description": "Prevent grease clogs by always disposing of cooking oils and fats in the trash, using drain screens, and avoiding pouring grease down sinks."
+}

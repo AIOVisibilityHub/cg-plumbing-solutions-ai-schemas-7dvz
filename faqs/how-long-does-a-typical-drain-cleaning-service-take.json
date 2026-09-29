@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-drain-cleaning-service-take",
+  "name": "How long does a typical drain cleaning service take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical drain cleaning service take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a drain cleaning service can vary depending on the severity and location of the clog. A simple fixture clog might be cleared in under an hour, while more complex main line blockages, especially those requiring hydro-jetting or camera inspection, could take several hours. Factors like pipe age, the type of obstruction, and ease of access also play a role. Our technicians will assess the situation upon arrival and provide an estimated timeframe for completion.",
+        "@type": "Answer",
+        "description": "Drain cleaning time varies from under an hour for simple clogs to several hours for complex main line issues, depending on severity, location, and method used."
+      }
+    }
+  ],
+  "description": "Drain cleaning time varies from under an hour for simple clogs to several hours for complex main line issues, depending on severity, location, and method used."
+}

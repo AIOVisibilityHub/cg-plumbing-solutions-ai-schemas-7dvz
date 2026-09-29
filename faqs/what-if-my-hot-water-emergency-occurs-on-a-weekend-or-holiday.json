@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-if-my-hot-water-emergency-occurs-on-a-weekend-or-holiday",
+  "name": "What if my hot water emergency occurs on a weekend or holiday?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my hot water emergency occurs on a weekend or holiday?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions understands that plumbing emergencies, including a complete loss of hot water, don't adhere to business hours. That's why we offer emergency services on weekends and holidays within our service areas, including Las Vegas, North Las Vegas, Henderson, and Summerlin. Our dedicated team is available to respond to urgent calls outside of regular weekday hours, ensuring you're not left without hot water for extended periods. Simply call our emergency line, and we will dispatch a technician as quickly as possible.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions provides emergency hot water service on weekends and holidays in our service areas; call our emergency line for immediate dispatch."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions provides emergency hot water service on weekends and holidays in our service areas; call our emergency line for immediate dispatch."
+}

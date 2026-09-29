@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-benefits-of-hydro-jetting-for-kitchen-sink-clogs",
+  "name": "What are the benefits of hydro-jetting for kitchen sink clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of hydro-jetting for kitchen sink clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting uses highly pressurized water to clear drain clogs, offering several benefits over traditional snaking. This method not only removes the immediate blockage but also scours the entire interior of the pipe, effectively removing grease, scale, and other buildup that contributes to future clogs. It provides a more comprehensive clean, which can extend the time before another clog forms, offering a preventative aspect that snaking doesn't always achieve. CG Plumbing Solutions utilizes this technique for tough clogs.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses high-pressure water to not only clear clogs but also scour pipe interiors, removing buildup and preventing future blockages."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses high-pressure water to not only clear clogs but also scour pipe interiors, removing buildup and preventing future blockages."
+}

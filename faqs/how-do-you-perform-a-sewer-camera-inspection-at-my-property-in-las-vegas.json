@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-you-perform-a-sewer-camera-inspection-at-my-property-in-las-vegas",
+  "name": "How do you perform a sewer camera inspection at my property in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you perform a sewer camera inspection at my property in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "At your property in Las Vegas, we perform a sewer camera inspection by first locating the main sewer cleanout access point. Our trained technician then inserts a flexible rod with a high-resolution camera attached into the sewer line. The camera transmits live video footage to a monitor, allowing us to pinpoint the exact location and nature of any issues. We cover service areas including Las Vegas, North Las Vegas, Henderson, and Paradise, ensuring consistent service delivery. After the inspection, we discuss our findings and recommended solutions.",
+        "@type": "Answer",
+        "description": "We insert a camera into your sewer cleanout, transmitting live video to identify issues, covering Las Vegas, North Las Vegas, Henderson, and Paradise."
+      }
+    }
+  ],
+  "description": "We insert a camera into your sewer cleanout, transmitting live video to identify issues, covering Las Vegas, North Las Vegas, Henderson, and Paradise."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-sewer-line-replacement",
+  "name": "What factors influence the cost of sewer line replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of sewer line replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of sewer line replacement is influenced by several factors, including the length and depth of the sewer line, the material of the new pipe, and the chosen replacement method (traditional vs. trenchless). Other considerations include the complexity of excavating around existing utilities, the need for permits, and the extent of landscape restoration required. We provide a detailed estimate after an on-site evaluation to ensure transparency regarding all potential costs.",
+        "@type": "Answer",
+        "description": "Cost factors include line length and depth, pipe material, chosen replacement method, excavation complexity, permits, and landscape restoration needs."
+      }
+    }
+  ],
+  "description": "Cost factors include line length and depth, pipe material, chosen replacement method, excavation complexity, permits, and landscape restoration needs."
+}

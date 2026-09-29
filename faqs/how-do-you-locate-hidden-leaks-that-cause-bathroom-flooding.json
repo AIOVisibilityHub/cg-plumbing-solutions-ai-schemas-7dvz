@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-you-locate-hidden-leaks-that-cause-bathroom-flooding",
+  "name": "How do you locate hidden leaks that cause bathroom flooding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you locate hidden leaks that cause bathroom flooding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Locating hidden leaks often involves a combination of methods, including visual inspection for water stains or dampness, pressure testing of pipes, and sometimes using specialized leak detection equipment. We look for subtle signs like unexplained increases in water bills or musty odors. Our plumbers are trained to systematically inspect common hidden leak areas, such as behind walls, under floors, and around fixture connections, to pinpoint the source without unnecessary demolition.",
+        "@type": "Answer",
+        "description": "Hidden leaks are located through visual inspection, pipe pressure testing, and specialized equipment. Plumbers systematically inspect common areas to find the source."
+      }
+    }
+  ],
+  "description": "Hidden leaks are located through visual inspection, pipe pressure testing, and specialized equipment. Plumbers systematically inspect common areas to find the s"
+}

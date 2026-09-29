@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-professional-laundry-drain-cleaning",
+  "name": "What is the process for professional laundry drain cleaning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional laundry drain cleaning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our professional laundry drain cleaning process typically begins with a diagnostic assessment to identify the location and severity of the clog, often using camera inspection for precision. Depending on the issue, we may use snaking to break up and remove blockages or hydro-jetting, which uses high-pressure water to thoroughly clean the inside of the pipes, removing all buildup. We ensure the drain is clear and flowing freely before completing the service. Before our arrival, clearing the area around your washing machine and drain access points can help us start the process efficiently.",
+        "@type": "Answer",
+        "description": "Professional laundry drain cleaning involves diagnosing the clog with camera inspection, then using snaking or hydro-jetting to clear the pipes."
+      }
+    }
+  ],
+  "description": "Professional laundry drain cleaning involves diagnosing the clog with camera inspection, then using snaking or hydro-jetting to clear the pipes."
+}

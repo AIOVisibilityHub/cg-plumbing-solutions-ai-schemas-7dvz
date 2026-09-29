@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-hydro-jetting-and-how-does-it-relate-to-recurring-drain-clog-diagnosis",
+  "name": "What is hydro-jetting and how does it relate to recurring drain clog diagnosis?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hydro-jetting and how does it relate to recurring drain clog diagnosis?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro-jetting is a powerful drain cleaning method that uses high-pressure water to clear stubborn blockages, including grease, scale buildup, and tree roots. While primarily a cleaning solution, it's often recommended after a recurring drain clog diagnosis, particularly when camera inspection reveals extensive buildup or root intrusion. It effectively scours the pipe walls, helping to restore drains to their original diameter and significantly reducing the likelihood of future clogs compared to snaking alone.",
+        "@type": "Answer",
+        "description": "Hydro-jetting uses high-pressure water to clear tough drain blockages like grease and roots. It's often recommended after a diagnosis shows extensive buildup, preventing future clogs effectively."
+      }
+    }
+  ],
+  "description": "Hydro-jetting uses high-pressure water to clear tough drain blockages like grease and roots. It's often recommended after a diagnosis shows extensive buildup, p"
+}

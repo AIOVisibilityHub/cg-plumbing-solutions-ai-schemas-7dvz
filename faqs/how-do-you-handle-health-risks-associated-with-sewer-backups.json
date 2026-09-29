@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-you-handle-health-risks-associated-with-sewer-backups",
+  "name": "How do you handle health risks associated with sewer backups?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle health risks associated with sewer backups?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We prioritize safety and health during sewer backup cleanup. Raw sewage contains harmful bacteria, viruses, and other pathogens that pose significant health risks. Our team uses personal protective equipment (PPE) and specialized disinfectants to safely remove contaminated materials and sanitize all affected surfaces. We ensure proper ventilation and disposal according to health guidelines to mitigate exposure risks, making health and safety a key decision factor in our cleanup approach.",
+        "@type": "Answer",
+        "description": "We mitigate health risks by using PPE, specialized disinfectants, and proper disposal methods to safely remove contaminants and sanitize surfaces."
+      }
+    }
+  ],
+  "description": "We mitigate health risks by using PPE, specialized disinfectants, and proper disposal methods to safely remove contaminants and sanitize surfaces."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-hire-a-separate-water-damage-restoration-company-after-plumbing-rep",
+  "name": "Do I need to hire a separate water damage restoration company after plumbing repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire a separate water damage restoration company after plumbing repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After plumbing repairs, you may need to hire a separate water damage restoration company, especially if the flooding was significant or standing water was present for an extended period. While CG Plumbing Solutions handles the plumbing repair itself, our scope does not typically include drying, dehumidification, mold remediation, or reconstruction services. We can fix the leak, but a restoration company specializes in mitigating secondary water damage and restoring your property.",
+        "@type": "Answer",
+        "description": "You may need a separate water damage restoration company after plumbing repairs, especially for significant flooding. Our service focuses on fixing the plumbing issue, not water damage restoration."
+      }
+    }
+  ],
+  "description": "You may need a separate water damage restoration company after plumbing repairs, especially for significant flooding. Our service focuses on fixing the plumbing"
+}

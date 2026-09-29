@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-tree-roots-cause-drain-problems-in-the-las-vegas-area",
+  "name": "Can tree roots cause drain problems in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can tree roots cause drain problems in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, tree roots are a common cause of drain problems, particularly in older plumbing systems or if trees are planted too close to sewer lines. Roots are attracted to the moisture and nutrients inside pipes, and they can infiltrate through tiny cracks, growing and creating significant blockages that restrict water flow or even cause pipes to burst. In the Las Vegas Valley, with its established neighborhoods and landscaping, this is a frequent issue. Regular inspections can help detect root intrusion early.",
+        "@type": "Answer",
+        "description": "Yes, tree roots can cause drain problems by infiltrating pipes through cracks, leading to blockages or bursts. This is common in the Las Vegas Valley's established areas."
+      }
+    }
+  ],
+  "description": "Yes, tree roots can cause drain problems by infiltrating pipes through cracks, leading to blockages or bursts. This is common in the Las Vegas Valley's establis"
+}

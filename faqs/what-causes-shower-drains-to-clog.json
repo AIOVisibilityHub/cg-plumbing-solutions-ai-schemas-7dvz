@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-shower-drains-to-clog",
+  "name": "What causes shower drains to clog?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes shower drains to clog?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shower drains commonly clog due to a buildup of hair, soap scum, and mineral deposits. Over time, these materials combine to form a blockage that restricts water flow. Regularly using a drain screen can significantly reduce the amount of hair and debris entering the drain, helping to prevent future clogs. If you notice slow draining, addressing it early can prevent a more severe blockage from forming.",
+        "@type": "Answer",
+        "description": "Hair, soap scum, and mineral deposits are the primary causes of shower drain clogs, restricting water flow."
+      }
+    }
+  ],
+  "description": "Hair, soap scum, and mineral deposits are the primary causes of shower drain clogs, restricting water flow."
+}

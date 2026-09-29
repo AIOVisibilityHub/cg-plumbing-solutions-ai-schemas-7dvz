@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-my-bathroom-sink-drain-is-completely-blocked",
+  "name": "What should I do if my bathroom sink drain is completely blocked?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my bathroom sink drain is completely blocked?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your bathroom sink drain is completely blocked, avoid using chemical drain cleaners or attempting to force plungers vigorously, as this can worsen the issue or cause leaks. Your best next step is to contact a professional plumbing service like CG Plumbing Solutions. We have the tools and expertise to safely remove the blockage without damaging your plumbing system.",
+        "@type": "Answer",
+        "description": "If your drain is completely blocked, do not use chemicals or force a plunger. Contact a professional plumber immediately."
+      }
+    }
+  ],
+  "description": "If your drain is completely blocked, do not use chemicals or force a plunger. Contact a professional plumber immediately."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-for-a-plumber-to-clear-a-clogged-toilet",
+  "name": "How long does it take for a plumber to clear a clogged toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take for a plumber to clear a clogged toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes for a plumber to clear a clogged toilet can vary widely based on the complexity of the blockage. Simple clogs, often located within the toilet's trap, can typically be resolved within 30 minutes to an hour. However, more severe clogs that require snaking a longer distance, a camera inspection to locate a main line issue, or hydro-jetting to clear stubborn buildup or tree roots, can take anywhere from one to several hours. CG Plumbing Solutions aims for efficient service and provides an estimated timeframe after an initial assessment.",
+        "@type": "Answer",
+        "description": "Clearing a clogged toilet can take 30 minutes to several hours, depending on the clog's complexity and location within the plumbing system."
+      }
+    }
+  ],
+  "description": "Clearing a clogged toilet can take 30 minutes to several hours, depending on the clog's complexity and location within the plumbing system."
+}

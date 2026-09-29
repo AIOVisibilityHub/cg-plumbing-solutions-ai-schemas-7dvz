@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-do-new-sewer-lines-typically-last-after-replacement",
+  "name": "How long do new sewer lines typically last after replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do new sewer lines typically last after replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Newly installed sewer lines are designed for long-term durability, with an expected lifespan that often exceeds 50 years, depending on the material used. Materials like PVC (polyvinyl chloride) and HDPE (high-density polyethylene) are resistant to corrosion, root intrusion, and general wear, contributing to their longevity. Regular maintenance, such as avoiding flushing non-degradable items, can help extend the life of your new sewer line even further.",
+        "@type": "Answer",
+        "description": "New sewer lines, especially those made from modern materials like PVC or HDPE, typically last 50 years or more with proper installation and maintenance."
+      }
+    }
+  ],
+  "description": "New sewer lines, especially those made from modern materials like PVC or HDPE, typically last 50 years or more with proper installation and maintenance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-information-should-i-provide-to-a-plumber-when-calling-about-a-clogged-toil",
+  "name": "What information should I provide to a plumber when calling about a clogged toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I provide to a plumber when calling about a clogged toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When calling CG Plumbing Solutions about a clogged toilet, providing specific details can help us prepare and diagnose the issue more efficiently. Important information includes whether the toilet is completely stopped or just slow to drain, if you've already attempted any DIY solutions (like plunging), and if other drains in your home (sinks, showers) are also experiencing issues. Mentioning the age of your home or recent plumbing work can also be helpful. This initial information helps our technicians understand the potential scope of the problem before arriving at your Las Vegas area home.",
+        "@type": "Answer",
+        "description": "When calling a plumber for a clogged toilet, provide details like clog severity, DIY attempts, and if other drains are affected, to aid diagnosis."
+      }
+    }
+  ],
+  "description": "When calling a plumber for a clogged toilet, provide details like clog severity, DIY attempts, and if other drains are affected, to aid diagnosis."
+}

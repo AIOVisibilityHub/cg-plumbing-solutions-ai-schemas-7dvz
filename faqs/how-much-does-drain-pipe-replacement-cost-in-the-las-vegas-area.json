@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-drain-pipe-replacement-cost-in-the-las-vegas-area",
+  "name": "How much does drain pipe replacement cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does drain pipe replacement cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of drain pipe replacement in the Las Vegas area can vary widely based on factors such as the length and diameter of the pipes being replaced, their accessibility, and the complexity of the installation. Minor repairs might be a few hundred dollars, while a complete home repipe could be several thousand. CG Plumbing Solutions provides transparent, upfront quotes after a thorough inspection, detailing all anticipated costs so you understand the investment before work begins.",
+        "@type": "Answer",
+        "description": "Cost varies based on pipe length, diameter, accessibility, and complexity. We provide upfront quotes after inspection."
+      }
+    }
+  ],
+  "description": "Cost varies based on pipe length, diameter, accessibility, and complexity. We provide upfront quotes after inspection."
+}

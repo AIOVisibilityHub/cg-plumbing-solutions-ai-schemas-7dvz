@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prevent-future-bathroom-sink-drain-clogs",
+  "name": "How can I prevent future bathroom sink drain clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future bathroom sink drain clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future clogs, regularly remove hair from the drain stopper, use a drain screen to catch debris, and flush the drain weekly with hot water. Periodically pouring a mixture of baking soda and vinegar down the drain can also help break down minor buildup. Avoid disposing of harsh chemicals or excessive hair down the sink to maintain clear pipes.",
+        "@type": "Answer",
+        "description": "Prevent clogs by using drain screens, regularly removing hair, and flushing with hot water or a baking soda and vinegar solution."
+      }
+    }
+  ],
+  "description": "Prevent clogs by using drain screens, regularly removing hair, and flushing with hot water or a baking soda and vinegar solution."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-sewer-line-repair-take",
+  "name": "How long does a typical sewer line repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical sewer line repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a sewer line repair varies significantly based on the complexity of the issue, the repair method chosen, and the extent of the damage. Minor repairs, such as clearing a simple blockage, might take a few hours. More extensive work, like pipe bursting or trenchless lining for a longer section, could take 1-3 days. Factors like site accessibility and weather conditions in the Las Vegas valley can also affect the timeline, making a thorough initial assessment critical for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Sewer line repair duration varies based on damage and method, from a few hours for minor issues to 1-3 days for extensive work."
+      }
+    }
+  ],
+  "description": "Sewer line repair duration varies based on damage and method, from a few hours for minor issues to 1-3 days for extensive work."
+}

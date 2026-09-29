@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-my-commercial-property-experiences-a-major-water-leak",
+  "name": "What should I do if my commercial property experiences a major water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my commercial property experiences a major water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your commercial property experiences a major water leak, the first critical step is to locate and shut off the main water supply to prevent further damage. If safe to do so, try to contain the water with buckets or towels. Then, immediately contact CG Plumbing Solutions for emergency assistance. Documenting the leak with photos or videos can also be helpful for insurance purposes. Acting quickly to mitigate water flow and call professionals minimizes property damage and potential business interruption.",
+        "@type": "Answer",
+        "description": "For a major commercial water leak, immediately shut off the main water supply, contain the water, and then call CG Plumbing Solutions for emergency assistance."
+      }
+    }
+  ],
+  "description": "For a major commercial water leak, immediately shut off the main water supply, contain the water, and then call CG Plumbing Solutions for emergency assistance."
+}

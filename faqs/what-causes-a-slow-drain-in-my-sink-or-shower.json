@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-a-slow-drain-in-my-sink-or-shower",
+  "name": "What causes a slow drain in my sink or shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a slow drain in my sink or shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Slow drains are commonly caused by a buildup of hair, grease, soap scum, and other debris in the pipes. Mineral deposits from hard water, common in areas like Las Vegas, can also contribute to blockages over time. Regular use of chemical drain cleaners can sometimes worsen the issue by eroding pipes or causing more stubborn clogs, so a professional diagnosis is often best. Understanding the cause helps determine the most effective and safest method for clearing the obstruction.",
+        "@type": "Answer",
+        "description": "Slow drains are typically caused by hair, grease, soap scum, or mineral buildup. Hard water in the Las Vegas area can contribute to these blockages."
+      }
+    }
+  ],
+  "description": "Slow drains are typically caused by hair, grease, soap scum, or mineral buildup. Hard water in the Las Vegas area can contribute to these blockages."
+}

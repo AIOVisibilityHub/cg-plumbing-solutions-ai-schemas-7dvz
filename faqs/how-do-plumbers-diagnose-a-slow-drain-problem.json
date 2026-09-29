@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-plumbers-diagnose-a-slow-drain-problem",
+  "name": "How do plumbers diagnose a slow drain problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers diagnose a slow drain problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers diagnose slow drains by first inspecting the affected fixtures and sometimes using specialized tools. For persistent or unclear clogs, we often use a video camera inspection to see inside the pipes. This allows us to pinpoint the exact location and nature of the blockage, such as tree roots, significant buildup, or damaged pipes. This process clarity ensures the correct method, like hydro-jetting or snaking, is used for the most effective and least invasive solution, especially important for older plumbing systems in areas like Henderson.",
+        "@type": "Answer",
+        "description": "Plumbers diagnose slow drains using inspections and video camera technology to pinpoint the exact cause and location of blockages inside pipes."
+      }
+    }
+  ],
+  "description": "Plumbers diagnose slow drains using inspections and video camera technology to pinpoint the exact cause and location of blockages inside pipes."
+}

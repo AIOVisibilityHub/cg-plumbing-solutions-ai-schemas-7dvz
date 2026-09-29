@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-repairing-a-flooded-kitchen",
+  "name": "What is the typical process for repairing a flooded kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing a flooded kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process for a flooded kitchen typically begins with identifying and shutting off the water source to stop further flooding. Next, our plumbers will assess the extent of the plumbing damage, which could range from a simple pipe repair to appliance line replacement. After the repair, recommendations for water extraction and drying services may be provided to prevent secondary damage like mold. Depending on the complexity of the plumbing issue, the repair itself might be completed in a single visit, but extensive damage may require follow-up work.",
+        "@type": "Answer",
+        "description": "Repairing a flooded kitchen involves shutting off the water, identifying and repairing the plumbing damage, and then addressing water extraction and drying."
+      }
+    }
+  ],
+  "description": "Repairing a flooded kitchen involves shutting off the water, identifying and repairing the plumbing damage, and then addressing water extraction and drying."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-drain-repair-take",
+  "name": "How long does a typical drain repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical drain repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a drain repair depends on the complexity and location of the problem. Simple clogs addressed with snaking might take an hour or two. More involved issues, such as hydro-jetting a main line or repairing a broken pipe, could take several hours or even a full day. CG Plumbing Solutions aims to provide an estimated timeframe after the initial assessment, keeping you informed throughout the process to minimize disruption to your home or business in areas like Henderson or Summerlin.",
+        "@type": "Answer",
+        "description": "Drain repair time varies; simple clogs take 1-2 hours, while complex repairs can take several hours or a full day. We provide an estimate after assessment."
+      }
+    }
+  ],
+  "description": "Drain repair time varies; simple clogs take 1-2 hours, while complex repairs can take several hours or a full day. We provide an estimate after assessment."
+}
