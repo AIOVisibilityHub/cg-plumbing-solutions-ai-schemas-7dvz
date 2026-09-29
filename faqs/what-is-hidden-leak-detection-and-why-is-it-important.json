@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-hidden-leak-detection-and-why-is-it-important",
+  "name": "What is hidden leak detection and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hidden leak detection and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hidden leak detection is the process of locating water leaks that are not visible, often behind walls, under floors, or underground. Utilizing specialized equipment like acoustic sensors, thermal imaging, and pressure testing, plumbers can pinpoint the exact source without destructive methods. Early detection prevents significant property damage, mold growth, and costly repairs, preserving your home's structural integrity. This process is crucial in preventing minor issues from escalating into major plumbing emergencies, saving homeowners money and stress in the long run.",
+        "@type": "Answer",
+        "description": "Hidden leak detection locates non-visible water leaks using specialized equipment to prevent significant property damage, mold, and costly repairs."
+      }
+    }
+  ],
+  "description": "Hidden leak detection locates non-visible water leaks using specialized equipment to prevent significant property damage, mold, and costly repairs."
+}

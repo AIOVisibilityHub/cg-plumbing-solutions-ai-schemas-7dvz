@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-professional-leak-detection-important-for-slab-leaks",
+  "name": "Why is professional leak detection important for slab leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is professional leak detection important for slab leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional leak detection is crucial for slab leaks because they occur under your home's concrete foundation, making them invisible and difficult to access. Without specialized equipment, homeowners often risk extensive, costly damage trying to find the leak themselves. Accurate detection prevents unnecessary excavation and ensures the repair targets the exact problem area, protecting your home's structural integrity and saving time and money.",
+        "@type": "Answer",
+        "description": "Professional leak detection for slab leaks prevents extensive damage and unnecessary excavation by accurately locating the hidden problem under your home's foundation."
+      }
+    }
+  ],
+  "description": "Professional leak detection for slab leaks prevents extensive damage and unnecessary excavation by accurately locating the hidden problem under your home's foun"
+}

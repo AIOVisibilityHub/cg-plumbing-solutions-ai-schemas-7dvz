@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-leaks-can-cg-plumbing-solutions-detect",
+  "name": "What types of leaks can CG Plumbing Solutions detect?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of leaks can CG Plumbing Solutions detect?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions is equipped to detect a wide range of leaks, including slab leaks, pipe leaks within walls or ceilings, sewer line leaks, and irrigation system leaks. Our technicians are trained and equipped with advanced tools to locate hidden leaks in various residential and commercial settings throughout the Las Vegas metropolitan area, from Henderson to Summerlin.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions detects various leaks, including slab, pipe, sewer, and irrigation system leaks in the Las Vegas area."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions detects various leaks, including slab, pipe, sewer, and irrigation system leaks in the Las Vegas area."
+}

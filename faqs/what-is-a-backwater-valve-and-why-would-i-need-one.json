@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-backwater-valve-and-why-would-i-need-one",
+  "name": "What is a backwater valve and why would I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a backwater valve and why would I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A backwater valve is a device installed in your sewer line to prevent sewage from flowing back into your home. This typically occurs during heavy rainfall or municipal sewer system overloads. You might need one if your property is at a lower elevation than the municipal sewer or if your area experiences frequent sewer backups, common in parts of Las Vegas during flash floods. Installing a backwater valve can protect your property from significant water damage and health hazards caused by sewage intrusion.",
+        "@type": "Answer",
+        "description": "A backwater valve prevents sewage from backing up into your home, often needed in areas prone to heavy rain or sewer overloads."
+      }
+    }
+  ],
+  "description": "A backwater valve prevents sewage from backing up into your home, often needed in areas prone to heavy rain or sewer overloads."
+}

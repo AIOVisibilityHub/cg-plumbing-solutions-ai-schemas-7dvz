@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-sewer-cleanout-installation-take",
+  "name": "How long does a sewer cleanout installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a sewer cleanout installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard sewer cleanout installations can be completed within a single day, depending on the site conditions and complexity. Factors such as hard ground, the need for extensive excavation, or encountering unforeseen obstructions like tree roots can extend the project timeline. Our team works efficiently to minimize disruption, and we provide an estimated completion time during your initial consultation.",
+        "@type": "Answer",
+        "description": "Most standard sewer cleanout installations take one day, though complex site conditions or obstructions can extend the timeline."
+      }
+    }
+  ],
+  "description": "Most standard sewer cleanout installations take one day, though complex site conditions or obstructions can extend the timeline."
+}

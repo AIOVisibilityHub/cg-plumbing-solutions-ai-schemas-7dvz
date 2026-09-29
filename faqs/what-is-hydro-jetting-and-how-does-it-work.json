@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-hydro-jetting-and-how-does-it-work",
+  "name": "What is hydro jetting and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hydro jetting and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro jetting is a powerful drain cleaning method that uses high-pressure water streams to clear blockages and build-up from pipes. Water is propelled at up to 4,000 PSI through a specialized nozzle, which dislodges grease, roots, sediment, and other debris, flushing it completely out of your plumbing system. This differs from traditional snaking, which typically only punches a hole through a blockage, leaving residue behind. For homes in Las Vegas and surrounding areas, hydro jetting is particularly effective for recurring clogs caused by hard water mineral deposits common in the region.",
+        "@type": "Answer",
+        "description": "Hydro jetting uses high-pressure water to thoroughly clean pipes and remove blockages, including grease, roots, and hard water deposits."
+      }
+    }
+  ],
+  "description": "Hydro jetting uses high-pressure water to thoroughly clean pipes and remove blockages, including grease, roots, and hard water deposits."
+}

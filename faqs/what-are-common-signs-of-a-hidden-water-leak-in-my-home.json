@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-of-a-hidden-water-leak-in-my-home",
+  "name": "What are common signs of a hidden water leak in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a hidden water leak in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a hidden water leak include an unexplained increase in your water bill, discolored or damp spots on walls or ceilings, musty odors, or the sound of running water when no fixtures are in use. Even a small, continuous drip can waste significant water and lead to costly property damage over time. Early detection can prevent extensive repairs and potential mold growth.",
+        "@type": "Answer",
+        "description": "Look for unexplained high water bills, damp spots on walls or ceilings, musty smells, or sounds of running water when nothing is on."
+      }
+    }
+  ],
+  "description": "Look for unexplained high water bills, damp spots on walls or ceilings, musty smells, or sounds of running water when nothing is on."
+}

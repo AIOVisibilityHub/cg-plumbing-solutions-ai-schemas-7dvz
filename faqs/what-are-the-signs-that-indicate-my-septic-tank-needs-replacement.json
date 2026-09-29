@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-that-indicate-my-septic-tank-needs-replacement",
+  "name": "What are the signs that indicate my septic tank needs replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that indicate my septic tank needs replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your septic tank may need replacement include persistent sewage odors, slow drains, gurgling toilets, standing water or lush green patches near the drain field, and sewage backups into your home. A professional inspection can confirm if these issues point to a failing system, as similar symptoms can sometimes indicate less severe problems like clogs. Early detection can help prevent extensive property damage and health hazards.",
+        "@type": "Answer",
+        "description": "Signs include sewage odors, slow drains, standing water over the drain field, and sewage backups."
+      }
+    }
+  ],
+  "description": "Signs include sewage odors, slow drains, standing water over the drain field, and sewage backups."
+}

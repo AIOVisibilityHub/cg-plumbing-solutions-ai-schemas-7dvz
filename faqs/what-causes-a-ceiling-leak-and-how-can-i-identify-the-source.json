@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-a-ceiling-leak-and-how-can-i-identify-the-source",
+  "name": "What causes a ceiling leak, and how can I identify the source?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a ceiling leak, and how can I identify the source?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ceiling leaks typically stem from plumbing issues on the floor above, such as a leaky pipe, a faulty toilet seal, a compromised shower pan, or a damaged water heater. Roof leaks are also a possibility. Identifying the source often requires investigation, as water can travel along joists before dripping. It's crucial to address the leak promptly, as prolonged moisture can lead to mold growth and structural damage. CG Plumbing Solutions technicians are trained to accurately pinpoint these sources through inspection.",
+        "@type": "Answer",
+        "description": "Ceiling leaks are often caused by plumbing issues like leaky pipes, toilet seals, shower pans, or water heaters. Prompt identification and repair are crucial to prevent further damage."
+      }
+    }
+  ],
+  "description": "Ceiling leaks are often caused by plumbing issues like leaky pipes, toilet seals, shower pans, or water heaters. Prompt identification and repair are crucial to"
+}

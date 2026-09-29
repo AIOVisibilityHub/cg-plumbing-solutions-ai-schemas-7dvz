@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-rooter-service-take",
+  "name": "How long does rooter service take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does rooter service take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of rooter service can vary widely depending on the complexity of the blockage. A straightforward drain cleaning for a small clog might take an hour or two. However, more severe obstructions, especially those in main sewer lines or caused by extensive tree root infiltration, could require several hours, sometimes even a full day, particularly if additional diagnostics like camera inspection are needed. Our technicians prioritize efficient service to minimize disruption to your home in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "Rooter service duration depends on clog complexity; a simple clog may take an hour or two, while severe blockages can take several hours."
+      }
+    }
+  ],
+  "description": "Rooter service duration depends on clog complexity; a simple clog may take an hour or two, while severe blockages can take several hours."
+}

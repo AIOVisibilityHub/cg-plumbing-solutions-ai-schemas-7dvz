@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-install-a-sewer-cleanout-myself-or-do-i-need-a-professional-plumber",
+  "name": "Can I install a sewer cleanout myself, or do I need a professional plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a sewer cleanout myself, or do I need a professional plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a sewer cleanout is a complex plumbing task that requires specialized tools, knowledge of plumbing codes, and experience with excavation. Incorrect installation can lead to leaks, sewer backups, or non-compliance with local regulations, potentially causing significant issues down the line. We strongly recommend hiring a licensed plumbing professional like CG Plumbing Solutions to ensure the job is done correctly, safely, and up to code.",
+        "@type": "Answer",
+        "description": "Sewer cleanout installation requires professional expertise due to its complexity, code compliance, and the risk of significant issues if done incorrectly."
+      }
+    }
+  ],
+  "description": "Sewer cleanout installation requires professional expertise due to its complexity, code compliance, and the risk of significant issues if done incorrectly."
+}

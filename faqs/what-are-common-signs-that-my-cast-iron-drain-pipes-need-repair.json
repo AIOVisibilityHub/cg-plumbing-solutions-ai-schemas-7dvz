@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-cast-iron-drain-pipes-need-repair",
+  "name": "What are common signs that my cast iron drain pipes need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my cast iron drain pipes need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of cast iron drain pipe issues include recurring clogs, slow drainage, foul odors emanating from drains, water stains on ceilings or walls, and the sound of running water when no fixtures are in use. These symptoms can indicate internal corrosion, cracks, or leaks in the pipes. Regular inspections by a professional plumber, especially in older homes in areas like Las Vegas, can help detect these issues early and prevent more extensive damage to your property.",
+        "@type": "Answer",
+        "description": "Recurring clogs, slow drainage, foul odors, water stains, and unexplained running water sounds are common indicators of cast iron drain pipe problems."
+      }
+    }
+  ],
+  "description": "Recurring clogs, slow drainage, foul odors, water stains, and unexplained running water sounds are common indicators of cast iron drain pipe problems."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-traditional-and-trenchless-drain-repair",
+  "name": "What is the difference between traditional and trenchless drain repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between traditional and trenchless drain repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Traditional drain repair involves excavating a trench to expose the damaged section of the pipe for replacement or repair, which can be disruptive to landscaping and hardscapes. Trenchless repair methods, such as pipe bursting or pipe lining, require only small access points and cause minimal disruption to your property. The choice between these methods, which CG Plumbing Solutions offers in areas like Paradise and Enterprise, often depends on the type of damage, pipe material, and accessibility, with trenchless options often preferred for their efficiency and lower impact on your yard.",
+        "@type": "Answer",
+        "description": "Traditional repair involves digging a trench, while trenchless methods use small access points to repair or replace pipes with minimal excavation."
+      }
+    }
+  ],
+  "description": "Traditional repair involves digging a trench, while trenchless methods use small access points to repair or replace pipes with minimal excavation."
+}

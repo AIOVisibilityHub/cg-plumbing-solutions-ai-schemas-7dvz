@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-double-check-valve-assembly-and-a-reduced-press",
+  "name": "What is the difference between a double check valve assembly and a reduced pressure zone assembly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a double check valve assembly and a reduced pressure zone assembly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Double check valve assemblies (DCVAs) and reduced pressure zone (RPZ) assemblies are both backflow prevention devices, but they offer different levels of protection. DCVAs are used for low to medium hazard applications, such as irrigation systems, and prevent backflow by using two independently operating check valves. RPZs provide the highest level of protection for high-hazard situations, like those involving chemical handling, by incorporating a relief valve that opens to vent water if a pressure drop occurs. Choosing between them depends on the specific hazard level identified by local codes and your property's use.",
+        "@type": "Answer",
+        "description": "DCVAs are for low-to-medium hazards, using two check valves. RPZs are for high hazards, adding a relief valve for superior protection."
+      }
+    }
+  ],
+  "description": "DCVAs are for low-to-medium hazards, using two check valves. RPZs are for high hazards, adding a relief valve for superior protection."
+}

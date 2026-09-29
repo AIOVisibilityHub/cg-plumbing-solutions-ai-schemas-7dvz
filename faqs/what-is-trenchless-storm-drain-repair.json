@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-trenchless-storm-drain-repair",
+  "name": "What is trenchless storm drain repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is trenchless storm drain repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trenchless storm drain repair is a method that allows for pipe repair or replacement with minimal digging. Techniques like pipe lining or pipe bursting involve creating small access points to repair or install new pipes underground, preserving your landscaping and property. This method is often chosen for its reduced invasiveness and faster completion times compared to traditional excavation. We can determine if trenchless repair is suitable for your property, especially for homeowners in established neighborhoods like Sun City Summerlin or Green Valley.",
+        "@type": "Answer",
+        "description": "Trenchless repair fixes storm drains with minimal digging using methods like pipe lining or bursting, preserving landscaping and property."
+      }
+    }
+  ],
+  "description": "Trenchless repair fixes storm drains with minimal digging using methods like pipe lining or bursting, preserving landscaping and property."
+}

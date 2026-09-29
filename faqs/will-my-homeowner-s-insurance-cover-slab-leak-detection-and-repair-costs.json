@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-my-homeowner-s-insurance-cover-slab-leak-detection-and-repair-costs",
+  "name": "Will my homeowner's insurance cover slab leak detection and repair costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover slab leak detection and repair costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for slab leak detection and repair can vary widely depending on your specific policy and the cause of the leak. Generally, sudden and accidental leaks may be covered, while leaks resulting from wear and tear or neglect are often excluded. It's essential to review your policy documents or contact your insurance provider directly to understand your coverage limits and requirements before any work begins. This preparation ensures you know what to expect regarding potential reimbursements.",
+        "@type": "Answer",
+        "description": "Coverage depends on your policy and the leak's cause; sudden leaks may be covered, but wear and tear often isn't. Check your policy before starting work."
+      }
+    }
+  ],
+  "description": "Coverage depends on your policy and the leak's cause; sudden leaks may be covered, but wear and tear often isn't. Check your policy before starting work."
+}

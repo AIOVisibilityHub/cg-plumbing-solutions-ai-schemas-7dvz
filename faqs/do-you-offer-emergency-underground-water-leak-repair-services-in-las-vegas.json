@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-you-offer-emergency-underground-water-leak-repair-services-in-las-vegas",
+  "name": "Do you offer emergency underground water leak repair services in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency underground water leak repair services in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we understand that underground water leaks can cause significant damage and require urgent attention. CG Plumbing Solutions offers emergency underground water leak repair services throughout our service areas, including Las Vegas, North Las Vegas, Henderson, Paradise, and Summerlin. We prioritize these critical issues to minimize water waste and property damage, providing prompt response and effective solutions when you need them most.",
+        "@type": "Answer",
+        "description": "Yes, CG Plumbing Solutions offers emergency underground water leak repair services across Las Vegas, North Las Vegas, Henderson, Paradise, and Summerlin."
+      }
+    }
+  ],
+  "description": "Yes, CG Plumbing Solutions offers emergency underground water leak repair services across Las Vegas, North Las Vegas, Henderson, Paradise, and Summerlin."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-the-hydro-jetting-process-usually-take",
+  "name": "How long does the hydro jetting process usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the hydro jetting process usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of the hydro jetting process can vary, typically ranging from one to several hours, depending on the complexity of the blockage and the length of the pipes being cleaned. A simple, localized clog might be cleared relatively quickly, while extensive root intrusion or significant buildup in a main sewer line will require more time. Before beginning, our technicians from CG Plumbing Solutions will assess the situation and provide an estimated timeframe, ensuring you understand the expected duration of the service.",
+        "@type": "Answer",
+        "description": "Hydro jetting typically takes one to several hours, depending on the clog's complexity and pipe length. Our technicians provide an estimated timeframe after assessment."
+      }
+    }
+  ],
+  "description": "Hydro jetting typically takes one to several hours, depending on the clog's complexity and pipe length. Our technicians provide an estimated timeframe after ass"
+}

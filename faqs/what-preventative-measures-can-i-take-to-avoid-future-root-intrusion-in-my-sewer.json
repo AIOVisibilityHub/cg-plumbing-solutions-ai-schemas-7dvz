@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preventative-measures-can-i-take-to-avoid-future-root-intrusion-in-my-sewer",
+  "name": "What preventative measures can I take to avoid future root intrusion in my sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preventative measures can I take to avoid future root intrusion in my sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future root intrusion, consider planting trees and shrubs away from your sewer lines, especially those with aggressive root systems. Regular plumbing inspections, particularly camera inspections, can help detect early root growth before it causes significant damage. Some homeowners also opt for chemical root inhibitors, though these should be used cautiously and according to manufacturer instructions. For existing issues, a common next step is to assess the pipe material; older, porous pipes are more susceptible to root entry. Replacing damaged sections with root-resistant materials, such as PVC, can be a long-term solution. CG Plumbing Solutions can advise on the best preventative strategies tailored to your property in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "Preventative measures include smart planting, regular camera inspections, and potentially using root inhibitors or replacing susceptible pipe sections with root-resistant materials."
+      }
+    }
+  ],
+  "description": "Preventative measures include smart planting, regular camera inspections, and potentially using root inhibitors or replacing susceptible pipe sections with root"
+}

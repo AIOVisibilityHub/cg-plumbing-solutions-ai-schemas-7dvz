@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-pipe-bursting-project-typically-take",
+  "name": "How long does a pipe bursting project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a pipe bursting project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a pipe bursting project can vary depending on factors such as the length and depth of the pipe, the type of soil, and the complexity of the site. Generally, most residential pipe bursting projects can be completed within 1 to 3 days. This is significantly faster than traditional trenching methods, which can take a week or more for similar pipe lengths. Before starting, our technicians in the Las Vegas area provide a detailed timeline based on a thorough site assessment.",
+        "@type": "Answer",
+        "description": "Most residential pipe bursting projects take 1 to 3 days, varying with pipe length, depth, and soil type. It's generally faster than traditional trenching methods."
+      }
+    }
+  ],
+  "description": "Most residential pipe bursting projects take 1 to 3 days, varying with pipe length, depth, and soil type. It's generally faster than traditional trenching metho"
+}

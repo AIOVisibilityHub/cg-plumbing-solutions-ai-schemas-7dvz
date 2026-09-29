@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/is-drain-jetting-safe-for-all-types-of-pipes",
+  "name": "Is drain jetting safe for all types of pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is drain jetting safe for all types of pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "High-pressure drain jetting is generally safe for most standard plumbing pipes, including PVC, cast iron, and concrete, when performed by an experienced technician. However, it's not recommended for severely compromised or fragile pipes, such as those with existing cracks, significant corrosion, or age-related deterioration. CG Plumbing Solutions always conducts a thorough video inspection of your drain lines first to assess their condition and confirm that jetting is a safe and appropriate solution for your specific plumbing system.",
+        "@type": "Answer",
+        "description": "Drain jetting is safe for most standard pipes like PVC and cast iron, but not for severely damaged or fragile ones. A video inspection is always performed first to ensure pipe integrity."
+      }
+    }
+  ],
+  "description": "Drain jetting is safe for most standard pipes like PVC and cast iron, but not for severely damaged or fragile ones. A video inspection is always performed first"
+}

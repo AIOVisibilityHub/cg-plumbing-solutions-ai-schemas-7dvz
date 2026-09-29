@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-call-a-professional-for-hidden-leak-detection-instead-of-trying-to",
+  "name": "When should I call a professional for hidden leak detection instead of trying to find it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for hidden leak detection instead of trying to find it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for hidden leak detection if you suspect a leak but cannot locate its source, or if you notice consistent signs like a high water bill, mold, or persistent dampness. Attempting to find hidden leaks yourself without the right equipment can lead to unnecessary damage to your property or misdiagnosis. Professionals have specialized tools and training to accurately pinpoint leaks without destructive methods. Contacting CG Plumbing Solutions early can save you time, prevent further damage, and ensure a precise resolution.",
+        "@type": "Answer",
+        "description": "Call a professional if you suspect a hidden leak but can't find it, or notice persistent signs, to avoid property damage and ensure accurate diagnosis."
+      }
+    }
+  ],
+  "description": "Call a professional if you suspect a hidden leak but can't find it, or notice persistent signs, to avoid property damage and ensure accurate diagnosis."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-sewer-cleanout-and-a-main-drain-line",
+  "name": "What is the difference between a sewer cleanout and a main drain line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a sewer cleanout and a main drain line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main drain line is the primary pipe that collects all wastewater from your home's various drains and carries it to the municipal sewer system or septic tank. The sewer cleanout is a specific access point, usually a vertical pipe with a cap, that connects directly into this main drain line. Think of the main drain line as the highway for wastewater, and the cleanout as an on-ramp specifically designed for maintenance and blockage removal. Having a functional cleanout is crucial for servicing the main drain line without needing to break through floors or walls.",
+        "@type": "Answer",
+        "description": "The main drain line is the primary pipe carrying all wastewater, while the sewer cleanout is an accessible point into this line for maintenance and blockage removal."
+      }
+    }
+  ],
+  "description": "The main drain line is the primary pipe carrying all wastewater, while the sewer cleanout is an accessible point into this line for maintenance and blockage rem"
+}

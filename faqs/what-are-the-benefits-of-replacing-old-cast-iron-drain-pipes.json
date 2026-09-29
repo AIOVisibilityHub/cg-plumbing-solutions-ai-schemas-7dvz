@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-benefits-of-replacing-old-cast-iron-drain-pipes",
+  "name": "What are the benefits of replacing old cast iron drain pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of replacing old cast iron drain pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing old cast iron drain pipes offers several key benefits. New materials like PVC or ABS are highly resistant to corrosion and root intrusion, which are common issues with cast iron. This leads to a significant reduction in future clogs, leaks, and potential water damage, improving the overall reliability of your plumbing system. The smoother interior of modern pipes also enhances drainage efficiency. Property owners in areas like Paradise and Enterprise often experience improved plumbing performance and peace of mind, knowing their drainage system is updated to current standards.",
+        "@type": "Answer",
+        "description": "Replacing old cast iron pipes with materials like PVC or ABS reduces corrosion, prevents root intrusion, minimizes clogs and leaks, and improves overall drainage efficiency."
+      }
+    }
+  ],
+  "description": "Replacing old cast iron pipes with materials like PVC or ABS reduces corrosion, prevents root intrusion, minimizes clogs and leaks, and improves overall drainag"
+}

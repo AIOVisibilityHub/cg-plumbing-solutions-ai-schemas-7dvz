@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-underground-water-leak-detection",
+  "name": "What is the typical process for underground water leak detection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for underground water leak detection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for underground water leak detection typically involves using specialized equipment such as acoustic listening devices, ground penetrating radar, and thermal imaging cameras to pinpoint the exact location of the leak. Our technicians will first inspect your property for visible signs and then use these tools to trace the source of the hidden leak without unnecessary excavation. Accurately locating the leak minimizes damage and reduces repair costs by focusing on the precise area needing attention.",
+        "@type": "Answer",
+        "description": "Detection uses specialized equipment like acoustic devices and ground penetrating radar to pinpoint the leak, minimizing excavation."
+      }
+    }
+  ],
+  "description": "Detection uses specialized equipment like acoustic devices and ground penetrating radar to pinpoint the leak, minimizing excavation."
+}

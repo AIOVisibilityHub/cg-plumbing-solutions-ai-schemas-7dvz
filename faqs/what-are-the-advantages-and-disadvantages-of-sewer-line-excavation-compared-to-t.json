@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-advantages-and-disadvantages-of-sewer-line-excavation-compared-to-t",
+  "name": "What are the advantages and disadvantages of sewer line excavation compared to trenchless repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages and disadvantages of sewer line excavation compared to trenchless repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer line excavation offers a direct and comprehensive solution, allowing for full replacement of severely damaged sections and often providing a longer-lasting repair, especially for collapsed or completely broken pipes. However, it is more invasive, leading to significant disruption to landscaping and driveways, and typically has a higher upfront cost. Trenchless repair, while less disruptive, might not be suitable for all types of severe damage or pipe configurations. Choosing between them often involves a practical tradeoff between minimal disruption versus a potentially more robust, complete replacement for extensive damage.",
+        "@type": "Answer",
+        "description": "Excavation provides a thorough repair for severe damage but causes more disruption and cost, while trenchless methods are less invasive but may not fix all problems."
+      }
+    }
+  ],
+  "description": "Excavation provides a thorough repair for severe damage but causes more disruption and cost, while trenchless methods are less invasive but may not fix all prob"
+}

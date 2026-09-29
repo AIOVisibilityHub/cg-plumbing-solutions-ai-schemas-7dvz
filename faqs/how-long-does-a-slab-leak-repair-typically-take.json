@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-slab-leak-repair-typically-take",
+  "name": "How long does a slab leak repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a slab leak repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a slab leak repair varies depending on the repair method, the leak's complexity, and its location. Simple repairs using direct access might take a day or less, while re-routing a significant section of piping could extend to several days. Factors like the ease of accessing the damaged pipe and whether any structural elements are affected will also influence the timeline. During the initial assessment, our technicians can provide a more precise estimate based on your specific situation in Paradise.",
+        "@type": "Answer",
+        "description": "Slab leak repair times vary from a day to several days, depending on the method, complexity, and location of the leak."
+      }
+    }
+  ],
+  "description": "Slab leak repair times vary from a day to several days, depending on the method, complexity, and location of the leak."
+}

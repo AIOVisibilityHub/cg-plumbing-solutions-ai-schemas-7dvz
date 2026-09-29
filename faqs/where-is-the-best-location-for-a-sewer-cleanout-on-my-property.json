@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/where-is-the-best-location-for-a-sewer-cleanout-on-my-property",
+  "name": "Where is the best location for a sewer cleanout on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where is the best location for a sewer cleanout on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal location for a sewer cleanout is typically outdoors, within a few feet of your home's foundation where the main sewer line exits the house, or near the property line. Local plumbing codes in areas like Las Vegas and Henderson often dictate specific setback requirements from structures and property boundaries. Our technicians will assess your property to determine the most accessible and code-compliant placement that allows for effective future maintenance.",
+        "@type": "Answer",
+        "description": "A sewer cleanout is best located outdoors near your home's foundation or property line, considering local codes in places like Las Vegas for compliant and accessible placement."
+      }
+    }
+  ],
+  "description": "A sewer cleanout is best located outdoors near your home's foundation or property line, considering local codes in places like Las Vegas for compliant and acces"
+}

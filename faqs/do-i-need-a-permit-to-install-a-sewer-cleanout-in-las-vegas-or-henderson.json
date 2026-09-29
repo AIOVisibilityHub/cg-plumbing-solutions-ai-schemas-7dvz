@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-a-permit-to-install-a-sewer-cleanout-in-las-vegas-or-henderson",
+  "name": "Do I need a permit to install a sewer cleanout in Las Vegas or Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install a sewer cleanout in Las Vegas or Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, installing a sewer cleanout typically requires obtaining a plumbing permit from your local jurisdiction, such as the City of Las Vegas or Clark County. This ensures the work complies with local building and plumbing codes for proper installation and safety. As part of our service, CG Plumbing Solutions can assist with navigating the permitting process to ensure all necessary approvals are secured before work begins.",
+        "@type": "Answer",
+        "description": "Yes, a permit is usually required for sewer cleanout installation in areas like Las Vegas or Henderson to ensure code compliance, and we can assist with this process."
+      }
+    }
+  ],
+  "description": "Yes, a permit is usually required for sewer cleanout installation in areas like Las Vegas or Henderson to ensure code compliance, and we can assist with this pr"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-have-my-drains-hydro-jetted",
+  "name": "How often should I have my drains hydro jetted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my drains hydro jetted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of hydro jetting depends on several factors, including the age and condition of your plumbing, the type of debris typically going down your drains, and whether you've experienced recurring issues. For many homes, an annual or biennial hydro jetting service can serve as preventative maintenance, particularly for kitchen drains that accumulate grease or properties with known root intrusion. For businesses, especially restaurants, more frequent cleaning might be necessary. CG Plumbing Solutions can help you determine an appropriate schedule based on a thorough assessment of your property's specific needs.",
+        "@type": "Answer",
+        "description": "Hydro jetting frequency depends on pipe age, debris type, and recurring issues, but annual or biennial service is common for preventative maintenance."
+      }
+    }
+  ],
+  "description": "Hydro jetting frequency depends on pipe age, debris type, and recurring issues, but annual or biennial service is common for preventative maintenance."
+}

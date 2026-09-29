@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-sewer-cleanout-installation-process",
+  "name": "What is involved in the sewer cleanout installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the sewer cleanout installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The sewer cleanout installation process typically begins with identifying the main sewer line and marking the optimal location. This involves careful excavation to expose the sewer pipe, cutting into the existing line, and then installing the new cleanout fitting, which includes a T-shaped or Y-shaped pipe section with a cap. Proper sealing and backfilling complete the installation. Our process includes a thorough site assessment beforehand to anticipate any challenges and prepare accordingly.",
+        "@type": "Answer",
+        "description": "The installation process involves locating the main sewer line, excavation, cutting the pipe, installing the cleanout fitting with a cap, and then proper sealing and backfilling."
+      }
+    }
+  ],
+  "description": "The installation process involves locating the main sewer line, excavation, cutting the pipe, installing the cleanout fitting with a cap, and then proper sealin"
+}

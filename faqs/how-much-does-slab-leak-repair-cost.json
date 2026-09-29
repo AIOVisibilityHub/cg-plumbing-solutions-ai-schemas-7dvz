@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-slab-leak-repair-cost",
+  "name": "How much does slab leak repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does slab leak repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of slab leak repair varies significantly based on the chosen repair method, the extent of the damage, and the accessibility of the leak. Factors like the need for concrete demolition, re-routing new pipes, or specialized pipe lining procedures will influence the final price. Due to these variables, it's essential to get a professional assessment to understand the specific costs for your situation. CG Plumbing Solutions offers detailed estimates after a thorough inspection, ensuring transparency for residents in Summerlin.",
+        "@type": "Answer",
+        "description": "Slab leak repair costs vary by method, damage extent, and leak accessibility; a professional assessment provides a precise estimate."
+      }
+    }
+  ],
+  "description": "Slab leak repair costs vary by method, damage extent, and leak accessibility; a professional assessment provides a precise estimate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-does-a-backwater-valve-work-to-prevent-sewage-backups",
+  "name": "How does a backwater valve work to prevent sewage backups?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a backwater valve work to prevent sewage backups?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A backwater valve contains a flap or gate that allows wastewater to flow out of your home into the municipal sewer system. When the municipal sewer line experiences a surge or backup, this flap automatically closes, preventing sewage from flowing back into your property's plumbing. After the threat of backup subsides, the flap reopens, allowing normal drainage to resume. This automatic closure and reopening mechanism provides passive protection without requiring manual intervention.",
+        "@type": "Answer",
+        "description": "It uses a one-way flap that closes automatically when sewage tries to flow back into your home, then reopens for normal drainage."
+      }
+    }
+  ],
+  "description": "It uses a one-way flap that closes automatically when sewage tries to flow back into your home, then reopens for normal drainage."
+}

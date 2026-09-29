@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-of-a-slab-leak-in-a-las-vegas-home",
+  "name": "What are the common signs of a slab leak in a Las Vegas home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a slab leak in a Las Vegas home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a slab leak include unexplained wet spots on floors or carpets, unusually high water bills without increased usage, the sound of running water when no fixtures are in use, and a sudden drop in water pressure. You might also notice a musty odor from mold or mildew growth under your flooring. In the dry Las Vegas climate, visible dampness can indicate a significant problem that requires prompt attention to prevent further structural damage.",
+        "@type": "Answer",
+        "description": "Signs of a slab leak include wet spots, high water bills, running water sounds, and unexplained drops in water pressure."
+      }
+    }
+  ],
+  "description": "Signs of a slab leak include wet spots, high water bills, running water sounds, and unexplained drops in water pressure."
+}

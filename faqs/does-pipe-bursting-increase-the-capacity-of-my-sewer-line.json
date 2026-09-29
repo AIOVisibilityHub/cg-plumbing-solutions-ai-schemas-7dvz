@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/does-pipe-bursting-increase-the-capacity-of-my-sewer-line",
+  "name": "Does pipe bursting increase the capacity of my sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does pipe bursting increase the capacity of my sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, pipe bursting often allows for an increase in the diameter of the new sewer line compared to the old one. The bursting head can be sized to expand the existing pipe channel slightly, accommodating a larger replacement pipe. This increase in capacity can improve wastewater flow and reduce the likelihood of future blockages, providing a significant long-term benefit for your property's plumbing system. Our technicians in areas like North Las Vegas can assess if an upsizing is beneficial and feasible for your specific sewer line.",
+        "@type": "Answer",
+        "description": "Yes, pipe bursting can increase the new sewer line's diameter, improving wastewater flow and reducing future blockages for a long-term benefit."
+      }
+    }
+  ],
+  "description": "Yes, pipe bursting can increase the new sewer line's diameter, improving wastewater flow and reducing future blockages for a long-term benefit."
+}

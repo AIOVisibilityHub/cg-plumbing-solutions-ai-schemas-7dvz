@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-that-my-backflow-prevention-device-might-be-failing",
+  "name": "What are the signs that my backflow prevention device might be failing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my backflow prevention device might be failing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While backflow prevention devices are designed to operate without noticeable signs of failure, some indicators might suggest an issue. These include discolored water, unusual odors, drops in water pressure, or visible leaks around the device. If you notice any of these, it's a good idea to schedule an inspection. Early detection can prevent more significant problems and ensure your water quality remains protected.",
+        "@type": "Answer",
+        "description": "Signs of failure can include discolored water, unusual odors, or reduced water pressure, warranting an inspection."
+      }
+    }
+  ],
+  "description": "Signs of failure can include discolored water, unusual odors, or reduced water pressure, warranting an inspection."
+}

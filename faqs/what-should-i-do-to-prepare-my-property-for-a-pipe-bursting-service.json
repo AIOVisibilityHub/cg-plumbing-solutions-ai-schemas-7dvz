@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-to-prepare-my-property-for-a-pipe-bursting-service",
+  "name": "What should I do to prepare my property for a pipe bursting service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my property for a pipe bursting service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a pipe bursting service, you'll typically need to ensure access to the designated entry and exit points for the equipment. This may involve clearing small sections of landscaping or obstacles. It's also advisable to inform our technicians about the location of any other underground utilities or irrigation lines near the work area that are not part of the sewer line. Our team will review these requirements with you during the initial assessment to minimize surprises and ensure a smooth process at your Las Vegas home.",
+        "@type": "Answer",
+        "description": "Prepare by ensuring clear access to entry/exit points and informing technicians about other nearby underground utilities. Our team will guide you during assessment."
+      }
+    }
+  ],
+  "description": "Prepare by ensuring clear access to entry/exit points and informing technicians about other nearby underground utilities. Our team will guide you during assessm"
+}

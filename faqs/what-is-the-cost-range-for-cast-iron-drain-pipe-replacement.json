@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-cost-range-for-cast-iron-drain-pipe-replacement",
+  "name": "What is the cost range for cast iron drain pipe replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost range for cast iron drain pipe replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of cast iron drain pipe replacement can range widely, depending on factors such as the extent of damage, the length of pipe needing replacement, accessibility challenges, and the chosen replacement material. Minor repairs could be hundreds of dollars, while a whole-house repipe might be several thousands. CG Plumbing Solutions provides transparent, detailed estimates after a thorough on-site inspection, ensuring all variables are accounted for. We focus on delivering value-driven solutions tailored to your specific plumbing needs in the Las Vegas metropolitan area.",
+        "@type": "Answer",
+        "description": "Costs vary significantly based on damage extent, pipe length, accessibility, and material. Minor repairs are hundreds, full repipes can be thousands. Detailed estimates are provided after inspection."
+      }
+    }
+  ],
+  "description": "Costs vary significantly based on damage extent, pipe length, accessibility, and material. Minor repairs are hundreds, full repipes can be thousands. Detailed e"
+}

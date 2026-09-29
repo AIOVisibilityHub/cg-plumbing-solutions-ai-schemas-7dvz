@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-high-pressure-drain-jetting-remove-tree-roots",
+  "name": "Can high-pressure drain jetting remove tree roots?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can high-pressure drain jetting remove tree roots?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, high-pressure drain jetting is highly effective at removing tree roots from drain lines. The powerful water streams are strong enough to cut through and break up root masses that have infiltrated pipes. Once the roots are fragmented, the water flushes them out of the system. CG Plumbing Solutions frequently uses jetting for root removal in areas like Summerlin and Henderson, where tree roots can be a common cause of severe sewer line blockages, restoring full drainage capacity.",
+        "@type": "Answer",
+        "description": "Yes, high-pressure drain jetting effectively cuts through and flushes out tree roots from drain lines. It's commonly used by CG Plumbing Solutions for root issues in areas like Summerlin and Henderson."
+      }
+    }
+  ],
+  "description": "Yes, high-pressure drain jetting effectively cuts through and flushes out tree roots from drain lines. It's commonly used by CG Plumbing Solutions for root issu"
+}

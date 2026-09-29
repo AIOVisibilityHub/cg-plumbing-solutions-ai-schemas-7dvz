@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-immediately-if-i-suspect-a-slab-leak",
+  "name": "What should I do immediately if I suspect a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I suspect a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you suspect a slab leak, your immediate steps should be to turn off your main water supply to prevent further water damage and contact a professional plumbing service. Turning off the water can significantly reduce the potential for structural compromise, mold growth, and higher water bills. Prepare to share any unusual observations like water meter changes or damp spots with the plumber, as these details help in faster diagnosis and repair in areas like Paradise.",
+        "@type": "Answer",
+        "description": "Immediately turn off your main water supply and contact a professional plumber if you suspect a slab leak."
+      }
+    }
+  ],
+  "description": "Immediately turn off your main water supply and contact a professional plumber if you suspect a slab leak."
+}

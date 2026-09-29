@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-repair-or-re-pipe-when-i-have-a-slab-leak",
+  "name": "Should I repair or re-pipe when I have a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or re-pipe when I have a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repairing a single slab leak and re-piping (replacing a section or all of your plumbing system) depends on several factors. Consider the age and condition of your existing pipes, the frequency of past leaks, and the number of leaks discovered. While a single repair might be more cost-effective in the short term, if your plumbing system is old or experiencing multiple failures, a re-pipe could be a better long-term investment, preventing future issues. It's a practical tradeoff between immediate cost and future reliability.",
+        "@type": "Answer",
+        "description": "Choose between repair and re-piping based on pipe age, leak frequency, and the number of leaks; re-piping offers long-term reliability for older systems."
+      }
+    }
+  ],
+  "description": "Choose between repair and re-piping based on pipe age, leak frequency, and the number of leaks; re-piping offers long-term reliability for older systems."
+}

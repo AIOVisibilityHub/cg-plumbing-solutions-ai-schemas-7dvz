@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-hydro-jetting-remove-tree-roots-from-my-sewer-line",
+  "name": "Will hydro jetting remove tree roots from my sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will hydro jetting remove tree roots from my sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, hydro jetting is one of the most effective methods for removing tree roots from sewer lines. The high-pressure water streams are powerful enough to cut through even dense root systems, breaking them up and flushing them out of the pipe. Unlike snaking, which can often just punch a hole through the roots, hydro jetting cleans the entire circumference of the pipe, removing root fragments and preventing immediate regrowth. However, it's important to understand that while hydro jetting removes existing roots, it doesn't prevent future root intrusion if the pipe has cracks or loose joints, especially in areas with extensive tree growth like parts of Summerlin or Henderson. In such cases, further solutions might be discussed.",
+        "@type": "Answer",
+        "description": "Hydro jetting effectively removes tree roots from sewer lines by cutting and flushing them out. While it clears existing roots, it doesn't prevent future intrusion if pipe damage allows new growth."
+      }
+    }
+  ],
+  "description": "Hydro jetting effectively removes tree roots from sewer lines by cutting and flushing them out. While it clears existing roots, it doesn't prevent future intrus"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-do-cast-iron-drain-pipes-typically-last-before-needing-repair-or-replac",
+  "name": "How long do cast iron drain pipes typically last before needing repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do cast iron drain pipes typically last before needing repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cast iron drain pipes are known for their durability and can last anywhere from 50 to 100 years or more under ideal conditions. However, factors like soil acidity, water chemistry, and inconsistent maintenance can accelerate corrosion and lead to premature failure. In the arid climate of Las Vegas, extreme temperature fluctuations can also contribute to pipe stress over decades. Regular inspections can help assess their condition and determine the optimal time for intervention.",
+        "@type": "Answer",
+        "description": "Cast iron drain pipes typically last 50-100 years, but factors like soil, water chemistry, and maintenance affect their lifespan."
+      }
+    }
+  ],
+  "description": "Cast iron drain pipes typically last 50-100 years, but factors like soil, water chemistry, and maintenance affect their lifespan."
+}

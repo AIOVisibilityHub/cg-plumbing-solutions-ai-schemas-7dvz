@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-information-do-i-need-to-provide-before-a-sewer-line-locating-service",
+  "name": "What information do I need to provide before a sewer line locating service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide before a sewer line locating service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure an efficient sewer line locating service, it's helpful to provide any existing blueprints or diagrams of your property that show utility lines. Additionally, pointing out the location of your main sewer cleanout, if you know it, can save time. Informing the technician about any known or suspected problem areas in your sewer line, such as recurring clogs or slow drains, can also guide their focus. Gathering this information ahead of time allows our CG Plumbing Solutions team to prepare and execute the service more quickly and accurately, minimizing disruptions.",
+        "@type": "Answer",
+        "description": "Before service, provide any utility blueprints, the main sewer cleanout location, and details of known sewer issues to help the technician."
+      }
+    }
+  ],
+  "description": "Before service, provide any utility blueprints, the main sewer cleanout location, and details of known sewer issues to help the technician."
+}

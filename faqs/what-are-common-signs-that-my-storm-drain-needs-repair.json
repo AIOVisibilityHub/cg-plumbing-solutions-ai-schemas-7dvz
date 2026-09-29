@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-storm-drain-needs-repair",
+  "name": "What are common signs that my storm drain needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my storm drain needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a storm drain needing repair include standing water in your yard after rain, slow draining from downspouts, unpleasant odors emanating from drains, or visible cracks and collapses in drain pipes. Unusual lush patches of grass near the drain line can also indicate a leak. Early detection of these issues can help prevent minor problems from escalating into more costly and extensive repairs, a key consideration for homeowners in Las Vegas where proper drainage is crucial during seasonal heavy rains.",
+        "@type": "Answer",
+        "description": "Signs include standing water, slow drainage, odors from drains, or visible pipe damage. Early detection prevents more extensive repairs."
+      }
+    }
+  ],
+  "description": "Signs include standing water, slow drainage, odors from drains, or visible pipe damage. Early detection prevents more extensive repairs."
+}

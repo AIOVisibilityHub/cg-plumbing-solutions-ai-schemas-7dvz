@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-immediately-after-discovering-a-ceiling-leak",
+  "name": "What should I do immediately after discovering a ceiling leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a ceiling leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after discovering a ceiling leak, take steps to minimize damage. First, if safe, try to identify the nearest water shut-off valve for the affected area or your main water supply and turn it off. Move furniture and valuables away from the leak. Place buckets or towels to catch dripping water. Avoid using electrical appliances near the water. Then, contact a professional plumber like CG Plumbing Solutions for an assessment and repair. We can guide you through these initial steps effectively.",
+        "@type": "Answer",
+        "description": "Turn off the water supply, move valuables, contain the water, and then call a professional plumber to assess and repair the leak."
+      }
+    }
+  ],
+  "description": "Turn off the water supply, move valuables, contain the water, and then call a professional plumber to assess and repair the leak."
+}

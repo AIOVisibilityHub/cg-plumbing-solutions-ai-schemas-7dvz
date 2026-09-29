@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-happens-after-the-video-pipe-inspection-is-completed",
+  "name": "What happens after the video pipe inspection is completed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the video pipe inspection is completed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After the inspection, our technician will review the findings with you, showing you any issues identified on the video feed. They will explain the nature of the problem, its exact location, and discuss recommended repair options tailored to your situation. For CG Plumbing Solutions, this detailed explanation ensures you understand the condition of your pipes and can make an informed decision about the next steps. We'll provide a clear, no-obligation estimate for any necessary repairs.",
+        "@type": "Answer",
+        "description": "After the inspection, our technician will review findings with you, explain the problem, and discuss recommended repair options."
+      }
+    }
+  ],
+  "description": "After the inspection, our technician will review findings with you, explain the problem, and discuss recommended repair options."
+}

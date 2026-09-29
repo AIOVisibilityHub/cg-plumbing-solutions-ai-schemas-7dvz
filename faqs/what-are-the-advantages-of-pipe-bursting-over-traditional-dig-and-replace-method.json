@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-advantages-of-pipe-bursting-over-traditional-dig-and-replace-method",
+  "name": "What are the advantages of pipe bursting over traditional dig-and-replace methods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of pipe bursting over traditional dig-and-replace methods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pipe bursting offers several key advantages over traditional dig-and-replace methods. It's a trenchless technology, meaning minimal excavation, which preserves landscaping, driveways, and other structures. This significantly reduces property restoration costs and time. Additionally, the new HDPE pipe installed is often larger in diameter and more durable than the old one, improving flow and extending the pipe's lifespan. For residents in high-value areas like Summerlin, preserving property aesthetics and reducing inconvenience is a major benefit.",
+        "@type": "Answer",
+        "description": "Pipe bursting minimizes excavation, preserving property and reducing restoration costs, and installs a more durable pipe, often with improved flow."
+      }
+    }
+  ],
+  "description": "Pipe bursting minimizes excavation, preserving property and reducing restoration costs, and installs a more durable pipe, often with improved flow."
+}

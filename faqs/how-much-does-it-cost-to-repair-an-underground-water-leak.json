@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-repair-an-underground-water-leak",
+  "name": "How much does it cost to repair an underground water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair an underground water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair an underground water leak varies significantly depending on the leak's location, severity, and the type of pipe material involved. Factors like the depth of the pipe, the need for excavation, and whether trenchless repair is an option will influence the total cost. We provide a detailed estimate after a thorough leak detection to ensure transparency and help you understand the scope of work and associated expenses.",
+        "@type": "Answer",
+        "description": "Repair costs depend on the leak's location, severity, pipe material, and repair method. A detailed estimate is provided after detection."
+      }
+    }
+  ],
+  "description": "Repair costs depend on the leak's location, severity, pipe material, and repair method. A detailed estimate is provided after detection."
+}

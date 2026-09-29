@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-materials-are-typically-used-to-replace-cast-iron-drain-pipes",
+  "name": "What materials are typically used to replace cast iron drain pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used to replace cast iron drain pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When replacing cast iron drain pipes, common materials include PVC (polyvinyl chloride) and ABS (acrylonitrile butadiene styrene). PVC is widely used due to its durability, corrosion resistance, and smooth interior, which helps prevent clogs. ABS is another popular choice, known for its strength and ease of installation. Both materials are significantly lighter and easier to work with than cast iron, contributing to more efficient installations. Choosing between PVC and ABS often depends on local plumbing codes and specific application requirements in regions like Las Vegas, North Las Vegas, and Paradise.",
+        "@type": "Answer",
+        "description": "Common replacement materials are PVC and ABS, both durable, corrosion-resistant, and easier to install than cast iron."
+      }
+    }
+  ],
+  "description": "Common replacement materials are PVC and ABS, both durable, corrosion-resistant, and easier to install than cast iron."
+}

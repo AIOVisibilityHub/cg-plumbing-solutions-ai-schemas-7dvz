@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-does-a-plumber-detect-a-slab-leak-without-breaking-my-floor",
+  "name": "How does a plumber detect a slab leak without breaking my floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a plumber detect a slab leak without breaking my floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers detect slab leaks using non-invasive methods such as acoustic listening devices, thermal imaging cameras, and static pressure tests. These tools help pinpoint the exact location of the leak under the concrete slab without destructive methods. The approach chosen often depends on the specific symptoms and the type of flooring, ensuring minimal disruption to your Henderson or Paradise home.",
+        "@type": "Answer",
+        "description": "Slab leaks are detected using non-invasive tools like acoustic listening devices and thermal imaging to locate the leak without damaging floors."
+      }
+    }
+  ],
+  "description": "Slab leaks are detected using non-invasive tools like acoustic listening devices and thermal imaging to locate the leak without damaging floors."
+}

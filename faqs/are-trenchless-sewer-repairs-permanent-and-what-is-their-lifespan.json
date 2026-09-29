@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-trenchless-sewer-repairs-permanent-and-what-is-their-lifespan",
+  "name": "Are trenchless sewer repairs permanent, and what is their lifespan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are trenchless sewer repairs permanent, and what is their lifespan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When installed correctly, trenchless sewer repairs, particularly pipe lining, are considered a permanent solution. The new pipe-within-a-pipe structure created by cured-in-place pipe (CIPP) lining is typically made from durable epoxy resins designed to resist corrosion, root intrusion, and general wear and tear for decades. Manufacturers often offer warranties ranging from 25 to 50 years for these materials. The lifespan can be influenced by factors like soil conditions and proper maintenance, but a well-executed trenchless repair should last as long, if not longer, than many traditional pipe materials.",
+        "@type": "Answer",
+        "description": "Trenchless sewer repairs are considered permanent, with pipe lining materials often warrantied for 25-50 years, and can last for decades when properly installed."
+      }
+    }
+  ],
+  "description": "Trenchless sewer repairs are considered permanent, with pipe lining materials often warrantied for 25-50 years, and can last for decades when properly installed"
+}

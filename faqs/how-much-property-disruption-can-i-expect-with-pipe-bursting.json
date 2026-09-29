@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-property-disruption-can-i-expect-with-pipe-bursting",
+  "name": "How much property disruption can I expect with pipe bursting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much property disruption can I expect with pipe bursting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pipe bursting is designed to minimize property disruption significantly compared to traditional excavation. Instead of digging a long trench, only small access pits are typically needed at the beginning and end points of the pipe section being replaced. This means your yard, landscaping, and other surface features in areas like Paradise or Spring Valley remain largely intact. Any minor disturbances are usually confined to these access points, making restoration much quicker and less costly.",
+        "@type": "Answer",
+        "description": "Pipe bursting minimizes disruption by only requiring small access pits at the pipe ends, preserving most of your yard and landscaping."
+      }
+    }
+  ],
+  "description": "Pipe bursting minimizes disruption by only requiring small access pits at the pipe ends, preserving most of your yard and landscaping."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-slab-leaks-covered-by-homeowner-s-insurance-in-nevada",
+  "name": "Are slab leaks covered by homeowner's insurance in Nevada?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are slab leaks covered by homeowner's insurance in Nevada?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a slab leak is covered by homeowner's insurance in Nevada typically depends on the cause of the leak and the specifics of your policy. Generally, sudden and accidental damage caused by a covered peril (like a burst pipe) may be covered, but damage from gradual leaks, neglect, or wear and tear is often excluded. It's crucial to review your specific insurance policy documents or contact your insurance provider directly to understand your coverage before undertaking repairs. You may need to provide documentation of the leak's cause to your insurer.",
+        "@type": "Answer",
+        "description": "Slab leak insurance coverage in Nevada depends on the policy and leak cause; sudden damage may be covered, but gradual leaks are often excluded."
+      }
+    }
+  ],
+  "description": "Slab leak insurance coverage in Nevada depends on the policy and leak cause; sudden damage may be covered, but gradual leaks are often excluded."
+}

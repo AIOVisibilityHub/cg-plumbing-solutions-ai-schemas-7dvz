@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-backwater-valve-installation-take",
+  "name": "How long does a backwater valve installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a backwater valve installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a backwater valve installation can vary depending on several factors, including the type of valve, its location, and the complexity of accessing the sewer line. A straightforward installation in an easily accessible outdoor location might take a few hours. However, installations requiring significant excavation, working indoors, or navigating challenging plumbing configurations could take a full day or more. We aim to complete the work efficiently while ensuring a secure and reliable installation for your Las Vegas property.",
+        "@type": "Answer",
+        "description": "Installation typically takes a few hours to a full day, depending on valve type, location, and sewer line accessibility."
+      }
+    }
+  ],
+  "description": "Installation typically takes a few hours to a full day, depending on valve type, location, and sewer line accessibility."
+}

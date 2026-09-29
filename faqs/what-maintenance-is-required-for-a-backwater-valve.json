@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-maintenance-is-required-for-a-backwater-valve",
+  "name": "What maintenance is required for a backwater valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a backwater valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Backwater valves require minimal but essential maintenance to ensure they function correctly when needed. It is recommended to have the valve inspected annually by a qualified plumber. During this inspection, the flap or gate is checked for obstructions, debris, or damage that could prevent it from closing properly. Regular cleaning helps remove any buildup, ensuring the valve's free movement and readiness for a backup event. This proactive approach helps extend the valve's lifespan and reliability.",
+        "@type": "Answer",
+        "description": "Annual professional inspection and cleaning are recommended to ensure the valve's flap remains clear of obstructions and functions correctly."
+      }
+    }
+  ],
+  "description": "Annual professional inspection and cleaning are recommended to ensure the valve's flap remains clear of obstructions and functions correctly."
+}

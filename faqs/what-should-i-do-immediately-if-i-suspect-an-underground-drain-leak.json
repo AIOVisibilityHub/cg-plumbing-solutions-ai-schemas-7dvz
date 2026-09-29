@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-immediately-if-i-suspect-an-underground-drain-leak",
+  "name": "What should I do immediately if I suspect an underground drain leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I suspect an underground drain leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you suspect an underground drain leak, the immediate first step is to contact a professional plumbing service like CG Plumbing Solutions. Minimizing water usage in your home can help prevent further damage. Avoid attempting DIY repairs, as this could worsen the problem or make professional diagnosis more difficult. A quick response allows for a prompt inspection and repair, which is crucial for mitigating potential structural damage or contamination to your property.",
+        "@type": "Answer",
+        "description": "Immediately contact a professional plumber, reduce water use, and avoid DIY repairs to prevent further damage."
+      }
+    }
+  ],
+  "description": "Immediately contact a professional plumber, reduce water use, and avoid DIY repairs to prevent further damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-sewer-cleanout-and-why-is-it-important",
+  "name": "What is a sewer cleanout and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a sewer cleanout and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sewer cleanout is an accessible pipe with a removable cap, typically located outdoors, that provides direct access to your home's main sewer line. It allows plumbers to clear blockages efficiently by inserting specialized tools, such as augers or hydro-jetting equipment, directly into the sewer system. Without a properly functioning cleanout, technicians might need to access the sewer line from inside your home, potentially causing more disruption or requiring the removal of a toilet to reach the blockage. This direct access makes diagnostics and repairs much faster and less intrusive.",
+        "@type": "Answer",
+        "description": "A sewer cleanout provides direct access to your home's main sewer line, allowing for efficient clearing of blockages without needing to access pipes from inside your home."
+      }
+    }
+  ],
+  "description": "A sewer cleanout provides direct access to your home's main sewer line, allowing for efficient clearing of blockages without needing to access pipes from inside"
+}

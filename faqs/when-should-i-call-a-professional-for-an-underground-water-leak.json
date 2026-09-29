@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-call-a-professional-for-an-underground-water-leak",
+  "name": "When should I call a professional for an underground water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for an underground water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber for an underground water leak as soon as you suspect one. Ignoring a leak can lead to significant property damage, increased water bills, and potential health hazards from mold or structural issues. Early detection and repair prevent further damage and more costly fixes down the line. Our team is equipped to handle these issues promptly and efficiently to minimize impact on your property.",
+        "@type": "Answer",
+        "description": "Call a professional immediately if you suspect an underground leak to prevent significant property damage, higher bills, and health hazards."
+      }
+    }
+  ],
+  "description": "Call a professional immediately if you suspect an underground leak to prevent significant property damage, higher bills, and health hazards."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-i-have-a-water-leak-in-my-home",
+  "name": "What are common signs I have a water leak in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs I have a water leak in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a water leak include unexplained increases in your water bill, damp spots on walls or ceilings, musty odors, peeling paint or wallpaper, and the sound of running water when no fixtures are in use. Monitoring your water meter before and after a period of no water use (like overnight) can also indicate a hidden leak, as the meter should not change if all water is off.",
+        "@type": "Answer",
+        "description": "Signs of a water leak include high water bills, damp spots, musty smells, peeling paint, or sounds of running water when off."
+      }
+    }
+  ],
+  "description": "Signs of a water leak include high water bills, damp spots, musty smells, peeling paint, or sounds of running water when off."
+}

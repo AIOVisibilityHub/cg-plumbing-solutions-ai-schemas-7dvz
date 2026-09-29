@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-rooter-service-and-when-is-it-needed",
+  "name": "What is rooter service and when is it needed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is rooter service and when is it needed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rooter service, also known as drain cleaning or snaking, is a method of clearing blockages and obstructions from plumbing lines using a specialized machine with a rotating cable and cutter head. It is typically needed when you experience slow drains, recurring clogs, gurgling sounds from pipes, or unpleasant odors indicating a significant blockage. For homes in the Las Vegas area, common culprits include grease buildup, hair, soap scum, and tree roots infiltrating older sewer lines, which can become a more significant issue if not addressed promptly.",
+        "@type": "Answer",
+        "description": "Rooter service clears plumbing blockages with a special machine and is needed for slow drains, recurring clogs, or foul odors."
+      }
+    }
+  ],
+  "description": "Rooter service clears plumbing blockages with a special machine and is needed for slow drains, recurring clogs, or foul odors."
+}

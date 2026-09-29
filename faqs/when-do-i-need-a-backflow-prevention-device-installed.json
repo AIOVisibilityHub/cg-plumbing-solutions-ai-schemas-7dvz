@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-do-i-need-a-backflow-prevention-device-installed",
+  "name": "When do I need a backflow prevention device installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a backflow prevention device installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A backflow prevention device is typically required when there's a potential cross-connection between your potable water supply and a non-potable source. Common scenarios include properties with irrigation systems, fire sprinkler systems, or commercial equipment that handles chemicals. Deciding if an installation is necessary often depends on your property's specific plumbing setup and local water utility requirements, which we can help assess.",
+        "@type": "Answer",
+        "description": "You need a backflow device when there's a risk of contaminated water entering your clean supply, often with irrigation or fire systems."
+      }
+    }
+  ],
+  "description": "You need a backflow device when there's a risk of contaminated water entering your clean supply, often with irrigation or fire systems."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-does-professional-leak-detection-work",
+  "name": "How does professional leak detection work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does professional leak detection work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional leak detection involves using specialized equipment to pinpoint the exact location of a hidden water leak without destructive methods. Technicians often use acoustic sensors to listen for the sound of escaping water, thermal imaging cameras to detect temperature changes caused by water, and sometimes tracer gas. The process focuses on identifying the source efficiently to minimize damage and repair time.",
+        "@type": "Answer",
+        "description": "Professional leak detection uses specialized equipment like acoustic sensors and thermal imaging to find hidden leaks without destructive methods."
+      }
+    }
+  ],
+  "description": "Professional leak detection uses specialized equipment like acoustic sensors and thermal imaging to find hidden leaks without destructive methods."
+}

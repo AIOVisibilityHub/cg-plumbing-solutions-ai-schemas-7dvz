@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/is-a-video-pipe-inspection-messy-or-disruptive-to-my-property",
+  "name": "Is a video pipe inspection messy or disruptive to my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a video pipe inspection messy or disruptive to my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, a video pipe inspection is designed to be minimally invasive. The camera is inserted through an existing access point, such as a cleanout, so there is typically no need for digging or major disruption to your landscaping or property. This process allows our technicians to diagnose problems cleanly and efficiently. The primary requirement is clear access to a suitable entry point into your plumbing system, which helps us maintain a tidy work environment.",
+        "@type": "Answer",
+        "description": "The inspection is minimally invasive, using existing access points without digging, requiring clear access to a cleanout."
+      }
+    }
+  ],
+  "description": "The inspection is minimally invasive, using existing access points without digging, requiring clear access to a cleanout."
+}

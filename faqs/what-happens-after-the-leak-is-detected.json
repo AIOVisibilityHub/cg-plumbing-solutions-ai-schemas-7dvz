@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-happens-after-the-leak-is-detected",
+  "name": "What happens after the leak is detected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the leak is detected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once a leak is detected, our technician will clearly explain the issue, show you the precise location, and discuss the recommended repair options. You'll receive a detailed estimate for the repair work, outlining the scope and cost. We aim to provide efficient solutions to restore your plumbing system quickly and effectively, minimizing further damage and inconvenience.",
+        "@type": "Answer",
+        "description": "After detection, the technician explains the leak, shows its location, and provides a detailed estimate for recommended repair options."
+      }
+    }
+  ],
+  "description": "After detection, the technician explains the leak, shows its location, and provides a detailed estimate for recommended repair options."
+}

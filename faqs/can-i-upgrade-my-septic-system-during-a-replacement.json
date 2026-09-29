@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-upgrade-my-septic-system-during-a-replacement",
+  "name": "Can I upgrade my septic system during a replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I upgrade my septic system during a replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a septic tank replacement is often an ideal opportunity to upgrade to a more efficient or larger system, especially if your household needs have changed or if you want to take advantage of newer technologies. Upgrades might include increasing tank capacity, installing an aerobic treatment unit for better wastewater purification, or designing a more robust drain field. However, any upgrades must comply with local regulations and permits, which CG Plumbing Solutions can help you navigate to ensure a compliant and effective new system.",
+        "@type": "Answer",
+        "description": "Yes, replacement is a good time to upgrade to a larger or more efficient system, but all changes must comply with local regulations."
+      }
+    }
+  ],
+  "description": "Yes, replacement is a good time to upgrade to a larger or more efficient system, but all changes must comply with local regulations."
+}

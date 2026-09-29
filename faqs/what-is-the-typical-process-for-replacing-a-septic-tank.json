@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-replacing-a-septic-tank",
+  "name": "What is the typical process for replacing a septic tank?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for replacing a septic tank?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a site evaluation and design of the new system, followed by obtaining necessary permits. Next, the old tank is pumped out and either removed or decommissioned in place, and excavation for the new tank and drain field begins. The new tank is then installed, connected to your home's plumbing, and the drain field is constructed. Finally, the system is inspected and the site is backfilled. CG Plumbing Solutions prioritizes clear communication throughout each step, ensuring you understand the process.",
+        "@type": "Answer",
+        "description": "The process involves site evaluation, permits, old tank removal, excavation, new tank and drain field installation, inspection, and backfilling."
+      }
+    }
+  ],
+  "description": "The process involves site evaluation, permits, old tank removal, excavation, new tank and drain field installation, inspection, and backfilling."
+}

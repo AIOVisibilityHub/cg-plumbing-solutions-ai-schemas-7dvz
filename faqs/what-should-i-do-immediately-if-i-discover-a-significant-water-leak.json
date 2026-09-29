@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-immediately-if-i-discover-a-significant-water-leak",
+  "name": "What should I do immediately if I discover a significant water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I discover a significant water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover a significant water leak, your immediate first step should be to shut off your home's main water supply to prevent further damage. This valve is usually located near your water meter or where the main line enters your house. Next, turn off any electrical appliances in the affected area to avoid electrical hazards. Then, contact CG Plumbing Solutions for emergency repair. Clearing the area of valuables and attempting to contain the water can also help.",
+        "@type": "Answer",
+        "description": "Immediately shut off your home's main water supply, turn off nearby electrical appliances, and then call CG Plumbing Solutions for emergency repair."
+      }
+    }
+  ],
+  "description": "Immediately shut off your home's main water supply, turn off nearby electrical appliances, and then call CG Plumbing Solutions for emergency repair."
+}

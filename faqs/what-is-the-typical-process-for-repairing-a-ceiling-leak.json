@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-repairing-a-ceiling-leak",
+  "name": "What is the typical process for repairing a ceiling leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing a ceiling leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process for a ceiling leak begins with identifying the exact source of the water. This may involve opening up a small section of the ceiling or wall to inspect pipes and fixtures. Once the leak is located, our plumbers will repair or replace the faulty component. After the plumbing repair, the affected area will need to be dried out, and then the ceiling itself can be repaired, which might involve patching, texturing, and painting. CG Plumbing Solutions ensures clear communication throughout each step of this process.",
+        "@type": "Answer",
+        "description": "The typical process involves locating the leak source, repairing the faulty plumbing, drying the area, and then patching and repairing the ceiling."
+      }
+    }
+  ],
+  "description": "The typical process involves locating the leak source, repairing the faulty plumbing, drying the area, and then patching and repairing the ceiling."
+}

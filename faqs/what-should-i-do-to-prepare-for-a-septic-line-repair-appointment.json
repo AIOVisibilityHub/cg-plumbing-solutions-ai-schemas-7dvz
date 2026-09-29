@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-to-prepare-for-a-septic-line-repair-appointment",
+  "name": "What should I do to prepare for a septic line repair appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare for a septic line repair appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a septic line repair appointment, it's helpful to clear the area around your septic tank access points and the suspected repair site of any obstructions, such as vehicles, landscaping features, or debris, to allow technicians easy access. If you have any recent inspection reports, system diagrams, or records of previous repairs, having these available can also assist the plumbing team in understanding your system's history and potential issues more quickly. This preparation helps ensure the repair process can begin efficiently upon arrival.",
+        "@type": "Answer",
+        "description": "Clear the septic tank access area and suspected repair site of obstructions. Provide any available inspection reports or system diagrams to the technicians."
+      }
+    }
+  ],
+  "description": "Clear the septic tank access area and suspected repair site of obstructions. Provide any available inspection reports or system diagrams to the technicians."
+}

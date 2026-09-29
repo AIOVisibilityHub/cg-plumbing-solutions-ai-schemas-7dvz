@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-installing-a-backwater-valve",
+  "name": "What is the typical process for installing a backwater valve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for installing a backwater valve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically involves locating the main sewer line, usually outside the foundation wall or in the basement. Our plumbers will then excavate the area to expose the pipe. A section of the existing sewer line is cut out, and the backwater valve is securely integrated into the pipe. The exact process can vary based on whether the installation is indoors or outdoors and the type of valve being installed, impacting excavation and restoration work. Following installation, the system is tested to ensure proper function before the area is backfilled and restored.",
+        "@type": "Answer",
+        "description": "Installation involves excavating the sewer line, cutting a section of pipe, integrating the valve, and testing it before backfilling."
+      }
+    }
+  ],
+  "description": "Installation involves excavating the sewer line, cutting a section of pipe, integrating the valve, and testing it before backfilling."
+}

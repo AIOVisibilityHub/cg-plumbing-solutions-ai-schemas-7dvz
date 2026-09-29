@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-choose-the-right-backwater-valve-for-my-home",
+  "name": "How do I choose the right backwater valve for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right backwater valve for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right backwater valve depends on several factors specific to your home and location. These include the size and type of your existing sewer line, the risk level of sewer backups, and whether you need protection for the entire home or specific fixtures. Consideration should also be given to accessible installation points and local plumbing codes in areas like Henderson or Summerlin. Our expert plumbers can conduct a thorough assessment of your property and plumbing system to recommend the most suitable and code-compliant backwater valve solution.",
+        "@type": "Answer",
+        "description": "The choice depends on your sewer line size, backup risk, and desired protection level; a professional assessment can guide the best fit."
+      }
+    }
+  ],
+  "description": "The choice depends on your sewer line size, backup risk, and desired protection level; a professional assessment can guide the best fit."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-call-a-professional-plumber-for-a-water-leak",
+  "name": "When should I call a professional plumber for a water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional plumber for a water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional plumber immediately if you notice any signs of a significant water leak, such as a burst pipe, water stains spreading rapidly, or a sudden, unexplained drop in water pressure. Even seemingly minor leaks can lead to significant damage and mold growth over time. Prompt professional intervention can prevent further property damage, reduce repair expenses, and ensure the leak is fixed correctly. We recommend calling us if you're unsure about the severity.",
+        "@type": "Answer",
+        "description": "Call a professional plumber immediately for significant leaks like burst pipes, rapidly spreading water stains, or sudden pressure drops. Early action prevents further damage."
+      }
+    }
+  ],
+  "description": "Call a professional plumber immediately for significant leaks like burst pipes, rapidly spreading water stains, or sudden pressure drops. Early action prevents"
+}

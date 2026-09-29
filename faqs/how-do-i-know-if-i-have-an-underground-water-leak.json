@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-i-have-an-underground-water-leak",
+  "name": "How do I know if I have an underground water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I have an underground water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of an underground water leak include an unexplained increase in your water bill, wet spots in your yard or on paved surfaces, a sudden drop in water pressure, or the sound of running water when no fixtures are in use. Puddles or lush patches of grass when the surrounding area is dry can also indicate a leak. If you suspect a leak, monitoring your water meter when no water is being used is a simple way to confirm; if it's still moving, you likely have a leak.",
+        "@type": "Answer",
+        "description": "Look for high water bills, wet spots, low water pressure, or sounds of running water. Check your water meter for movement when no water is in use."
+      }
+    }
+  ],
+  "description": "Look for high water bills, wet spots, low water pressure, or sounds of running water. Check your water meter for movement when no water is in use."
+}

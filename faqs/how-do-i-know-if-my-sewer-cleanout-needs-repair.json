@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-sewer-cleanout-needs-repair",
+  "name": "How do I know if my sewer cleanout needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my sewer cleanout needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might need sewer cleanout repair if you notice foul odors coming from the cleanout cap, water pooling around it, or if the cap is damaged, missing, or difficult to remove. Other signs include recurring drain backups in your home, gurgling noises from toilets, or slow drainage in multiple fixtures. A damaged cleanout can compromise the integrity of your sewer line, leading to persistent blockages or even sewer gas leaks. CG Plumbing Solutions can inspect your cleanout and sewer line to determine the specific cause and necessary repairs.",
+        "@type": "Answer",
+        "description": "Signs your sewer cleanout needs repair include foul odors, water pooling around it, a damaged cap, recurring drain backups, or slow drainage in your home."
+      }
+    }
+  ],
+  "description": "Signs your sewer cleanout needs repair include foul odors, water pooling around it, a damaged cap, recurring drain backups, or slow drainage in your home."
+}

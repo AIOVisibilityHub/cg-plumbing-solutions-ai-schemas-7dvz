@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-prevent-underground-water-leaks",
+  "name": "Can I prevent underground water leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent underground water leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's impossible to completely prevent all underground water leaks, you can significantly reduce the risk. This includes being mindful of tree root growth near water lines, avoiding planting invasive trees too close to utility paths, and being cautious during any digging projects. Regular plumbing inspections can also help identify potential weaknesses or minor issues before they escalate into major leaks, especially with older piping systems.",
+        "@type": "Answer",
+        "description": "You can reduce risk by managing tree roots, cautious digging, and regular plumbing inspections to catch issues early."
+      }
+    }
+  ],
+  "description": "You can reduce risk by managing tree roots, cautious digging, and regular plumbing inspections to catch issues early."
+}

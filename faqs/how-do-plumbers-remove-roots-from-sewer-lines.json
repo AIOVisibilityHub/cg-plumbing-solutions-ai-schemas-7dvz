@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-plumbers-remove-roots-from-sewer-lines",
+  "name": "How do plumbers remove roots from sewer lines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers remove roots from sewer lines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers primarily remove roots from sewer lines using hydro-jetting or mechanical augers (drain snakes). Hydro-jetting uses high-pressure water to cut through roots and flush them out, providing a thorough cleaning. Mechanical augers are effective for breaking up smaller root intrusions. The best approach depends on the severity of the root growth and the condition of the pipe. A plumbing professional from CG Plumbing Solutions will assess the situation, often with a camera inspection, to determine the most effective and least invasive method for your specific problem.",
+        "@type": "Answer",
+        "description": "Plumbers remove roots using hydro-jetting for thorough cleaning or mechanical augers for smaller intrusions, with the method chosen based on severity and pipe condition."
+      }
+    }
+  ],
+  "description": "Plumbers remove roots using hydro-jetting for thorough cleaning or mechanical augers for smaller intrusions, with the method chosen based on severity and pipe c"
+}

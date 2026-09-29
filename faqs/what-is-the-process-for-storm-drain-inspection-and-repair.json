@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-storm-drain-inspection-and-repair",
+  "name": "What is the process for storm drain inspection and repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for storm drain inspection and repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The storm drain repair process typically begins with a thorough inspection, often using video camera technology to identify the exact location and nature of the problem without extensive digging. Once diagnosed, our technicians will discuss repair options, which could range from hydro-jetting to clear blockages, to trenchless repair methods, or traditional excavation for severe damage. We aim to minimize disruption to your property in areas like North Las Vegas, explaining each step so you're informed throughout the project.",
+        "@type": "Answer",
+        "description": "The process involves a video inspection to diagnose the issue, followed by repair options like hydro-jetting, trenchless methods, or excavation."
+      }
+    }
+  ],
+  "description": "The process involves a video inspection to diagnose the issue, followed by repair options like hydro-jetting, trenchless methods, or excavation."
+}

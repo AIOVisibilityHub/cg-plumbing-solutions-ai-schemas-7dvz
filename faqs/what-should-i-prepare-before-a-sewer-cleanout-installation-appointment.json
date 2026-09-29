@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-prepare-before-a-sewer-cleanout-installation-appointment",
+  "name": "What should I prepare before a sewer cleanout installation appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a sewer cleanout installation appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your sewer cleanout installation appointment, ensure the proposed work area is clear of obstructions like vehicles, landscaping materials, or outdoor furniture to allow easy access for our equipment and crew. If you have any property maps showing underground utilities, please have them available. This preparation helps our team work efficiently and ensures a smoother installation process, especially in properties with complex layouts common in areas like Summerlin or Anthem.",
+        "@type": "Answer",
+        "description": "Clear the work area of obstructions and have any underground utility maps ready before your sewer cleanout installation appointment for a smoother process."
+      }
+    }
+  ],
+  "description": "Clear the work area of obstructions and have any underground utility maps ready before your sewer cleanout installation appointment for a smoother process."
+}

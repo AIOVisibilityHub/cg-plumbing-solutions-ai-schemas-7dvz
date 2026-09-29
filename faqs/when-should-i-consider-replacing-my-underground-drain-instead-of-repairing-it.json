@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-my-underground-drain-instead-of-repairing-it",
+  "name": "When should I consider replacing my underground drain instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my underground drain instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your underground drain instead of just repairing it if the pipes are old, severely corroded, have extensive and frequent damage, or if they are made of outdated materials prone to failure. While repairs can address isolated issues, a full replacement provides a long-term solution, preventing recurring problems and offering greater peace of mind, especially for older homes in areas like Henderson. A professional assessment can help determine if the overall condition of your system warrants replacement over multiple smaller repairs.",
+        "@type": "Answer",
+        "description": "Consider replacement if pipes are old, severely damaged, frequently fail, or are made of outdated materials, rather than opting for repeated repairs."
+      }
+    }
+  ],
+  "description": "Consider replacement if pipes are old, severely damaged, frequently fail, or are made of outdated materials, rather than opting for repeated repairs."
+}

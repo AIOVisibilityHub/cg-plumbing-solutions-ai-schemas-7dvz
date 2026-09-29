@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-trenchless-pipe-lining",
+  "name": "What is the process for trenchless pipe lining?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for trenchless pipe lining?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The trenchless pipe lining process begins with a thorough video inspection to assess the sewer line's condition and identify problem areas. The pipe is then cleaned to remove any debris or roots. Next, a flexible liner saturated with an epoxy resin is inserted into the damaged pipe. This liner is inflated, pressing against the old pipe's interior walls, and allowed to cure, forming a new, seamless, and durable pipe within the old one. This method is often preferred for its ability to restore pipe integrity with minimal digging, typically requiring only small access points.",
+        "@type": "Answer",
+        "description": "Pipe lining involves inspecting, cleaning, then inserting and curing an epoxy-saturated liner inside the old pipe to create a new one."
+      }
+    }
+  ],
+  "description": "Pipe lining involves inspecting, cleaning, then inserting and curing an epoxy-saturated liner inside the old pipe to create a new one."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-backflow-prevention-and-why-is-it-important",
+  "name": "What is backflow prevention and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is backflow prevention and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Backflow prevention stops contaminated water from flowing back into your clean drinking water supply. This is crucial for public health, as backflow can introduce harmful bacteria, chemicals, or other pollutants into potable water systems. Regular maintenance and testing of backflow prevention devices help ensure your water remains safe and meets local health department standards.",
+        "@type": "Answer",
+        "description": "Backflow prevention stops contaminated water from entering your clean drinking water supply, protecting public health."
+      }
+    }
+  ],
+  "description": "Backflow prevention stops contaminated water from entering your clean drinking water supply, protecting public health."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-plumbers-detect-a-slab-leak",
+  "name": "How do plumbers detect a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers detect a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers detect slab leaks using specialized equipment such as electronic leak detectors, which can pinpoint the exact location of the leak beneath the foundation without extensive demolition. Acoustic sensors listen for the sound of escaping water, while thermal imaging may identify temperature differences caused by leaks. A qualified technician will typically perform a pressure test on your plumbing system first to confirm a leak exists, then use these tools to minimize the need for invasive repairs, ensuring precision in areas like North Las Vegas where property disruption is a concern.",
+        "@type": "Answer",
+        "description": "Plumbers detect slab leaks using electronic leak detectors, acoustic sensors, and thermal imaging to pinpoint the leak's location."
+      }
+    }
+  ],
+  "description": "Plumbers detect slab leaks using electronic leak detectors, acoustic sensors, and thermal imaging to pinpoint the leak's location."
+}

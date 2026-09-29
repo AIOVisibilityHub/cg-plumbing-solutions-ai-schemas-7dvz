@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-will-my-property-be-disrupted-during-septic-tank-replacement",
+  "name": "How long will my property be disrupted during septic tank replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long will my property be disrupted during septic tank replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Property disruption during septic tank replacement typically involves excavation in the area of the old tank and drain field. While the work itself might span several days to a week, the most significant disruption, such as limited access or heavy equipment on site, usually lasts for the active excavation and installation period. We strive to minimize inconvenience by carefully planning logistics and maintaining clear communication with homeowners in Las Vegas and surrounding areas. Full restoration of landscaping may take additional time after the system is in place.",
+        "@type": "Answer",
+        "description": "Disruption lasts for the active excavation and installation, typically several days to a week, with landscaping restoration taking longer."
+      }
+    }
+  ],
+  "description": "Disruption lasts for the active excavation and installation, typically several days to a week, with landscaping restoration taking longer."
+}

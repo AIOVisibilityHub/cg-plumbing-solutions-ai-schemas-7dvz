@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-there-different-types-of-storm-drains-and-does-that-affect-repair",
+  "name": "Are there different types of storm drains, and does that affect repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of storm drains, and does that affect repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are various types of storm drains, including catch basins, trench drains, and French drains, each designed for specific water management needs. The type of drain directly influences the repair approach, as each has unique components and functionalities. For instance, a clogged catch basin typically requires debris removal, while a collapsed section of a French drain may need excavation and pipe replacement. Our technicians are experienced with all common storm drain systems found across Las Vegas and its service areas.",
+        "@type": "Answer",
+        "description": "Different storm drain types (catch basins, trench, French) affect repair methods due to unique components. Our technicians are experienced with all common systems."
+      }
+    }
+  ],
+  "description": "Different storm drain types (catch basins, trench, French) affect repair methods due to unique components. Our technicians are experienced with all common syste"
+}

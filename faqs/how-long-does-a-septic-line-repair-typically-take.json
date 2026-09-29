@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-septic-line-repair-typically-take",
+  "name": "How long does a septic line repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a septic line repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a septic line repair varies widely based on the complexity and scope of the damage. Simple repairs, such as clearing a minor clog, might be completed within a few hours. More extensive work, like replacing a damaged section of pipe, could take a full day or several days, especially if excavation is required. Our team aims to complete repairs efficiently while ensuring quality, and we provide an estimated timeline after assessing the specific issue.",
+        "@type": "Answer",
+        "description": "Repair time depends on the issue's complexity, ranging from a few hours for minor clogs to several days for extensive pipe replacement or excavation."
+      }
+    }
+  ],
+  "description": "Repair time depends on the issue's complexity, ranging from a few hours for minor clogs to several days for extensive pipe replacement or excavation."
+}

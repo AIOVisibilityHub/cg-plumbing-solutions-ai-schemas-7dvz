@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/is-it-better-to-repair-or-replace-cast-iron-drain-pipes",
+  "name": "Is it better to repair or replace cast iron drain pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repair or replace cast iron drain pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace cast iron drain pipes depends on the pipe's overall condition, the extent of the damage, and your budget. Repairs are typically suitable for isolated issues like small cracks or specific leaking joints. However, if multiple sections are corroded, collapsed, or nearing the end of their lifespan, a full replacement often provides a more long-term and cost-effective solution, preventing future issues. CG Plumbing Solutions evaluates the entire system to advise on the most practical long-term strategy.",
+        "@type": "Answer",
+        "description": "The choice between repair and replacement depends on the extent of damage, the pipe's overall condition, and budget; replacement is often better for widespread issues."
+      }
+    }
+  ],
+  "description": "The choice between repair and replacement depends on the extent of damage, the pipe's overall condition, and budget; replacement is often better for widespread"
+}

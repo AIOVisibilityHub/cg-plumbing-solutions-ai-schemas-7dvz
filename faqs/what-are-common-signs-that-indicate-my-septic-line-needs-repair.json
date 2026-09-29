@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-indicate-my-septic-line-needs-repair",
+  "name": "What are common signs that indicate my septic line needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that indicate my septic line needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs can indicate a problem with your septic line. These include slow drains or backups in multiple plumbing fixtures, gurgling sounds from toilets or pipes, and sewage odors around your property, especially near the septic tank or drain field. Lush, greener patches of grass or standing water in your yard above the septic area can also signal a leak or overflow. Addressing these issues promptly can prevent more extensive damage and costly repairs, and a professional inspection can pinpoint the exact cause.",
+        "@type": "Answer",
+        "description": "Common signs of septic line issues include slow drains, backups, sewage odors, or unusually green patches of grass near your septic system."
+      }
+    }
+  ],
+  "description": "Common signs of septic line issues include slow drains, backups, sewage odors, or unusually green patches of grass near your septic system."
+}

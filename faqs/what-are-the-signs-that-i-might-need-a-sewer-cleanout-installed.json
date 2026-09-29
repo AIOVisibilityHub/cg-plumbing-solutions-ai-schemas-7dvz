@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-that-i-might-need-a-sewer-cleanout-installed",
+  "name": "What are the signs that I might need a sewer cleanout installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that I might need a sewer cleanout installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might consider installing a sewer cleanout if you frequently experience recurring drain clogs, slow drains in multiple fixtures, or notice sewage odors inside or outside your home. These issues indicate potential problems in your main sewer line that would be easier and more cost-effective to address with a dedicated cleanout. A cleanout provides an essential access point for diagnosis and clearing of these persistent issues.",
+        "@type": "Answer",
+        "description": "Frequent recurring clogs, slow drains in multiple fixtures, or sewage odors are signs you may need a sewer cleanout for easier main line access."
+      }
+    }
+  ],
+  "description": "Frequent recurring clogs, slow drains in multiple fixtures, or sewage odors are signs you may need a sewer cleanout for easier main line access."
+}

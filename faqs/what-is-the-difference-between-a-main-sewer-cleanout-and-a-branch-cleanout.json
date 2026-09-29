@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-main-sewer-cleanout-and-a-branch-cleanout",
+  "name": "What is the difference between a main sewer cleanout and a branch cleanout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a main sewer cleanout and a branch cleanout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A main sewer cleanout provides direct access to the primary sewer line that carries all wastewater from your home to the municipal sewer system or septic tank. A branch cleanout, on the other hand, accesses a smaller branch line serving a specific area or fixture, like a bathroom or kitchen. Understanding this distinction is important because while a main cleanout addresses widespread issues, a branch cleanout is useful for isolated clogs. Our technicians can help identify which type of access point is most beneficial for your property's plumbing needs.",
+        "@type": "Answer",
+        "description": "A main sewer cleanout accesses the primary sewer line, while a branch cleanout accesses a smaller line serving specific fixtures; both serve different diagnostic and clearing needs."
+      }
+    }
+  ],
+  "description": "A main sewer cleanout accesses the primary sewer line, while a branch cleanout accesses a smaller line serving specific fixtures; both serve different diagnosti"
+}

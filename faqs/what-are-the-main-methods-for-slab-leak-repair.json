@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-main-methods-for-slab-leak-repair",
+  "name": "What are the main methods for slab leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main methods for slab leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary methods for slab leak repair include direct access, re-routing, and pipe lining. Direct access involves breaking through the slab to repair or replace the damaged section of pipe. Re-routing bypasses the damaged pipe by installing a new line through walls or the attic. Pipe lining inserts a new epoxy liner into the existing pipe. The choice of method depends on factors such as the leak's location, the extent of damage, pipe material, and accessibility, which a plumbing professional will assess to determine the most effective approach for your Henderson home.",
+        "@type": "Answer",
+        "description": "Slab leak repair methods are direct access (breaking the slab), re-routing (new pipe line), and pipe lining."
+      }
+    }
+  ],
+  "description": "Slab leak repair methods are direct access (breaking the slab), re-routing (new pipe line), and pipe lining."
+}

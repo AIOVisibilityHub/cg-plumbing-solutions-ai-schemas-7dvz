@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-repair-process-after-a-slab-leak-is-detected",
+  "name": "What is the typical repair process after a slab leak is detected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical repair process after a slab leak is detected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once a slab leak is detected, the repair process typically involves exposing the pipe to fix the leak. Methods can include spot repair by carefully opening the slab, re-routing the affected pipe around the slab, or in some cases, epoxy lining for minor issues. The best approach is decided based on the leak's severity, location, pipe condition, and your home's layout. We ensure you understand the available options and their implications before proceeding with the repair.",
+        "@type": "Answer",
+        "description": "Slab leak repair involves exposing and fixing the pipe, often through spot repair, re-routing, or epoxy lining, depending on the leak's specifics."
+      }
+    }
+  ],
+  "description": "Slab leak repair involves exposing and fixing the pipe, often through spot repair, re-routing, or epoxy lining, depending on the leak's specifics."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-prepare-before-a-trenchless-sewer-repair-service",
+  "name": "What should I prepare before a trenchless sewer repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a trenchless sewer repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before trenchless sewer repair, homeowners should clear the area around the designated access points, if known, to ensure technicians have unobstructed space to work. It's also helpful to gather any previous plumbing records or blueprints of your property, if available, as these can provide valuable insights into your existing sewer system. While extensive preparation isn't usually needed due to the minimal invasiveness, ensuring clear access allows our team to begin work efficiently, minimizing any potential delays for your project in areas like Summerlin or Anthem.",
+        "@type": "Answer",
+        "description": "Prepare by clearing access areas and gathering any existing plumbing records or blueprints to facilitate an efficient trenchless sewer repair service."
+      }
+    }
+  ],
+  "description": "Prepare by clearing access areas and gathering any existing plumbing records or blueprints to facilitate an efficient trenchless sewer repair service."
+}

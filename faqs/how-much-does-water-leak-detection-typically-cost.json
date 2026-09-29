@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-water-leak-detection-typically-cost",
+  "name": "How much does water leak detection typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does water leak detection typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water leak detection can vary depending on the complexity of the leak and the time required to locate it. Factors influencing the price include the type of leak (e.g., slab leak, pipe leak), the location of the leak (e.g., accessible or hidden), and the diagnostic tools needed. CG Plumbing Solutions provides upfront estimates after assessing the situation, ensuring transparency before any work begins.",
+        "@type": "Answer",
+        "description": "Leak detection costs vary based on leak complexity and location, and you'll receive an upfront estimate after assessment."
+      }
+    }
+  ],
+  "description": "Leak detection costs vary based on leak complexity and location, and you'll receive an upfront estimate after assessment."
+}

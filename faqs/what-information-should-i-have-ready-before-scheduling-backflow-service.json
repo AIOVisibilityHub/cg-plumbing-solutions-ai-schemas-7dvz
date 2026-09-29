@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-information-should-i-have-ready-before-scheduling-backflow-service",
+  "name": "What information should I have ready before scheduling backflow service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I have ready before scheduling backflow service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before scheduling backflow service, it's helpful to have information such as the device's location, its type (if known), and when it was last tested. Any previous inspection reports or repair history can also be beneficial. This preparation allows our technicians to arrive better prepared, potentially streamlining the service and ensuring we have the right tools or parts if needed.",
+        "@type": "Answer",
+        "description": "Before scheduling, have your backflow device's location, type, and last test date ready to streamline service."
+      }
+    }
+  ],
+  "description": "Before scheduling, have your backflow device's location, type, and last test date ready to streamline service."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-repair-an-underground-water-leak",
+  "name": "How long does it take to repair an underground water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair an underground water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an underground water leak repair can vary from a few hours to several days, depending on the complexity of the leak and the chosen repair method. Simple repairs on accessible pipes might be completed quickly, while extensive damage or repairs requiring significant excavation or trenchless technology will take longer. We aim to complete repairs efficiently while ensuring the highest quality of work, and we will provide an estimated timeline once the scope of the repair is determined.",
+        "@type": "Answer",
+        "description": "Repair time varies from hours to days based on leak complexity and repair method. An estimated timeline is provided after assessment."
+      }
+    }
+  ],
+  "description": "Repair time varies from hours to days based on leak complexity and repair method. An estimated timeline is provided after assessment."
+}

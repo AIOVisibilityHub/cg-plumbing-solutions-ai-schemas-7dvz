@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-does-sewer-cleanout-repair-typically-involve",
+  "name": "What does sewer cleanout repair typically involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does sewer cleanout repair typically involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer cleanout repair can involve several steps depending on the issue. For a damaged cap, replacement is straightforward. If the cleanout pipe itself is cracked or broken, a section may need to be excavated and replaced. If the cleanout connection to the main sewer line is compromised, a more extensive repair involving pipe patching or replacement may be necessary. For issues such as persistent blockages near the cleanout, hydro-jetting may be used to clear debris and thoroughly clean the pipe walls. The process often begins with a visual inspection or camera inspection to pinpoint the exact problem.",
+        "@type": "Answer",
+        "description": "Repair involves replacing damaged caps, repairing or replacing cracked pipes, or hydro-jetting to clear blockages, often starting with a camera inspection."
+      }
+    }
+  ],
+  "description": "Repair involves replacing damaged caps, repairing or replacing cracked pipes, or hydro-jetting to clear blockages, often starting with a camera inspection."
+}

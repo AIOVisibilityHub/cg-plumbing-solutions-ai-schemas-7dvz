@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-slab-leak-and-why-is-it-a-problem",
+  "name": "What is a slab leak and why is it a problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a slab leak and why is it a problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A slab leak occurs when water pipes beneath your home's concrete foundation (slab) rupture or corrode, allowing water to escape. This is a significant problem because the leaking water can undermine the foundation, cause structural damage, create mold issues, and lead to increased water bills. Early detection and repair are crucial to prevent more extensive damage to your property, which can be particularly impactful in areas like Las Vegas where a stable foundation is essential.",
+        "@type": "Answer",
+        "description": "A slab leak is a pipe rupture under a home's concrete foundation, causing structural damage, mold, and higher water bills."
+      }
+    }
+  ],
+  "description": "A slab leak is a pipe rupture under a home's concrete foundation, causing structural damage, mold, and higher water bills."
+}

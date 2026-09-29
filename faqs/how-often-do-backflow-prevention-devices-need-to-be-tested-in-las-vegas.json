@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-do-backflow-prevention-devices-need-to-be-tested-in-las-vegas",
+  "name": "How often do backflow prevention devices need to be tested in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often do backflow prevention devices need to be tested in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Backflow prevention devices generally require annual testing to ensure they are functioning correctly and providing adequate protection. In Las Vegas and surrounding areas, local regulations often mandate these yearly inspections. Skipping this can lead to non-compliance fines or a compromised water supply, making regular scheduling a key part of your property's maintenance plan.",
+        "@type": "Answer",
+        "description": "Backflow prevention devices in the Las Vegas area typically require annual testing to comply with local regulations and ensure safety."
+      }
+    }
+  ],
+  "description": "Backflow prevention devices in the Las Vegas area typically require annual testing to comply with local regulations and ensure safety."
+}

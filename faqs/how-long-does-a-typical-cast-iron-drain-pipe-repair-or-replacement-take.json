@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-cast-iron-drain-pipe-repair-or-replacement-take",
+  "name": "How long does a typical cast iron drain pipe repair or replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical cast iron drain pipe repair or replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of cast iron drain pipe repair or replacement varies significantly based on the project's scope, the repair method chosen, and accessibility. A simple spot repair or trenchless lining of a small section might take a day or two. A more extensive replacement involving multiple sections or difficult access could take several days to a week. For properties in areas like North Las Vegas, CG Plumbing Solutions provides an estimated timeline after a thorough on-site assessment, ensuring you understand the project's schedule.",
+        "@type": "Answer",
+        "description": "Repair or replacement times vary from a day for minor fixes to several days for extensive projects, depending on scope and accessibility."
+      }
+    }
+  ],
+  "description": "Repair or replacement times vary from a day for minor fixes to several days for extensive projects, depending on scope and accessibility."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-information-should-i-gather-before-calling-a-plumber-for-root-removal",
+  "name": "What information should I gather before calling a plumber for root removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before calling a plumber for root removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before calling a plumber for root removal, gather details about when you first noticed symptoms, the frequency of plumbing issues, and if you have any idea where your main sewer line runs and if there are large trees nearby. Providing information on previous plumbing work, especially related to your sewer line, can also be helpful. Knowing the approximate age of your home and its plumbing system can help the plumber anticipate potential issues. This preparation helps CG Plumbing Solutions diagnose the problem more efficiently and arrive with the appropriate tools and plan for your property.",
+        "@type": "Answer",
+        "description": "Before calling, gather information on symptom onset, frequency of issues, known sewer line location, nearby trees, and any past plumbing work."
+      }
+    }
+  ],
+  "description": "Before calling, gather information on symptom onset, frequency of issues, known sewer line location, nearby trees, and any past plumbing work."
+}

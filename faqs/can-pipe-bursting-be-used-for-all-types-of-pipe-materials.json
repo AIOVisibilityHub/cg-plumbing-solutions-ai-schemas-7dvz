@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-pipe-bursting-be-used-for-all-types-of-pipe-materials",
+  "name": "Can pipe bursting be used for all types of pipe materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can pipe bursting be used for all types of pipe materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pipe bursting is highly effective for replacing common pipe materials like clay, cast iron, PVC, and concrete. However, it may not be suitable for pipes made of certain materials, such as orangeburg, which can deform rather than burst cleanly. The suitability also depends on the pipe's condition and the surrounding soil. Before recommending pipe bursting, CG Plumbing Solutions performs a thorough video inspection of your existing pipes to ensure it's the most effective and safe method for your specific situation.",
+        "@type": "Answer",
+        "description": "Pipe bursting works well for clay, cast iron, PVC, and concrete pipes but may not be suitable for all materials; a video inspection determines feasibility."
+      }
+    }
+  ],
+  "description": "Pipe bursting works well for clay, cast iron, PVC, and concrete pipes but may not be suitable for all materials; a video inspection determines feasibility."
+}

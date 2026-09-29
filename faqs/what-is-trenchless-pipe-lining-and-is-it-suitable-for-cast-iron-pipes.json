@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-trenchless-pipe-lining-and-is-it-suitable-for-cast-iron-pipes",
+  "name": "What is trenchless pipe lining, and is it suitable for cast iron pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is trenchless pipe lining, and is it suitable for cast iron pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trenchless pipe lining is a repair method where a flexible, resin-saturated liner is inserted into the existing damaged pipe and then cured in place, creating a new, seamless pipe within the old one. This method minimizes digging, reducing disruption to your property. It is often suitable for cast iron pipes with cracks, small leaks, or minor corrosion, as long as the pipe maintains its structural integrity. This approach is highly valued for its efficiency in residential and commercial settings across areas like Henderson and Summerlin.",
+        "@type": "Answer",
+        "description": "Trenchless pipe lining inserts a new pipe inside the old one, suitable for cast iron pipes with minor damage, and minimizes excavation."
+      }
+    }
+  ],
+  "description": "Trenchless pipe lining inserts a new pipe inside the old one, suitable for cast iron pipes with minor damage, and minimizes excavation."
+}

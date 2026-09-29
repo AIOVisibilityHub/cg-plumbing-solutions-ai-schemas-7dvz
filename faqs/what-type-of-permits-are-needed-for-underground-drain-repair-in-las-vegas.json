@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-type-of-permits-are-needed-for-underground-drain-repair-in-las-vegas",
+  "name": "What type of permits are needed for underground drain repair in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of permits are needed for underground drain repair in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Underground drain repair in Las Vegas and surrounding areas often requires permits from the local municipal building department to ensure compliance with plumbing codes and safety regulations. The specific type of permit needed depends on the scope of the work, such as whether it's a minor repair or a full line replacement. CG Plumbing Solutions manages the necessary permitting process to ensure all repairs meet local standards and regulations, providing a hassle-free experience for homeowners.",
+        "@type": "Answer",
+        "description": "Permits are often required from local building departments for underground drain repair in Las Vegas to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Permits are often required from local building departments for underground drain repair in Las Vegas to ensure code compliance."
+}

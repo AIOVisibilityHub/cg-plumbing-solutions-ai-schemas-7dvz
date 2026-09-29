@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-to-prepare-my-property-for-sewer-line-excavation",
+  "name": "What should I do to prepare my property for sewer line excavation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my property for sewer line excavation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before sewer line excavation, it's helpful to clear the work area of any obstructions like vehicles, plants, or decorative items. We recommend discussing the exact excavation path with our technicians to understand which areas of your yard, landscaping, or hardscaping will be affected. Additionally, knowing the location of any privately installed sprinkler lines or outdoor lighting in the vicinity can help prevent accidental damage during the digging process and can be a significant preparation factor.",
+        "@type": "Answer",
+        "description": "Prepare your property by clearing the work area, discussing the excavation path with technicians, and identifying any private underground utilities like sprinkler lines."
+      }
+    }
+  ],
+  "description": "Prepare your property by clearing the work area, discussing the excavation path with technicians, and identifying any private underground utilities like sprinkl"
+}

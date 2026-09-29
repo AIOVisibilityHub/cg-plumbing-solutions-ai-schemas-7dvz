@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-repairing-and-replacing-a-septic-tank",
+  "name": "What is the difference between repairing and replacing a septic tank?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and replacing a septic tank?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a septic tank usually addresses isolated issues like a broken baffle, minor leak, or clogged pipe within the existing system. Replacement, on the other hand, involves removing the old tank and/or drain field and installing a completely new system. The decision between repair and replacement depends on the extent of the damage, the age of the system, and its overall functionality. A comprehensive inspection by CG Plumbing Solutions can determine if a repair is viable or if a full replacement is the more cost-effective and long-term solution for issues like those often seen in older systems in areas like Paradise or Spring Valley.",
+        "@type": "Answer",
+        "description": "Repair fixes isolated issues; replacement installs a new system. The choice depends on damage extent, age, and overall functionality."
+      }
+    }
+  ],
+  "description": "Repair fixes isolated issues; replacement installs a new system. The choice depends on damage extent, age, and overall functionality."
+}

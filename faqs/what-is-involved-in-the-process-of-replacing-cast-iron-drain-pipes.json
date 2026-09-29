@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-process-of-replacing-cast-iron-drain-pipes",
+  "name": "What is involved in the process of replacing cast iron drain pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of replacing cast iron drain pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing cast iron drain pipes typically involves excavation to access the damaged sections, removing the old pipe, and installing new piping materials, often PVC or ABS, which are more resistant to corrosion. After installation, the trenches are backfilled, and any disturbed landscaping or flooring is restored. The complexity of the process depends on the pipe's location (e.g., under a slab, in a wall). CG Plumbing Solutions ensures clear communication throughout this process, detailing each step from initial assessment to final cleanup in your Las Vegas property.",
+        "@type": "Answer",
+        "description": "Replacement involves excavating, removing old pipes, installing new ones, and restoring the area, with complexity varying by location."
+      }
+    }
+  ],
+  "description": "Replacement involves excavating, removing old pipes, installing new ones, and restoring the area, with complexity varying by location."
+}

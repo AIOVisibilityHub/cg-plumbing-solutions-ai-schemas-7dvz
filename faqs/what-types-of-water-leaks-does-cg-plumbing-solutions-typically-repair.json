@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-water-leaks-does-cg-plumbing-solutions-typically-repair",
+  "name": "What types of water leaks does CG Plumbing Solutions typically repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of water leaks does CG Plumbing Solutions typically repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions repairs a wide range of water leaks, from common issues like dripping faucets, running toilets, and leaking water heaters to more complex problems such as burst pipes, slab leaks, and main water line leaks. Our team is equipped to handle leaks in various residential and commercial plumbing systems across Las Vegas, North Las Vegas, Henderson, Paradise, and Summerlin. We provide comprehensive solutions to ensure your plumbing system operates efficiently and safely.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions repairs diverse water leaks, including faucets, toilets, water heaters, burst pipes, slab leaks, and main line leaks in residential and commercial properties."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions repairs diverse water leaks, including faucets, toilets, water heaters, burst pipes, slab leaks, and main line leaks in residential and co"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-sewer-line-excavation",
+  "name": "What is sewer line excavation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is sewer line excavation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer line excavation involves digging into the ground to access and repair or replace underground sewer pipes. This process is typically necessary when non-invasive methods like trenchless repair aren't feasible due to severe damage, pipe collapse, or complex access issues. Understanding the extent of the damage, often through a camera inspection, is a crucial first step in determining if excavation is the most appropriate solution for your property.",
+        "@type": "Answer",
+        "description": "Sewer line excavation is the process of digging up ground to access and repair or replace underground sewer pipes, usually when other repair methods are not possible."
+      }
+    }
+  ],
+  "description": "Sewer line excavation is the process of digging up ground to access and repair or replace underground sewer pipes, usually when other repair methods are not pos"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-sewer-line-locating-service-take",
+  "name": "How long does a sewer line locating service take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a sewer line locating service take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a sewer line locating service can vary depending on several factors, including the length and complexity of your sewer system, the accessibility of the cleanout, and the nature of the terrain. A straightforward residential sewer line might take approximately one to two hours. More extensive systems, those with multiple branches, or properties with challenging access points could take longer. During the service, our technicians efficiently map the entire line, but they need to account for time spent setting up equipment and accurately marking the path. Understanding these variables helps manage expectations regarding the timing of the service.",
+        "@type": "Answer",
+        "description": "A sewer line locating service typically takes 1-2 hours for a standard residential line, but can vary based on system complexity and access."
+      }
+    }
+  ],
+  "description": "A sewer line locating service typically takes 1-2 hours for a standard residential line, but can vary based on system complexity and access."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-does-sewer-line-locating-work",
+  "name": "How does sewer line locating work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does sewer line locating work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer line locating typically involves inserting a flexible rod with a small, self-contained radio transmitter (sonde) into the sewer line, usually through an existing access point like a cleanout. As the sonde travels through the pipe, it emits a radio signal that can be detected on the surface by a hand-held receiver. The technician then follows this signal, marking the path and estimating the depth of the pipe directly above ground. This non-invasive method provides an accurate map of your sewer system. The process clarity is enhanced by allowing our technicians to trace the exact route of your pipes, even around bends or under structures.",
+        "@type": "Answer",
+        "description": "A technician inserts a radio transmitter into the sewer line, which emits a signal traced on the surface by a receiver to map the pipe's path and depth."
+      }
+    }
+  ],
+  "description": "A technician inserts a radio transmitter into the sewer line, which emits a signal traced on the surface by a receiver to map the pipe's path and depth."
+}

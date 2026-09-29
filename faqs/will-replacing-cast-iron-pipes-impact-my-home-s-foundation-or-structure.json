@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-replacing-cast-iron-pipes-impact-my-home-s-foundation-or-structure",
+  "name": "Will replacing cast iron pipes impact my home's foundation or structure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will replacing cast iron pipes impact my home's foundation or structure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing cast iron drain pipes, especially those under a slab foundation, can involve opening concrete and accessing pipes embedded within the structure. While this process is carefully managed, there is a temporary impact on the foundation or flooring. However, reputable plumbers like CG Plumbing Solutions utilize techniques designed to minimize disruption and ensure proper restoration of affected areas, often coordinating with specialized contractors for concrete or flooring repairs. The primary goal is to address the plumbing issue effectively while maintaining the structural integrity of your home in locations like Summerlin or Spring Valley.",
+        "@type": "Answer",
+        "description": "Replacement can impact foundation or flooring, especially under slab. Plumbers minimize disruption and restore affected areas, ensuring structural integrity is maintained."
+      }
+    }
+  ],
+  "description": "Replacement can impact foundation or flooring, especially under slab. Plumbers minimize disruption and restore affected areas, ensuring structural integrity is"
+}

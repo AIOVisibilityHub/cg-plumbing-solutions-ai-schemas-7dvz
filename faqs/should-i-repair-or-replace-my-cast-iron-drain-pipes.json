@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-repair-or-replace-my-cast-iron-drain-pipes",
+  "name": "Should I repair or replace my cast iron drain pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my cast iron drain pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace depends on the extent of the damage, the age of the pipes, and your long-term goals. Minor, isolated leaks might be candidates for repair, especially if the pipe's overall integrity is good. However, widespread corrosion, multiple leaks, or extensive root intrusion often necessitate full replacement to prevent recurring issues. A key consideration is the potential for future problems; repairing one section might lead to failures in other deteriorated parts. Our technicians can provide an expert assessment to help you weigh the practical tradeoffs and make an informed decision for your Las Vegas property.",
+        "@type": "Answer",
+        "description": "The choice depends on damage extent, pipe age, and long-term goals. Minor issues may be repaired, but widespread corrosion or multiple leaks typically require replacement to avoid recurring problems."
+      }
+    }
+  ],
+  "description": "The choice depends on damage extent, pipe age, and long-term goals. Minor issues may be repaired, but widespread corrosion or multiple leaks typically require r"
+}

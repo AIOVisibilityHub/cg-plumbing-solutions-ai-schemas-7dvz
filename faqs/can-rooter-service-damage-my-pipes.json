@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-rooter-service-damage-my-pipes",
+  "name": "Can rooter service damage my pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can rooter service damage my pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When performed by a trained and experienced technician, rooter service is generally safe for your pipes. However, improper use or excessive force can potentially cause damage, especially to older, corroded, or already compromised pipes. This is why it's crucial to hire a qualified plumbing professional who understands different pipe materials and blockage types. Our technicians in Las Vegas are trained to assess your plumbing system and use the appropriate tools and techniques to clear clogs safely and effectively.",
+        "@type": "Answer",
+        "description": "Rooter service is safe for pipes when done by experienced technicians; improper use can cause damage, especially to older pipes."
+      }
+    }
+  ],
+  "description": "Rooter service is safe for pipes when done by experienced technicians; improper use can cause damage, especially to older pipes."
+}

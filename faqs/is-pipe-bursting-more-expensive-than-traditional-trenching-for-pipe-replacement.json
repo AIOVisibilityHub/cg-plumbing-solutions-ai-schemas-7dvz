@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/is-pipe-bursting-more-expensive-than-traditional-trenching-for-pipe-replacement",
+  "name": "Is pipe bursting more expensive than traditional trenching for pipe replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is pipe bursting more expensive than traditional trenching for pipe replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial cost of pipe bursting can sometimes be comparable to or slightly higher than traditional trenching. However, pipe bursting often results in significant overall savings due to reduced restoration costs. Since it requires minimal excavation, you save on labor for digging and backfilling, and more importantly, on repairing landscaping, driveways, or other structures that would be disturbed by traditional trenching. When comparing options for your Las Vegas property, factor in these indirect costs beyond just the pipe work.",
+        "@type": "Answer",
+        "description": "Initial pipe bursting costs can be similar to trenching, but often leads to overall savings by minimizing restoration expenses for landscaping and property."
+      }
+    }
+  ],
+  "description": "Initial pipe bursting costs can be similar to trenching, but often leads to overall savings by minimizing restoration expenses for landscaping and property."
+}

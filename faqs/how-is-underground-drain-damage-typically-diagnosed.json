@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-is-underground-drain-damage-typically-diagnosed",
+  "name": "How is underground drain damage typically diagnosed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is underground drain damage typically diagnosed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Underground drain damage is typically diagnosed using video pipe inspection. This involves inserting a high-resolution camera into the drain line to visually assess the condition of the pipes, identify blockages, cracks, root intrusion, or collapses. This method allows CG Plumbing Solutions technicians to pinpoint the exact location and nature of the problem without extensive digging, providing precise information necessary for recommending the most effective repair strategy.",
+        "@type": "Answer",
+        "description": "Diagnosis usually involves video pipe inspection, where a camera is inserted into the drain to identify blockages, cracks, or other damage."
+      }
+    }
+  ],
+  "description": "Diagnosis usually involves video pipe inspection, where a camera is inserted into the drain to identify blockages, cracks, or other damage."
+}

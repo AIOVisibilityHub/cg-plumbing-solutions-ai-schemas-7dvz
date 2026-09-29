@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/after-a-hidden-leak-is-detected-what-are-the-next-steps-for-repair",
+  "name": "After a hidden leak is detected, what are the next steps for repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "After a hidden leak is detected, what are the next steps for repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once a hidden leak is detected and precisely located, the next step is typically to discuss the repair options tailored to your specific situation. This may involve direct access and repair, re-piping a section, or in some cases, a trenchless repair method for underground lines. We will provide a detailed explanation of the damage, the recommended repair strategy, and an estimate for the work. Our goal is to ensure you understand the necessary steps and feel confident in the chosen solution to restore your plumbing system efficiently.",
+        "@type": "Answer",
+        "description": "After detection, we discuss repair options like direct access repair, re-piping, or trenchless methods, providing a detailed plan and estimate for the work."
+      }
+    }
+  ],
+  "description": "After detection, we discuss repair options like direct access repair, re-piping, or trenchless methods, providing a detailed plan and estimate for the work."
+}

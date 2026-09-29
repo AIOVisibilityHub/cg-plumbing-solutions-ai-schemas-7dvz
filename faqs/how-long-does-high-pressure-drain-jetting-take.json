@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-high-pressure-drain-jetting-take",
+  "name": "How long does high-pressure drain jetting take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does high-pressure drain jetting take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of high-pressure drain jetting depends on several factors, including the severity and location of the blockage, the length and diameter of the pipe, and the overall condition of your plumbing system. A typical residential drain jetting service might take anywhere from one to a few hours. Before beginning, a plumber will often perform a camera inspection to assess the blockage and pipe condition, which helps determine the estimated time required for the job and ensures the most effective approach.",
+        "@type": "Answer",
+        "description": "The time for drain jetting varies based on blockage severity, pipe length, and condition, typically ranging from one to a few hours. A pre-service camera inspection helps determine the exact timeframe."
+      }
+    }
+  ],
+  "description": "The time for drain jetting varies based on blockage severity, pipe length, and condition, typically ranging from one to a few hours. A pre-service camera inspec"
+}

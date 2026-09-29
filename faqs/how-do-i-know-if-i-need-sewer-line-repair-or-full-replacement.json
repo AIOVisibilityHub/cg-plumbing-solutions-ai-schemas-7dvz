@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-i-need-sewer-line-repair-or-full-replacement",
+  "name": "How do I know if I need sewer line repair or full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need sewer line repair or full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether you need a repair or a full replacement depends on the extent, type, and age of the damage to your sewer line. Minor, isolated cracks or small root intrusions might be fixed with targeted repairs, sometimes even trenchless methods. However, widespread corrosion, multiple breaks, significant pipe collapse, or very old, deteriorating pipes often necessitate a full replacement for a long-term solution. A professional camera inspection provides the detailed information needed to make this decision, as it reveals the true condition of your entire sewer system.",
+        "@type": "Answer",
+        "description": "The decision for repair versus full replacement depends on the extent, type, and age of the damage, often revealed by a professional camera inspection."
+      }
+    }
+  ],
+  "description": "The decision for repair versus full replacement depends on the extent, type, and age of the damage, often revealed by a professional camera inspection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-sewer-line-locating",
+  "name": "What is sewer line locating?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is sewer line locating?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer line locating is the process of precisely identifying the underground path and depth of your sewer pipes without excavation. Technicians use specialized electronic equipment, often involving a signal sent through the pipe from a transmitter, which is then detected on the surface. This technique helps in planning new construction, landscaping, or resolving existing sewer issues by pinpointing the exact location of the line. Understanding the precise route can prevent accidental damage during digging and helps in accurately diagnosing problems. CG Plumbing Solutions uses advanced tools for accurate mapping of your sewer system.",
+        "@type": "Answer",
+        "description": "Sewer line locating precisely identifies the underground path and depth of your sewer pipes using specialized electronic equipment without excavation, aiding in planning and problem diagnosis."
+      }
+    }
+  ],
+  "description": "Sewer line locating precisely identifies the underground path and depth of your sewer pipes using specialized electronic equipment without excavation, aiding in"
+}

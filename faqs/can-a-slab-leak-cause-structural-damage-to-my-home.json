@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-a-slab-leak-cause-structural-damage-to-my-home",
+  "name": "Can a slab leak cause structural damage to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a slab leak cause structural damage to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if left unaddressed, a slab leak can cause significant structural damage to your home. Constant water saturation can weaken the concrete slab foundation, lead to shifting, and compromise the structural integrity of your property. It can also promote mold growth, which poses health risks and further damages materials. Early detection and repair are crucial to prevent these severe and costly long-term consequences.",
+        "@type": "Answer",
+        "description": "Yes, unchecked slab leaks can weaken foundations, cause shifting, and promote mold growth, leading to significant and costly structural damage."
+      }
+    }
+  ],
+  "description": "Yes, unchecked slab leaks can weaken foundations, cause shifting, and promote mold growth, leading to significant and costly structural damage."
+}

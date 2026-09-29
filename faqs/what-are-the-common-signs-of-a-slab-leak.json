@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-of-a-slab-leak",
+  "name": "What are the common signs of a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a slab leak include unexplained high water bills, the sound of running water when all fixtures are off, warm spots on the floor, damp or stained flooring, and noticeable shifts in your home's foundation. If you observe any of these indicators, especially unusual dampness or cracking in your concrete slab in the Las Vegas area, it's advisable to contact a plumbing professional for an assessment. Catching these signs early can help mitigate potential damage.",
+        "@type": "Answer",
+        "description": "Signs of a slab leak include high water bills, running water sounds, warm floor spots, and damp flooring."
+      }
+    }
+  ],
+  "description": "Signs of a slab leak include high water bills, running water sounds, warm floor spots, and damp flooring."
+}

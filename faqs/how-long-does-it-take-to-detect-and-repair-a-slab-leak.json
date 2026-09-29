@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-detect-and-repair-a-slab-leak",
+  "name": "How long does it take to detect and repair a slab leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to detect and repair a slab leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Slab leak detection can typically take a few hours, depending on the leak's complexity and location. The repair duration varies significantly based on the chosen method; a spot repair might take one to two days, while a re-pipe could extend to several days. We prioritize efficient service to minimize disruption to your Summerlin or North Las Vegas home and keep you informed throughout the entire process.",
+        "@type": "Answer",
+        "description": "Detection usually takes a few hours, while repair can range from one day for a spot repair to several days for a re-pipe."
+      }
+    }
+  ],
+  "description": "Detection usually takes a few hours, while repair can range from one day for a spot repair to several days for a re-pipe."
+}

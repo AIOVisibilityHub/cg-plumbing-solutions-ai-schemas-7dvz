@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-causes-of-sewer-cleanout-damage-in-the-las-vegas-area",
+  "name": "What are the common causes of sewer cleanout damage in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of sewer cleanout damage in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Las Vegas area, common causes of sewer cleanout damage include general wear and tear from sun exposure, which can degrade plastic caps over time, and accidental damage from lawnmowers or other landscaping activities. Shifting desert soils can also put stress on underground pipes and connections, leading to cracks or dislodgments. Additionally, extreme temperature fluctuations, though less common for underground cleanouts, can contribute to material fatigue. Regular maintenance and careful landscaping around the cleanout can help prevent such issues.",
+        "@type": "Answer",
+        "description": "Common causes of cleanout damage in Las Vegas include sun degradation of caps, accidental landscaping damage, and stress from shifting desert soils."
+      }
+    }
+  ],
+  "description": "Common causes of cleanout damage in Las Vegas include sun degradation of caps, accidental landscaping damage, and stress from shifting desert soils."
+}

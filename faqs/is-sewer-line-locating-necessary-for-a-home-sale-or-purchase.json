@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/is-sewer-line-locating-necessary-for-a-home-sale-or-purchase",
+  "name": "Is sewer line locating necessary for a home sale or purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is sewer line locating necessary for a home sale or purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not always a mandatory part of a standard home inspection, obtaining a sewer line locating service, often alongside a sewer camera inspection, can be highly beneficial during a home sale or purchase. It provides critical insight into the condition and layout of the property's sewer system, which can be a significant decision factor for buyers. Identifying potential issues or the exact path of the sewer line before closing can prevent unexpected, costly repairs down the line. We recommend considering this service in areas like Las Vegas where older homes might have aging infrastructure, offering peace of mind for all parties involved.",
+        "@type": "Answer",
+        "description": "Sewer line locating isn't always mandatory for a home sale, but it's highly beneficial with an inspection to assess the sewer system and prevent future costly repairs."
+      }
+    }
+  ],
+  "description": "Sewer line locating isn't always mandatory for a home sale, but it's highly beneficial with an inspection to assess the sewer system and prevent future costly r"
+}

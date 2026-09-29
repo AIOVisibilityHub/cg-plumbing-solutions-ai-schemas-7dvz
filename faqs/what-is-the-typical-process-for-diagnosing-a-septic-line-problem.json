@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-diagnosing-a-septic-line-problem",
+  "name": "What is the typical process for diagnosing a septic line problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for diagnosing a septic line problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Diagnosing a septic line problem usually begins with a visual inspection of your property and system components. Plumbers may use advanced techniques like sewer camera inspections, which involve feeding a waterproof camera into the septic line to identify blockages, cracks, root intrusion, or collapses without extensive excavation. This non-invasive method allows for precise identification of the issue's location and severity, enabling CG Plumbing Solutions to recommend the most effective repair solution.",
+        "@type": "Answer",
+        "description": "Diagnosis often starts with a visual inspection, followed by a sewer camera inspection to precisely locate and identify issues like blockages or cracks."
+      }
+    }
+  ],
+  "description": "Diagnosis often starts with a visual inspection, followed by a sewer camera inspection to precisely locate and identify issues like blockages or cracks."
+}

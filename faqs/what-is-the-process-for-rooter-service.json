@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-rooter-service",
+  "name": "What is the process for rooter service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for rooter service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The rooter service process typically begins with a plumber identifying the location and nature of the clog, often using a video camera inspection for main lines. Once located, a rooter machine with a flexible cable and cutting head is inserted into the drain or pipe. The rotating head breaks apart or retrieves the obstruction, clearing the flow. After the blockage is removed, the line is flushed to ensure proper drainage. For properties in the Las Vegas area, our technicians will confirm the drain is clear and discuss any preventative measures.",
+        "@type": "Answer",
+        "description": "Rooter service involves identifying the clog, using a specialized machine to break up or remove the obstruction, and then flushing the line to restore flow."
+      }
+    }
+  ],
+  "description": "Rooter service involves identifying the clog, using a specialized machine to break up or remove the obstruction, and then flushing the line to restore flow."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-trenchless-sewer-repair-for-my-home",
+  "name": "When should I consider trenchless sewer repair for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider trenchless sewer repair for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider trenchless sewer repair if you have recurring sewer line issues like blockages, leaks, or slow drains, and a professional inspection confirms pipe damage. It's an ideal solution for pipes that are corroded, cracked, or penetrated by tree roots. This method is particularly beneficial if your sewer line runs under valuable landscaping, driveways, or other structures you wish to preserve. Our technicians can conduct a video inspection to accurately diagnose the problem and determine if trenchless repair is the most suitable option for your specific situation in locations such as Summerlin or Enterprise.",
+        "@type": "Answer",
+        "description": "Consider trenchless repair for recurring sewer problems like blockages or leaks, especially if pipe damage is confirmed and you want to avoid disrupting landscaping or structures."
+      }
+    }
+  ],
+  "description": "Consider trenchless repair for recurring sewer problems like blockages or leaks, especially if pipe damage is confirmed and you want to avoid disrupting landsca"
+}

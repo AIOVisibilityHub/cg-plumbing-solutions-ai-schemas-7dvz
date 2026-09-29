@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-of-an-underground-drain-problem",
+  "name": "What are common signs of an underground drain problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of an underground drain problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of an underground drain problem include recurring clogs in multiple fixtures, slow drainage, foul odors coming from drains, lush patches of grass in your yard (indicating a leak fertilizing the soil), or sudden increases in your water bill. If you notice persistent issues like these, especially in areas served by CG Plumbing Solutions like Las Vegas or Henderson, it's often a sign that professional inspection is needed to identify the root cause before minor problems escalate into major damage.",
+        "@type": "Answer",
+        "description": "Common signs include recurring clogs, slow drains, foul odors, lush spots in the yard, or an unexpected rise in your water bill."
+      }
+    }
+  ],
+  "description": "Common signs include recurring clogs, slow drains, foul odors, lush spots in the yard, or an unexpected rise in your water bill."
+}

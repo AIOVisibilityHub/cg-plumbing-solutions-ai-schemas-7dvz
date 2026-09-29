@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-sewer-line-excavation",
+  "name": "What is the typical process for sewer line excavation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for sewer line excavation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with locating the sewer line and identifying the exact problem area, often using camera inspection. Next, the area is carefully marked, and excavation begins, typically with specialized equipment. Once the pipe is exposed, the damaged section is removed, and new piping is installed. After connecting and testing the new section, the trench is backfilled, and the site is restored. Customers should ensure clear access to the work area and discuss any landscaping concerns beforehand, as this influences the preparation and restoration phases.",
+        "@type": "Answer",
+        "description": "The process involves locating the problem, excavating, repairing or replacing the pipe, testing, and then backfilling and restoring the site."
+      }
+    }
+  ],
+  "description": "The process involves locating the problem, excavating, repairing or replacing the pipe, testing, and then backfilling and restoring the site."
+}

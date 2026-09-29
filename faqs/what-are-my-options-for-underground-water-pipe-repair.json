@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-my-options-for-underground-water-pipe-repair",
+  "name": "What are my options for underground water pipe repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are my options for underground water pipe repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Options for underground water pipe repair typically include traditional trenching and trenchless repair methods. Traditional trenching involves excavating the area to access and repair or replace the damaged pipe. Trenchless methods, such as pipe bursting or pipe lining, can often repair pipes with minimal digging, preserving landscaping and driveways. The best option depends on the pipe's condition, location, and the surrounding landscape; trenchless methods are often preferred for their less invasive nature, but not all pipes are suitable for them.",
+        "@type": "Answer",
+        "description": "Repair options include traditional trenching (excavation) or trenchless methods like pipe bursting or lining, with the best choice depending on pipe condition and location."
+      }
+    }
+  ],
+  "description": "Repair options include traditional trenching (excavation) or trenchless methods like pipe bursting or lining, with the best choice depending on pipe condition a"
+}

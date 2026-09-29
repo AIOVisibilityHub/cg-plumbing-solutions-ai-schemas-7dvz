@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-call-for-professional-leak-detection-versus-trying-to-find-it-myse",
+  "name": "When should I call for professional leak detection versus trying to find it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call for professional leak detection versus trying to find it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call for professional leak detection when you suspect a hidden leak but cannot locate it visually, or if you notice unexplained signs like a sudden spike in your water bill. While minor visible leaks can sometimes be addressed by homeowners, hidden leaks behind walls, under floors, or in concrete slabs require specialized tools and expertise to prevent further property damage and ensure an effective repair.",
+        "@type": "Answer",
+        "description": "Call a professional for hidden leaks you can't find or if you see unexplained signs like a high water bill, as specialized tools are needed."
+      }
+    }
+  ],
+  "description": "Call a professional for hidden leaks you can't find or if you see unexplained signs like a high water bill, as specialized tools are needed."
+}

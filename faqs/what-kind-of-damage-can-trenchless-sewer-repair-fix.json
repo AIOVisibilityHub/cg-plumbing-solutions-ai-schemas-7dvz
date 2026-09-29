@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-damage-can-trenchless-sewer-repair-fix",
+  "name": "What kind of damage can trenchless sewer repair fix?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can trenchless sewer repair fix?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trenchless sewer repair is effective for addressing various types of pipe damage, including cracks, root intrusion, corrosion, minor misalignments, and small leaks. It can also be used to repair pipes with minor bellied sections by reinforcing the pipe's structure. However, it may not be suitable for severely collapsed pipes or significant structural damage that requires complete pipe replacement in a specific section. A detailed video inspection helps us determine if your sewer line's issues, such as those caused by ground shifts common in the desert climate of Henderson, can be effectively resolved with trenchless methods.",
+        "@type": "Answer",
+        "description": "Trenchless repair can fix cracks, root intrusion, corrosion, and minor leaks, but not severe collapses or major structural damage."
+      }
+    }
+  ],
+  "description": "Trenchless repair can fix cracks, root intrusion, corrosion, and minor leaks, but not severe collapses or major structural damage."
+}

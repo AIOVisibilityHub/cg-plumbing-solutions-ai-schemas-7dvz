@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-high-pressure-drain-jetting",
+  "name": "What is the process for high-pressure drain jetting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for high-pressure drain jetting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with a diagnostic video camera inspection of the affected drain line to locate and identify the cause and extent of the blockage. Once the issue is confirmed and the pipes are deemed suitable, a high-pressure hose with a specialized nozzle is inserted into the pipe. Water is then propelled at high velocity, breaking down and flushing away debris. The process continues until the pipe is thoroughly cleaned and flow is restored. A post-jetting inspection may be performed to ensure the blockage is fully cleared.",
+        "@type": "Answer",
+        "description": "The drain jetting process involves a camera inspection to assess the blockage, then using a high-pressure hose to clear debris, followed by an optional post-inspection to confirm full clearance."
+      }
+    }
+  ],
+  "description": "The drain jetting process involves a camera inspection to assess the blockage, then using a high-pressure hose to clear debris, followed by an optional post-ins"
+}

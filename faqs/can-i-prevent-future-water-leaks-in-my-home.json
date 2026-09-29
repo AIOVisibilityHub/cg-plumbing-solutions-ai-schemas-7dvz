@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-prevent-future-water-leaks-in-my-home",
+  "name": "Can I prevent future water leaks in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent future water leaks in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's impossible to prevent all leaks, regular plumbing maintenance can significantly reduce the risk. This includes inspecting visible pipes for corrosion or drips, addressing minor issues promptly, and being mindful of your water bill for unexplained spikes. In areas like Las Vegas, hard water can sometimes contribute to pipe degradation over time, so proactive checks are especially helpful.",
+        "@type": "Answer",
+        "description": "Regular plumbing maintenance and monitoring water bills can help prevent future leaks, especially in areas with hard water."
+      }
+    }
+  ],
+  "description": "Regular plumbing maintenance and monitoring water bills can help prevent future leaks, especially in areas with hard water."
+}

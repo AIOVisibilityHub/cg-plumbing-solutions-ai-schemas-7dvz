@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-storm-drain-repair-typically-cost",
+  "name": "How much does storm drain repair typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does storm drain repair typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of storm drain repair varies significantly based on the issue's severity, the pipe's material, its depth, and accessibility. Minor repairs, like clearing blockages, are less expensive than replacing a collapsed section of pipe. For an accurate estimate, it's essential to have a professional inspection. We provide transparent quotes after assessing the specific problem on your property, ensuring you understand the scope and cost before any work begins, which helps manage expectations for residents in areas like Henderson and Summerlin.",
+        "@type": "Answer",
+        "description": "Repair costs depend on severity, pipe material, depth, and accessibility. A professional inspection provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Repair costs depend on severity, pipe material, depth, and accessibility. A professional inspection provides an accurate estimate."
+}

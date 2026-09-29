@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-signs-that-my-cast-iron-drain-pipes-need-to-be-replaced",
+  "name": "What are the signs that my cast iron drain pipes need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my cast iron drain pipes need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that cast iron drain pipes need replacement include frequent clogs, slow drainage, sewage odors, and visible leaks or rust stains around the pipes. Another critical sign is an increase in pest activity, as small cracks in deteriorating pipes can attract insects and rodents into your property. For homeowners in the Las Vegas valley, these issues can sometimes be exacerbated by hard water, which can contribute to internal pipe corrosion and buildup over time, making early detection important for preventing more significant damage.",
+        "@type": "Answer",
+        "description": "Signs include frequent clogs, slow drainage, sewage odors, visible leaks, and increased pest activity."
+      }
+    }
+  ],
+  "description": "Signs include frequent clogs, slow drainage, sewage odors, visible leaks, and increased pest activity."
+}

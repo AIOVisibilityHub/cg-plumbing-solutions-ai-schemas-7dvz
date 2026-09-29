@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-video-pipe-inspection-take",
+  "name": "How long does a typical video pipe inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical video pipe inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical video pipe inspection can take anywhere from 30 minutes to a few hours, depending on the length and complexity of the plumbing system being inspected, and the specific issues encountered. For instance, navigating particularly stubborn blockages or extensive pipe networks will extend the duration. At CG Plumbing Solutions, our goal is to thoroughly assess the situation while working efficiently to minimize disruption to your day, providing clear communication on expected timelines.",
+        "@type": "Answer",
+        "description": "An inspection usually takes 30 minutes to a few hours, depending on system complexity and issues found."
+      }
+    }
+  ],
+  "description": "An inspection usually takes 30 minutes to a few hours, depending on system complexity and issues found."
+}

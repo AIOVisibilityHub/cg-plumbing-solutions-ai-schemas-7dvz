@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-replacing-cast-iron-drain-pipes",
+  "name": "What is the typical process for replacing cast iron drain pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for replacing cast iron drain pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a thorough inspection, often using video cameras, to assess the condition and locate all affected sections. Next, technicians will access the pipes, which may involve opening walls or floors. The old cast iron sections are then carefully removed and replaced with new piping, commonly PVC or ABS. After installation, the system is tested for leaks and proper drainage before any structural repairs are completed. CG Plumbing Solutions aims to minimize disruption during this process, coordinating access and restoration efficiently.",
+        "@type": "Answer",
+        "description": "The process involves inspection, pipe access, removal of old pipes, installation of new ones (often PVC/ABS), testing, and restoration."
+      }
+    }
+  ],
+  "description": "The process involves inspection, pipe access, removal of old pipes, installation of new ones (often PVC/ABS), testing, and restoration."
+}

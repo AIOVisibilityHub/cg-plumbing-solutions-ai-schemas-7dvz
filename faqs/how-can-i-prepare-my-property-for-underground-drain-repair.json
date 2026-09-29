@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prepare-my-property-for-underground-drain-repair",
+  "name": "How can I prepare my property for underground drain repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my property for underground drain repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your property for underground drain repair, it's helpful to clear the access areas where technicians will be working, such as around cleanouts or suspected pipe locations. If traditional excavation is anticipated, moving vehicles, outdoor furniture, or decorative items from the path of the drain line can streamline the process. Providing any available blueprints or records of previous plumbing work can also be valuable to CG Plumbing Solutions technicians in Las Vegas as they plan the repair.",
+        "@type": "Answer",
+        "description": "Clear access areas, move obstacles if excavation is expected, and provide any plumbing records or blueprints you may have."
+      }
+    }
+  ],
+  "description": "Clear access areas, move obstacles if excavation is expected, and provide any plumbing records or blueprints you may have."
+}

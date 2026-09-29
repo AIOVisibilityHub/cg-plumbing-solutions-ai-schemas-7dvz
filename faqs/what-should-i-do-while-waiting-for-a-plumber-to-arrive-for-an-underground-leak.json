@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-while-waiting-for-a-plumber-to-arrive-for-an-underground-leak",
+  "name": "What should I do while waiting for a plumber to arrive for an underground leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do while waiting for a plumber to arrive for an underground leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While waiting for a plumber to arrive for an underground leak, the most important step is to locate and shut off your main water supply valve. This will stop the flow of water, preventing further damage and water waste. Also, try to clear any standing water from affected areas if safe to do so, and identify where the leak seems most prominent, which can assist the plumber in their initial assessment.",
+        "@type": "Answer",
+        "description": "Shut off your main water supply valve to stop the leak. If safe, clear standing water and identify the apparent leak location for the plumber."
+      }
+    }
+  ],
+  "description": "Shut off your main water supply valve to stop the leak. If safe, clear standing water and identify the apparent leak location for the plumber."
+}

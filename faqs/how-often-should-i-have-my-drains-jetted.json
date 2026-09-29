@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-have-my-drains-jetted",
+  "name": "How often should I have my drains jetted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my drains jetted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency for drain jetting depends on your property's specific needs and usage. For residential properties with normal use and no recurring issues, it might not be necessary for several years. However, businesses like restaurants or homes with frequent grease disposal may benefit from annual or bi-annual preventative jetting. If you experience recurring slow drains or blockages, CG Plumbing Solutions can help determine an optimal maintenance schedule based on a camera inspection and your property's plumbing system characteristics.",
+        "@type": "Answer",
+        "description": "Drain jetting frequency varies; residential properties may need it less often than businesses with heavy usage. CG Plumbing Solutions can recommend a schedule based on your specific plumbing system and usage."
+      }
+    }
+  ],
+  "description": "Drain jetting frequency varies; residential properties may need it less often than businesses with heavy usage. CG Plumbing Solutions can recommend a schedule b"
+}

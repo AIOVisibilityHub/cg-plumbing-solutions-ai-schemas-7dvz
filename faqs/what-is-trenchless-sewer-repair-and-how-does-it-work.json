@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-trenchless-sewer-repair-and-how-does-it-work",
+  "name": "What is trenchless sewer repair and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is trenchless sewer repair and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trenchless sewer repair is a method to fix damaged underground sewer lines without extensive digging. It typically involves two main techniques: pipe bursting or pipe lining. Pipe bursting replaces the old pipe by pulling a new one through, fracturing the old one in place. Pipe lining inserts a new epoxy-coated liner into the existing pipe, which then cures to form a new, seamless pipe. This approach significantly reduces disruption to your property and landscaping, a common concern for homeowners in areas like Summerlin where yards are often well-maintained.",
+        "@type": "Answer",
+        "description": "Trenchless sewer repair fixes underground sewer lines without digging, using methods like pipe bursting or pipe lining to repair or replace the damaged pipe."
+      }
+    }
+  ],
+  "description": "Trenchless sewer repair fixes underground sewer lines without digging, using methods like pipe bursting or pipe lining to repair or replace the damaged pipe."
+}

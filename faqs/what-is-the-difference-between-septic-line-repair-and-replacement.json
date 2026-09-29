@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-septic-line-repair-and-replacement",
+  "name": "What is the difference between septic line repair and replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between septic line repair and replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Septic line repair focuses on fixing specific issues, such as sealing a crack, removing a clog, or patching a small section of pipe, to restore functionality. Replacement involves excavating and installing an entirely new section of the septic line or the entire system if damage is widespread or the system is beyond repair. The choice between repair and replacement is determined by the severity of the damage, the age of the system, and cost-effectiveness. A thorough inspection from CG Plumbing Solutions helps determine the most appropriate and economical solution.",
+        "@type": "Answer",
+        "description": "Repair fixes specific issues like cracks or clogs, while replacement involves installing new sections or an entire system. The best option depends on damage severity and cost-effectiveness."
+      }
+    }
+  ],
+  "description": "Repair fixes specific issues like cracks or clogs, while replacement involves installing new sections or an entire system. The best option depends on damage sev"
+}

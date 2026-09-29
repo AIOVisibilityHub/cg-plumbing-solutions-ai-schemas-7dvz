@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-pipe-bursting-and-how-does-it-work",
+  "name": "What is pipe bursting and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is pipe bursting and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pipe bursting is a trenchless method used to replace old or damaged underground pipes without extensive excavation. It involves pulling a new pipe through the path of the old one while simultaneously breaking apart the existing pipe. A cone-shaped bursting head is attached to the new pipe and pulled by a winch, fragmenting the old pipe into the surrounding soil. This process minimizes disruption to your property and landscaping, a significant advantage for homeowners in areas like Summerlin where property aesthetics are important.",
+        "@type": "Answer",
+        "description": "Pipe bursting is a trenchless method that replaces old pipes by pulling a new pipe through the path of the old one, breaking it apart underground. It minimizes excavation and disruption."
+      }
+    }
+  ],
+  "description": "Pipe bursting is a trenchless method that replaces old pipes by pulling a new pipe through the path of the old one, breaking it apart underground. It minimizes"
+}

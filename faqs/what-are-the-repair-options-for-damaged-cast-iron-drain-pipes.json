@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-repair-options-for-damaged-cast-iron-drain-pipes",
+  "name": "What are the repair options for damaged cast iron drain pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the repair options for damaged cast iron drain pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repair options for damaged cast iron drain pipes depend on the extent and location of the damage. For minor cracks or leaks, trenchless pipe lining, which involves inserting a resin-coated liner into the existing pipe, can create a new, durable pipe within the old one without extensive digging. For more severe damage or collapsed sections, traditional dig-and-replace methods may be necessary. CG Plumbing Solutions assesses each situation to recommend the most effective and least disruptive solution for your property.",
+        "@type": "Answer",
+        "description": "Repair options range from trenchless pipe lining for minor damage to traditional dig-and-replace methods for severe issues."
+      }
+    }
+  ],
+  "description": "Repair options range from trenchless pipe lining for minor damage to traditional dig-and-replace methods for severe issues."
+}

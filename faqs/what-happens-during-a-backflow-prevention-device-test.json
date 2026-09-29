@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-happens-during-a-backflow-prevention-device-test",
+  "name": "What happens during a backflow prevention device test?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during a backflow prevention device test?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a backflow prevention device test, a certified technician uses specialized equipment to check the device's internal components, such as relief valves and check valves, for proper operation. This involves isolating the device and applying varying pressure to verify it can prevent reverse flow. The process includes documenting readings and submitting necessary reports to the local water authority, ensuring compliance and functionality.",
+        "@type": "Answer",
+        "description": "A certified technician tests the device's internal components with specialized equipment to ensure it prevents reverse flow and reports findings."
+      }
+    }
+  ],
+  "description": "A certified technician tests the device's internal components with specialized equipment to ensure it prevents reverse flow and reports findings."
+}

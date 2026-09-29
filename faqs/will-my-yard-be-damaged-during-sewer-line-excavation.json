@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-my-yard-be-damaged-during-sewer-line-excavation",
+  "name": "Will my yard be damaged during sewer line excavation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my yard be damaged during sewer line excavation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer line excavation involves digging a trench to access the underground pipes, which will inevitably disturb the ground and any landscaping in the work area. While our team takes care to minimize disruption and restore the site as much as possible, some damage to grass, plants, or hardscaping is typically unavoidable. The extent of disruption depends on the specific location of your sewer line and the repair needed, making it a key practical tradeoff to consider when selecting this method. We will discuss the expected impact during the assessment.",
+        "@type": "Answer",
+        "description": "Yes, excavation will disturb your yard and landscaping due to digging, but our team works to minimize disruption and restore the area."
+      }
+    }
+  ],
+  "description": "Yes, excavation will disturb your yard and landscaping due to digging, but our team works to minimize disruption and restore the area."
+}

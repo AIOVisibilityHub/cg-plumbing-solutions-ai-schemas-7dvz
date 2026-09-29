@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-be-present-during-a-backflow-prevention-test",
+  "name": "Do I need to be present during a backflow prevention test?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present during a backflow prevention test?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You generally do not need to be present during a routine backflow prevention test, provided the device is easily accessible. Our technicians can complete the service without requiring your presence if access is pre-arranged, such as an outdoor device. However, if the device is indoors or if repairs are anticipated, being available can help facilitate decision-making and access.",
+        "@type": "Answer",
+        "description": "You typically do not need to be present for a backflow test if the device is accessible, but being available helps with indoors or repairs."
+      }
+    }
+  ],
+  "description": "You typically do not need to be present for a backflow test if the device is accessible, but being available helps with indoors or repairs."
+}

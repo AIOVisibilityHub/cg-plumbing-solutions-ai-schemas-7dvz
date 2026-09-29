@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-before-the-plumber-arrives-for-rooter-service",
+  "name": "What should I do before the plumber arrives for rooter service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before the plumber arrives for rooter service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the plumber arrives for rooter service, it's helpful to clear the area around the affected drain or cleanout access point to ensure easy access for the technician and their equipment. If possible, note down when the problem started, what types of symptoms you've observed (e.g., specific drains affected, gurgling sounds), and any previous attempts you've made to resolve the clog. This information helps our CG Plumbing Solutions team in Las Vegas diagnose and address the issue more efficiently.",
+        "@type": "Answer",
+        "description": "Clear the area around the affected drain, note down symptoms, and any previous attempts to resolve the clog before the plumber arrives."
+      }
+    }
+  ],
+  "description": "Clear the area around the affected drain, note down symptoms, and any previous attempts to resolve the clog before the plumber arrives."
+}

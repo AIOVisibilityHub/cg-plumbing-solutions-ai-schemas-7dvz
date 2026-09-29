@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-choose-the-right-type-of-septic-tank-for-my-property",
+  "name": "How do I choose the right type of septic tank for my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of septic tank for my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right septic tank type involves considering your household size, soil conditions, local regulations, and long-term maintenance preferences. Common options include concrete, plastic, and fiberglass tanks, each with different durability and installation requirements. Concrete tanks are durable but heavy, while plastic and fiberglass are lighter but may require more careful installation. CG Plumbing Solutions evaluates your specific needs and site conditions to recommend the most suitable and compliant option for your property.",
+        "@type": "Answer",
+        "description": "Consider household size, soil, regulations, and maintenance. Concrete, plastic, and fiberglass tanks have different pros and cons."
+      }
+    }
+  ],
+  "description": "Consider household size, soil, regulations, and maintenance. Concrete, plastic, and fiberglass tanks have different pros and cons."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-different-types-of-backwater-valves-available",
+  "name": "What are the different types of backwater valves available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different types of backwater valves available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several types of backwater valves, primarily categorized by their installation location and mechanism. Mainline backwater valves are installed on the main sewer line where it exits the property, providing protection for the entire home. Area-specific backwater valves are installed on individual fixtures like floor drains or basement toilets. Deciding on the appropriate type depends on your home's layout, existing plumbing, and the specific areas you wish to protect, which our technicians can assess during an on-site visit in Las Vegas.",
+        "@type": "Answer",
+        "description": "Types include mainline valves for whole-home protection and area-specific valves for individual fixtures, chosen based on your home's plumbing."
+      }
+    }
+  ],
+  "description": "Types include mainline valves for whole-home protection and area-specific valves for individual fixtures, chosen based on your home's plumbing."
+}

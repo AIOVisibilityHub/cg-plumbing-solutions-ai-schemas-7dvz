@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-problems-can-a-video-pipe-inspection-detect",
+  "name": "What kind of problems can a video pipe inspection detect?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of problems can a video pipe inspection detect?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A video pipe inspection can detect a wide range of issues, including tree root intrusion, pipe corrosion, cracks, breaks, joint misalignment, sludge buildup, and foreign objects causing blockages. It provides a clear visual of the pipe's interior condition, pinpointing the exact location and nature of the problem. This precision allows CG Plumbing Solutions to recommend targeted repairs, avoiding unnecessary excavation and ensuring the proposed solution addresses the actual issue effectively.",
+        "@type": "Answer",
+        "description": "It can detect root intrusion, corrosion, cracks, breaks, misaligned joints, sludge buildup, and blockages."
+      }
+    }
+  ],
+  "description": "It can detect root intrusion, corrosion, cracks, breaks, misaligned joints, sludge buildup, and blockages."
+}

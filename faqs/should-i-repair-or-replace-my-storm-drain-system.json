@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-repair-or-replace-my-storm-drain-system",
+  "name": "Should I repair or replace my storm drain system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my storm drain system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace your storm drain system depends on the extent of the damage, the age of the pipes, and recurring issues. If damage is localized or pipes are relatively new, a targeted repair is often cost-effective. However, if there are widespread issues, significant deterioration due to age, or frequent blockages, a full replacement may be a more economical long-term solution. Our plumbers can assess your specific situation and recommend the best course of action, offering solutions that make sense for properties in areas like Paradise or Spring Valley.",
+        "@type": "Answer",
+        "description": "The choice between repair and replacement depends on damage extent, pipe age, and recurring issues. We assess your system to recommend the best long-term solution."
+      }
+    }
+  ],
+  "description": "The choice between repair and replacement depends on damage extent, pipe age, and recurring issues. We assess your system to recommend the best long-term soluti"
+}

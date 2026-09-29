@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-choose-hydro-jetting-over-a-traditional-auger-for-root-removal",
+  "name": "When should I choose hydro-jetting over a traditional auger for root removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I choose hydro-jetting over a traditional auger for root removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should choose hydro-jetting over a traditional auger when dealing with significant or recurring root blockages, or when you need a more thorough cleaning of your sewer line. Hydro-jetting uses high-pressure water that not only cuts through roots but also cleans the pipe walls of grease, scale, and other debris, which augers may not fully remove. While an auger can clear a path, hydro-jetting offers a more comprehensive solution that can prevent quick recurrence. The decision often comes down to the extent of the blockage and the desired longevity of the solution. CG Plumbing Solutions evaluates the situation with a camera inspection to recommend the most effective method for your specific needs.",
+        "@type": "Answer",
+        "description": "Choose hydro-jetting for significant or recurring root blockages, or when a thorough cleaning is needed, as it offers a more comprehensive solution than an auger."
+      }
+    }
+  ],
+  "description": "Choose hydro-jetting for significant or recurring root blockages, or when a thorough cleaning is needed, as it offers a more comprehensive solution than an auge"
+}

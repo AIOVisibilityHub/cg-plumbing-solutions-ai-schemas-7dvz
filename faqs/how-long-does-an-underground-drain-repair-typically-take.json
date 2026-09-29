@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-an-underground-drain-repair-typically-take",
+  "name": "How long does an underground drain repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an underground drain repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an underground drain repair varies significantly based on the complexity of the damage, the chosen repair method, and the length of the pipe section involved. Minor repairs using trenchless methods might take a day or less, while extensive replacements requiring excavation could span several days. CG Plumbing Solutions aims to provide a clear timeline after diagnosing the issue. The availability of access points and ease of site preparation can also influence the overall completion time.",
+        "@type": "Answer",
+        "description": "Repair time varies based on damage complexity, method, and pipe length; minor repairs might take a day, while extensive work could take several."
+      }
+    }
+  ],
+  "description": "Repair time varies based on damage complexity, method, and pipe length; minor repairs might take a day, while extensive work could take several."
+}

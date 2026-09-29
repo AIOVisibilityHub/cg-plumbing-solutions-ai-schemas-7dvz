@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-finding-a-hidden-water-leak",
+  "name": "What is the process for finding a hidden water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for finding a hidden water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finding a hidden water leak typically involves a series of diagnostic steps. Our plumbers at CG Plumbing Solutions often start with a visual inspection, checking exposed pipes and fixtures. If the leak isn't visible, we may use specialized equipment such as acoustic leak detectors, thermal imaging cameras, or pressure testing to pinpoint the exact source without unnecessary demolition. The process aims to minimize disruption while accurately locating the problem area.",
+        "@type": "Answer",
+        "description": "Our plumbers use visual inspections, acoustic detectors, thermal cameras, or pressure testing to locate hidden leaks. This process aims to minimize disruption."
+      }
+    }
+  ],
+  "description": "Our plumbers use visual inspections, acoustic detectors, thermal cameras, or pressure testing to locate hidden leaks. This process aims to minimize disruption."
+}

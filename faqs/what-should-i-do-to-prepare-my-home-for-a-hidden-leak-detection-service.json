@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-to-prepare-my-home-for-a-hidden-leak-detection-service",
+  "name": "What should I do to prepare my home for a hidden leak detection service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home for a hidden leak detection service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a hidden leak detection service, ensure the suspected area is accessible by clearing any furniture, boxes, or obstructions. If you have noticed an abnormal increase in your water bill, have that information ready for the technician. It's also helpful to inform us of any recent plumbing work or unusual events. Access to your main water shut-off valve should be clear. These preparations help our technicians efficiently begin their work, allowing for a quicker diagnosis and resolution of your plumbing issue.",
+        "@type": "Answer",
+        "description": "Clear the suspected area, have recent water bills available, and ensure access to your main water shut-off valve to help prepare for the service."
+      }
+    }
+  ],
+  "description": "Clear the suspected area, have recent water bills available, and ensure access to your main water shut-off valve to help prepare for the service."
+}

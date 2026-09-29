@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-prepare-before-a-septic-tank-replacement-project",
+  "name": "What should I prepare before a septic tank replacement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a septic tank replacement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a septic tank replacement, you should prepare by clearing the access path to the septic area for heavy equipment and ensuring the work zone is free of obstacles. Inform your plumbing contractor about any underground utilities, irrigation lines, or landscaping features in the vicinity. Discuss with your household about potential water usage restrictions during the installation period. Having property surveys or system diagrams available can also help streamline the planning phase with our team.",
+        "@type": "Answer",
+        "description": "Clear access paths, inform the contractor about underground utilities, discuss water usage, and provide property diagrams."
+      }
+    }
+  ],
+  "description": "Clear access paths, inform the contractor about underground utilities, discuss water usage, and provide property diagrams."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-that-indicate-i-have-tree-roots-in-my-sewer-line",
+  "name": "What are the common signs that indicate I have tree roots in my sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that indicate I have tree roots in my sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of tree roots in your sewer line include recurring clogs, slow drains, gurgling noises from toilets, and sewage backups. These issues often worsen over time as roots continue to grow and obstruct the pipe. If you notice persistent drainage problems throughout your home, it's a strong indicator that roots might be the culprit. Early detection can prevent more severe and costly damage to your plumbing system. CG Plumbing Solutions can conduct a camera inspection to confirm root intrusion.",
+        "@type": "Answer",
+        "description": "Recurring clogs, slow drains, gurgling toilets, and sewage backups are common signs of tree roots in your sewer line."
+      }
+    }
+  ],
+  "description": "Recurring clogs, slow drains, gurgling toilets, and sewage backups are common signs of tree roots in your sewer line."
+}

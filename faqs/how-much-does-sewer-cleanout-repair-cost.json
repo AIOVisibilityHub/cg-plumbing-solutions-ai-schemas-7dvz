@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-sewer-cleanout-repair-cost",
+  "name": "How much does sewer cleanout repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does sewer cleanout repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of sewer cleanout repair varies significantly based on the type and extent of the damage. A simple cap replacement is typically the least expensive. If the cleanout pipe itself needs excavation and replacement due to cracks or a broken connection, the cost will be higher, encompassing labor, materials, and potential landscaping restoration. Factors like the cleanout's depth, accessibility, and the need for camera inspections or hydro-jetting services will also influence the final price. CG Plumbing Solutions provides transparent estimates after diagnosing the specific issue.",
+        "@type": "Answer",
+        "description": "Cost varies based on damage type and extent, from simple cap replacement to more complex excavation and pipe replacement, influenced by depth and accessibility."
+      }
+    }
+  ],
+  "description": "Cost varies based on damage type and extent, from simple cap replacement to more complex excavation and pipe replacement, influenced by depth and accessibility."
+}

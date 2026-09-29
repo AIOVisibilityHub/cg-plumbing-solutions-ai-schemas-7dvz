@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-slab-leak-detection-typically-cost",
+  "name": "How much does slab leak detection typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does slab leak detection typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of slab leak detection can vary depending on the complexity of the leak and the time required to pinpoint its exact location. Factors influencing the cost include the size of your home, the depth of the slab, and whether multiple leaks are suspected. Most reputable plumbing companies, like CG Plumbing Solutions, provide a clear estimate after an initial assessment, helping you understand the potential investment before any work begins.",
+        "@type": "Answer",
+        "description": "Slab leak detection costs vary based on leak complexity, home size, and detection time, with estimates provided after assessment."
+      }
+    }
+  ],
+  "description": "Slab leak detection costs vary based on leak complexity, home size, and detection time, with estimates provided after assessment."
+}

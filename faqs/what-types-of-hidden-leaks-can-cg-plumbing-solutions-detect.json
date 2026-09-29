@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-hidden-leaks-can-cg-plumbing-solutions-detect",
+  "name": "What types of hidden leaks can CG Plumbing Solutions detect?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of hidden leaks can CG Plumbing Solutions detect?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "CG Plumbing Solutions is equipped to detect various types of hidden leaks, including slab leaks under concrete foundations, leaks within walls, ceiling leaks, and underground pipe leaks. We also handle leaks in irrigation systems, water heaters, and often elusive pinhole leaks that are difficult to spot. Our expertise covers both residential and commercial properties in the Las Vegas area. We utilize a range of advanced tools to effectively locate leaks in diverse plumbing infrastructures, ensuring comprehensive coverage for our clients' needs.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions detects slab leaks, in-wall leaks, ceiling leaks, underground pipe leaks, irrigation leaks, and water heater leaks."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions detects slab leaks, in-wall leaks, ceiling leaks, underground pipe leaks, irrigation leaks, and water heater leaks."
+}

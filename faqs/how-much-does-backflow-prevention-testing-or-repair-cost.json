@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-backflow-prevention-testing-or-repair-cost",
+  "name": "How much does backflow prevention testing or repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does backflow prevention testing or repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for backflow prevention testing or repair can vary based on the device type, its location, and the extent of any required repairs. Testing is typically a standard service fee, while repairs depend on parts and labor. We provide transparent pricing after an inspection. To help manage costs, knowing the device's last test date and any previous repair history can be helpful for a quicker diagnosis.",
+        "@type": "Answer",
+        "description": "Costs for backflow testing or repair vary by device type and necessary work; an inspection provides accurate pricing."
+      }
+    }
+  ],
+  "description": "Costs for backflow testing or repair vary by device type and necessary work; an inspection provides accurate pricing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/will-my-homeowner-s-insurance-cover-ceiling-leak-repairs",
+  "name": "Will my homeowner's insurance cover ceiling leak repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover ceiling leak repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers sudden and accidental water damage, which often includes ceiling leaks from plumbing issues. However, it usually does not cover damage resulting from neglected maintenance or gradual leaks that developed over time. You should review your specific policy or contact your insurance provider to understand your coverage. CG Plumbing Solutions can provide detailed invoices for our services to assist with your insurance claim process.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers sudden ceiling leak damage but usually excludes issues from neglect. Check your policy or contact your provider for details."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers sudden ceiling leak damage but usually excludes issues from neglect. Check your policy or contact your provider for details."
+}

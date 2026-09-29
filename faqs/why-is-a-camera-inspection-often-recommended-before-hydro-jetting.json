@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-a-camera-inspection-often-recommended-before-hydro-jetting",
+  "name": "Why is a camera inspection often recommended before hydro jetting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is a camera inspection often recommended before hydro jetting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A camera inspection is often recommended before hydro jetting because it provides a crucial visual assessment of the internal condition of your pipes. This allows our technicians from CG Plumbing Solutions to identify the exact nature, location, and severity of the blockage. More importantly, it helps detect any existing pipe damage, such as cracks, corrosion, or misaligned sections, which could be worsened by the high-pressure water. Knowing the pipe's condition beforehand ensures that hydro jetting is the appropriate and safest solution, preventing potential damage and ensuring a more effective cleaning process.",
+        "@type": "Answer",
+        "description": "A camera inspection before hydro jetting reveals the clog's nature and pipe condition, ensuring the method is safe and appropriate to prevent damage to already compromised pipes."
+      }
+    }
+  ],
+  "description": "A camera inspection before hydro jetting reveals the clog's nature and pipe condition, ensuring the method is safe and appropriate to prevent damage to already"
+}

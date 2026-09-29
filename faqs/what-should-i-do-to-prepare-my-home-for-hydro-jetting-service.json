@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-to-prepare-my-home-for-hydro-jetting-service",
+  "name": "What should I do to prepare my home for hydro jetting service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home for hydro jetting service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for hydro jetting service, ensure clear access to the drain or cleanout where the service will be performed. This might involve moving furniture, storage items, or vehicles if the access point is outside or in a garage. It's also helpful to inform our technicians about any known plumbing issues, recent repairs, or the general age of your plumbing system, as this provides valuable context. You may also want to temporarily cease using the affected drains to prevent further water backup before our arrival. This preparation helps our team from CG Plumbing Solutions work efficiently and safely.",
+        "@type": "Answer",
+        "description": "Prepare for hydro jetting by clearing access to the drain or cleanout, providing information about your plumbing system, and temporarily avoiding use of affected drains."
+      }
+    }
+  ],
+  "description": "Prepare for hydro jetting by clearing access to the drain or cleanout, providing information about your plumbing system, and temporarily avoiding use of affecte"
+}

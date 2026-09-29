@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-high-pressure-drain-jetting",
+  "name": "What is high-pressure drain jetting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is high-pressure drain jetting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "High-pressure drain jetting, also known as hydro-jetting, is a method of clearing blockages and cleaning the interior of pipes using highly pressurized water. A specialized nozzle propels water through the drain line, dislodging grease, scale, roots, and other debris. This process thoroughly cleans the pipe walls, which can prevent future blockages and restore optimal flow. It's often used when traditional snaking isn't effective or for preventative maintenance to extend the lifespan of your plumbing system.",
+        "@type": "Answer",
+        "description": "High-pressure drain jetting uses powerful streams of water to clear blockages and thoroughly clean the inside of pipes, removing debris like grease, scale, and roots."
+      }
+    }
+  ],
+  "description": "High-pressure drain jetting uses powerful streams of water to clear blockages and thoroughly clean the inside of pipes, removing debris like grease, scale, and"
+}

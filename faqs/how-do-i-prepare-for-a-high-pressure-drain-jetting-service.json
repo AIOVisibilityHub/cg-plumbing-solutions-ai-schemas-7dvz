@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-prepare-for-a-high-pressure-drain-jetting-service",
+  "name": "How do I prepare for a high-pressure drain jetting service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare for a high-pressure drain jetting service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a high-pressure drain jetting service, it’s helpful to clear the area around the access point for the drain line, whether it's a cleanout port or a fixture. If you know the location of your main sewer cleanout, ensuring it's easily accessible can save time. It's also beneficial to disclose any known history of plumbing issues, such as recurring clogs or previous repairs, as this information helps our technicians at CG Plumbing Solutions approach the job more efficiently and safely.",
+        "@type": "Answer",
+        "description": "Prepare for drain jetting by clearing access to the drain line or cleanout and disclosing any known plumbing history to the technicians."
+      }
+    }
+  ],
+  "description": "Prepare for drain jetting by clearing access to the drain line or cleanout and disclosing any known plumbing history to the technicians."
+}

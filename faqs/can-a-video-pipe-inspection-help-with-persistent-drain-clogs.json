@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-a-video-pipe-inspection-help-with-persistent-drain-clogs",
+  "name": "Can a video pipe inspection help with persistent drain clogs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a video pipe inspection help with persistent drain clogs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a video pipe inspection is highly effective for diagnosing persistent drain clogs. Unlike traditional methods that might only clear a blockage temporarily, the camera allows us to see the exact cause of the recurring clog, whether it's tree roots, a collapsed pipe, or significant grease buildup. This visual evidence enables CG Plumbing Solutions to recommend a permanent solution, preventing future clogs and saving you from repeated service calls for the same issue.",
+        "@type": "Answer",
+        "description": "Yes, it precisely identifies the cause of recurring clogs like tree roots or collapsed pipes, enabling permanent solutions."
+      }
+    }
+  ],
+  "description": "Yes, it precisely identifies the cause of recurring clogs like tree roots or collapsed pipes, enabling permanent solutions."
+}

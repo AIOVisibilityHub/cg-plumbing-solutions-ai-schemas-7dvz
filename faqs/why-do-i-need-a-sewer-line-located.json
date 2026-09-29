@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-do-i-need-a-sewer-line-located",
+  "name": "Why do I need a sewer line located?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do I need a sewer line located?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might need a sewer line located for various reasons, primarily to prevent damage or to accurately address existing issues. This service is crucial before any major digging projects, such as building additions, new landscaping, or installing a pool, to avoid hitting and rupturing your sewer line. It's also essential when planning repairs or replacements for a known sewer problem, as pinpointing the exact location can save time and reduce excavation costs. For instance, knowing the precise depth can impact the excavation equipment needed. We often recommend this service for homeowners in areas like Las Vegas before significant outdoor projects to protect underground utilities.",
+        "@type": "Answer",
+        "description": "Sewer line locating is needed before digging projects to prevent damage, or to precisely locate existing problems for efficient repair or replacement."
+      }
+    }
+  ],
+  "description": "Sewer line locating is needed before digging projects to prevent damage, or to precisely locate existing problems for efficient repair or replacement."
+}

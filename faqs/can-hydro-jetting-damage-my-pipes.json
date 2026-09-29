@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-hydro-jetting-damage-my-pipes",
+  "name": "Can hydro jetting damage my pipes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can hydro jetting damage my pipes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro jetting is generally safe for most modern plumbing systems, but it can potentially damage old, corroded, or already compromised pipes. Before initiating the service, CG Plumbing Solutions often recommends a camera inspection to assess the condition of your pipes. This crucial step allows us to identify any existing weaknesses, cracks, or serious corrosion that could be exacerbated by the high-pressure water. If fragile pipes are detected, we will discuss alternative, safer solutions with you to prevent any damage.",
+        "@type": "Answer",
+        "description": "Hydro jetting is safe for most pipes, but can damage old or compromised ones. We typically perform a camera inspection first to identify potential risks and discuss safer alternatives if needed."
+      }
+    }
+  ],
+  "description": "Hydro jetting is safe for most pipes, but can damage old or compromised ones. We typically perform a camera inspection first to identify potential risks and dis"
+}

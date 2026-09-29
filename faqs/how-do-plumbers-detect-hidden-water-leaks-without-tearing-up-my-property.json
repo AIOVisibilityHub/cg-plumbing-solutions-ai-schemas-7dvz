@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-plumbers-detect-hidden-water-leaks-without-tearing-up-my-property",
+  "name": "How do plumbers detect hidden water leaks without tearing up my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do plumbers detect hidden water leaks without tearing up my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbers use non-invasive techniques to detect hidden leaks, avoiding unnecessary damage to your property. Methods include acoustic leak detection, which listens for the sound of escaping water; thermal imaging, which identifies temperature differentials caused by water; and tracer gas detection, where a safe gas is introduced into pipes to locate the leak. Pressure testing and camera inspections for sewer lines are also common. These specialized tools allow us to precisely locate leaks, minimizing the disruption and cost associated with repairs.",
+        "@type": "Answer",
+        "description": "Plumbers use non-invasive methods like acoustic listening devices, thermal imaging cameras, and tracer gas to locate hidden leaks without damaging property."
+      }
+    }
+  ],
+  "description": "Plumbers use non-invasive methods like acoustic listening devices, thermal imaging cameras, and tracer gas to locate hidden leaks without damaging property."
+}

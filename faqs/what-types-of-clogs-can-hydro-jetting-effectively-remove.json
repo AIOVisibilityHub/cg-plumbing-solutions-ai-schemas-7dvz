@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-clogs-can-hydro-jetting-effectively-remove",
+  "name": "What types of clogs can hydro jetting effectively remove?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of clogs can hydro jetting effectively remove?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hydro jetting is highly effective at removing a wide range of stubborn clogs that traditional methods often miss. This includes significant grease buildup in kitchen lines, tree roots that have infiltrated sewer pipes, mineral scale and sediment from hard water common in the Las Vegas valley, soap scum, and even foreign objects that create persistent blockages. Its powerful streams not only break apart the clog but also thoroughly clean the pipe walls, reducing the likelihood of immediate recurrence and improving overall drainage. We use this method for both residential and commercial properties facing challenging blockages.",
+        "@type": "Answer",
+        "description": "Hydro jetting effectively removes severe clogs like grease buildup, tree roots, mineral scale from hard water, soap scum, and other persistent blockages by thoroughly cleaning pipe walls."
+      }
+    }
+  ],
+  "description": "Hydro jetting effectively removes severe clogs like grease buildup, tree roots, mineral scale from hard water, soap scum, and other persistent blockages by thor"
+}

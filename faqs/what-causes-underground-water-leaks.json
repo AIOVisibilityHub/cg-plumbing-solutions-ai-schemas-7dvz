@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-underground-water-leaks",
+  "name": "What causes underground water leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes underground water leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Underground water leaks are commonly caused by a combination of factors, including aging pipes, ground movement, tree root intrusion, and corrosive soil conditions. In the Las Vegas area, extreme temperature fluctuations and hard water can also contribute to pipe degradation over time. Additionally, improper installation or damage from construction activities can lead to leaks. Regular inspections and understanding your property's specific conditions can help identify potential risks.",
+        "@type": "Answer",
+        "description": "Underground water leaks are caused by aging pipes, ground movement, tree roots, corrosive soil, and in the Las Vegas area, temperature fluctuations and hard water."
+      }
+    }
+  ],
+  "description": "Underground water leaks are caused by aging pipes, ground movement, tree roots, corrosive soil, and in the Las Vegas area, temperature fluctuations and hard wat"
+}

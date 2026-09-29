@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-test-my-own-backflow-prevention-device",
+  "name": "Can I test my own backflow prevention device?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I test my own backflow prevention device?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, backflow prevention devices must be tested by a state-certified backflow assembly tester. This is a regulatory requirement to ensure tests are performed accurately and according to specific standards, protecting the public water supply. Attempting to test it yourself can lead to inaccurate results, potential contamination, and non-compliance with local ordinances in areas like Las Vegas.",
+        "@type": "Answer",
+        "description": "No, only state-certified backflow assembly testers can legally and accurately test these devices."
+      }
+    }
+  ],
+  "description": "No, only state-certified backflow assembly testers can legally and accurately test these devices."
+}

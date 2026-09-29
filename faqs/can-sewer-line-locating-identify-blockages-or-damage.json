@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-sewer-line-locating-identify-blockages-or-damage",
+  "name": "Can sewer line locating identify blockages or damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can sewer line locating identify blockages or damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While sewer line locating primarily maps the physical path and depth of the pipes, the process can indirectly help identify the general area of blockages or damage. If the technician encounters an obstruction that prevents the transmitter from proceeding, it indicates a problem at that specific location. For precise diagnosis of blockages, cracks, or other damage, a sewer camera inspection is usually recommended in conjunction with locating. The locating service helps pinpoint where to focus a camera inspection, allowing for a more targeted and effective approach to understanding the exact nature and extent of the issue.",
+        "@type": "Answer",
+        "description": "Sewer line locating can indicate the general area of blockages, but a separate sewer camera inspection is needed to precisely identify damage or the nature of blockages."
+      }
+    }
+  ],
+  "description": "Sewer line locating can indicate the general area of blockages, but a separate sewer camera inspection is needed to precisely identify damage or the nature of b"
+}

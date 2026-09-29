@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-is-sewer-line-excavation-necessary",
+  "name": "When is sewer line excavation necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is sewer line excavation necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewer line excavation becomes necessary for significant issues such as collapsed pipes, severe breaks, extensive tree root intrusion that has compromised the pipe structure, or when existing pipes are too old and corroded to be effectively repaired. A professional inspection, often utilizing camera technology, helps determine the precise nature and location of the damage, guiding the decision to excavate. The type and age of your existing sewer system, and the soil conditions around it, are key decision factors in whether excavation is the most effective long-term solution.",
+        "@type": "Answer",
+        "description": "Excavation is needed for severe sewer line damage like collapses, major breaks, or widespread root intrusion that can't be fixed by trenchless methods."
+      }
+    }
+  ],
+  "description": "Excavation is needed for severe sewer line damage like collapses, major breaks, or widespread root intrusion that can't be fixed by trenchless methods."
+}

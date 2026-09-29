@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-a-small-slow-leak-cause-significant-damage-over-time",
+  "name": "Can a small, slow leak cause significant damage over time?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a small, slow leak cause significant damage over time?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, even a small, slow water leak can cause significant damage if left unaddressed. Over time, consistent moisture can lead to wood rot, drywall damage, and the growth of mold and mildew, which can pose health risks and degrade indoor air quality. These issues often become more expensive to repair than the initial leak itself. Regular checks and prompt repair by a professional from CG Plumbing Solutions can prevent these cumulative problems.",
+        "@type": "Answer",
+        "description": "Yes, small leaks cause significant damage over time, leading to wood rot, drywall damage, mold growth, and costly repairs if not addressed promptly."
+      }
+    }
+  ],
+  "description": "Yes, small leaks cause significant damage over time, leading to wood rot, drywall damage, mold growth, and costly repairs if not addressed promptly."
+}

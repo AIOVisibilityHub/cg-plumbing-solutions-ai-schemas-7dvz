@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-repair-a-sewer-cleanout",
+  "name": "How long does it take to repair a sewer cleanout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a sewer cleanout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of sewer cleanout repair depends heavily on the complexity of the issue. A simple cap replacement might take less than an hour. However, if the cleanout pipe itself is damaged and requires excavation and replacement, the job could take several hours or even a full day. Factors like soil conditions, depth of the pipe, and whether additional sewer line repairs are identified during the process can also affect the timeline. CG Plumbing Solutions prioritizes efficient service while ensuring thorough and lasting repairs.",
+        "@type": "Answer",
+        "description": "Repair time varies from under an hour for a cap replacement to several hours or a full day for pipe excavation and replacement, depending on complexity."
+      }
+    }
+  ],
+  "description": "Repair time varies from under an hour for a cap replacement to several hours or a full day for pipe excavation and replacement, depending on complexity."
+}

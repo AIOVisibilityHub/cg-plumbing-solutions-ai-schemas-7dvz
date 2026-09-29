@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-new-pipes-are-used-in-pipe-bursting",
+  "name": "What kind of new pipes are used in pipe bursting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of new pipes are used in pipe bursting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "High-density polyethylene (HDPE) pipes are typically used in pipe bursting projects. HDPE is known for its durability, flexibility, and resistance to corrosion, root intrusion, and chemical damage. These characteristics make it an excellent choice for underground infrastructure, providing a long-lasting solution that can endure the unique soil conditions and environmental factors found in the Las Vegas valley. The seamless nature of HDPE also reduces the risk of leaks and future blockages.",
+        "@type": "Answer",
+        "description": "High-density polyethylene (HDPE) pipes are used for their durability, flexibility, and resistance to corrosion and roots, providing a long-lasting, seamless solution."
+      }
+    }
+  ],
+  "description": "High-density polyethylene (HDPE) pipes are used for their durability, flexibility, and resistance to corrosion and roots, providing a long-lasting, seamless sol"
+}

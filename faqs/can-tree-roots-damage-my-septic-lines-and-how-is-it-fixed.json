@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-tree-roots-damage-my-septic-lines-and-how-is-it-fixed",
+  "name": "Can tree roots damage my septic lines, and how is it fixed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can tree roots damage my septic lines, and how is it fixed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, tree roots are a very common cause of septic line damage. Roots are attracted to the moisture and nutrients inside pipes, infiltrating through tiny cracks or loose joints, and can grow to obstruct the line completely or even cause it to collapse. To fix this, techniques range from hydro-jetting to cut and clear roots, to trenchless pipe repair methods that install a new liner inside the existing pipe, preventing future root intrusion without extensive digging. For severe cases, excavation and pipe replacement may be necessary.",
+        "@type": "Answer",
+        "description": "Tree roots commonly damage septic lines by infiltrating pipes. Solutions include hydro-jetting, trenchless repair, or excavation and replacement, depending on the severity."
+      }
+    }
+  ],
+  "description": "Tree roots commonly damage septic lines by infiltrating pipes. Solutions include hydro-jetting, trenchless repair, or excavation and replacement, depending on t"
+}

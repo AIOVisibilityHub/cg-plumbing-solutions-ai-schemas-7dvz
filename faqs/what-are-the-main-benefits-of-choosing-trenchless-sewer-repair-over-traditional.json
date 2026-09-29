@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-main-benefits-of-choosing-trenchless-sewer-repair-over-traditional",
+  "name": "What are the main benefits of choosing trenchless sewer repair over traditional methods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main benefits of choosing trenchless sewer repair over traditional methods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary benefits of trenchless sewer repair include minimal disruption to your property, faster completion times, and often a more cost-effective solution in the long run due to reduced labor for excavation and restoration. Traditional repairs require digging a trench across your yard, driveway, or landscaping, which then needs to be repaired. With trenchless methods, like those offered by CG Plumbing Solutions, we can often complete the repair with only one or two access points, preserving your outdoor spaces in Las Vegas and surrounding areas.",
+        "@type": "Answer",
+        "description": "Trenchless repair offers minimal property disruption, faster completion, and can be more cost-effective than traditional methods by avoiding extensive digging and restoration."
+      }
+    }
+  ],
+  "description": "Trenchless repair offers minimal property disruption, faster completion, and can be more cost-effective than traditional methods by avoiding extensive digging a"
+}

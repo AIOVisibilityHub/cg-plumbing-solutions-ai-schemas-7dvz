@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-water-leak-repair-typically-cost-in-las-vegas",
+  "name": "How much does water leak repair typically cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does water leak repair typically cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water leak repair in the Las Vegas area varies significantly based on the leak's location, severity, and the type of plumbing system affected. Simple repairs like a dripping faucet or toilet seal might be minor, while leaks within walls, under slabs, or involving main water lines can be more complex and costly. CG Plumbing Solutions provides upfront estimates after a thorough inspection to give you a clear understanding of the repair scope and associated costs. Access to the leak is a significant factor in determining the final cost.",
+        "@type": "Answer",
+        "description": "Water leak repair costs in Las Vegas vary widely depending on the leak's location, severity, and plumbing system type. CG Plumbing Solutions provides upfront estimates after inspection."
+      }
+    }
+  ],
+  "description": "Water leak repair costs in Las Vegas vary widely depending on the leak's location, severity, and plumbing system type. CG Plumbing Solutions provides upfront es"
+}

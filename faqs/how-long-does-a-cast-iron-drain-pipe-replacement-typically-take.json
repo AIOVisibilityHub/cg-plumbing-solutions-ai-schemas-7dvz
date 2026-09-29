@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-cast-iron-drain-pipe-replacement-typically-take",
+  "name": "How long does a cast iron drain pipe replacement typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a cast iron drain pipe replacement typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a cast iron drain pipe replacement varies significantly based on the scope of work, including the amount of piping to be replaced and accessibility. A small section replacement might take 1-2 days, while a full home repipe could span several days to over a week. For properties in areas like Henderson or Summerlin, our team provides a detailed timeline after the initial assessment, ensuring you have a clear understanding of the project's duration and any necessary preparations.",
+        "@type": "Answer",
+        "description": "Replacement time varies; small sections take 1-2 days, while a full repipe can take several days to over a week, depending on scope and accessibility."
+      }
+    }
+  ],
+  "description": "Replacement time varies; small sections take 1-2 days, while a full repipe can take several days to over a week, depending on scope and accessibility."
+}

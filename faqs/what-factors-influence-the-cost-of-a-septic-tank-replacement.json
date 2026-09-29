@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-a-septic-tank-replacement",
+  "name": "What factors influence the cost of a septic tank replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a septic tank replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of septic tank replacement, including the type and size of the new tank (e.g., concrete vs. plastic), the complexity of the drain field design, soil conditions requiring extensive excavation or specialized fill, and accessibility of your property for heavy equipment. Permitting fees, which vary by jurisdiction in areas like Las Vegas, North Las Vegas, and Henderson, also contribute to the overall expense. Additional costs might arise if the old tank needs to be properly disposed of or if there are extensive landscape restoration needs.",
+        "@type": "Answer",
+        "description": "Cost factors include new tank type and size, drain field complexity, soil conditions, site accessibility, and local permitting fees."
+      }
+    }
+  ],
+  "description": "Cost factors include new tank type and size, drain field complexity, soil conditions, site accessibility, and local permitting fees."
+}

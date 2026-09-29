@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-home-in-las-vegas-is-suitable-for-trenchless-sewer-repair",
+  "name": "How do I know if my home in Las Vegas is suitable for trenchless sewer repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my home in Las Vegas is suitable for trenchless sewer repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To determine if your home is suitable for trenchless sewer repair, a professional plumbing company like CG Plumbing Solutions will perform a comprehensive sewer camera inspection. This inspection allows us to visualize the condition of your sewer pipes, identify the type and extent of damage, and confirm the pipe material and layout. Factors like the severity of the pipe collapse, accessibility to entry points, and the type of material currently used can influence suitability. This initial assessment is crucial for residents in areas like Las Vegas and Paradise to ensure the most effective and least disruptive repair strategy.",
+        "@type": "Answer",
+        "description": "Suitability for trenchless repair is determined by a professional sewer camera inspection that assesses pipe damage, material, and layout."
+      }
+    }
+  ],
+  "description": "Suitability for trenchless repair is determined by a professional sewer camera inspection that assesses pipe damage, material, and layout."
+}

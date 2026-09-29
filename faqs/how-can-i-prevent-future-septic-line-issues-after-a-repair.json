@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prevent-future-septic-line-issues-after-a-repair",
+  "name": "How can I prevent future septic line issues after a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future septic line issues after a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future septic line issues, regular maintenance is key. This includes being mindful of what goes down your drains—avoid flushing non-biodegradable items, excessive grease, or harsh chemicals. It's also important to have your septic tank pumped every 3-5 years, depending on household size and usage. Additionally, planting trees and shrubs at a safe distance from your septic system can prevent root intrusion, a common cause of damage. CG Plumbing Solutions can provide guidance on a suitable maintenance schedule for your system.",
+        "@type": "Answer",
+        "description": "Prevent future issues by avoiding non-biodegradable waste, excessive grease, or harsh chemicals in drains. Schedule regular septic tank pumping and plant trees away from the system."
+      }
+    }
+  ],
+  "description": "Prevent future issues by avoiding non-biodegradable waste, excessive grease, or harsh chemicals in drains. Schedule regular septic tank pumping and plant trees"
+}

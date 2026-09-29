@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-root-removal-from-a-sewer-line-typically-take",
+  "name": "How long does root removal from a sewer line typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does root removal from a sewer line typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of root removal depends on the severity of the root invasion, the type of equipment used, and the accessibility of the sewer line. A straightforward blockage might take a few hours, while more extensive or complex situations, especially those requiring multiple passes with a hydro-jetter or minor excavation, could take longer. CG Plumbing Solutions prioritizes efficient service while ensuring thoroughness. We communicate estimated timelines upfront after our initial assessment, so you know what to expect. Minor root intrusions in easily accessible pipes are typically resolved quicker than extensive, deep-seated blockages.",
+        "@type": "Answer",
+        "description": "Root removal time varies from a few hours to longer, depending on severity, equipment, and accessibility, with estimates provided after assessment."
+      }
+    }
+  ],
+  "description": "Root removal time varies from a few hours to longer, depending on severity, equipment, and accessibility, with estimates provided after assessment."
+}

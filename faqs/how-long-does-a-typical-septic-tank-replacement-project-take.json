@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-septic-tank-replacement-project-take",
+  "name": "How long does a typical septic tank replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical septic tank replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a septic tank replacement project can vary significantly based on factors like the size of the new tank, site accessibility, soil conditions, and the need for new drain field installation. Generally, a replacement project can take anywhere from a few days to over a week once excavation begins. Weather conditions in areas like Las Vegas can also influence the timeline, as heavy rain, though rare, can delay excavation and installation.",
+        "@type": "Answer",
+        "description": "Septic tank replacement typically takes a few days to over a week, depending on tank size, site conditions, and drain field requirements."
+      }
+    }
+  ],
+  "description": "Septic tank replacement typically takes a few days to over a week, depending on tank size, site conditions, and drain field requirements."
+}

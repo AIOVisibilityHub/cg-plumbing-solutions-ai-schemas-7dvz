@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-is-pipe-bursting-the-right-solution-for-my-sewer-line-problem",
+  "name": "When is pipe bursting the right solution for my sewer line problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is pipe bursting the right solution for my sewer line problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pipe bursting is often the ideal solution for severely damaged or collapsed sewer lines where traditional repair methods would require extensive and costly excavation. It's particularly effective when the existing pipe needs complete replacement rather than just a repair. For properties in densely developed areas of Las Vegas or Henderson with mature landscaping or structures above the pipe, this method avoids significant disruption. A professional inspection using camera technology can determine if your pipe's condition and surrounding soil are suitable for pipe bursting.",
+        "@type": "Answer",
+        "description": "Pipe bursting is suitable for severely damaged or collapsed sewer lines needing full replacement, especially when extensive excavation is undesirable due to landscaping or structures."
+      }
+    }
+  ],
+  "description": "Pipe bursting is suitable for severely damaged or collapsed sewer lines needing full replacement, especially when extensive excavation is undesirable due to lan"
+}
