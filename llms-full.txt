@@ -17,6 +17,7 @@ Package contents:
 - [canonical] CG Plumbing Solutions — canonical website — https://cgplumbinglasvegas.aiovisibility.net
 - [ai-data-hub] CG Plumbing Solutions — AI Data Hub — https://cgplumbinglasvegas.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/cg-plumbing-solutions-ai-schemas-7dvz
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/cg-plumbing-solutions-ai-schemas-7dvz/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-29T21:55:28.978Z",
+  "generatedAt": "2026-09-29T21:56:08.618Z",
   "client": {
     "name": "CG Plumbing Solutions",
     "canonicalUrl": "https://cgplumbinglasvegas.aiovisibility.net",
@@ -350,7 +350,7 @@
   },
   "package": {
     "totalFiles": 2640,
-    "totalBytes": 9805504,
+    "totalBytes": 9735338,
     "stats": {
       "qna": 0,
       "faqs": 2023,
@@ -13455,72 +13455,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 22097,
+        "bytes": 16816,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 108434,
+        "bytes": 103301,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 238122,
+        "bytes": 232972,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 20533,
+        "bytes": 15511,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1481842,
+        "bytes": 1476812,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 22173,
+        "bytes": 17142,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 46687,
+        "bytes": 41703,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 372643,
+        "bytes": 367554,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 139094,
+        "bytes": 133935,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 185800,
+        "bytes": 180670,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 170700,
+        "bytes": 165534,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 60756,
+        "bytes": 55696,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 81271,
+        "bytes": 76103,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 38967,
+        "bytes": 33934,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -13532,7 +13532,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 9556,
+        "bytes": 9693,
         "purpose": "LLM hint"
       },
       {
@@ -13552,32 +13552,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1430,
+        "bytes": 1723,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1204552,
+        "bytes": 1204844,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 343819,
+        "bytes": 343956,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 343819,
+        "bytes": 343956,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 9518,
+        "bytes": 9655,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 416482,
+        "bytes": 416619,
         "purpose": "Repository README"
       },
       {
@@ -13595,7 +13595,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/cg-plumbing-solutions-ai-schemas-7dvz",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/cg-plumbing-solutions-ai-schemas-7dvz/",
       "repo": "AIOVisibilityHub/cg-plumbing-solutions-ai-schemas-7dvz"
     }
   }
