@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-plumbing-work-take-for-a-typical-bathroom-remodel",
+  "name": "How long does plumbing work take for a typical bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does plumbing work take for a typical bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of plumbing work for a bathroom remodel depends on its complexity. Simple fixture replacements might take a day or two, while extensive projects involving pipe relocation or full system upgrades can span several days to a week. The timing can also be affected by the need for inspections, especially when significant changes are made to the plumbing system. Clear communication with your plumbing contractor about the project timeline is essential to coordinate with other remodel phases.",
+        "@type": "Answer",
+        "description": "Plumbing work duration varies from days to over a week, depending on remodel complexity and inspection requirements."
+      }
+    }
+  ],
+  "description": "Plumbing work duration varies from days to over a week, depending on remodel complexity and inspection requirements."
+}

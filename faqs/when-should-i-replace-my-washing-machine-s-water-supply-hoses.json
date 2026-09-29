@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-replace-my-washing-machine-s-water-supply-hoses",
+  "name": "When should I replace my washing machine's water supply hoses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace my washing machine's water supply hoses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Washing machine water supply hoses should typically be replaced every three to five years, even if they appear to be in good condition. Over time, hoses can weaken and become brittle, leading to leaks or bursts that cause significant water damage. Inspect them regularly for any signs of wear, such as cracks, bulges, or corrosion near the connectors. Upgrading to braided stainless steel hoses can offer increased durability and reduce the risk of failure, which is a practical tradeoff for enhanced safety.",
+        "@type": "Answer",
+        "description": "Replace washing machine water supply hoses every 3-5 years, or sooner if signs of wear are present, to prevent leaks and water damage."
+      }
+    }
+  ],
+  "description": "Replace washing machine water supply hoses every 3-5 years, or sooner if signs of wear are present, to prevent leaks and water damage."
+}

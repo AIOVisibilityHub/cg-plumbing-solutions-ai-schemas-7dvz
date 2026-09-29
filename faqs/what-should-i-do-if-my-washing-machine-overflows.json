@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-my-washing-machine-overflows",
+  "name": "What should I do if my washing machine overflows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my washing machine overflows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your washing machine overflows, immediately turn off the water supply to the machine and unplug it from the electrical outlet to prevent further damage or electrical hazards. Then, begin soaking up the spilled water to minimize floor and wall damage. Once the immediate emergency is managed, contact a plumbing professional to diagnose the cause, which could range from a clogged drain to a faulty water inlet valve, and prevent future occurrences.",
+        "@type": "Answer",
+        "description": "If your washing machine overflows, immediately turn off its water supply and power, then clean up the spill and call a plumber."
+      }
+    }
+  ],
+  "description": "If your washing machine overflows, immediately turn off its water supply and power, then clean up the spill and call a plumber."
+}

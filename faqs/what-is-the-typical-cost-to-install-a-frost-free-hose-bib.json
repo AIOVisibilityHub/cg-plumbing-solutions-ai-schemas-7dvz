@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-cost-to-install-a-frost-free-hose-bib",
+  "name": "What is the typical cost to install a frost-free hose bib?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to install a frost-free hose bib?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical cost to install a frost-free hose bib can vary depending on several factors, including the complexity of the installation, whether new plumbing lines need to be run, and the specific type of faucet chosen. Generally, professional installation involves labor for cutting into walls, connecting to existing water lines, and ensuring proper sealing and drainage. We provide transparent, no-obligation quotes after assessing your specific home's plumbing and accessibility. Factors like the age of your home and existing pipe materials can influence the total cost.",
+        "@type": "Answer",
+        "description": "Installation cost varies based on complexity, new plumbing requirements, and faucet type. We provide personalized quotes after assessing your home's specific needs."
+      }
+    }
+  ],
+  "description": "Installation cost varies based on complexity, new plumbing requirements, and faucet type. We provide personalized quotes after assessing your home's specific ne"
+}

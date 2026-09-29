@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-turn-off-my-main-water-supply-during-a-small-plumbing-renovation",
+  "name": "Do I need to turn off my main water supply during a small plumbing renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to turn off my main water supply during a small plumbing renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most small plumbing renovations, such as replacing a faucet or toilet, you will need to turn off the main water supply to prevent flooding and allow for safe installation. Some fixtures may have local shut-off valves, which can isolate the water without affecting the rest of the house. However, it's always safest to know the location of your main shut-off valve. As a first-party insight, CG Plumbing Solutions always verifies water shut-off points before starting any work to ensure minimal disruption and safety.",
+        "@type": "Answer",
+        "description": "Yes, for most small plumbing renovations, you need to turn off the main water supply or use local shut-off valves to ensure safety. CG Plumbing Solutions verifies this before starting work."
+      }
+    }
+  ],
+  "description": "Yes, for most small plumbing renovations, you need to turn off the main water supply or use local shut-off valves to ensure safety. CG Plumbing Solutions verifi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-choose-specific-plumbing-fixtures-for-my-new-home-installation",
+  "name": "Can I choose specific plumbing fixtures for my new home installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I choose specific plumbing fixtures for my new home installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can absolutely choose specific plumbing fixtures for your new home. This allows you to personalize your bathrooms and kitchen with faucets, sinks, toilets, and showerheads that match your aesthetic preferences and functional needs. It's important to communicate your fixture choices to your plumbing contractor during the planning phase, as certain fixtures may require specific rough-in connections or additional plumbing considerations. This choice is a key Decision Factor in customizing your new home.",
+        "@type": "Answer",
+        "description": "Yes, you can choose specific plumbing fixtures to personalize your home, but communicate your selections early as they may require specific plumbing considerations."
+      }
+    }
+  ],
+  "description": "Yes, you can choose specific plumbing fixtures to personalize your home, but communicate your selections early as they may require specific plumbing considerati"
+}

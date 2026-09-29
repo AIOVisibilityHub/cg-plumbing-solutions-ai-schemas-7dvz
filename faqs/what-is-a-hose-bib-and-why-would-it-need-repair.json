@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-hose-bib-and-why-would-it-need-repair",
+  "name": "What is a hose bib and why would it need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a hose bib and why would it need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A hose bib, also known as an outdoor faucet or spigot, provides water for exterior use, such as gardening or washing a car. Common reasons for repair include leaks, drips, or issues with the handle or valve. Leaks can occur due to worn washers, damaged packing, or cracks in the faucet body, often caused by freezing temperatures if the hose bib isn't freeze-proof or properly drained. Our technicians can diagnose the specific cause of the malfunction.",
+        "@type": "Answer",
+        "description": "A hose bib is an outdoor faucet. Repairs are typically needed for leaks, drips, or handle issues, often due to wear or freeze damage."
+      }
+    }
+  ],
+  "description": "A hose bib is an outdoor faucet. Repairs are typically needed for leaks, drips, or handle issues, often due to wear or freeze damage."
+}

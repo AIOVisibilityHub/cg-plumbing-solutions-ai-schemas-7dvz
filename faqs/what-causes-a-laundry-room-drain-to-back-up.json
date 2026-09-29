@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-a-laundry-room-drain-to-back-up",
+  "name": "What causes a laundry room drain to back up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a laundry room drain to back up?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A laundry room drain typically backs up due to an accumulation of lint, soap scum, and other debris from washing clothes. These materials combine to form stubborn clogs within the drainpipe, restricting water flow. Sometimes, a backup can also indicate a larger issue in your home's main sewer line. During a service call, CG Plumbing Solutions plumbers first inspect the local drain and then assess if the problem extends to the main line, which impacts the scope of work required.",
+        "@type": "Answer",
+        "description": "Laundry room drains back up primarily due to lint and soap scum accumulation, or sometimes a main sewer line issue."
+      }
+    }
+  ],
+  "description": "Laundry room drains back up primarily due to lint and soap scum accumulation, or sometimes a main sewer line issue."
+}

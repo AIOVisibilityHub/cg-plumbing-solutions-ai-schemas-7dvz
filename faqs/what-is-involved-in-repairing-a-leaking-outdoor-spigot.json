@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-repairing-a-leaking-outdoor-spigot",
+  "name": "What is involved in repairing a leaking outdoor spigot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in repairing a leaking outdoor spigot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a leaking outdoor spigot typically involves shutting off the water supply, disassembling the faucet, inspecting and replacing worn components like washers, O-rings, or packing. If freezing has occurred, the repair might extend to replacing the entire faucet body or repairing damaged piping. CG Plumbing Solutions ensures the water main is securely shut off and conducts a thorough inspection of both the faucet and the connecting pipe to identify all potential issues before beginning repairs.",
+        "@type": "Answer",
+        "description": "Repair involves shutting off water, disassembling, and replacing worn parts like washers or O-rings. Extensive repairs might replace the whole faucet or damaged pipes."
+      }
+    }
+  ],
+  "description": "Repair involves shutting off water, disassembling, and replacing worn parts like washers or O-rings. Extensive repairs might replace the whole faucet or damaged"
+}

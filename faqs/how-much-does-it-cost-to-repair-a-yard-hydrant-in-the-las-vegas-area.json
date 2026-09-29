@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-repair-a-yard-hydrant-in-the-las-vegas-area",
+  "name": "How much does it cost to repair a yard hydrant in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a yard hydrant in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a yard hydrant in the Las Vegas area varies depending on the specific issue, the type of hydrant, and the required parts. Minor repairs like replacing a packing washer are less expensive than major issues such as a broken standpipe or frost-proof valve. CG Plumbing Solutions provides upfront pricing after assessing the problem, ensuring transparency before any work begins.",
+        "@type": "Answer",
+        "description": "Yard hydrant repair costs in Las Vegas vary based on the issue and parts needed; CG Plumbing Solutions offers upfront pricing after assessment."
+      }
+    }
+  ],
+  "description": "Yard hydrant repair costs in Las Vegas vary based on the issue and parts needed; CG Plumbing Solutions offers upfront pricing after assessment."
+}

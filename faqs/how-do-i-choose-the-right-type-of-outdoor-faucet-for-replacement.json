@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-choose-the-right-type-of-outdoor-faucet-for-replacement",
+  "name": "How do I choose the right type of outdoor faucet for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of outdoor faucet for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right outdoor faucet depends on your climate, usage needs, and existing plumbing. Options include traditional compression faucets, ball valves, and frost-free sillcocks. For areas with occasional cold snaps like Las Vegas, a frost-free faucet is often the best choice for its superior freeze protection. Consider also the material, such as brass or bronze, for durability. CG Plumbing Solutions can help you assess your needs and recommend the most suitable and durable option during a consultation.",
+        "@type": "Answer",
+        "description": "Choose based on climate, usage, and plumbing. Frost-free faucets are good for colder areas. Consider material for durability. CG Plumbing Solutions can help with selection."
+      }
+    }
+  ],
+  "description": "Choose based on climate, usage, and plumbing. Frost-free faucets are good for colder areas. Consider material for durability. CG Plumbing Solutions can help wit"
+}

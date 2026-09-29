@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-connect-my-outdoor-kitchen-drain-to-the-main-sewer-or-a-separate-drain",
+  "name": "Should I connect my outdoor kitchen drain to the main sewer or a separate drain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I connect my outdoor kitchen drain to the main sewer or a separate drain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Connecting your outdoor kitchen drain to your home's main sewer line is generally the most common and recommended approach for proper wastewater disposal. This ensures that all wastewater from your sink or appliances is safely channeled away and treated. A separate drain, such as a greywater system, might be an option depending on local regulations and specific design. Deciding which option is best for you often comes down to balancing cost, local codes, and environmental considerations, which we can discuss during your consultation.",
+        "@type": "Answer",
+        "description": "Connecting to the main sewer is common for outdoor kitchen drains. We can discuss options like separate greywater systems based on regulations and your needs."
+      }
+    }
+  ],
+  "description": "Connecting to the main sewer is common for outdoor kitchen drains. We can discuss options like separate greywater systems based on regulations and your needs."
+}

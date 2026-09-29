@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-pex-and-copper-piping-for-a-bathroom-remodel",
+  "name": "What's the difference between PEX and copper piping for a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between PEX and copper piping for a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "PEX and copper are common piping choices for bathroom remodels, each with distinct advantages. Copper is durable, long-lasting, and naturally antimicrobial, but generally more expensive and susceptible to corrosion in certain water conditions. PEX is flexible, easier to install, less prone to bursting from freezing, and typically more cost-effective. The choice often depends on your budget, water quality in your area, and the preferences of your plumber. We assess your home's needs to recommend the best material for your specific plumbing system and budget.",
+        "@type": "Answer",
+        "description": "Copper is durable and long-lasting but costly, while PEX is flexible, easier to install, and more budget-friendly."
+      }
+    }
+  ],
+  "description": "Copper is durable and long-lasting but costly, while PEX is flexible, easier to install, and more budget-friendly."
+}

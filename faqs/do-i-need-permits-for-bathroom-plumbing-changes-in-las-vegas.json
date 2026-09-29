@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-permits-for-bathroom-plumbing-changes-in-las-vegas",
+  "name": "Do I need permits for bathroom plumbing changes in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for bathroom plumbing changes in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, significant plumbing changes during a bathroom remodel, such as relocating fixtures, altering drain lines, or replacing major components, typically require permits in Las Vegas and surrounding areas like Henderson. These permits ensure that the work complies with local building and plumbing codes, guaranteeing safety and proper system function. Our team can guide you through the permitting process and ensure all work adheres to local regulations, preventing potential issues during inspections or future property sales.",
+        "@type": "Answer",
+        "description": "Yes, significant plumbing changes in Las Vegas often require permits to ensure compliance with local building codes."
+      }
+    }
+  ],
+  "description": "Yes, significant plumbing changes in Las Vegas often require permits to ensure compliance with local building codes."
+}

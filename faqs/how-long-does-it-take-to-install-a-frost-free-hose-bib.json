@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-frost-free-hose-bib",
+  "name": "How long does it take to install a frost-free hose bib?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a frost-free hose bib?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation of a frost-free hose bib typically takes a few hours, though this can vary based on the specifics of your home's existing plumbing and the chosen location. Factors that can affect the timing include the need to run new water lines, accessibility to the interior plumbing, and the type of exterior wall material. Our technicians work efficiently to minimize disruption, ensuring proper installation and testing are completed within a reasonable timeframe. We aim for same-day service completion for most standard installations in areas like Las Vegas and Henderson.",
+        "@type": "Answer",
+        "description": "Installation usually takes a few hours, but time can vary based on plumbing complexity and wall accessibility. Most standard installations are completed same-day."
+      }
+    }
+  ],
+  "description": "Installation usually takes a few hours, but time can vary based on plumbing complexity and wall accessibility. Most standard installations are completed same-da"
+}

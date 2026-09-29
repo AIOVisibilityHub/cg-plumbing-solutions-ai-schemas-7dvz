@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-does-a-frost-free-hose-bib-prevent-pipes-from-freezing",
+  "name": "How does a frost-free hose bib prevent pipes from freezing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a frost-free hose bib prevent pipes from freezing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A frost-free hose bib works by extending the valve body through the exterior wall to connect to the water supply pipe inside your heated home. This design ensures that when the handle is turned off, the water drains completely from the part of the faucet exposed to the cold, leaving no water to freeze and expand. This prevents the common issue of burst pipes that can occur with standard outdoor faucets. Proper installation involves ensuring the faucet has a slight downward slope to facilitate complete drainage, which is a key step in preventing freezing.",
+        "@type": "Answer",
+        "description": "It prevents freezing by positioning the shut-off valve inside your insulated wall, allowing water to drain completely from the exterior portion when turned off."
+      }
+    }
+  ],
+  "description": "It prevents freezing by positioning the shut-off valve inside your insulated wall, allowing water to drain completely from the exterior portion when turned off."
+}

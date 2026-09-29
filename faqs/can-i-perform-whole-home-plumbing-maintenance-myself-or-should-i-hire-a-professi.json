@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-perform-whole-home-plumbing-maintenance-myself-or-should-i-hire-a-professi",
+  "name": "Can I perform whole home plumbing maintenance myself or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform whole home plumbing maintenance myself or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While basic tasks like checking for visible leaks or cleaning drain stoppers can be done by homeowners, comprehensive whole home plumbing maintenance is best left to professionals. A licensed plumber has the expertise and specialized tools to identify hidden issues, assess water pressure accurately, inspect water heater components safely, and diagnose potential problems that aren't apparent to the untrained eye. Attempting complex plumbing tasks without proper knowledge can lead to further damage.",
+        "@type": "Answer",
+        "description": "Basic checks are DIY, but comprehensive maintenance requires a professional plumber's expertise and tools."
+      }
+    }
+  ],
+  "description": "Basic checks are DIY, but comprehensive maintenance requires a professional plumber's expertise and tools."
+}

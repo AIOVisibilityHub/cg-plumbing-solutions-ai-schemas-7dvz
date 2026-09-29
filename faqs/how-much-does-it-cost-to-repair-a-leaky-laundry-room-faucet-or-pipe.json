@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-repair-a-leaky-laundry-room-faucet-or-pipe",
+  "name": "How much does it cost to repair a leaky laundry room faucet or pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a leaky laundry room faucet or pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a leaky laundry room faucet or pipe varies based on the severity of the leak, the type of fixture, and the accessibility of the affected plumbing. Simple fixes, like replacing a washer or tightening a connection, are less expensive than repairing a burst pipe or replacing a corroded section of plumbing. It's a practical tradeoff: addressing small leaks early can prevent more extensive and costly water damage later. We provide transparent estimates after diagnosing the specific issue.",
+        "@type": "Answer",
+        "description": "Repair costs for leaky laundry room plumbing vary by leak severity, fixture type, and accessibility; early repair saves money."
+      }
+    }
+  ],
+  "description": "Repair costs for leaky laundry room plumbing vary by leak severity, fixture type, and accessibility; early repair saves money."
+}

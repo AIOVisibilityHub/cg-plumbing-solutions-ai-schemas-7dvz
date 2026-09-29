@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-schedule-whole-home-plumbing-maintenance",
+  "name": "How often should I schedule whole home plumbing maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I schedule whole home plumbing maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most plumbing professionals recommend scheduling whole home plumbing maintenance at least once a year. This annual check-up helps catch potential problems like minor leaks, sediment buildup in water heaters, or early signs of pipe corrosion before they become significant issues. The ideal timing can also depend on the age of your home and the specific demands placed on your plumbing system, such as if you have an older home or a large family.",
+        "@type": "Answer",
+        "description": "Annual whole home plumbing maintenance is generally recommended to prevent issues and maintain system health."
+      }
+    }
+  ],
+  "description": "Annual whole home plumbing maintenance is generally recommended to prevent issues and maintain system health."
+}

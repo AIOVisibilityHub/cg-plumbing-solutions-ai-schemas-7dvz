@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-whole-home-plumbing-maintenance",
+  "name": "What is whole home plumbing maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is whole home plumbing maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whole home plumbing maintenance involves a thorough inspection and servicing of your entire plumbing system, from fixtures to main lines. This typically includes checking for leaks, inspecting water heaters, assessing drain function, and evaluating water pressure. Regular maintenance helps identify minor issues before they escalate into major, costly repairs, ensuring your plumbing operates efficiently and reliably throughout your home.",
+        "@type": "Answer",
+        "description": "Whole home plumbing maintenance is a comprehensive inspection and servicing of your entire plumbing system to prevent issues."
+      }
+    }
+  ],
+  "description": "Whole home plumbing maintenance is a comprehensive inspection and servicing of your entire plumbing system to prevent issues."
+}

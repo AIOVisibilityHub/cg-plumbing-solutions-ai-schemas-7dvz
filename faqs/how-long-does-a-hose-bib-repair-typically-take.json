@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-hose-bib-repair-typically-take",
+  "name": "How long does a hose bib repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a hose bib repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard hose bib repairs can be completed within one to two hours, provided the issue is straightforward, such as replacing a washer or packing. More complex problems, like a fractured pipe within the wall or extensive corrosion requiring pipe modification, may extend the repair time. Our technicians arrive with common parts and tools to efficiently address most issues. We prioritize effective solutions to minimize inconvenience, and we'll communicate if a repair is anticipated to take longer due to unforeseen complications.",
+        "@type": "Answer",
+        "description": "Most hose bib repairs take 1-2 hours for straightforward issues. Complex problems like fractured pipes may take longer, but we aim for efficient service."
+      }
+    }
+  ],
+  "description": "Most hose bib repairs take 1-2 hours for straightforward issues. Complex problems like fractured pipes may take longer, but we aim for efficient service."
+}

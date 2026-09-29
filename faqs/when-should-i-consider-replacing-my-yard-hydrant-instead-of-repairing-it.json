@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-my-yard-hydrant-instead-of-repairing-it",
+  "name": "When should I consider replacing my yard hydrant instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my yard hydrant instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your yard hydrant instead of repairing it when the repair costs approach or exceed the cost of a new installation, or if the hydrant is very old and prone to recurring issues. Extensive corrosion, irreparable damage to the main body, or persistent leaks after multiple repairs are strong indicators for replacement. CG Plumbing Solutions can help you compare the long-term cost-effectiveness of repair versus replacement options.",
+        "@type": "Answer",
+        "description": "Consider replacement if repair costs are too high, the hydrant is old with recurring issues, or has extensive, irreparable damage."
+      }
+    }
+  ],
+  "description": "Consider replacement if repair costs are too high, the hydrant is old with recurring issues, or has extensive, irreparable damage."
+}

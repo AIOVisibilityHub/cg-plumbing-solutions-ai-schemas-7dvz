@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-involve-a-plumber-in-my-kitchen-remodel-project",
+  "name": "When should I involve a plumber in my kitchen remodel project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I involve a plumber in my kitchen remodel project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is best to involve a plumber during the initial planning and design phases of your kitchen remodel, even before demolition begins. An early consultation allows for proper assessment of existing plumbing infrastructure and helps identify potential challenges or opportunities for layout changes. This early involvement helps avoid costly delays or unforeseen issues by ensuring that proposed changes are feasible and meet local codes for areas like Las Vegas, North Las Vegas, and Henderson.",
+        "@type": "Answer",
+        "description": "Involve a plumber during the early planning and design stages of your kitchen remodel to assess existing infrastructure and prevent costly issues."
+      }
+    }
+  ],
+  "description": "Involve a plumber during the early planning and design stages of your kitchen remodel to assess existing infrastructure and prevent costly issues."
+}

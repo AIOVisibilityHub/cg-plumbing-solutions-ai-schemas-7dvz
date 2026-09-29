@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preparation-is-needed-before-a-plumber-arrives-for-hose-bib-repair",
+  "name": "What preparation is needed before a plumber arrives for hose bib repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before a plumber arrives for hose bib repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your plumber arrives for a hose bib repair, please ensure the area around the outdoor faucet is clear and easily accessible. This includes moving any planters, garden hoses, or outdoor furniture that might obstruct access. Also, it's helpful if you know the location of your main water shut-off valve, as the technician might need to briefly turn off the water supply to your home to perform the repair safely. Having this information ready can expedite the service process, allowing our plumbers to get straight to diagnosing and fixing the issue.",
+        "@type": "Answer",
+        "description": "Before your plumber arrives, clear the area around the hose bib and know your main water shut-off valve's location to expedite the repair process."
+      }
+    }
+  ],
+  "description": "Before your plumber arrives, clear the area around the hose bib and know your main water shut-off valve's location to expedite the repair process."
+}

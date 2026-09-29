@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-fix-an-outdoor-faucet-leak",
+  "name": "How much does it cost to fix an outdoor faucet leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix an outdoor faucet leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix an outdoor faucet leak varies depending on the severity of the damage, the type of faucet, and whether pipe repair or replacement is needed. Simple repairs like replacing a washer are less expensive than addressing freeze damage or a burst pipe. CG Plumbing Solutions provides transparent pricing after a comprehensive on-site assessment, ensuring you understand the repair scope and cost before any work begins.",
+        "@type": "Answer",
+        "description": "Cost varies based on damage and repair type. Simple fixes are less than freeze damage. CG Plumbing Solutions offers transparent pricing after assessment."
+      }
+    }
+  ],
+  "description": "Cost varies based on damage and repair type. Simple fixes are less than freeze damage. CG Plumbing Solutions offers transparent pricing after assessment."
+}

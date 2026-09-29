@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-repair-or-replace-my-old-hose-bib-if-it-s-leaking",
+  "name": "Should I repair or replace my old hose bib if it's leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my old hose bib if it's leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace a leaking hose bib depends on its age, the extent of the damage, and its overall condition. If the hose bib is relatively new and only has a minor issue like a worn washer, repair is often the more economical choice. However, for older, corroded units, or if there's significant damage like a cracked body or persistent leaks, replacement might be a more durable and cost-effective long-term solution. Our technicians can assess your specific situation and recommend the best course of action, considering factors like the availability of replacement parts for older models.",
+        "@type": "Answer",
+        "description": "Repair a new hose bib with minor leaks; replace an old, corroded, or significantly damaged one. Our technicians assess the best option for longevity and cost."
+      }
+    }
+  ],
+  "description": "Repair a new hose bib with minor leaks; replace an old, corroded, or significantly damaged one. Our technicians assess the best option for longevity and cost."
+}

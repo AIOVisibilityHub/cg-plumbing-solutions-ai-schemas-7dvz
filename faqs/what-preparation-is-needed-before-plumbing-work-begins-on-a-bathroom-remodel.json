@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preparation-is-needed-before-plumbing-work-begins-on-a-bathroom-remodel",
+  "name": "What preparation is needed before plumbing work begins on a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before plumbing work begins on a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before plumbing work begins, ensure the bathroom is completely cleared of personal items, and any existing fixtures to be removed are already disconnected or marked for removal. It's crucial to finalize your bathroom layout and fixture selections, as these decisions directly impact pipe placement and rough-in. Providing accurate plans and product specifications to your plumber helps prevent delays and ensures the correct installation of all components. Having a clear plan of what you want will help streamline the process for our plumbers.",
+        "@type": "Answer",
+        "description": "Clear the bathroom, finalize layout and fixture selections, and provide accurate plans to your plumber before work starts."
+      }
+    }
+  ],
+  "description": "Clear the bathroom, finalize layout and fixture selections, and provide accurate plans to your plumber before work starts."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-repair-a-leaking-hose-bib-in-las-vegas",
+  "name": "How much does it cost to repair a leaking hose bib in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a leaking hose bib in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a leaking hose bib in Las Vegas can vary depending on the severity of the damage and the type of repair needed. Minor issues like a worn washer might be less expensive than replacing the entire unit due to a cracked pipe or major valve failure. We provide transparent estimates after a thorough inspection, considering factors like accessibility and the specific parts required. It's often more cost-effective to address leaks promptly to prevent further water waste or damage.",
+        "@type": "Answer",
+        "description": "Hose bib repair costs in Las Vegas vary based on damage and repair type. We provide estimates after inspection, as prompt repair can prevent greater expense."
+      }
+    }
+  ],
+  "description": "Hose bib repair costs in Las Vegas vary based on damage and repair type. We provide estimates after inspection, as prompt repair can prevent greater expense."
+}

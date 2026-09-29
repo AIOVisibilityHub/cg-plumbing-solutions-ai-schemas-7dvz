@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-consider-before-installing-a-new-frost-free-hose-bib",
+  "name": "What should I consider before installing a new frost-free hose bib?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before installing a new frost-free hose bib?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before installing a new frost-free hose bib, consider the desired location for optimal convenience and accessibility, as well as the proximity to your main water supply. Think about how many outdoor spigots you need and where they would be most useful for gardening, car washing, or other outdoor tasks. Also, consider the type of exterior siding on your home, as this can affect installation methods. Our team can help you identify the best placement and type of hose bib to meet your needs and integrate seamlessly with your home's structure in the Las Vegas valley.",
+        "@type": "Answer",
+        "description": "Consider the best location for convenience, the number of spigots needed, and your home's exterior siding. We can help you plan for optimal placement."
+      }
+    }
+  ],
+  "description": "Consider the best location for convenience, the number of spigots needed, and your home's exterior siding. We can help you plan for optimal placement."
+}

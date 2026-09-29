@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-house-plumbing-inspection-take",
+  "name": "How long does a typical house plumbing inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical house plumbing inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a plumbing inspection can vary depending on the size and complexity of your home's plumbing system. For an average residential property, a thorough inspection usually takes between 1 to 2 hours. However, if the home is larger, has multiple bathrooms, a complex setup with specialized systems, or if we identify specific issues that require further investigation, the process might take longer. We ensure sufficient time is allocated to perform a comprehensive assessment, identifying all concerns effectively.",
+        "@type": "Answer",
+        "description": "A typical house plumbing inspection takes 1 to 2 hours, but can be longer for larger homes or complex systems, or if issues require more investigation."
+      }
+    }
+  ],
+  "description": "A typical house plumbing inspection takes 1 to 2 hours, but can be longer for larger homes or complex systems, or if issues require more investigation."
+}

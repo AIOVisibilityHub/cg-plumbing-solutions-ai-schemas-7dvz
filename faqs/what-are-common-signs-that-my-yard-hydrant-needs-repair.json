@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-yard-hydrant-needs-repair",
+  "name": "What are common signs that my yard hydrant needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my yard hydrant needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your yard hydrant needs repair include a leaking handle, continuous dripping from the spout, reduced water pressure, or water pooling around the base of the hydrant. Rust or corrosion on visible parts can also indicate internal issues requiring professional attention. Addressing these signs early can prevent more significant damage and water waste.",
+        "@type": "Answer",
+        "description": "Look for leaks, drips, low pressure, or pooling water around the hydrant as signs it needs repair."
+      }
+    }
+  ],
+  "description": "Look for leaks, drips, low pressure, or pooling water around the hydrant as signs it needs repair."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-frost-proof-yard-hydrants-work-and-why-do-they-sometimes-fail",
+  "name": "How do frost-proof yard hydrants work, and why do they sometimes fail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do frost-proof yard hydrants work, and why do they sometimes fail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Frost-proof yard hydrants are designed with a shut-off valve located below the frost line to prevent water from freezing in the standpipe. After use, water drains out of the pipe above the valve. They can fail if the internal drainage mechanism becomes clogged, if the shut-off valve itself leaks, or if the standpipe cracks due to external impact or severe ground movement. In the Las Vegas area, while deep freezes are less common, proper installation and maintenance are still crucial.",
+        "@type": "Answer",
+        "description": "Frost-proof hydrants shut off below the frost line and drain, but can fail if the drain clogs, valve leaks, or pipe cracks."
+      }
+    }
+  ],
+  "description": "Frost-proof hydrants shut off below the frost line and drain, but can fail if the drain clogs, valve leaks, or pipe cracks."
+}

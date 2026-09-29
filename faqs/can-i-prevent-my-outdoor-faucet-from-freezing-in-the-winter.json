@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-prevent-my-outdoor-faucet-from-freezing-in-the-winter",
+  "name": "Can I prevent my outdoor faucet from freezing in the winter?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent my outdoor faucet from freezing in the winter?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can prevent outdoor faucets from freezing by disconnecting hoses, draining water from the faucet and pipes, and insulating the faucet. In colder areas, installing a frost-free spigot is highly recommended to prevent water from sitting in the exposed pipe section. CG Plumbing Solutions often advises clients in the Las Vegas region, especially those with older homes, on proper winterization techniques, which can significantly reduce the risk of costly freeze-related repairs.",
+        "@type": "Answer",
+        "description": "Prevent freezing by disconnecting hoses, draining water, and insulating. Frost-free spigots offer added protection. CG Plumbing Solutions can advise on winterization."
+      }
+    }
+  ],
+  "description": "Prevent freezing by disconnecting hoses, draining water, and insulating. Frost-free spigots offer added protection. CG Plumbing Solutions can advise on winteriz"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-frost-free-hose-bib-and-why-do-i-need-one-in-las-vegas",
+  "name": "What is a frost-free hose bib and why do I need one in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a frost-free hose bib and why do I need one in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A frost-free hose bib is an outdoor water faucet designed to prevent freezing by placing the shut-off valve inside your home's insulated wall, away from external cold. While Las Vegas doesn't experience extreme, prolonged freezes often, temperatures can drop below freezing during winter nights. Installing a frost-free hose bib prevents damage to your plumbing system, such as burst pipes, which can lead to costly repairs and water damage. It's a proactive measure to protect your home's exterior water lines from unexpected cold snaps, ensuring your outdoor water supply remains reliable.",
+        "@type": "Answer",
+        "description": "A frost-free hose bib is an outdoor faucet with an internal shut-off valve to prevent freezing. In Las Vegas, it protects your plumbing from potential damage during winter cold snaps, even if brief."
+      }
+    }
+  ],
+  "description": "A frost-free hose bib is an outdoor faucet with an internal shut-off valve to prevent freezing. In Las Vegas, it protects your plumbing from potential damage du"
+}

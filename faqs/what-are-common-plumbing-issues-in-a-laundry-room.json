@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-plumbing-issues-in-a-laundry-room",
+  "name": "What are common plumbing issues in a laundry room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common plumbing issues in a laundry room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common laundry room plumbing issues include clogged drains from lint and detergent buildup, leaky supply hoses, overflowing washing machines, and issues with the utility sink. These problems can lead to water damage if not addressed promptly. Regular maintenance, such as cleaning lint traps and inspecting hoses, can help prevent significant disruptions. CG Plumbing Solutions addresses these issues for homeowners across Las Vegas and surrounding areas.",
+        "@type": "Answer",
+        "description": "Common laundry room plumbing issues include clogged drains, leaky hoses, overflowing washing machines, and utility sink problems."
+      }
+    }
+  ],
+  "description": "Common laundry room plumbing issues include clogged drains, leaky hoses, overflowing washing machines, and utility sink problems."
+}

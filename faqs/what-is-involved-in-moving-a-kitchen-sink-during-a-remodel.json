@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-moving-a-kitchen-sink-during-a-remodel",
+  "name": "What is involved in moving a kitchen sink during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in moving a kitchen sink during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moving a kitchen sink requires significant plumbing work, including rerouting both hot and cold water supply lines, as well as the main drain line. This often means opening up walls and floors to access and extend or redirect pipes. The complexity can increase if the new sink location is far from the original or requires going through concrete slabs. Proper venting for the drain also needs to be established at the new location to prevent drainage issues, which is a key consideration for compliant installations.",
+        "@type": "Answer",
+        "description": "Moving a kitchen sink involves rerouting water supply and drain lines, often requiring wall and floor access, and ensuring proper drain venting at the new location."
+      }
+    }
+  ],
+  "description": "Moving a kitchen sink involves rerouting water supply and drain lines, often requiring wall and floor access, and ensuring proper drain venting at the new locat"
+}

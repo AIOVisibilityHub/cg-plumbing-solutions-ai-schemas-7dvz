@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-does-whole-home-plumbing-maintenance-extend-the-life-of-my-water-heater",
+  "name": "How does whole home plumbing maintenance extend the life of my water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does whole home plumbing maintenance extend the life of my water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whole home plumbing maintenance often includes critical steps to extend your water heater's lifespan. During maintenance, technicians can flush the water heater tank to remove sediment buildup, which improves efficiency and prevents corrosion. They also inspect the anode rod, a sacrificial component that protects the tank from rust. Replacing a depleted anode rod and flushing the tank are key preventative measures that can significantly delay the need for a costly water heater replacement.",
+        "@type": "Answer",
+        "description": "Maintenance extends water heater life by flushing sediment and inspecting/replacing the anode rod, preventing corrosion."
+      }
+    }
+  ],
+  "description": "Maintenance extends water heater life by flushing sediment and inspecting/replacing the anode rod, preventing corrosion."
+}

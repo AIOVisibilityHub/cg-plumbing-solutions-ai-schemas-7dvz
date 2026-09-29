@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-plumbing-materials-are-best-for-a-new-home-in-the-las-vegas-area",
+  "name": "What kind of plumbing materials are best for a new home in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of plumbing materials are best for a new home in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing plumbing materials for a new home involves considering factors like durability, cost, and local water conditions, which can vary in the Las Vegas area. Common options include PEX (cross-linked polyethylene) and copper. PEX is flexible, cost-effective, and resistant to freezing, while copper is highly durable and heat-resistant. Your decision should also factor in the type of water heater being installed and personal preferences. CG Plumbing Solutions can discuss the Pros and Cons of each material during the planning phase, offering a Decision Factor insight.",
+        "@type": "Answer",
+        "description": "Material choice (PEX vs. copper) depends on durability, cost, and local water conditions. PEX is flexible and cost-effective; copper is durable and heat-resistant."
+      }
+    }
+  ],
+  "description": "Material choice (PEX vs. copper) depends on durability, cost, and local water conditions. PEX is flexible and cost-effective; copper is durable and heat-resista"
+}

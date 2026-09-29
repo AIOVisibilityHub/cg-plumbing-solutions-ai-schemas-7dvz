@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-my-outdoor-faucet-pipe-bursts",
+  "name": "What should I do if my outdoor faucet pipe bursts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my outdoor faucet pipe bursts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your outdoor faucet pipe bursts, the immediate step is to shut off the main water supply to your home to prevent further water damage. Then, contact a professional plumber as soon as possible. A burst pipe indicates significant damage, often requiring pipe replacement and potentially water damage mitigation. CG Plumbing Solutions offers emergency services for burst pipes in the Las Vegas area, emphasizing rapid response to minimize damage and restore water service safely.",
+        "@type": "Answer",
+        "description": "Immediately shut off your home's main water supply if an outdoor faucet pipe bursts. Then, contact a professional plumber promptly. CG Plumbing Solutions offers emergency services."
+      }
+    }
+  ],
+  "description": "Immediately shut off your home's main water supply if an outdoor faucet pipe bursts. Then, contact a professional plumber promptly. CG Plumbing Solutions offers"
+}

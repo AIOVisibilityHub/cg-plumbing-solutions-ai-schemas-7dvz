@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-plumbing-changes-are-typically-involved-in-a-kitchen-remodel",
+  "name": "What plumbing changes are typically involved in a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing changes are typically involved in a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen remodel often involves relocating or upgrading existing plumbing for sinks, dishwashers, refrigerators with ice makers, and garbage disposals. This can include moving water supply lines, drain lines, and gas lines for ranges. Consideration of appliance placement early in the design phase is crucial to ensure efficient and cost-effective plumbing modifications, as changing the layout significantly impacts the complexity and materials needed for pipe rerouting.",
+        "@type": "Answer",
+        "description": "Kitchen remodels often involve relocating or upgrading plumbing for sinks, dishwashers, and other appliances, which requires careful planning of water and drain lines."
+      }
+    }
+  ],
+  "description": "Kitchen remodels often involve relocating or upgrading plumbing for sinks, dishwashers, and other appliances, which requires careful planning of water and drain"
+}

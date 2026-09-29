@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-involve-the-plumber-in-the-new-home-construction-process",
+  "name": "When should I involve the plumber in the new home construction process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I involve the plumber in the new home construction process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is best to involve your plumber early in the new home construction process, ideally during the design and blueprint phase. Early involvement allows the plumbing contractor to provide input on efficient system layouts, suggest optimal water heater placements, and identify any potential issues before construction begins. This proactive approach can prevent costly changes later and ensure the plumbing system seamlessly integrates with the overall home design. This is a crucial Preparation step for homeowners.",
+        "@type": "Answer",
+        "description": "Involve your plumber early, during the design and blueprint phase, to ensure efficient system layouts, optimal placements, and to prevent costly changes."
+      }
+    }
+  ],
+  "description": "Involve your plumber early, during the design and blueprint phase, to ensure efficient system layouts, optimal placements, and to prevent costly changes."
+}

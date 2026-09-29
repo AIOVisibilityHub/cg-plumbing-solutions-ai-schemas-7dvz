@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-new-plumbing-for-a-kitchen-island-with-a-sink",
+  "name": "Do I need new plumbing for a kitchen island with a sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need new plumbing for a kitchen island with a sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding a kitchen island with a sink typically requires new plumbing installations, as water supply and drain lines must be extended to the island location. This often involves running pipes through the floor or ceiling, which can be a more involved process if your home has a concrete slab foundation. Additionally, proper venting for the island sink's drain will be necessary to ensure effective drainage and meet local plumbing codes, ensuring your new setup functions correctly and safely.",
+        "@type": "Answer",
+        "description": "Adding a kitchen island sink usually requires new plumbing for water supply and drain lines, often involving floor or ceiling pipe runs and proper venting."
+      }
+    }
+  ],
+  "description": "Adding a kitchen island sink usually requires new plumbing for water supply and drain lines, often involving floor or ceiling pipe runs and proper venting."
+}

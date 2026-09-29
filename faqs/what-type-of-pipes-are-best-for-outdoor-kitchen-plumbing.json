@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-type-of-pipes-are-best-for-outdoor-kitchen-plumbing",
+  "name": "What type of pipes are best for outdoor kitchen plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of pipes are best for outdoor kitchen plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For outdoor kitchen plumbing, durable and weather-resistant pipes are essential. PEX (cross-linked polyethylene) and copper are commonly used. PEX is flexible, resistant to freezing and corrosion, and easier to install, making it a cost-effective choice. Copper is highly durable and heat-resistant but can be more expensive and requires soldering. The best choice depends on your budget, local climate, and specific requirements. We can recommend materials that offer longevity and performance based on your project.",
+        "@type": "Answer",
+        "description": "PEX and copper pipes are best for outdoor kitchens due to durability and weather resistance. PEX is flexible and cost-effective, while copper is durable but pricier."
+      }
+    }
+  ],
+  "description": "PEX and copper pipes are best for outdoor kitchens due to durability and weather resistance. PEX is flexible and cost-effective, while copper is durable but pri"
+}

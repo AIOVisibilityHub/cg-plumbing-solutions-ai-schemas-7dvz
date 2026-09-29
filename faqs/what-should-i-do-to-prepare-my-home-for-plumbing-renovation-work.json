@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-to-prepare-my-home-for-plumbing-renovation-work",
+  "name": "What should I do to prepare my home for plumbing renovation work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home for plumbing renovation work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before plumbing renovation work begins, it's helpful to clear the work area of personal items, furniture, and anything valuable that could be damaged or obstruct access. Ensuring a clear path for plumbers to move equipment and materials will streamline the process. You may also want to consider communicating with your household about potential temporary water shut-offs. This preparation can significantly contribute to an efficient and smooth renovation project.",
+        "@type": "Answer",
+        "description": "Prepare for plumbing renovation by clearing the work area, ensuring clear access, and communicating about potential water shut-offs to streamline the process."
+      }
+    }
+  ],
+  "description": "Prepare for plumbing renovation by clearing the work area, ensuring clear access, and communicating about potential water shut-offs to streamline the process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-yard-hydrant-repair",
+  "name": "What is the typical process for yard hydrant repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for yard hydrant repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for yard hydrant repair begins with a plumber inspecting the hydrant to diagnose the specific problem, whether it's a leaking valve, a broken standpipe, or issues with the packing. Once diagnosed, the water supply to the hydrant is shut off, and necessary parts are either repaired or replaced. Finally, the system is tested to ensure proper operation and check for any remaining leaks. CG Plumbing Solutions aims to complete most standard repairs efficiently to minimize disruption.",
+        "@type": "Answer",
+        "description": "The repair process involves inspection, shutting off water, repairing or replacing parts, and testing for proper function."
+      }
+    }
+  ],
+  "description": "The repair process involves inspection, shutting off water, repairing or replacing parts, and testing for proper function."
+}

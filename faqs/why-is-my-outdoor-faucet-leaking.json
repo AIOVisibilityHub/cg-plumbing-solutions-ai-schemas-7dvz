@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-my-outdoor-faucet-leaking",
+  "name": "Why is my outdoor faucet leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my outdoor faucet leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Outdoor faucets typically leak due to worn-out washers, seals, or packing within the faucet assembly. Freezing temperatures can also cause internal damage, leading to cracks in the valve body or pipes. A persistent drip can waste significant water and indicate a larger issue that could worsen over time, especially if not addressed before colder weather. CG Plumbing Solutions regularly inspects these components as part of our repair process to ensure a lasting fix.",
+        "@type": "Answer",
+        "description": "Common causes of outdoor faucet leaks include worn washers, seals, or freezing damage to the internal components. Timely repair prevents water waste and further damage."
+      }
+    }
+  ],
+  "description": "Common causes of outdoor faucet leaks include worn washers, seals, or freezing damage to the internal components. Timely repair prevents water waste and further"
+}

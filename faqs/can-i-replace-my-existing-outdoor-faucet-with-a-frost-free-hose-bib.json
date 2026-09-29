@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-replace-my-existing-outdoor-faucet-with-a-frost-free-hose-bib",
+  "name": "Can I replace my existing outdoor faucet with a frost-free hose bib?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my existing outdoor faucet with a frost-free hose bib?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can often replace an existing outdoor faucet with a frost-free hose bib. This is a common upgrade that helps protect your home from winter weather damage. The process typically involves removing the old faucet, making necessary adjustments to the existing plumbing inside the wall, and installing the new, longer frost-free unit. It's important to ensure the new installation has the correct slope for drainage and is properly sealed to prevent leaks. Our plumbers will assess your current setup to determine the best approach for a seamless replacement.",
+        "@type": "Answer",
+        "description": "Yes, it's a common upgrade. We can replace your old faucet with a frost-free model, ensuring proper plumbing adjustments and drainage."
+      }
+    }
+  ],
+  "description": "Yes, it's a common upgrade. We can replace your old faucet with a frost-free model, ensuring proper plumbing adjustments and drainage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-plumbing-problems-encountered-during-kitchen-remodels",
+  "name": "What are common plumbing problems encountered during kitchen remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common plumbing problems encountered during kitchen remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common plumbing problems during kitchen remodels include discovering outdated or corroded pipes, inadequate water pressure, or insufficient drainage lines for new fixtures. We also frequently encounter issues with existing code violations or unexpected structural obstacles once walls are opened. These issues can extend project timelines and increase costs, underscoring the importance of a thorough pre-remodel plumbing inspection by a qualified professional to identify and plan for potential problems in advance.",
+        "@type": "Answer",
+        "description": "Common plumbing issues in kitchen remodels include discovering outdated pipes, inadequate pressure, or code violations, which can cause delays and cost increases."
+      }
+    }
+  ],
+  "description": "Common plumbing issues in kitchen remodels include discovering outdated pipes, inadequate pressure, or code violations, which can cause delays and cost increase"
+}

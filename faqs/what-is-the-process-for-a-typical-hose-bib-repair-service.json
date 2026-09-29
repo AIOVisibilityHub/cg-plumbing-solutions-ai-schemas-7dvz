@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-a-typical-hose-bib-repair-service",
+  "name": "What is the process for a typical hose bib repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a typical hose bib repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When you schedule a hose bib repair with us, a CG Plumbing Solutions technician will first isolate the water supply to the affected hose bib. They will then inspect the unit to diagnose the specific issue, whether it's a worn washer, a faulty valve, or a crack in the piping. Once the problem is identified, they will explain the necessary repairs and provide an upfront estimate. After your approval, they'll perform the repair using quality parts, restore water, and test the hose bib to ensure it's functioning correctly and leak-free. Our process is designed for minimal disruption.",
+        "@type": "Answer",
+        "description": "Our hose bib repair process involves isolating water, diagnosing the issue, providing an estimate, performing the repair, and then testing the unit."
+      }
+    }
+  ],
+  "description": "Our hose bib repair process involves isolating water, diagnosing the issue, providing an estimate, performing the repair, and then testing the unit."
+}

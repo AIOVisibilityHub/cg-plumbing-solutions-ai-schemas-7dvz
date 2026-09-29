@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-winterize-a-frost-free-hose-bib",
+  "name": "Do I need to winterize a frost-free hose bib?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to winterize a frost-free hose bib?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, you do not need to perform traditional winterization tasks like draining and shutting off the water supply for a properly installed frost-free hose bib. Its design automatically prevents freezing. However, it is crucial to disconnect any hoses or attachments from the spigot before freezing temperatures arrive. Leaving a hose connected can trap water in the faucet body, defeating the frost-free mechanism and potentially leading to damage. Regularly checking that nothing is attached to your frost-free hose bib during winter months is the main maintenance step needed.",
+        "@type": "Answer",
+        "description": "No, if properly installed, a frost-free hose bib doesn't require traditional winterization. Just ensure all hoses are disconnected before freezing temperatures."
+      }
+    }
+  ],
+  "description": "No, if properly installed, a frost-free hose bib doesn't require traditional winterization. Just ensure all hoses are disconnected before freezing temperatures."
+}

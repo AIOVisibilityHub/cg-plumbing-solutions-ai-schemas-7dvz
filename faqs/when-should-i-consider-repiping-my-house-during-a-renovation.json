@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-repiping-my-house-during-a-renovation",
+  "name": "When should I consider repiping my house during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repiping my house during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repiping your house during a renovation if your existing pipes are old, corroded, frequently leaking, or made from outdated materials like galvanized steel or polybutylene. While an additional cost, repiping during a renovation saves on future repairs and prevents potential water damage. This preparation step is crucial, as accessing pipes behind walls and under floors is significantly easier and less disruptive when areas are already open for renovation work.",
+        "@type": "Answer",
+        "description": "Consider repiping during renovation if your pipes are old, corroded, or made from outdated materials to avoid future leaks and water damage. It's more cost-effective when walls are already open."
+      }
+    }
+  ],
+  "description": "Consider repiping during renovation if your pipes are old, corroded, or made from outdated materials to avoid future leaks and water damage. It's more cost-effe"
+}

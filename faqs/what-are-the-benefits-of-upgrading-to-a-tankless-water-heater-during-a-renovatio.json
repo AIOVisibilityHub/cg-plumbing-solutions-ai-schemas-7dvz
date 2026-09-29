@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-benefits-of-upgrading-to-a-tankless-water-heater-during-a-renovatio",
+  "name": "What are the benefits of upgrading to a tankless water heater during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of upgrading to a tankless water heater during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading to a tankless water heater during a renovation offers several benefits, including on-demand hot water, significant energy savings due to not continuously heating a tank, and a longer lifespan compared to traditional tank heaters. They also free up valuable space, especially beneficial in smaller homes. As a practical tradeoff, tankless units have a higher initial installation cost, and sometimes require gas line upgrades or dedicated electrical circuits, but can offer long-term operational savings.",
+        "@type": "Answer",
+        "description": "Tankless water heaters provide on-demand hot water, save energy, and free up space. They have a higher upfront cost but offer long-term savings."
+      }
+    }
+  ],
+  "description": "Tankless water heaters provide on-demand hot water, save energy, and free up space. They have a higher upfront cost but offer long-term savings."
+}

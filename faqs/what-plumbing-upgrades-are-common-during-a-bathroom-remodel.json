@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-plumbing-upgrades-are-common-during-a-bathroom-remodel",
+  "name": "What plumbing upgrades are common during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing upgrades are common during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common plumbing upgrades during a bathroom remodel include replacing old pipes with PEX or copper for better water flow and durability, installing new fixtures like low-flow toilets and showerheads, and relocating drains or supply lines for a new layout. You might also consider adding luxury features such as a tankless water heater, a bidet, or a steam shower, which require specific plumbing considerations. Our team evaluates your existing plumbing system to recommend the most suitable upgrades for your project's scope and your home's needs.",
+        "@type": "Answer",
+        "description": "Common upgrades include pipe replacement, new fixture installation, drain/supply line relocation, and luxury feature additions."
+      }
+    }
+  ],
+  "description": "Common upgrades include pipe replacement, new fixture installation, drain/supply line relocation, and luxury feature additions."
+}

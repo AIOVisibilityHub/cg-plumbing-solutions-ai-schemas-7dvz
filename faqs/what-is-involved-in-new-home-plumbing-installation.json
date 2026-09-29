@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-new-home-plumbing-installation",
+  "name": "What is involved in new home plumbing installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in new home plumbing installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New home plumbing installation involves designing and implementing the entire water supply and drainage system within a newly constructed residence. This includes installing main water lines, sewer lines, water heaters, and all fixtures like sinks, toilets, and showers. A crucial part of the process, especially in areas like Las Vegas, is ensuring all installations meet local building codes and regulations to pass inspections, which CG Plumbing Solutions handles as part of our service, providing Process Clarity on what happens before, during, and after the service.",
+        "@type": "Answer",
+        "description": "New home plumbing installation covers the complete water supply and drainage system, from main lines to fixtures, ensuring compliance with local building codes."
+      }
+    }
+  ],
+  "description": "New home plumbing installation covers the complete water supply and drainage system, from main lines to fixtures, ensuring compliance with local building codes."
+}

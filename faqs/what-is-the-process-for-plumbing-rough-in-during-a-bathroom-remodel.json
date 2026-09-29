@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-plumbing-rough-in-during-a-bathroom-remodel",
+  "name": "What is the process for plumbing rough-in during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for plumbing rough-in during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing rough-in involves installing all water supply lines, drainpipes, and vent pipes before the walls are closed up. This crucial stage establishes the precise locations for your sink, toilet, and shower/tub. During this phase, it's vital to ensure all connections are secure and comply with local building codes. Our experienced plumbers carefully plan the rough-in based on your finalized layout, minimizing potential issues down the line and ensuring smooth installation of fixtures later.",
+        "@type": "Answer",
+        "description": "Plumbing rough-in involves installing all water supply, drain, and vent pipes before walls are closed, setting fixture locations."
+      }
+    }
+  ],
+  "description": "Plumbing rough-in involves installing all water supply, drain, and vent pipes before walls are closed, setting fixture locations."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-advantages-of-a-frost-free-outdoor-faucet",
+  "name": "What are the advantages of a frost-free outdoor faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of a frost-free outdoor faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A frost-free outdoor faucet, also known as a sillcock, is designed with a long stem that moves the shut-off valve deep inside your home's insulated wall, away from freezing temperatures. This design prevents water from sitting in the portion of the pipe exposed to the cold, significantly reducing the risk of freezing and bursting. Investing in a frost-free faucet is a practical tradeoff, providing enhanced protection against winter damage compared to standard spigots, which can save on future repair costs.",
+        "@type": "Answer",
+        "description": "Frost-free faucets have a shut-off valve inside the insulated wall, preventing water from freezing in the exposed pipe. They offer better winter protection than standard spigots."
+      }
+    }
+  ],
+  "description": "Frost-free faucets have a shut-off valve inside the insulated wall, preventing water from freezing in the exposed pipe. They offer better winter protection than"
+}

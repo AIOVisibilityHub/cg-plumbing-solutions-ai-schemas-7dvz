@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-do-anything-before-a-plumber-arrives-to-fix-my-outdoor-faucet",
+  "name": "Do I need to do anything before a plumber arrives to fix my outdoor faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do anything before a plumber arrives to fix my outdoor faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber arrives to fix your outdoor faucet, it's helpful to clear the area around the faucet for easy access and note any specific observations you've made, such as when the leak started or if you hear any unusual sounds. If the leak is severe, knowing the location of your main water shut-off valve is crucial, as you might need to turn off the water before the plumber arrives. This preparation helps CG Plumbing Solutions efficiently assess and repair the issue.",
+        "@type": "Answer",
+        "description": "Clear the area around the faucet for access and note any observations. Know your main water shut-off valve location in case of a severe leak. This aids efficient repair."
+      }
+    }
+  ],
+  "description": "Clear the area around the faucet for access and note any observations. Know your main water shut-off valve location in case of a severe leak. This aids efficien"
+}

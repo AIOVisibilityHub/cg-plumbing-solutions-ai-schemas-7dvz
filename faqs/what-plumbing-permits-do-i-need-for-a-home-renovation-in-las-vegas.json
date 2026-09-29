@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-plumbing-permits-do-i-need-for-a-home-renovation-in-las-vegas",
+  "name": "What plumbing permits do I need for a home renovation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing permits do I need for a home renovation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For significant home renovation plumbing, such as relocating fixtures or altering drain lines, a permit from the local building department is typically required in Las Vegas, North Las Vegas, Henderson, and Summerlin. Minor repairs or like-for-like fixture replacements usually do not need a permit. Permitting ensures that plumbing work meets local safety and code standards. As part of the process clarity, CG Plumbing Solutions can help identify the specific permits needed for your project and can assist with the application process.",
+        "@type": "Answer",
+        "description": "Significant plumbing renovations in Las Vegas usually require a permit to ensure compliance with local building codes. CG Plumbing Solutions can help identify and apply for necessary permits."
+      }
+    }
+  ],
+  "description": "Significant plumbing renovations in Las Vegas usually require a permit to ensure compliance with local building codes. CG Plumbing Solutions can help identify a"
+}

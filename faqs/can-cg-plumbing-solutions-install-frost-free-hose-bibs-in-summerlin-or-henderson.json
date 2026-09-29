@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-cg-plumbing-solutions-install-frost-free-hose-bibs-in-summerlin-or-henderson",
+  "name": "Can CG Plumbing Solutions install frost-free hose bibs in Summerlin or Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can CG Plumbing Solutions install frost-free hose bibs in Summerlin or Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CG Plumbing Solutions proudly serves numerous communities in the Las Vegas metropolitan area, including Summerlin and Henderson, for frost-free hose bib installations. Our service area covers Las Vegas, North Las Vegas, Henderson, Paradise, and Summerlin, among others. Whether you're in a new development or an established neighborhood, our team is equipped to provide expert plumbing services. We understand the specific plumbing needs and local building considerations across these distinct areas, ensuring reliable and compliant installations wherever you are located within our service range.",
+        "@type": "Answer",
+        "description": "Yes, CG Plumbing Solutions installs frost-free hose bibs across our entire service area, including Summerlin and Henderson, with expertise in local plumbing needs."
+      }
+    }
+  ],
+  "description": "Yes, CG Plumbing Solutions installs frost-free hose bibs across our entire service area, including Summerlin and Henderson, with expertise in local plumbing nee"
+}

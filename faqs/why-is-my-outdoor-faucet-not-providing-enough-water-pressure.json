@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-my-outdoor-faucet-not-providing-enough-water-pressure",
+  "name": "Why is my outdoor faucet not providing enough water pressure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my outdoor faucet not providing enough water pressure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low water pressure from an outdoor faucet can be caused by several issues, including a partially closed shut-off valve, mineral buildup restricting flow, or a leak elsewhere in the line. Sometimes, debris can also clog the aerator or internal components. CG Plumbing Solutions will check the main water shut-off, inspect for blockages or leaks in the line to the faucet, and ensure all valves are fully open. Proper diagnosis ensures that the actual cause is addressed, not just the symptom.",
+        "@type": "Answer",
+        "description": "Low pressure can stem from a partially closed valve, mineral buildup, or a leak. CG Plumbing Solutions inspects the system to identify and resolve flow restrictions."
+      }
+    }
+  ],
+  "description": "Low pressure can stem from a partially closed valve, mineral buildup, or a leak. CG Plumbing Solutions inspects the system to identify and resolve flow restrict"
+}

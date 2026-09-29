@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-i-encounter-an-unexpected-plumbing-issue-during-my-remodel",
+  "name": "What should I do if I encounter an unexpected plumbing issue during my remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I encounter an unexpected plumbing issue during my remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you encounter an unexpected plumbing issue, such as discovering corroded pipes or hidden leaks during demolition, immediately stop work in the affected area and contact your plumbing contractor. It's vital to address these issues promptly to prevent further damage and ensure the integrity of your new bathroom plumbing. Our team is equipped to handle unforeseen challenges that often arise during older home remodels in areas like Enterprise or Spring Valley, providing solutions to keep your project on track.",
+        "@type": "Answer",
+        "description": "If unexpected plumbing issues arise, stop work and immediately contact your plumbing contractor for assessment and resolution."
+      }
+    }
+  ],
+  "description": "If unexpected plumbing issues arise, stop work and immediately contact your plumbing contractor for assessment and resolution."
+}

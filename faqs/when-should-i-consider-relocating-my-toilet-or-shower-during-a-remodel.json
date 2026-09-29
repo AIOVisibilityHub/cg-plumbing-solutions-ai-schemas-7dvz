@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-relocating-my-toilet-or-shower-during-a-remodel",
+  "name": "When should I consider relocating my toilet or shower during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider relocating my toilet or shower during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider relocating your toilet or shower if your current bathroom layout is highly inefficient or if you're aiming for a significantly improved aesthetic or functional design. Relocating these fixtures allows for greater design flexibility, potentially creating more open space or enabling the installation of larger fixtures like walk-in showers. However, it's important to weigh the increased cost and complexity of moving drain lines and supply pipes against the desired layout benefits. Discussing your vision with our plumbing experts can help determine feasibility and provide practical tradeoffs for your specific space.",
+        "@type": "Answer",
+        "description": "Relocate fixtures for improved layout or aesthetics, but consider the increased cost and complexity of moving pipes."
+      }
+    }
+  ],
+  "description": "Relocate fixtures for improved layout or aesthetics, but consider the increased cost and complexity of moving pipes."
+}

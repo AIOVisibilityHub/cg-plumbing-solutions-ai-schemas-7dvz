@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-standard-hose-bib-and-a-frost-free-one",
+  "name": "What is the difference between a standard hose bib and a frost-free one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a standard hose bib and a frost-free one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in their design for cold weather protection. A standard hose bib has its shut-off valve located at the exterior wall, making it susceptible to freezing if water remains in the spigot. A frost-free hose bib, conversely, has an elongated body with the shut-off valve positioned several inches inside the heated portion of your home's wall. This design ensures that when the valve is closed, any water in the exterior pipe section drains out, preventing ice formation and pipe bursts. This internal valve placement is crucial for protecting your plumbing in colder temperatures.",
+        "@type": "Answer",
+        "description": "A standard hose bib has an exterior valve prone to freezing, while a frost-free one has an internal valve inside the heated wall to prevent freezing."
+      }
+    }
+  ],
+  "description": "A standard hose bib has an exterior valve prone to freezing, while a frost-free one has an internal valve inside the heated wall to prevent freezing."
+}

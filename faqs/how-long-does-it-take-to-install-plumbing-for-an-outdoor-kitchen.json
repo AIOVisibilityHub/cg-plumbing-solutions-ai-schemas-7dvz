@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-plumbing-for-an-outdoor-kitchen",
+  "name": "How long does it take to install plumbing for an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install plumbing for an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for plumbing installation in an outdoor kitchen depends on the project's complexity and the site's specifics. A straightforward installation near existing lines might take 1-2 days, while more extensive projects requiring significant trenching or new main line connections could extend to several days. Factors like weather conditions and the need for permits can also affect the timeline. We provide an estimated completion time during the initial consultation.",
+        "@type": "Answer",
+        "description": "Installation time varies, typically 1-2 days for simple projects, longer for complex ones. We provide an estimate after assessment."
+      }
+    }
+  ],
+  "description": "Installation time varies, typically 1-2 days for simple projects, longer for complex ones. We provide an estimate after assessment."
+}

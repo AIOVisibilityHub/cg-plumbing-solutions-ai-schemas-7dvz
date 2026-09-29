@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-outdoor-kitchen-plumbing-lines-need-to-be-protected-from-freezing-in-las-vega",
+  "name": "Do outdoor kitchen plumbing lines need to be protected from freezing in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do outdoor kitchen plumbing lines need to be protected from freezing in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While Las Vegas experiences mild winters, temperatures can occasionally drop below freezing. For outdoor kitchen plumbing, protecting lines from freezing is a good practice, especially for pipes exposed to the elements or located in unheated areas. This usually involves proper insulation or the installation of a shut-off valve and drain system to winterize the lines if they won't be used during colder months. We can recommend the best protection methods suitable for the local climate to prevent potential damage.",
+        "@type": "Answer",
+        "description": "Although Las Vegas winters are mild, protecting outdoor plumbing from occasional freezing is wise. Insulation or winterization systems are common solutions."
+      }
+    }
+  ],
+  "description": "Although Las Vegas winters are mild, protecting outdoor plumbing from occasional freezing is wise. Insulation or winterization systems are common solutions."
+}

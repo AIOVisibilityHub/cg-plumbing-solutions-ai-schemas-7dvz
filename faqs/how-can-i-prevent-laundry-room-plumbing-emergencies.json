@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prevent-laundry-room-plumbing-emergencies",
+  "name": "How can I prevent laundry room plumbing emergencies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent laundry room plumbing emergencies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing laundry room plumbing emergencies involves routine checks and mindful usage. Regularly clean the washing machine's lint trap and drain hose to prevent clogs. Inspect water supply hoses for cracks, bulges, or leaks and replace them every five years, or sooner if wear is visible. Additionally, ensure proper ventilation to prevent mold growth around pipes. Consider installing an automatic water shut-off valve to protect against leaks, a service CG Plumbing Solutions can provide for added peace of mind.",
+        "@type": "Answer",
+        "description": "Prevent emergencies by cleaning lint traps, inspecting supply hoses regularly, ensuring ventilation, and considering an automatic shut-off valve."
+      }
+    }
+  ],
+  "description": "Prevent emergencies by cleaning lint traps, inspecting supply hoses regularly, ensuring ventilation, and considering an automatic shut-off valve."
+}

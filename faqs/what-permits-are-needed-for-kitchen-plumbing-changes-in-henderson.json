@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-permits-are-needed-for-kitchen-plumbing-changes-in-henderson",
+  "name": "What permits are needed for kitchen plumbing changes in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for kitchen plumbing changes in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Henderson, plumbing changes during a kitchen remodel typically require permits from the city or county building department to ensure compliance with local plumbing codes and safety standards. The specific permits needed depend on the scope of the work, such as relocating drain lines, adding new fixtures, or making significant alterations to existing water or gas lines. Your plumbing contractor, like CG Plumbing Solutions, can advise on and assist with obtaining the necessary permits before starting any work, ensuring your project meets all regulatory requirements.",
+        "@type": "Answer",
+        "description": "Plumbing changes in a Henderson kitchen remodel usually require permits from the city or county to ensure compliance with local codes and safety standards."
+      }
+    }
+  ],
+  "description": "Plumbing changes in a Henderson kitchen remodel usually require permits from the city or county to ensure compliance with local codes and safety standards."
+}

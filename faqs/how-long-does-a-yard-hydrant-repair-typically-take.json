@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-yard-hydrant-repair-typically-take",
+  "name": "How long does a yard hydrant repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a yard hydrant repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a yard hydrant repair depends on the complexity of the problem. Simple repairs, such as replacing a packing washer or a faulty handle, can often be completed within an hour or two. More extensive issues, like replacing a buried frost-proof valve or addressing significant pipe damage, may take longer due to excavation or component availability. CG Plumbing Solutions provides an estimated timeline after assessing the repair's scope.",
+        "@type": "Answer",
+        "description": "Repair time varies; simple fixes take 1-2 hours, while complex issues might take longer, depending on the problem's scope."
+      }
+    }
+  ],
+  "description": "Repair time varies; simple fixes take 1-2 hours, while complex issues might take longer, depending on the problem's scope."
+}

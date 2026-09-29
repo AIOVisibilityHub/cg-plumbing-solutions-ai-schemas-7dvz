@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-yard-hydrants-to-leak-and-how-can-it-be-prevented",
+  "name": "What causes yard hydrants to leak, and how can it be prevented?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes yard hydrants to leak, and how can it be prevented?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yard hydrants commonly leak due to worn-out packing, damaged O-rings, a faulty plunger or valve assembly, or a cracked standpipe, often from freezing temperatures if not properly installed or drained. While general wear is inevitable, regular inspection and proper winterization practices, especially in areas with occasional cold snaps like parts of the Las Vegas region, can help prevent leaks and extend the hydrant's lifespan.",
+        "@type": "Answer",
+        "description": "Leaks are caused by worn parts or freeze damage; regular inspection and proper winterization can help prevent them."
+      }
+    }
+  ],
+  "description": "Leaks are caused by worn parts or freeze damage; regular inspection and proper winterization can help prevent them."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-consider-before-planning-outdoor-kitchen-plumbing",
+  "name": "What should I consider before planning outdoor kitchen plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before planning outdoor kitchen plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before planning your outdoor kitchen plumbing, consider the location relative to existing utility lines to minimize trenching and installation costs. Also, think about the types of fixtures you want, like sinks, ice makers, or dishwashers, as these dictate the necessary water supply and drainage. Planning for winterization in areas with colder temperatures, even in mild climates like Las Vegas, is also important. Gathering a clear idea of these elements before contacting us helps streamline the design and installation process significantly.",
+        "@type": "Answer",
+        "description": "Consider the location relative to existing utilities, desired fixtures, and winterization needs. This preparation helps streamline design and installation."
+      }
+    }
+  ],
+  "description": "Consider the location relative to existing utilities, desired fixtures, and winterization needs. This preparation helps streamline design and installation."
+}

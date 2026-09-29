@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-new-home-plumbing-installation-take",
+  "name": "How long does new home plumbing installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does new home plumbing installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for new home plumbing installation can vary widely, typically ranging from a few weeks to several months, depending on the home's size and complexity, as well as the overall construction schedule. Plumbing work is often phased, with rough-in plumbing completed before walls are closed, followed by fixture installation. Coordinating with other trades, common in areas like Henderson or Summerlin, is key to maintaining the schedule. This timing is a Practical Tradeoff that customers need to manage during construction.",
+        "@type": "Answer",
+        "description": "Installation time ranges from weeks to months, depending on home size, complexity, and overall construction schedule. Coordination with other trades impacts the timeline."
+      }
+    }
+  ],
+  "description": "Installation time ranges from weeks to months, depending on home size, complexity, and overall construction schedule. Coordination with other trades impacts the"
+}

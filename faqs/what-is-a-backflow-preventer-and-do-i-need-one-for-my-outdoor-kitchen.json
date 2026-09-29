@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-backflow-preventer-and-do-i-need-one-for-my-outdoor-kitchen",
+  "name": "What is a backflow preventer and do I need one for my outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a backflow preventer and do I need one for my outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A backflow preventer is a device installed in your plumbing system to stop contaminated water from flowing backward into your clean water supply. For outdoor kitchens, a backflow preventer is often a regulatory requirement to safeguard your potable water from potential contaminants that could enter the system through an outdoor faucet or hose connection. This is a critical safety component. We ensure all outdoor kitchen plumbing installations meet local backflow prevention codes to protect your household's water quality.",
+        "@type": "Answer",
+        "description": "A backflow preventer stops contaminated water from entering your clean water supply and is often required for outdoor kitchens to meet safety codes."
+      }
+    }
+  ],
+  "description": "A backflow preventer stops contaminated water from entering your clean water supply and is often required for outdoor kitchens to meet safety codes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-install-a-garbage-disposal-during-my-kitchen-remodel",
+  "name": "Can I install a garbage disposal during my kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a garbage disposal during my kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, installing a garbage disposal is a common upgrade during a kitchen remodel. If your existing sink plumbing doesn't already accommodate one, a new electrical outlet and proper drain connections will be needed. It's crucial to ensure your sink's drain line can handle the additional waste and that local plumbing codes for waste disposal are met. Our plumbers can assess your current setup and recommend the best disposal unit and installation method for your home in areas like Summerlin or Enterprise.",
+        "@type": "Answer",
+        "description": "You can install a garbage disposal during a kitchen remodel, which may require new electrical and drain connections to meet plumbing codes."
+      }
+    }
+  ],
+  "description": "You can install a garbage disposal during a kitchen remodel, which may require new electrical and drain connections to meet plumbing codes."
+}

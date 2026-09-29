@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-there-eco-friendly-plumbing-options-for-laundry-rooms",
+  "name": "Are there eco-friendly plumbing options for laundry rooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there eco-friendly plumbing options for laundry rooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are several eco-friendly plumbing options for laundry rooms. These include installing high-efficiency washing machines that use less water and energy, using eco-friendly detergents to reduce chemical discharge, and considering a gray water recycling system for irrigation, if permitted by local regulations. A practical tradeoff for homeowners in the Las Vegas area could be the initial investment in higher-efficiency appliances versus long-term savings on utility bills and reduced environmental impact.",
+        "@type": "Answer",
+        "description": "Eco-friendly options include high-efficiency washing machines, eco-friendly detergents, and potentially gray water recycling systems."
+      }
+    }
+  ],
+  "description": "Eco-friendly options include high-efficiency washing machines, eco-friendly detergents, and potentially gray water recycling systems."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-moving-laundry-room-plumbing-for-a-renovation",
+  "name": "What is involved in moving laundry room plumbing for a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in moving laundry room plumbing for a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moving laundry room plumbing for a renovation is a complex process that involves rerouting water supply lines, drainpipes, and vent pipes to the new location. This often requires opening walls, modifying existing pipework, and ensuring proper slopes for drainage to comply with local plumbing codes. It’s a significant process clarity consideration as it can impact the renovation timeline and budget. CG Plumbing Solutions plumbers can assess the structural and plumbing feasibility for your specific renovation plans.",
+        "@type": "Answer",
+        "description": "Moving laundry room plumbing involves rerouting supply, drain, and vent pipes, often requiring wall modifications and code compliance."
+      }
+    }
+  ],
+  "description": "Moving laundry room plumbing involves rerouting supply, drain, and vent pipes, often requiring wall modifications and code compliance."
+}

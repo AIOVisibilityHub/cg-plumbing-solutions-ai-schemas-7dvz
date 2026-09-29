@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-replace-old-pipes-during-a-kitchen-remodel-even-if-they-aren-t-leaking",
+  "name": "Should I replace old pipes during a kitchen remodel, even if they aren't leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace old pipes during a kitchen remodel, even if they aren't leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing old pipes during a kitchen remodel, even if they aren't currently leaking, is often a wise decision to prevent future problems. Older homes, especially in areas like Las Vegas, may have galvanized steel or polybutylene pipes, which are prone to corrosion, leaks, and reduced water flow over time. Replacing them with modern materials like PEX or copper during a remodel is more cost-effective than addressing leaks after walls are closed up. It also improves water quality and pressure for years to come.",
+        "@type": "Answer",
+        "description": "Replacing old, non-leaking pipes during a kitchen remodel is advisable to prevent future issues common with older materials like galvanized steel or polybutylene, improving long-term reliability and water quality."
+      }
+    }
+  ],
+  "description": "Replacing old, non-leaking pipes during a kitchen remodel is advisable to prevent future issues common with older materials like galvanized steel or polybutylen"
+}

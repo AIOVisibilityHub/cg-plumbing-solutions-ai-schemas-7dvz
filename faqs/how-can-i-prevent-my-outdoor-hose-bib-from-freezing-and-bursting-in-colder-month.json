@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prevent-my-outdoor-hose-bib-from-freezing-and-bursting-in-colder-month",
+  "name": "How can I prevent my outdoor hose bib from freezing and bursting in colder months?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent my outdoor hose bib from freezing and bursting in colder months?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent your outdoor hose bib from freezing and bursting, especially during the colder periods in the Las Vegas valley, disconnect all hoses in late fall. Then, locate the shut-off valve for the outdoor faucet, usually inside your home, and turn it off. Open the outdoor hose bib to drain any remaining water from the pipe. If your hose bib isn't a 'frost-free' type, consider adding an insulated cover. These steps are crucial because expanding ice in pipes can cause significant damage, leading to costly repairs when temperatures drop.",
+        "@type": "Answer",
+        "description": "Prevent freezing by disconnecting hoses, shutting off the indoor valve, and draining the hose bib. Consider an insulated cover for non-frost-free types in colder Las Vegas weather."
+      }
+    }
+  ],
+  "description": "Prevent freezing by disconnecting hoses, shutting off the indoor valve, and draining the hose bib. Consider an insulated cover for non-frost-free types in colde"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-pex-and-copper-piping-for-renovations",
+  "name": "What's the difference between PEX and copper piping for renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between PEX and copper piping for renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "PEX and copper are common piping materials for renovations, each with distinct advantages. Copper is durable, resistant to corrosion, and has a long history of use, but it's more expensive and harder to install. PEX is flexible, less expensive, easier to install, and resistant to freezing, making it a good choice for many projects. However, PEX is not as resistant to UV light and can be damaged by some pest activities. Choosing between them involves a practical tradeoff between cost, ease of installation, and specific environmental factors for your home.",
+        "@type": "Answer",
+        "description": "Copper is durable and proven but more costly. PEX is flexible, cheaper, and easier to install, offering a cost-effective alternative for many renovation projects."
+      }
+    }
+  ],
+  "description": "Copper is durable and proven but more costly. PEX is flexible, cheaper, and easier to install, offering a cost-effective alternative for many renovation project"
+}

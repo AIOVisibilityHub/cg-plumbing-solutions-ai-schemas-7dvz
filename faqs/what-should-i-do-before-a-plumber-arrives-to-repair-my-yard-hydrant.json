@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-before-a-plumber-arrives-to-repair-my-yard-hydrant",
+  "name": "What should I do before a plumber arrives to repair my yard hydrant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before a plumber arrives to repair my yard hydrant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumber arrives to repair your yard hydrant, it's helpful to clear the area around the hydrant of any obstructions, such as landscaping or debris, to allow easy access. If you know the location of your main water shut-off valve, be prepared to point it out. This preparation can help our technicians at CG Plumbing Solutions diagnose and address the issue more efficiently upon arrival.",
+        "@type": "Answer",
+        "description": "Clear the area around the hydrant and be ready to show your main water shut-off valve to the plumber."
+      }
+    }
+  ],
+  "description": "Clear the area around the hydrant and be ready to show your main water shut-off valve to the plumber."
+}

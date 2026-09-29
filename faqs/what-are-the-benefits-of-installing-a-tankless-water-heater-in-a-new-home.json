@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-benefits-of-installing-a-tankless-water-heater-in-a-new-home",
+  "name": "What are the benefits of installing a tankless water heater in a new home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing a tankless water heater in a new home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a tankless water heater in a new home offers several benefits, including on-demand hot water, energy efficiency, and a longer lifespan compared to traditional tank heaters. Tankless units only heat water as needed, which can reduce energy consumption and save space. While the initial cost may be higher, the long-term energy savings and endless hot water supply are significant advantages, representing a Practical Tradeoff between upfront investment and ongoing operational costs.",
+        "@type": "Answer",
+        "description": "Tankless water heaters provide on-demand hot water, are energy-efficient, and have a longer lifespan, offering long-term savings despite a higher initial cost."
+      }
+    }
+  ],
+  "description": "Tankless water heaters provide on-demand hot water, are energy-efficient, and have a longer lifespan, offering long-term savings despite a higher initial cost."
+}

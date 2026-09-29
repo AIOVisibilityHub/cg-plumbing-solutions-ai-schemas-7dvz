@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-there-specific-regulations-for-yard-hydrant-installation-or-repair-in-hender",
+  "name": "Are there specific regulations for yard hydrant installation or repair in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific regulations for yard hydrant installation or repair in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While yard hydrant repairs generally follow standard plumbing practices, any new installations or significant modifications in Henderson, like other municipalities in the Las Vegas valley, must adhere to local plumbing codes and potentially require permits. These codes ensure proper backflow prevention and connection to the water supply. CG Plumbing Solutions is familiar with local regulations and ensures all work complies with Henderson's specific requirements.",
+        "@type": "Answer",
+        "description": "New yard hydrant installations or major repairs in Henderson must follow local plumbing codes and may require permits."
+      }
+    }
+  ],
+  "description": "New yard hydrant installations or major repairs in Henderson must follow local plumbing codes and may require permits."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-rough-in-plumbing-in-new-home-construction",
+  "name": "What is 'rough-in plumbing' in new home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'rough-in plumbing' in new home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rough-in plumbing refers to the installation of all water supply and drain lines within the walls and floors before they are covered. This phase includes installing pipes, vents, and stub-outs for fixtures without actually connecting the fixtures themselves. It is a critical stage that must pass inspection before insulation and drywall are installed. Ensuring accurate rough-in is vital for the entire plumbing system's integrity, representing a key Process Clarity step in new home construction.",
+        "@type": "Answer",
+        "description": "Rough-in plumbing installs all water supply and drain lines within walls and floors before they are covered, and must pass inspection before finishing work."
+      }
+    }
+  ],
+  "description": "Rough-in plumbing installs all water supply and drain lines within walls and floors before they are covered, and must pass inspection before finishing work."
+}

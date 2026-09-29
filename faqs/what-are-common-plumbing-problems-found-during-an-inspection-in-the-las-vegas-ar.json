@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-plumbing-problems-found-during-an-inspection-in-the-las-vegas-ar",
+  "name": "What are common plumbing problems found during an inspection in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common plumbing problems found during an inspection in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Las Vegas area, common plumbing problems identified during inspections often include issues related to hard water, such as mineral buildup in faucets, showerheads, and water heaters, which can reduce efficiency and lifespan. Additionally, extreme desert temperatures can contribute to issues like expansion and contraction of pipes or accelerated wear on outdoor fixtures. We frequently find problems like leaky faucets, running toilets, and minor drain clogs that, if addressed early, can prevent more significant water damage or increased utility bills.",
+        "@type": "Answer",
+        "description": "Common issues in Las Vegas include hard water mineral buildup, temperature-related pipe stress, and typical leaks or clogs that can cause bigger problems if ignored."
+      }
+    }
+  ],
+  "description": "Common issues in Las Vegas include hard water mineral buildup, temperature-related pipe stress, and typical leaks or clogs that can cause bigger problems if ign"
+}

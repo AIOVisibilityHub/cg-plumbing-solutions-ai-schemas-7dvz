@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-repair-a-yard-hydrant-myself-or-should-i-call-a-professional",
+  "name": "Can I repair a yard hydrant myself, or should I call a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a yard hydrant myself, or should I call a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some minor issues like a loose handle or a simple packing nut adjustment might seem DIY-friendly, internal components of yard hydrants can be complex, especially frost-proof models. Professional plumbers have the specialized tools and experience to diagnose and repair issues accurately, ensuring proper function and preventing future leaks. Attempting a DIY repair without proper knowledge could lead to more costly damage or water loss.",
+        "@type": "Answer",
+        "description": "Complex yard hydrant repairs, especially frost-proof models, are best left to professionals to avoid further damage."
+      }
+    }
+  ],
+  "description": "Complex yard hydrant repairs, especially frost-proof models, are best left to professionals to avoid further damage."
+}

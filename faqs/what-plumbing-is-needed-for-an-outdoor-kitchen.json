@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-plumbing-is-needed-for-an-outdoor-kitchen",
+  "name": "What plumbing is needed for an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing is needed for an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An outdoor kitchen typically requires plumbing for a sink, and potentially a dishwasher or ice maker. This involves installing water supply lines for hot and cold water, and a drain line to connect to your home's wastewater system. Ensuring proper drainage and connection to existing utility lines is a key consideration. For outdoor setups, the lines must be properly insulated and sloped to prevent freezing and ensure efficient drainage, which is especially important in climates with cold winters, though less critical in warmer areas like Las Vegas.",
+        "@type": "Answer",
+        "description": "Outdoor kitchens usually need water supply lines for a sink, and sometimes an ice maker or dishwasher, plus a drain line."
+      }
+    }
+  ],
+  "description": "Outdoor kitchens usually need water supply lines for a sink, and sometimes an ice maker or dishwasher, plus a drain line."
+}

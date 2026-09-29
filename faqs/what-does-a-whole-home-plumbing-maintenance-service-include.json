@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-does-a-whole-home-plumbing-maintenance-service-include",
+  "name": "What does a whole home plumbing maintenance service include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a whole home plumbing maintenance service include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical whole home plumbing maintenance service involves a detailed inspection of all visible plumbing components. This includes checking faucets, toilets, showers, and water heaters for proper function and leaks. Technicians will also assess water pressure, inspect exposed pipes for corrosion or damage, and evaluate drain performance. Additionally, they may check shut-off valves and the main water line connections to ensure everything is in good working order.",
+        "@type": "Answer",
+        "description": "The service typically includes inspecting fixtures, water heaters, pipes, and drains for leaks, proper function, and potential issues."
+      }
+    }
+  ],
+  "description": "The service typically includes inspecting fixtures, water heaters, pipes, and drains for leaks, proper function, and potential issues."
+}
