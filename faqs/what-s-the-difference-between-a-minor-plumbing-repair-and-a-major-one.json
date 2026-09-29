@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-a-minor-plumbing-repair-and-a-major-one",
+  "name": "What's the difference between a minor plumbing repair and a major one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a minor plumbing repair and a major one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor plumbing repairs typically involve simple fixes that don't affect the main water supply or drainage system, such as replacing a faucet washer, clearing a small P-trap clog, or tightening a loose pipe fitting. These are often resolved quickly with minimal disruption. Major repairs, conversely, impact critical components like the main sewer line, water supply line, or involve significant structural work, such as repairing a slab leak or replacing an entire water heater. These require more extensive diagnosis, specialized equipment, and can take longer to complete. CG Plumbing Solutions assesses each issue to determine its scope and provides a clear plan of action, whether you're in Enterprise or Green Valley.",
+        "@type": "Answer",
+        "description": "Minor repairs are simple fixes like faucet washers, while major repairs affect main systems or require extensive work, like sewer line or slab leak repairs."
+      }
+    }
+  ],
+  "description": "Minor repairs are simple fixes like faucet washers, while major repairs affect main systems or require extensive work, like sewer line or slab leak repairs."
+}

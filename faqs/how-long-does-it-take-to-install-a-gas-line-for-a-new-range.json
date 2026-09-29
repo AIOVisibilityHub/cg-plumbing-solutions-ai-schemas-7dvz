@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-gas-line-for-a-new-range",
+  "name": "How long does it take to install a gas line for a new range?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a gas line for a new range?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to install a gas line for a new range can vary, but most standard installations are completed within a few hours to a full day. Factors influencing this timeline include the accessibility of the existing gas supply, the length of the new line, and the need for any structural modifications. Our technicians at CG Plumbing Solutions work efficiently to minimize disruption, often completing the job within a single visit once permits are in place.",
+        "@type": "Answer",
+        "description": "Most gas line installations for new ranges take a few hours to a full day, depending on factors like supply accessibility and line length."
+      }
+    }
+  ],
+  "description": "Most gas line installations for new ranges take a few hours to a full day, depending on factors like supply accessibility and line length."
+}

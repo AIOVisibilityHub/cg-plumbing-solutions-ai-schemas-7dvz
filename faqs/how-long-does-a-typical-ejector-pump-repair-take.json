@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-ejector-pump-repair-take",
+  "name": "How long does a typical ejector pump repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical ejector pump repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an ejector pump repair can vary significantly based on the complexity of the issue, ranging from a few hours for minor component replacements to a full day or more for extensive motor or system failures. Access to the pump, whether it's in a basement pit or a more confined space, can also affect the time needed. Having clear access to the pump area before our technicians arrive can help expedite the diagnostic and repair process.",
+        "@type": "Answer",
+        "description": "Ejector pump repair duration varies from a few hours to a full day, depending on the issue's complexity and accessibility."
+      }
+    }
+  ],
+  "description": "Ejector pump repair duration varies from a few hours to a full day, depending on the issue's complexity and accessibility."
+}

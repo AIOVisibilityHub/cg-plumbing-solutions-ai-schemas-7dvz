@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-i-need-a-sump-pump-installed",
+  "name": "How do I know if I need a sump pump installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a sump pump installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You likely need a sump pump if your home experiences basement or crawl space flooding, has damp walls, or a consistently musty odor, all signs of excess moisture. Even if you haven't flooded before, if your home is in a low-lying area or has a high water table, a sump pump can offer crucial protection. A key preparation step is to observe your property during heavy rainfall or after snowmelt (if applicable), noting any areas where water collects or drains slowly near your foundation. A professional assessment can also determine the specific needs based on your home's unique situation.",
+        "@type": "Answer",
+        "description": "Assess for basement/crawl space flooding, dampness, or musty odors; homes in low-lying areas or with high water tables also benefit. Observing water collection during rain is a good preparation step."
+      }
+    }
+  ],
+  "description": "Assess for basement/crawl space flooding, dampness, or musty odors; homes in low-lying areas or with high water tables also benefit. Observing water collection"
+}

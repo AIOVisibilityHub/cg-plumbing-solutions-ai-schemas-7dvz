@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-installing-a-new-gas-line-for-a-kitchen-range",
+  "name": "What is involved in installing a new gas line for a kitchen range?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in installing a new gas line for a kitchen range?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a new gas line for a kitchen range typically involves safely connecting to an existing gas supply, running new piping to the appliance location, and installing a shut-off valve. Our licensed technicians at CG Plumbing Solutions ensure all connections are leak-free and meet local safety codes in the Las Vegas area. Before installation, we always verify the gas capacity of your home to ensure it can safely support the new appliance, which is a key preparation step.",
+        "@type": "Answer",
+        "description": "Installing a new gas line for a range involves connecting to the main supply, running new piping, and installing a shut-off valve, all done to local safety codes."
+      }
+    }
+  ],
+  "description": "Installing a new gas line for a range involves connecting to the main supply, running new piping, and installing a shut-off valve, all done to local safety code"
+}

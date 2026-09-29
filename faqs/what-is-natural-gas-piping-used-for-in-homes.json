@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-natural-gas-piping-used-for-in-homes",
+  "name": "What is natural gas piping used for in homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is natural gas piping used for in homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural gas piping delivers gas from the main supply line to various appliances in your home that use natural gas. This commonly includes furnaces, water heaters, stoves, ovens, clothes dryers, and outdoor grills or fire pits. Installing or extending natural gas lines allows homeowners to utilize more efficient or convenient gas appliances, offering a practical tradeoff between initial installation cost and long-term energy savings compared to electric alternatives for certain uses.",
+        "@type": "Answer",
+        "description": "Natural gas piping connects your home's gas supply to appliances like furnaces, water heaters, stoves, and dryers."
+      }
+    }
+  ],
+  "description": "Natural gas piping connects your home's gas supply to appliances like furnaces, water heaters, stoves, and dryers."
+}

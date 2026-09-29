@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-safety-considerations-for-a-gas-fireplace-line",
+  "name": "What are the safety considerations for a gas fireplace line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the safety considerations for a gas fireplace line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is paramount when dealing with gas lines. Key considerations include ensuring the gas line is properly sized for the fireplace's BTU output, using approved materials, and making sure all connections are gas-tight to prevent leaks. Proper ventilation for the fireplace is also essential to avoid carbon monoxide buildup. A crucial Preparation step for homeowners is to schedule regular inspections of gas lines and appliances. CG Plumbing Solutions provides professional leak detection and repair services to ensure your gas system remains safe and efficient, giving you peace of mind.",
+        "@type": "Answer",
+        "description": "Safety involves correct line sizing, approved materials, gas-tight connections, proper ventilation, and regular professional inspections to prevent leaks."
+      }
+    }
+  ],
+  "description": "Safety involves correct line sizing, approved materials, gas-tight connections, proper ventilation, and regular professional inspections to prevent leaks."
+}

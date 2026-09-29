@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-consider-when-choosing-a-new-water-softener",
+  "name": "What should I consider when choosing a new water softener?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a new water softener?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a new water softener, consider your household's water usage, the hardness level of your water, the system's grain capacity, and its efficiency (salt and water usage). You should also think about features like regeneration type (demand vs. timed), warranty, and the type of valves used. For homes in the Las Vegas area with notoriously hard water, a higher capacity unit is often recommended to ensure effective and consistent softening. Our team can help you assess these factors to find the right fit.",
+        "@type": "Answer",
+        "description": "Consider household water usage, water hardness, system capacity, efficiency, and features like regeneration type. A higher capacity unit is often recommended for Las Vegas's hard water."
+      }
+    }
+  ],
+  "description": "Consider household water usage, water hardness, system capacity, efficiency, and features like regeneration type. A higher capacity unit is often recommended fo"
+}

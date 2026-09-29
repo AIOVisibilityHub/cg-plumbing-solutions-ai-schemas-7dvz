@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-causes-ejector-pump-failure",
+  "name": "What causes ejector pump failure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes ejector pump failure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ejector pump failure can be caused by several factors, including electrical issues such as tripped breakers or faulty wiring, mechanical problems like worn-out impellers or seals, and blockages from foreign objects or excessive solid waste. Over time, continuous use and sediment buildup can also lead to motor burnout. Knowing the age of your system or any recent electrical work done can provide helpful context when diagnosing the problem.",
+        "@type": "Answer",
+        "description": "Ejector pump failure can result from electrical problems, mechanical wear, blockages, or motor burnout due to age and sediment."
+      }
+    }
+  ],
+  "description": "Ejector pump failure can result from electrical problems, mechanical wear, blockages, or motor burnout due to age and sediment."
+}

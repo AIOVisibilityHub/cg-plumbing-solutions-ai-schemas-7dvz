@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-flexible-gas-line-and-a-rigid-gas-line-for-a-fi",
+  "name": "What is the difference between a flexible gas line and a rigid gas line for a fireplace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a flexible gas line and a rigid gas line for a fireplace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flexible gas lines, typically corrugated stainless steel tubing (CSST), offer easier installation due to their ability to bend around obstacles. Rigid gas lines, usually black iron pipe, are very durable and are often preferred for their robustness and traditional use in gas systems. While flexible lines can speed up installation, rigid lines are sometimes chosen for exposed areas or where maximum protection is desired. A Practical Tradeoff: Flexible lines might be quicker and require fewer fittings, but rigid lines can sometimes offer greater long-term stability and are often required in certain exposed runs by local codes.",
+        "@type": "Answer",
+        "description": "Flexible lines (CSST) are easier to install; rigid lines (black iron) are more durable. Each has specific uses and code requirements."
+      }
+    }
+  ],
+  "description": "Flexible lines (CSST) are easier to install; rigid lines (black iron) are more durable. Each has specific uses and code requirements."
+}

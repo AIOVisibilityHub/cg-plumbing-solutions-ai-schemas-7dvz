@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-a-permit-to-install-or-replace-a-pool-heater-gas-line-in-las-vegas",
+  "name": "Do I need a permit to install or replace a pool heater gas line in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install or replace a pool heater gas line in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in Las Vegas, North Las Vegas, Henderson, and surrounding areas, a permit is typically required for both new installations and significant replacements of pool heater gas lines. This ensures the work complies with local building and safety codes. Applying for permits and scheduling inspections are part of the service provided by CG Plumbing Solutions, ensuring all work adheres to regional regulations.",
+        "@type": "Answer",
+        "description": "Yes, permits are generally required in Las Vegas and surrounding areas for new installations or major replacements."
+      }
+    }
+  ],
+  "description": "Yes, permits are generally required in Las Vegas and surrounding areas for new installations or major replacements."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-that-my-ejector-pump-needs-repair",
+  "name": "What are the common signs that my ejector pump needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my ejector pump needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that an ejector pump needs repair include unusual noises like grinding or humming from the pump, slow drainage in sinks or toilets connected to the system, or unpleasant odors emanating from drains. You might also notice the pump running continuously or not engaging at all. Addressing these symptoms promptly can prevent further damage to the pump and potential sewage backups. It's important to differentiate these from simple clogs that don't involve pump failure, which would require a different approach to plumbing service.",
+        "@type": "Answer",
+        "description": "Unusual noises, slow drainage, unpleasant odors, or continuous/no pump operation are common signs your ejector pump needs repair."
+      }
+    }
+  ],
+  "description": "Unusual noises, slow drainage, unpleasant odors, or continuous/no pump operation are common signs your ejector pump needs repair."
+}

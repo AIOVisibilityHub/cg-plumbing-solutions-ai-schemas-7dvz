@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-prepare-before-a-plumber-arrives-to-install-my-outdoor-kitchen-gas",
+  "name": "What should I prepare before a plumber arrives to install my outdoor kitchen gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a plumber arrives to install my outdoor kitchen gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your plumber arrives for an outdoor kitchen gas line installation, it's helpful to have a clear idea of your outdoor kitchen's layout and the exact location of your appliances. Mark any known underground utilities like sprinkler lines or electrical conduits to help avoid damage during trenching. Also, ensure there is clear access to your main gas meter and the proposed path for the new gas line. Discussing your vision and any specific concerns with us beforehand will help streamline the process and ensure a smooth installation.",
+        "@type": "Answer",
+        "description": "Prepare by finalizing your outdoor kitchen layout, marking underground utilities, ensuring access to the gas meter, and discussing your vision with the plumber."
+      }
+    }
+  ],
+  "description": "Prepare by finalizing your outdoor kitchen layout, marking underground utilities, ensuring access to the gas meter, and discussing your vision with the plumber."
+}

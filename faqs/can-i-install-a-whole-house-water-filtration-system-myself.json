@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-install-a-whole-house-water-filtration-system-myself",
+  "name": "Can I install a whole house water filtration system myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a whole house water filtration system myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it might seem possible to install a whole house water filtration system yourself, professional installation is highly recommended. This ensures correct sizing, proper plumbing connections, and compliance with local codes, preventing leaks and maximizing system efficiency. An incorrect installation could lead to water damage or improper filtration. CG Plumbing Solutions provides expert installation services for optimal performance and peace of mind.",
+        "@type": "Answer",
+        "description": "Professional installation is recommended for whole house water filtration to ensure correct sizing, proper plumbing, and compliance with local codes."
+      }
+    }
+  ],
+  "description": "Professional installation is recommended for whole house water filtration to ensure correct sizing, proper plumbing, and compliance with local codes."
+}

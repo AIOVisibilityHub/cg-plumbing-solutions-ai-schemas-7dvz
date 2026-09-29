@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-water-softener-needs-to-be-replaced",
+  "name": "How do I know if my water softener needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my water softener needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your water softener needs replacement include scale buildup returning on fixtures and appliances, a noticeable change in water taste or feel, decreased water pressure, or the unit running constantly without softening. An older unit, typically over 10-15 years, showing these symptoms often indicates it's time for a professional assessment. Our technicians can perform diagnostic checks to confirm if repair or replacement is the most cost-effective solution for your home in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "Look for scale buildup, changes in water taste/feel, or decreased water pressure. An older unit exhibiting these signs usually needs professional evaluation."
+      }
+    }
+  ],
+  "description": "Look for scale buildup, changes in water taste/feel, or decreased water pressure. An older unit exhibiting these signs usually needs professional evaluation."
+}

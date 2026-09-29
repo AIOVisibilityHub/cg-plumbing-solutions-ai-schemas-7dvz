@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-professional-water-quality-testing-cost",
+  "name": "How much does professional water quality testing cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does professional water quality testing cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional water quality testing varies depending on the type and scope of tests performed. A basic test for common issues like hardness and chlorine will be less expensive than a comprehensive panel that includes heavy metals, bacteria, or other specific contaminants. Factors like the number of samples taken and the laboratory chosen also influence the price. CG Plumbing Solutions provides transparent pricing after an initial consultation, ensuring you understand the investment for the specific tests needed for your Las Vegas home.",
+        "@type": "Answer",
+        "description": "The cost varies by test type and scope, with basic tests being less expensive than comprehensive ones. Factors like number of samples also influence the price, which is provided transparently after consultation."
+      }
+    }
+  ],
+  "description": "The cost varies by test type and scope, with basic tests being less expensive than comprehensive ones. Factors like number of samples also influence the price,"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-installing-a-new-water-softener",
+  "name": "What is the process for installing a new water softener?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a new water softener?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically involves selecting the right location, connecting the softener to your home's main water supply, and ensuring proper drainage. Our technicians at CG Plumbing Solutions will shut off your main water, cut into the main water line, install bypass valves, connect the softener unit, and then test the system for leaks and proper operation, ensuring minimal disruption to your home.",
+        "@type": "Answer",
+        "description": "Installation involves selecting a location, connecting to the main water supply, installing bypass valves, and ensuring proper drainage and operation."
+      }
+    }
+  ],
+  "description": "Installation involves selecting a location, connecting to the main water supply, installing bypass valves, and ensuring proper drainage and operation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-lifespan-of-a-battery-backup-sump-pump-and-its-battery",
+  "name": "What is the typical lifespan of a battery backup sump pump and its battery?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of a battery backup sump pump and its battery?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of a battery backup sump pump unit is typically 5-10 years, depending on the quality of the unit and frequency of use. The deep-cycle battery, which is the heart of the system, generally lasts 3-5 years. However, this can vary based on battery type (e.g., lead-acid vs. AGM), proper maintenance, and ambient temperatures. Regular testing and maintenance, such as ensuring proper water levels if it's a wet-cell battery and keeping terminals clean, can help maximize battery life. We can help you assess the condition of your existing battery and pump during routine service calls in areas like Henderson and recommend replacement when necessary to maintain optimal flood protection.",
+        "@type": "Answer",
+        "description": "Sump pump units last 5-10 years; batteries typically last 3-5 years. Lifespan depends on type, maintenance, and use, and can be assessed during service."
+      }
+    }
+  ],
+  "description": "Sump pump units last 5-10 years; batteries typically last 3-5 years. Lifespan depends on type, maintenance, and use, and can be assessed during service."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-maintenance-does-a-battery-backup-sump-pump-require",
+  "name": "What maintenance does a battery backup sump pump require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance does a battery backup sump pump require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance is crucial to ensure your battery backup sump pump is ready when you need it most. This typically includes checking the battery's charge level and terminals monthly, testing the pump's operation quarterly by pouring water into the sump pit, and inspecting the check valve and discharge line for obstructions. The specific maintenance schedule can also depend on the manufacturer's guidelines for your chosen model. During our routine plumbing inspections for customers in North Las Vegas, we can include a check of your backup sump pump system to ensure it's functioning correctly and advise on any necessary upkeep or battery replacement, extending its lifespan and reliability.",
+        "@type": "Answer",
+        "description": "Maintenance includes monthly battery checks, quarterly pump testing, and inspecting lines for obstructions. We can include this in routine plumbing inspections."
+      }
+    }
+  ],
+  "description": "Maintenance includes monthly battery checks, quarterly pump testing, and inspecting lines for obstructions. We can include this in routine plumbing inspections."
+}

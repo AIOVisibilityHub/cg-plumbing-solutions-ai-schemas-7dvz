@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-whole-house-scale-control-system",
+  "name": "How long does it take to install a whole-house scale control system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a whole-house scale control system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation of a whole-house scale control system typically takes a few hours, usually within a single business day. This timeframe can vary depending on the existing plumbing configuration, the specific system being installed, and any necessary modifications to your water lines. Our experienced technicians ensure the system is properly integrated and tested. For instance, if your main water line requires significant re-routing to accommodate the unit, it may take longer. We aim to minimize disruption to your home's water supply during the process.",
+        "@type": "Answer",
+        "description": "A whole-house scale control system usually takes a few hours to install, but timing can vary based on plumbing configuration and system type."
+      }
+    }
+  ],
+  "description": "A whole-house scale control system usually takes a few hours to install, but timing can vary based on plumbing configuration and system type."
+}

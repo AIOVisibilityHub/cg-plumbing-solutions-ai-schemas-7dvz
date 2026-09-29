@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preparation-do-i-need-before-a-gas-line-installation-for-my-grill",
+  "name": "What preparation do I need before a gas line installation for my grill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need before a gas line installation for my grill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your gas line installation, it's helpful to clear the intended path for the gas line of any obstructions, such as potted plants, furniture, or debris. You should also decide on the exact location where your grill will be permanently situated. This allows our technicians at CG Plumbing Solutions to work efficiently and accurately. Ensuring clear access to your existing gas meter and the proposed grill location streamlines the process and helps avoid delays.",
+        "@type": "Answer",
+        "description": "Clear the gas line's path, decide on the grill's exact location, and ensure access to the gas meter before installation."
+      }
+    }
+  ],
+  "description": "Clear the gas line's path, decide on the grill's exact location, and ensure access to the gas meter before installation."
+}

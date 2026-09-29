@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-maintain-a-salt-based-water-softener",
+  "name": "How do I maintain a salt-based water softener?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain a salt-based water softener?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining a salt-based water softener primarily involves regularly checking and refilling the salt in the brine tank. The frequency depends on your water usage and hardness levels, typically every 4-8 weeks. It's also important to use the correct type of softener salt, such as solar salt or evaporated salt pellets, to prevent bridging or mushing in the tank. Our technicians can provide guidance on salt type and refill schedules during service appointments.",
+        "@type": "Answer",
+        "description": "Maintenance for a salt-based water softener involves regularly refilling the salt in the brine tank, typically every 4-8 weeks, and using the correct type of softener salt."
+      }
+    }
+  ],
+  "description": "Maintenance for a salt-based water softener involves regularly refilling the salt in the brine tank, typically every 4-8 weeks, and using the correct type of so"
+}

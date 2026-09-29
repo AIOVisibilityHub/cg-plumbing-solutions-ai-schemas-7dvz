@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-maintenance-is-required-for-a-new-water-softener",
+  "name": "What maintenance is required for a new water softener?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a new water softener?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance for a salt-based water softener primarily involves refilling the salt in the brine tank every few weeks or months, depending on usage. It's also beneficial to periodically check the system for any leaks or unusual noises. CG Plumbing Solutions can provide guidance on specific models and offer routine check-ups to ensure longevity and efficiency.",
+        "@type": "Answer",
+        "description": "Maintenance typically involves refilling salt for salt-based systems and checking for leaks; CG Plumbing Solutions offers guidance and check-ups."
+      }
+    }
+  ],
+  "description": "Maintenance typically involves refilling salt for salt-based systems and checking for leaks; CG Plumbing Solutions offers guidance and check-ups."
+}

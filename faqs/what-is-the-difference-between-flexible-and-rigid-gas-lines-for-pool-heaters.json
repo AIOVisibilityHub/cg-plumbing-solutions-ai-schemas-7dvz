@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-flexible-and-rigid-gas-lines-for-pool-heaters",
+  "name": "What is the difference between flexible and rigid gas lines for pool heaters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between flexible and rigid gas lines for pool heaters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flexible gas lines are typically made of corrugated stainless steel (CSST) and are easier to install around obstacles, reducing labor costs. Rigid gas lines, usually black iron pipe, are more durable and offer greater protection against physical damage. The choice often depends on the specific installation requirements and local codes. For outdoor pool heater applications, rigid piping is often preferred for its robustness, though flexible lines can be used where allowed and properly protected, such as routing through a wall to an external connection point.",
+        "@type": "Answer",
+        "description": "Flexible lines are easier to install; rigid lines (black iron) are more durable, with choice depending on needs and codes."
+      }
+    }
+  ],
+  "description": "Flexible lines are easier to install; rigid lines (black iron) are more durable, with choice depending on needs and codes."
+}

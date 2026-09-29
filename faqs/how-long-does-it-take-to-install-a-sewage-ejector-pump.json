@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-sewage-ejector-pump",
+  "name": "How long does it take to install a sewage ejector pump?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a sewage ejector pump?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical installation of a sewage ejector pump can take anywhere from a few hours to a full day, depending on the complexity of the job. Factors such as whether a new ejector pit needs to be excavated, the ease of accessing existing plumbing and electrical connections, and the specific type of pump being installed can influence the timeline. CG Plumbing Solutions strives for efficient service, and our team in the Las Vegas area will provide a more precise time estimate after an initial assessment of your property.",
+        "@type": "Answer",
+        "description": "Installation time ranges from a few hours to a full day, depending on complexity like excavation and access. A precise estimate follows an on-site assessment."
+      }
+    }
+  ],
+  "description": "Installation time ranges from a few hours to a full day, depending on complexity like excavation and access. A precise estimate follows an on-site assessment."
+}

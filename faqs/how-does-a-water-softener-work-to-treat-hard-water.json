@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-does-a-water-softener-work-to-treat-hard-water",
+  "name": "How does a water softener work to treat hard water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a water softener work to treat hard water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A water softener works through an ion exchange process. Hard water, containing magnesium and calcium ions, flows through a resin bed filled with sodium ions. The resin beads attract and hold the calcium and magnesium, releasing sodium ions into the water, effectively 'softening' it. Periodically, the system regenerates by flushing the resin with a concentrated brine solution to replenish the sodium ions and wash away the collected minerals.",
+        "@type": "Answer",
+        "description": "Water softeners use an ion exchange process where resin beads capture hard mineral ions and release sodium ions, then regenerate with a brine solution."
+      }
+    }
+  ],
+  "description": "Water softeners use an ion exchange process where resin beads capture hard mineral ions and release sodium ions, then regenerate with a brine solution."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-common-issues-does-water-quality-testing-detect",
+  "name": "What common issues does water quality testing detect?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues does water quality testing detect?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water quality testing commonly detects issues such as hard water minerals (calcium and magnesium), chlorine or chloramines, sediment, elevated pH levels, and sometimes contaminants like lead or bacteria. For homes in the Las Vegas valley, hard water is a frequent concern, leading to scale buildup in pipes and appliances. Testing helps pinpoint these specific problems, allowing for targeted solutions like water softeners for hardness or specialized filters for other detected substances, improving water taste, odor, and system efficiency.",
+        "@type": "Answer",
+        "description": "Testing reveals issues like hard water, chlorine, sediment, pH imbalances, and potential contaminants like lead or bacteria, which are common concerns in the Las Vegas valley."
+      }
+    }
+  ],
+  "description": "Testing reveals issues like hard water, chlorine, sediment, pH imbalances, and potential contaminants like lead or bacteria, which are common concerns in the La"
+}

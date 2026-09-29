@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-maintenance-does-a-gas-line-for-a-stove-require",
+  "name": "What kind of maintenance does a gas line for a stove require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does a gas line for a stove require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas lines for stoves generally require minimal routine maintenance once installed correctly. However, it's advisable to have them inspected periodically by a qualified plumber, especially if you detect any gas odors or suspect a leak. During these inspections, CG Plumbing Solutions can check for corrosion, ensure connections remain secure, and verify the integrity of shut-off valves, which helps prevent future issues.",
+        "@type": "Answer",
+        "description": "Gas lines need minimal maintenance but benefit from periodic professional inspections to check for leaks, corrosion, and secure connections."
+      }
+    }
+  ],
+  "description": "Gas lines need minimal maintenance but benefit from periodic professional inspections to check for leaks, corrosion, and secure connections."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-maintenance-does-a-sewage-ejector-pump-require",
+  "name": "What kind of maintenance does a sewage ejector pump require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does a sewage ejector pump require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sewage ejector pumps generally require minimal but essential maintenance to ensure longevity and prevent issues. This often includes periodic inspection of the pump, pit, and connections for debris, proper float switch operation, and any signs of wear or corrosion. It's advisable to avoid flushing non-biodegradable items that could clog the pump. CG Plumbing Solutions recommends a professional inspection every 1-3 years, especially for pumps handling higher volumes, to preempt potential problems and extend the life of your system.",
+        "@type": "Answer",
+        "description": "Ejector pumps need periodic inspection of the pump, pit, and connections. Avoid flushing non-biodegradable items. Professional inspection every 1-3 years is recommended."
+      }
+    }
+  ],
+  "description": "Ejector pumps need periodic inspection of the pump, pit, and connections. Avoid flushing non-biodegradable items. Professional inspection every 1-3 years is rec"
+}

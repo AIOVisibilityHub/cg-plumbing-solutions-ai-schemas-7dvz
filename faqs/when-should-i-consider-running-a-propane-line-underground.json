@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-running-a-propane-line-underground",
+  "name": "When should I consider running a propane line underground?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider running a propane line underground?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider running a propane line underground when connecting an outdoor appliance like a grill, fire pit, or pool heater, or when the distance from the propane tank to the appliance is significant. Underground lines offer aesthetic benefits by keeping the piping out of sight and can provide better protection from physical damage and weather exposure. Proper depth, material selection (e.g., poly gas pipe), and professional installation are crucial to prevent future issues and comply with underground utility regulations in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "Consider underground propane lines for outdoor appliances or long distances to enhance aesthetics and protect against damage, requiring professional installation."
+      }
+    }
+  ],
+  "description": "Consider underground propane lines for outdoor appliances or long distances to enhance aesthetics and protect against damage, requiring professional installatio"
+}

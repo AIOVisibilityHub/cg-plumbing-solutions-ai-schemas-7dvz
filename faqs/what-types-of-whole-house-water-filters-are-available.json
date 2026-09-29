@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-whole-house-water-filters-are-available",
+  "name": "What types of whole house water filters are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of whole house water filters are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of whole house water filters include carbon filters for chlorine and organic compounds, sediment filters for dirt and rust, and water softeners to address hard water minerals like calcium and magnesium. Some systems also combine these technologies. The best choice for your home depends on your specific water quality concerns, which can be identified through a professional water test.",
+        "@type": "Answer",
+        "description": "Whole house filters include carbon, sediment, and water softeners, often combined, with the best type depending on your water quality issues."
+      }
+    }
+  ],
+  "description": "Whole house filters include carbon, sediment, and water softeners, often combined, with the best type depending on your water quality issues."
+}

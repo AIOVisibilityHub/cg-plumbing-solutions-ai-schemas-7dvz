@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-maintenance-is-required-for-a-scale-control-system",
+  "name": "What maintenance is required for a scale control system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a scale control system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance requirements for scale control systems vary by type. For many systems, especially those using a physical or template-assisted crystallization method, annual or biennial filter cartridge replacement is often the primary maintenance task. Chemical dosing systems may require periodic replenishment of the treatment medium. Regular inspection of the system by a qualified technician, such as those at CG Plumbing Solutions, can help ensure optimal performance and address any potential issues before they become problems, extending the life of the unit. This preventative check is crucial for long-term effectiveness.",
+        "@type": "Answer",
+        "description": "Maintenance typically involves annual or biennial filter changes or replenishment of treatment media, and regular professional inspection is recommended."
+      }
+    }
+  ],
+  "description": "Maintenance typically involves annual or biennial filter changes or replenishment of treatment media, and regular professional inspection is recommended."
+}

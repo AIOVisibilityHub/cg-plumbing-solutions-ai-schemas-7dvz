@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-installation-process-for-a-whole-house-water-filtration-system",
+  "name": "What is the installation process for a whole house water filtration system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for a whole house water filtration system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with a professional assessment of your home's plumbing and water quality. Our technicians then identify the optimal location, usually near the main water line entry point. The installation involves shutting off the main water supply, cutting into the main line, installing the filter housing and bypass valves, and then testing for leaks and proper function. The duration varies but generally takes a few hours.",
+        "@type": "Answer",
+        "description": "Installation involves assessing plumbing, identifying the main water line entry point, installing the filter with bypass valves, and testing for leaks."
+      }
+    }
+  ],
+  "description": "Installation involves assessing plumbing, identifying the main water line entry point, installing the filter with bypass valves, and testing for leaks."
+}

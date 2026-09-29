@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-gas-line-for-a-fireplace",
+  "name": "How long does it take to install a gas line for a fireplace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a gas line for a fireplace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for installing a gas line to a fireplace can vary, typically ranging from a few hours to a full day. This timeframe depends on the complexity of the job, including the distance from the main gas supply, the accessibility of the routing path, and whether any structural modifications are needed. Process Clarity: Before starting, our technicians at CG Plumbing Solutions provide an estimated timeline during the initial assessment. Factors like needing to access a crawl space or attic, or needing to coordinate with other trades, can extend the duration.",
+        "@type": "Answer",
+        "description": "Installation usually takes a few hours to a full day, depending on the line's complexity, distance from the main supply, and accessibility of the routing path."
+      }
+    }
+  ],
+  "description": "Installation usually takes a few hours to a full day, depending on the line's complexity, distance from the main supply, and accessibility of the routing path."
+}

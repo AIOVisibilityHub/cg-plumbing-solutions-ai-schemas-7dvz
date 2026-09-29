@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-replace-my-sump-pump-myself-or-should-i-hire-a-professional",
+  "name": "Can I replace my sump pump myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my sump pump myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is possible for a homeowner with significant plumbing and electrical experience to replace a sump pump, hiring a professional is generally recommended. A professional ensures the pump is correctly sized, properly installed with all necessary plumbing connections, and safely wired according to local codes. Incorrect installation can lead to pump failure, leaks, or electrical hazards. CG Plumbing Solutions ensures your sump pump replacement adheres to all safety standards and operates efficiently to protect your home.",
+        "@type": "Answer",
+        "description": "Professional installation is recommended for sump pump replacement to ensure correct sizing, proper plumbing, and safe electrical connections according to code. Incorrect installation can cause pump failure or hazards."
+      }
+    }
+  ],
+  "description": "Professional installation is recommended for sump pump replacement to ensure correct sizing, proper plumbing, and safe electrical connections according to code."
+}

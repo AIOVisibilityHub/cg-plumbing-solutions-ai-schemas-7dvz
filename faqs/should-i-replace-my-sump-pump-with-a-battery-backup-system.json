@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-replace-my-sump-pump-with-a-battery-backup-system",
+  "name": "Should I replace my sump pump with a battery backup system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace my sump pump with a battery backup system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A battery backup system is a wise consideration when replacing your sump pump, especially in areas prone to power outages. It provides a secondary pump or power source to operate your primary pump, ensuring continuous flood protection even without electricity. The decision often comes down to your home's vulnerability to flooding during power interruptions and the value of the items stored in your basement. CG Plumbing Solutions can discuss battery backup options that integrate seamlessly with your new sump pump installation.",
+        "@type": "Answer",
+        "description": "Consider a battery backup when replacing your sump pump if power outages are common, as it provides flood protection during electricity loss. This decision depends on your home's flood vulnerability and basement contents."
+      }
+    }
+  ],
+  "description": "Consider a battery backup when replacing your sump pump if power outages are common, as it provides flood protection during electricity loss. This decision depe"
+}

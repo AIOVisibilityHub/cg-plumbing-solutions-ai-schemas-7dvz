@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-i-need-a-whole-house-water-filtration-system-in-las-vegas",
+  "name": "How do I know if I need a whole house water filtration system in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a whole house water filtration system in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might need a whole house water filtration system if you notice issues like hard water spots, chlorine smell or taste, or sediment in your water. In areas like Las Vegas, hard water is common, leading to mineral buildup in pipes and appliances. A water quality test can identify specific contaminants and hardness levels, helping you determine the most effective filtration solution for your home.",
+        "@type": "Answer",
+        "description": "Assess your need for whole house filtration by checking for hard water spots, chlorine odors, or sediment, especially given common hard water in Las Vegas."
+      }
+    }
+  ],
+  "description": "Assess your need for whole house filtration by checking for hard water spots, chlorine odors, or sediment, especially given common hard water in Las Vegas."
+}

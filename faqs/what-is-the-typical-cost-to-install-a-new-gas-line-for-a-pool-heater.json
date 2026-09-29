@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-cost-to-install-a-new-gas-line-for-a-pool-heater",
+  "name": "What is the typical cost to install a new gas line for a pool heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to install a new gas line for a pool heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical cost to install a new gas line for a pool heater can vary significantly based on factors like the length of the run from the main gas supply, the pipe material used, and the complexity of routing (e.g., trenching required). Permitting fees in Las Vegas, North Las Vegas, or Henderson can also influence the total cost. An on-site assessment by a licensed plumber is necessary to provide an accurate estimate tailored to your property's specific needs.",
+        "@type": "Answer",
+        "description": "Cost varies based on line length, material, routing complexity, and local permitting fees in areas like Las Vegas."
+      }
+    }
+  ],
+  "description": "Cost varies based on line length, material, routing complexity, and local permitting fees in areas like Las Vegas."
+}

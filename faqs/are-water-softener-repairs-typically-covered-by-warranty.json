@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-water-softener-repairs-typically-covered-by-warranty",
+  "name": "Are water softener repairs typically covered by warranty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are water softener repairs typically covered by warranty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water softener repairs may be covered by a manufacturer's warranty if the unit is still within its coverage period and the issue is due to a defect rather than misuse or lack of maintenance. The scope of coverage varies by brand and model. We recommend checking your specific warranty documentation; if it's not covered, we'll provide upfront pricing for the necessary repairs.",
+        "@type": "Answer",
+        "description": "Repairs might be covered by a manufacturer's warranty if the unit is still within its period and the issue is a defect. Check your warranty details; if not covered, we provide upfront pricing."
+      }
+    }
+  ],
+  "description": "Repairs might be covered by a manufacturer's warranty if the unit is still within its period and the issue is a defect. Check your warranty details; if not cove"
+}

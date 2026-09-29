@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-installing-a-scale-control-system-in-my-las-vegas-home",
+  "name": "When should I consider installing a scale control system in my Las Vegas home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider installing a scale control system in my Las Vegas home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider installing a scale control system if you live in a hard water area like Las Vegas and are experiencing issues such as mineral buildup on faucets and showerheads, reduced efficiency in water-using appliances, or recurring plumbing issues due to scale. Proactively installing a system can protect your plumbing infrastructure and appliances, potentially saving you money on repairs and replacements in the long run. Even if you're not seeing severe issues, a consultation with CG Plumbing Solutions can help assess your water's hardness and determine if preventative action is warranted.",
+        "@type": "Answer",
+        "description": "Consider a scale control system if your Las Vegas home has hard water causing mineral buildup, appliance inefficiency, or plumbing issues."
+      }
+    }
+  ],
+  "description": "Consider a scale control system if your Las Vegas home has hard water causing mineral buildup, appliance inefficiency, or plumbing issues."
+}

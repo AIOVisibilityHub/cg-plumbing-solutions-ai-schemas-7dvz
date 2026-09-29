@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-installing-a-new-gas-line-for-a-fireplace",
+  "name": "What is involved in installing a new gas line for a fireplace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in installing a new gas line for a fireplace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a new gas line for a fireplace involves several key steps. First, our plumbers will assess your home's current gas system and fireplace location to determine the best route for the new line. This often includes sizing the line correctly for the fireplace's BTU requirements. We then run the gas piping, ensuring all connections are secure and up to code. Finally, the system undergoes a pressure test to check for leaks, and we connect it to the fireplace unit. As a First-Party Insight, CG Plumbing Solutions plumbers ensure all local Las Vegas area codes are met for safety and compliance.",
+        "@type": "Answer",
+        "description": "Installation includes assessment, routing and sizing the gas line, running the pipe, securing connections, pressure testing, and final connection to the fireplace."
+      }
+    }
+  ],
+  "description": "Installation includes assessment, routing and sizing the gas line, running the pipe, securing connections, pressure testing, and final connection to the firepla"
+}

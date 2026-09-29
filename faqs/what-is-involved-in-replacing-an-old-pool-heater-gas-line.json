@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-replacing-an-old-pool-heater-gas-line",
+  "name": "What is involved in replacing an old pool heater gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in replacing an old pool heater gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing an old pool heater gas line typically involves shutting off the gas supply, safely disconnecting the old line, and then installing a new line that meets current code requirements. This may include laying new piping, ensuring proper sizing for the heater's BTU output, and performing leak tests. For proper sizing, it's essential to know the specific BTU rating of your pool heater, as this dictates the gas line diameter needed for efficient and safe operation.",
+        "@type": "Answer",
+        "description": "Replacement involves shutting off gas, removing the old line, installing a new, properly sized line, and leak testing."
+      }
+    }
+  ],
+  "description": "Replacement involves shutting off gas, removing the old line, installing a new, properly sized line, and leak testing."
+}

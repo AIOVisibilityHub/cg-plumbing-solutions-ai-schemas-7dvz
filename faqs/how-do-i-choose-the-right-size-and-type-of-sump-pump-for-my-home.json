@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-choose-the-right-size-and-type-of-sump-pump-for-my-home",
+  "name": "How do I choose the right size and type of sump pump for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size and type of sump pump for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right sump pump depends on factors like the size of your basement, the typical volume of water it handles, and the vertical distance the water needs to be pumped (head pressure). Submersible pumps are quieter and often preferred for finished basements, while pedestal pumps are more visible but can be easier to maintain. Consider the pump's horsepower (HP) and its 'GPH' (gallons per hour) rating. For properties in areas like Summerlin or Paradise with specific water table characteristics, a professional evaluation can ensure you select a pump with adequate capacity and reliability.",
+        "@type": "Answer",
+        "description": "Selecting a sump pump involves considering basement size, water volume, and head pressure. Submersible pumps are quieter, while pedestal pumps offer easier maintenance. A professional can help determine the correct HP and GPH for your home."
+      }
+    }
+  ],
+  "description": "Selecting a sump pump involves considering basement size, water volume, and head pressure. Submersible pumps are quieter, while pedestal pumps offer easier main"
+}

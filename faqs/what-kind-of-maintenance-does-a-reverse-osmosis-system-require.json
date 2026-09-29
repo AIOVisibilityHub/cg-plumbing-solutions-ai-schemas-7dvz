@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-maintenance-does-a-reverse-osmosis-system-require",
+  "name": "What kind of maintenance does a reverse osmosis system require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does a reverse osmosis system require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Reverse osmosis systems require regular maintenance to ensure optimal performance and water quality. This primarily involves replacing the pre-filters (sediment and carbon) every 6-12 months and the RO membrane every 2-5 years, depending on water quality and usage. Failure to replace filters on time can reduce water flow, decrease contaminant removal efficiency, and potentially damage the RO membrane. To prepare for maintenance, it's helpful to know your system's model number and the last time filters were changed. We offer maintenance services and can provide guidance on filter replacement schedules for your specific unit.",
+        "@type": "Answer",
+        "description": "RO systems require regular filter replacement: pre-filters every 6-12 months and the RO membrane every 2-5 years, depending on water quality and usage."
+      }
+    }
+  ],
+  "description": "RO systems require regular filter replacement: pre-filters every 6-12 months and the RO membrane every 2-5 years, depending on water quality and usage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-the-sewage-ejector-pump-installation-process",
+  "name": "What is involved in the sewage ejector pump installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the sewage ejector pump installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with excavating or preparing a pit (sump) where the ejector pump will reside. The pump is then installed inside this pit, connected to the wastewater discharge line, and plumbed into the main sewer or septic system. Electrical wiring is run to power the pump, and a check valve is installed to prevent backflow. Finally, the system is tested to ensure proper operation. CG Plumbing Solutions follows a structured approach, ensuring all local codes in areas like Henderson and Summerlin are met, from initial assessment to final testing, to guarantee a reliable system.",
+        "@type": "Answer",
+        "description": "Installation involves preparing a pit, installing the pump, connecting it to plumbing and electrical, and testing. It ensures proper waste removal and code compliance."
+      }
+    }
+  ],
+  "description": "Installation involves preparing a pit, installing the pump, connecting it to plumbing and electrical, and testing. It ensures proper waste removal and code comp"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-typical-under-sink-reverse-osmosis-system",
+  "name": "How long does it take to install a typical under-sink reverse osmosis system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a typical under-sink reverse osmosis system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a standard under-sink reverse osmosis system typically takes between 2 to 4 hours. This timeframe can vary depending on several factors, such as the existing plumbing configuration, whether a new hole needs to be drilled for the dedicated faucet, and the specific model of the RO system. For example, if your sink already has an unused hole for a sprayer or soap dispenser, it can significantly reduce installation time. Our experienced technicians at CG Plumbing Solutions work efficiently to minimize disruption while ensuring a high-quality, leak-free installation.",
+        "@type": "Answer",
+        "description": "An under-sink RO system installation usually takes 2-4 hours, depending on existing plumbing, faucet drilling needs, and the specific system model."
+      }
+    }
+  ],
+  "description": "An under-sink RO system installation usually takes 2-4 hours, depending on existing plumbing, faucet drilling needs, and the specific system model."
+}

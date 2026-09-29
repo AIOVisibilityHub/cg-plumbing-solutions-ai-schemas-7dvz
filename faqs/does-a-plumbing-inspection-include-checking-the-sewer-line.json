@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/does-a-plumbing-inspection-include-checking-the-sewer-line",
+  "name": "Does a plumbing inspection include checking the sewer line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a plumbing inspection include checking the sewer line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard plumbing inspection typically does not include a full sewer line camera inspection unless specifically requested or if there are clear indications of a problem. A basic inspection will check for proper drainage at fixtures, which can suggest sewer line health. However, a dedicated sewer camera inspection involves inserting a camera into the main sewer line to thoroughly check for blockages, cracks, root intrusion, or collapses. This is a highly recommended add-on service if you are experiencing frequent backups or are purchasing an older home.",
+        "@type": "Answer",
+        "description": "A standard plumbing inspection checks fixture drainage, but a full sewer line camera inspection is a separate service, recommended for frequent backups or older homes."
+      }
+    }
+  ],
+  "description": "A standard plumbing inspection checks fixture drainage, but a full sewer line camera inspection is a separate service, recommended for frequent backups or older"
+}

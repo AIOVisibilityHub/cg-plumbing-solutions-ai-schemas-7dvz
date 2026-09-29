@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-maintenance-do-natural-gas-pipes-require",
+  "name": "What kind of maintenance do natural gas pipes require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance do natural gas pipes require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural gas pipes generally require minimal maintenance, but periodic inspections by a professional are highly recommended. These inspections can identify potential issues like minor leaks, corrosion, or damaged lines before they become serious problems. For example, ensuring proper venting for gas appliances and keeping the area around gas meters clear are simple steps homeowners can take. Consider scheduling an inspection every few years or if you notice any unusual signs to ensure continued safety and proper function, which is a preparation aspect for ongoing safety.",
+        "@type": "Answer",
+        "description": "Natural gas pipes need minimal maintenance, but periodic professional inspections are recommended to check for leaks or damage and ensure safety."
+      }
+    }
+  ],
+  "description": "Natural gas pipes need minimal maintenance, but periodic professional inspections are recommended to check for leaks or damage and ensure safety."
+}

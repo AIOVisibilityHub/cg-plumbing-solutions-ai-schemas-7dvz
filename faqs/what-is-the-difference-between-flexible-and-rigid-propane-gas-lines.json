@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-flexible-and-rigid-propane-gas-lines",
+  "name": "What is the difference between flexible and rigid propane gas lines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between flexible and rigid propane gas lines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flexible propane gas lines, often made of corrugated stainless steel tubing (CSST), are easier and quicker to install, requiring fewer fittings and often less invasive installation methods. Rigid lines, typically black iron pipe or copper tubing, are very durable and are often preferred for main runs and exposed areas. While flexible lines offer installation advantages, rigid lines may be more resistant to physical damage in certain applications. The choice depends on the specific installation requirements, local codes, and the layout of your Las Vegas property, balancing ease of installation with long-term durability.",
+        "@type": "Answer",
+        "description": "Flexible propane lines (CSST) are quicker to install, while rigid lines (black iron) are very durable, with the choice depending on specific installation needs and codes."
+      }
+    }
+  ],
+  "description": "Flexible propane lines (CSST) are quicker to install, while rigid lines (black iron) are very durable, with the choice depending on specific installation needs"
+}

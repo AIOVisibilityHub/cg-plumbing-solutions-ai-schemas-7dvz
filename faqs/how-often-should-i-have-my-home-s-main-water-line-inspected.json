@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-have-my-home-s-main-water-line-inspected",
+  "name": "How often should I have my home's main water line inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my home's main water line inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to have your home's main water line inspected every 5-7 years, or more frequently if your home is older or you notice recurring issues like low water pressure or discolored water. Regular inspections can identify potential problems such as corrosion, leaks, or tree root intrusion before they escalate into costly emergencies. Proactive maintenance can help prevent unexpected service disruptions and significant property damage.",
+        "@type": "Answer",
+        "description": "Inspect your main water line every 5-7 years, or sooner for older homes or if issues like low pressure or discolored water occur."
+      }
+    }
+  ],
+  "description": "Inspect your main water line every 5-7 years, or sooner for older homes or if issues like low pressure or discolored water occur."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-battery-backup-sump-pump-typically-run-on-a-single-charge",
+  "name": "How long does a battery backup sump pump typically run on a single charge?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a battery backup sump pump typically run on a single charge?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The run time of a battery backup sump pump varies significantly based on factors like battery size, pump efficiency, and how frequently it needs to activate. A typical fully charged battery can power a sump pump for several hours, ranging from 6 to 24 hours of intermittent use, or continuously for a shorter period during heavy rainfall. When considering a system, it's important to evaluate the potential duration of power outages in your area, such as those that might occur during severe weather in Henderson or Paradise. We can help you compare different battery capacities and pump models to match your home's specific needs and flood risk.",
+        "@type": "Answer",
+        "description": "Run time depends on battery size and pump activity, usually 6-24 hours of intermittent use. Consider your area's typical power outage duration."
+      }
+    }
+  ],
+  "description": "Run time depends on battery size and pump activity, usually 6-24 hours of intermittent use. Consider your area's typical power outage duration."
+}

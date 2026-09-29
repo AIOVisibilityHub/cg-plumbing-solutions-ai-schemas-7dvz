@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-extend-a-gas-line-for-a-stove",
+  "name": "How much does it cost to extend a gas line for a stove?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to extend a gas line for a stove?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to extend a gas line for a stove varies depending on the length of the extension, the complexity of the routing (e.g., through walls or crawl spaces), and the materials required. A detailed estimate requires an on-site assessment to determine the specific scope of work. CG Plumbing Solutions provides transparent pricing after a thorough evaluation, ensuring you understand all aspects of the cost before any work begins.",
+        "@type": "Answer",
+        "description": "The cost to extend a gas line depends on the length, routing complexity, and materials. An on-site assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "The cost to extend a gas line depends on the length, routing complexity, and materials. An on-site assessment provides an accurate estimate."
+}

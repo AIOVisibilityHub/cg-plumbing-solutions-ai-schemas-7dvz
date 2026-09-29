@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-a-pool-heater-gas-line-be-inspected",
+  "name": "How often should a pool heater gas line be inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should a pool heater gas line be inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to have your pool heater gas line inspected annually, especially before the swimming season begins. Regular inspections help identify minor issues before they become significant problems, ensuring safety and optimal performance. During an inspection, CG Plumbing Solutions can check for leaks, corrosion, proper pressure, and ensure all connections meet local codes, helping to extend the life of your system.",
+        "@type": "Answer",
+        "description": "Annual inspections are recommended, particularly before swim season, to ensure safety and performance."
+      }
+    }
+  ],
+  "description": "Annual inspections are recommended, particularly before swim season, to ensure safety and performance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-should-i-consider-when-choosing-a-sewage-ejector-pump",
+  "name": "What factors should I consider when choosing a sewage ejector pump?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a sewage ejector pump?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a sewage ejector pump, consider the volume of wastewater it needs to handle, the 'head' (vertical distance it must pump), and the type of solids it's designed to manage. Pumps vary in horsepower, discharge pipe size, and construction materials. Key decision factors include the number of fixtures draining into the pump, the total lift height, and your budget. CG Plumbing Solutions can help you select the most appropriate pump model for your specific needs, balancing performance and cost-effectiveness for your home in areas like Paradise or Summerlin.",
+        "@type": "Answer",
+        "description": "Consider wastewater volume, vertical pumping distance, and solids handling capability. Factors like horsepower, discharge size, and budget are key to choosing the right pump."
+      }
+    }
+  ],
+  "description": "Consider wastewater volume, vertical pumping distance, and solids handling capability. Factors like horsepower, discharge size, and budget are key to choosing t"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-current-sump-pump-needs-a-battery-backup",
+  "name": "How do I know if my current sump pump needs a battery backup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my current sump pump needs a battery backup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider adding a battery backup if your home is in an area prone to power outages, if your basement has ever flooded due to a primary pump failure, or if you store valuable items in your basement. If you reside in locations like Las Vegas or Summerlin, which can experience significant rain events that sometimes lead to power disruptions, a backup system is a wise investment. Assess your home's flood risk, the reliability of your local power grid, and the potential costs of water damage. A professional assessment can help you evaluate these factors and determine if a backup system is a necessary addition for your peace of mind and property protection.",
+        "@type": "Answer",
+        "description": "Consider a backup if you experience power outages, past basement flooding, or store valuables in your basement, especially in areas prone to heavy rain."
+      }
+    }
+  ],
+  "description": "Consider a backup if you experience power outages, past basement flooding, or store valuables in your basement, especially in areas prone to heavy rain."
+}

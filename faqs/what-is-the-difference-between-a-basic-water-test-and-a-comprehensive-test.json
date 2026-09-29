@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-basic-water-test-and-a-comprehensive-test",
+  "name": "What is the difference between a basic water test and a comprehensive test?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a basic water test and a comprehensive test?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A basic water test typically checks for common issues like pH, hardness, chlorine, and total dissolved solids (TDS), often giving a general overview of water quality. A comprehensive test, however, analyzes a broader range of potential contaminants, including heavy metals, volatile organic compounds (VOCs), pesticides, and specific bacteria. The choice depends on your specific concerns and potential risks. For example, if you suspect lead in older plumbing in a Las Vegas home, a comprehensive test would be more appropriate than a basic one to get a complete picture.",
+        "@type": "Answer",
+        "description": "Basic tests check common issues like hardness and chlorine, while comprehensive tests analyze a wider range of contaminants like heavy metals and bacteria, chosen based on specific concerns."
+      }
+    }
+  ],
+  "description": "Basic tests check common issues like hardness and chlorine, while comprehensive tests analyze a wider range of contaminants like heavy metals and bacteria, chos"
+}

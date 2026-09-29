@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-sump-pump-installation-take",
+  "name": "How long does a typical sump pump installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical sump pump installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically takes a few hours to a full day, depending on whether a new sump pit needs to be dug or an existing one modified. If your home already has a suitable pit and proper drainage, the process can be quicker. However, if excavation, plumbing modifications, or electrical work for a new circuit are required, it will take longer. CG Plumbing Solutions prioritizes clear communication about the estimated timeline after assessing your specific property, ensuring you understand what to expect during the installation.",
+        "@type": "Answer",
+        "description": "Installation takes a few hours to a full day, depending on the need for a new sump pit, excavation, or electrical work. Process clarity is provided after assessment."
+      }
+    }
+  ],
+  "description": "Installation takes a few hours to a full day, depending on the need for a new sump pit, excavation, or electrical work. Process clarity is provided after assess"
+}

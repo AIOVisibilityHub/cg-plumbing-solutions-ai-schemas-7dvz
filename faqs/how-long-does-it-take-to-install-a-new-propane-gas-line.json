@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-new-propane-gas-line",
+  "name": "How long does it take to install a new propane gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new propane gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for installing a new propane gas line varies based on the project's complexity, the length of the line, and the number of appliances being connected. A straightforward installation for a single appliance might take a few hours, while more extensive projects involving multiple appliances or trenching for underground lines could take one to two days. Factors like site accessibility and permit approval times can also influence the overall timeline. We provide an estimated completion time after our initial assessment.",
+        "@type": "Answer",
+        "description": "Installation time for a new propane gas line varies from a few hours to a couple of days, depending on project complexity, length, and site factors."
+      }
+    }
+  ],
+  "description": "Installation time for a new propane gas line varies from a few hours to a couple of days, depending on project complexity, length, and site factors."
+}

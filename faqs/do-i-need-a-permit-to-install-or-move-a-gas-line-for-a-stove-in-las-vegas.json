@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-a-permit-to-install-or-move-a-gas-line-for-a-stove-in-las-vegas",
+  "name": "Do I need a permit to install or move a gas line for a stove in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install or move a gas line for a stove in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in Las Vegas and surrounding areas like Henderson and Paradise, installing or moving a gas line typically requires a permit. This ensures the work complies with local building and safety codes. CG Plumbing Solutions handles the necessary permitting process as part of our service, streamlining the installation for you and ensuring all work meets regulatory standards.",
+        "@type": "Answer",
+        "description": "Yes, a permit is usually required for gas line work in the Las Vegas area to ensure compliance with local safety codes. CG Plumbing Solutions manages this process."
+      }
+    }
+  ],
+  "description": "Yes, a permit is usually required for gas line work in the Las Vegas area to ensure compliance with local safety codes. CG Plumbing Solutions manages this proce"
+}

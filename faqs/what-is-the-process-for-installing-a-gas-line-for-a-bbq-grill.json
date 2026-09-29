@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-installing-a-gas-line-for-a-bbq-grill",
+  "name": "What is the process for installing a gas line for a BBQ grill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a gas line for a BBQ grill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an on-site assessment to plan the optimal route and ensure compliance with local codes. Next, permits are secured. Our plumbers then dig the necessary trenches, lay the gas line, make the connections to your existing gas supply and the new grill, and perform pressure testing to check for leaks. Finally, inspections are arranged with the local authority to verify safety and compliance. CG Plumbing Solutions manages all these steps, from planning to final inspection, ensuring a seamless and secure installation.",
+        "@type": "Answer",
+        "description": "The process involves assessment, permitting, trenching, line installation, connections, pressure testing, and final inspection."
+      }
+    }
+  ],
+  "description": "The process involves assessment, permitting, trenching, line installation, connections, pressure testing, and final inspection."
+}

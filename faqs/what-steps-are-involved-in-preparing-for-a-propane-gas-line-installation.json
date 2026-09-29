@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-steps-are-involved-in-preparing-for-a-propane-gas-line-installation",
+  "name": "What steps are involved in preparing for a propane gas line installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in preparing for a propane gas line installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a propane gas line installation, you should identify all appliances you intend to connect and their location, ensuring sufficient space and ventilation. It's also helpful to determine the desired location for your propane tank if it's not already established. Clearing the proposed path for the gas line, both indoors and outdoors, can streamline the process. Our technicians will conduct an initial site visit to confirm these details and discuss the best approach, helping you prepare your property in Las Vegas for a smooth installation.",
+        "@type": "Answer",
+        "description": "Prepare for propane line installation by identifying appliance locations, desired tank placement, and clearing the proposed line path before our technicians' visit."
+      }
+    }
+  ],
+  "description": "Prepare for propane line installation by identifying appliance locations, desired tank placement, and clearing the proposed line path before our technicians' vi"
+}

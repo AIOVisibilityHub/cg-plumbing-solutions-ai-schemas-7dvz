@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-a-professional-drain-cleaning-service",
+  "name": "What is involved in a professional drain cleaning service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a professional drain cleaning service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional drain cleaning goes beyond consumer-grade chemical solutions to effectively clear blockages and prevent future issues. A plumber will typically use specialized tools such as drain snakes, augers, or hydro-jetting equipment, depending on the severity and location of the clog. Hydro-jetting uses high-pressure water to scour the inside of pipes, removing grease, mineral buildup, and debris. This process is highly effective for main sewer lines and can restore full flow. CG Plumbing Solutions performs comprehensive drain inspections first to determine the most appropriate and least invasive cleaning method for your home in Summerlin or Henderson.",
+        "@type": "Answer",
+        "description": "Professional drain cleaning involves using specialized tools like drain snakes or hydro-jetting to clear blockages, often after an initial inspection."
+      }
+    }
+  ],
+  "description": "Professional drain cleaning involves using specialized tools like drain snakes or hydro-jetting to clear blockages, often after an initial inspection."
+}

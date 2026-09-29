@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-prepare-before-a-gas-line-installation-appointment",
+  "name": "What should I prepare before a gas line installation appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a gas line installation appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your gas line installation appointment, ensure the area where the dryer will be located and the path for the gas line are clear of obstructions. It's helpful to have determined the exact placement of your dryer and any ventilation requirements. Additionally, be prepared to discuss your home's current gas setup and any potential challenges with the plumbing technician. Having these details ready helps streamline the process and allows our team from CG Plumbing Solutions to work efficiently in locations like Green Valley and Seven Hills.",
+        "@type": "Answer",
+        "description": "Clear the installation area, confirm dryer placement, and be ready to discuss your current gas setup with the technician to streamline the process."
+      }
+    }
+  ],
+  "description": "Clear the installation area, confirm dryer placement, and be ready to discuss your current gas setup with the technician to streamline the process."
+}

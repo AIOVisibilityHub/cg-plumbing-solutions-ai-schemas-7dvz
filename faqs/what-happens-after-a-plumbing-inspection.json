@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-happens-after-a-plumbing-inspection",
+  "name": "What happens after a plumbing inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a plumbing inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Following a plumbing inspection, you will receive a detailed report outlining the findings. This report typically includes observations, identified issues, and recommendations for any necessary repairs or maintenance. We will then discuss these findings with you, explain the urgency of any repairs, and provide transparent estimates for recommended services. For instance, if the inspection reveals a failing water heater in your Henderson home, we can explain options for repair or replacement and schedule the work at your convenience.",
+        "@type": "Answer",
+        "description": "After an inspection, you'll get a detailed report with findings and recommendations. We then discuss issues and provide estimates for necessary repairs."
+      }
+    }
+  ],
+  "description": "After an inspection, you'll get a detailed report with findings and recommendations. We then discuss issues and provide estimates for necessary repairs."
+}

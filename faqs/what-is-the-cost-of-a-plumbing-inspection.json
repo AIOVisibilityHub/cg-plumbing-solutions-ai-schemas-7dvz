@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-cost-of-a-plumbing-inspection",
+  "name": "What is the cost of a plumbing inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of a plumbing inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a plumbing inspection can vary based on the size and age of your home, as well as the complexity of its plumbing system. For a standard residential property, you can expect a range, but it's best to contact us directly for an accurate estimate. To provide an exact quote, we typically consider factors like the number of bathrooms, the presence of specific appliances like water softeners or reverse osmosis systems, and whether a sewer line camera inspection is requested as part of the service. This allows us to tailor the service to your needs.",
+        "@type": "Answer",
+        "description": "Plumbing inspection costs vary depending on home size, age, and system complexity. Contact us for a precise quote, considering factors like bathrooms and additional services."
+      }
+    }
+  ],
+  "description": "Plumbing inspection costs vary depending on home size, age, and system complexity. Contact us for a precise quote, considering factors like bathrooms and additi"
+}

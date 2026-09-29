@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-a-tank-and-tankless-water-heater-and-which-is-bet",
+  "name": "What is the difference between a tank and tankless water heater, and which is better for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a tank and tankless water heater, and which is better for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tank water heaters store and pre-heat a set volume of water, offering a ready supply but can run out during high demand. Tankless water heaters heat water on demand, providing a continuous supply, and are generally more energy-efficient in the long run. The 'better' option depends on your household's hot water usage, available space, and budget. Tankless units typically have a higher upfront cost but can offer energy savings and a longer lifespan, while tank units are generally less expensive to install.",
+        "@type": "Answer",
+        "description": "Tank heaters store hot water; tankless heat on demand. Tankless offers continuous hot water and efficiency but costs more upfront. Choose based on usage and budget."
+      }
+    }
+  ],
+  "description": "Tank heaters store hot water; tankless heat on demand. Tankless offers continuous hot water and efficiency but costs more upfront. Choose based on usage and bud"
+}

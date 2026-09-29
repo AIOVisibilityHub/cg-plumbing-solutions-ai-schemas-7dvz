@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-scheduling-a-water-softener-repair-service",
+  "name": "What is the process for scheduling a water softener repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for scheduling a water softener repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To schedule a water softener repair, contact CG Plumbing Solutions by phone or through our website. We'll gather basic information about your system and the issues you're experiencing, then arrange a convenient appointment time for a technician to visit your home in areas like Henderson or Paradise. Our team will assess the unit, explain the problem, and provide a clear repair plan before proceeding.",
+        "@type": "Answer",
+        "description": "Contact us by phone or website to schedule. We'll gather information and arrange a visit to your home. A technician will assess the unit, explain the issue, and provide a repair plan."
+      }
+    }
+  ],
+  "description": "Contact us by phone or website to schedule. We'll gather information and arrange a visit to your home. A technician will assess the unit, explain the issue, and"
+}

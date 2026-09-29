@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-prevent-ejector-pump-issues-through-maintenance",
+  "name": "Can I prevent ejector pump issues through maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent ejector pump issues through maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, regular maintenance can significantly extend the life of your ejector pump and prevent common issues. This includes avoiding flushing non-biodegradable items, using appropriate household cleaners, and occasionally checking the pit for debris accumulation. Periodic professional inspections can identify potential problems before they escalate into costly repairs. We offer preventative maintenance checks tailored to your system to help ensure optimal performance and longevity.",
+        "@type": "Answer",
+        "description": "Yes, proper maintenance like avoiding non-biodegradable items and professional inspections can prevent ejector pump issues."
+      }
+    }
+  ],
+  "description": "Yes, proper maintenance like avoiding non-biodegradable items and professional inspections can prevent ejector pump issues."
+}

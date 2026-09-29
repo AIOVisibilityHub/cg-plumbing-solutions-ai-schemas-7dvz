@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-maintenance-does-a-sump-pump-require-after-installation",
+  "name": "What maintenance does a sump pump require after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance does a sump pump require after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After installation, regular maintenance is essential to ensure your sump pump operates reliably. This typically involves periodically checking the pump for debris, ensuring the float switch moves freely, and testing it by pouring water into the sump pit to confirm it activates. It's also important to inspect the discharge pipe for blockages or leaks. A practical tradeoff to consider is that while DIY checks are helpful, scheduling annual professional inspections with CG Plumbing Solutions can catch potential issues early, extending the pump's lifespan and preventing unexpected failures during heavy rainfall.",
+        "@type": "Answer",
+        "description": "Sump pump maintenance includes checking for debris, testing the float switch, and inspecting the discharge pipe. Annual professional inspections can extend pump life."
+      }
+    }
+  ],
+  "description": "Sump pump maintenance includes checking for debris, testing the float switch, and inspecting the discharge pipe. Annual professional inspections can extend pump"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-install-an-outdoor-kitchen-gas-line",
+  "name": "How much does it cost to install an outdoor kitchen gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install an outdoor kitchen gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing an outdoor kitchen gas line varies significantly based on factors such as the length of the gas line required, the complexity of the trenching (e.g., crossing concrete or landscaping), the type of materials used, and local permitting fees. It also depends on whether you're converting from propane or installing a new natural gas line. We recommend scheduling an on-site consultation so a technician can assess your specific needs in locations like Anthem or Green Valley and provide a detailed, accurate quote tailored to your project.",
+        "@type": "Answer",
+        "description": "Cost varies based on line length, trenching complexity, materials, and permitting fees; an on-site consultation provides an accurate quote."
+      }
+    }
+  ],
+  "description": "Cost varies based on line length, trenching complexity, materials, and permitting fees; an on-site consultation provides an accurate quote."
+}

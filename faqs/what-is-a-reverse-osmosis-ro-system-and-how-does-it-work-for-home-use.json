@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-reverse-osmosis-ro-system-and-how-does-it-work-for-home-use",
+  "name": "What is a reverse osmosis (RO) system and how does it work for home use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a reverse osmosis (RO) system and how does it work for home use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A reverse osmosis (RO) system purifies water by forcing it through a semi-permeable membrane, removing dissolved solids, contaminants, and impurities. For home use, these systems typically connect to the cold water line under your kitchen sink, providing purified water through a dedicated faucet. The process involves multiple filtration stages, including sediment and carbon filters before the RO membrane, and often a post-carbon filter for taste. Understanding your home's water pressure is crucial, as optimal performance relies on sufficient pressure to push water through the membrane effectively. We can assess your existing plumbing to ensure compatibility and efficiency during installation.",
+        "@type": "Answer",
+        "description": "A reverse osmosis system purifies water by forcing it through a semi-permeable membrane to remove dissolved solids and contaminants, providing clean drinking water through a dedicated faucet."
+      }
+    }
+  ],
+  "description": "A reverse osmosis system purifies water by forcing it through a semi-permeable membrane to remove dissolved solids and contaminants, providing clean drinking wa"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-types-of-filters-are-in-a-typical-reverse-osmosis-system-and-what-do-they-d",
+  "name": "What types of filters are in a typical reverse osmosis system, and what do they do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of filters are in a typical reverse osmosis system, and what do they do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical reverse osmosis system uses multiple stages of filtration. First, a sediment filter removes larger particles like dirt and rust. Next, activated carbon filters remove chlorine, chloramines, and other chemicals that affect taste and odor. The semi-permeable RO membrane then removes dissolved solids, heavy metals, and microscopic contaminants. Finally, a post-carbon filter polishes the water before it reaches your faucet. Understanding these stages can help you appreciate the comprehensive purification process and the importance of each filter's role.",
+        "@type": "Answer",
+        "description": "RO systems use sediment, activated carbon, and an RO membrane to remove particles, chemicals, and dissolved solids, with a final post-carbon filter for taste."
+      }
+    }
+  ],
+  "description": "RO systems use sediment, activated carbon, and an RO membrane to remove particles, chemicals, and dissolved solids, with a final post-carbon filter for taste."
+}

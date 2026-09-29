@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prepare-for-a-water-softener-repair-visit",
+  "name": "How can I prepare for a water softener repair visit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare for a water softener repair visit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a water softener repair visit, ensure the area around your unit is clear and accessible for the technician. It's also helpful to note down any specific symptoms you've observed, such as unusual noises or cycles, and when they started. Having your unit's make and model information ready can also streamline the diagnostic process, allowing our team to arrive prepared.",
+        "@type": "Answer",
+        "description": "Clear the area around the unit and note down any symptoms you've observed. Having your unit's make and model information ready will also help the technician."
+      }
+    }
+  ],
+  "description": "Clear the area around the unit and note down any symptoms you've observed. Having your unit's make and model information ready will also help the technician."
+}

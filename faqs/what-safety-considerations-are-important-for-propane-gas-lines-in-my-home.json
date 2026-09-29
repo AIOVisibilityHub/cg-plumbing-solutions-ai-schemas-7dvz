@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-safety-considerations-are-important-for-propane-gas-lines-in-my-home",
+  "name": "What safety considerations are important for propane gas lines in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety considerations are important for propane gas lines in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is paramount with propane gas lines. Key considerations include ensuring proper ventilation, regular inspection for leaks or damage, and always using professional installers for any new lines or repairs. Propane is heavier than air, so leaks can accumulate in low areas, posing a significant hazard. It’s also crucial that all lines are correctly sized and installed according to national and local Las Vegas building codes. Installing carbon monoxide and propane detectors near appliances provides an extra layer of safety.",
+        "@type": "Answer",
+        "description": "Key safety considerations for propane gas lines include proper ventilation, regular professional inspections for leaks, and correct installation according to codes."
+      }
+    }
+  ],
+  "description": "Key safety considerations for propane gas lines include proper ventilation, regular professional inspections for leaks, and correct installation according to co"
+}

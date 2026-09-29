@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/should-i-repair-or-replace-my-ejector-pump",
+  "name": "Should I repair or replace my ejector pump?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my ejector pump?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace an ejector pump depends on several factors, including the pump's age, the extent of the damage, and the cost of repairs versus a new unit. If your pump is older than 7-10 years and requires a major component replacement, replacement might be more cost-effective in the long run. Consider the frequency of past repairs; if breakdowns are common, a new pump offers greater reliability. We can provide an assessment to help you weigh the economic and functional tradeoffs of repair versus replacement.",
+        "@type": "Answer",
+        "description": "The choice to repair or replace an ejector pump depends on its age, damage extent, and repair cost versus replacement cost."
+      }
+    }
+  ],
+  "description": "The choice to repair or replace an ejector pump depends on its age, damage extent, and repair cost versus replacement cost."
+}

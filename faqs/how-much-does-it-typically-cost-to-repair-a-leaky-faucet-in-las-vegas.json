@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-typically-cost-to-repair-a-leaky-faucet-in-las-vegas",
+  "name": "How much does it typically cost to repair a leaky faucet in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it typically cost to repair a leaky faucet in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a leaky faucet in Las Vegas can vary widely depending on the type of faucet, the extent of the damage, and the specific parts required. Simple repairs, like replacing a washer or O-ring, are generally less expensive than those requiring replacement of cartridge valves or more complex components. A plumber will provide an estimate after assessing the specific issue. It's often more cost-effective to repair a leak promptly rather than allowing it to worsen and cause further water damage.",
+        "@type": "Answer",
+        "description": "Faucet repair costs in Las Vegas vary based on faucet type and damage. Simple fixes are less expensive than complex part replacements. Get an estimate after assessment."
+      }
+    }
+  ],
+  "description": "Faucet repair costs in Las Vegas vary based on faucet type and damage. Simple fixes are less expensive than complex part replacements. Get an estimate after ass"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-maintenance-is-required-after-sump-pump-replacement",
+  "name": "What maintenance is required after sump pump replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required after sump pump replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After sump pump replacement, regular maintenance helps ensure its longevity and reliable operation. This includes periodically checking the sump pit for debris and ensuring the float switch moves freely. It's also important to test the pump every few months by pouring water into the pit to verify it activates correctly. During the rainy season, more frequent checks are advisable. CG Plumbing Solutions can provide guidance on specific maintenance routines tailored to your new pump and local conditions.",
+        "@type": "Answer",
+        "description": "Post-replacement maintenance involves checking the sump pit for debris, ensuring the float switch's free movement, and periodically testing the pump with water. More frequent checks are recommended during rainy seasons."
+      }
+    }
+  ],
+  "description": "Post-replacement maintenance involves checking the sump pit for debris, ensuring the float switch's free movement, and periodically testing the pump with water."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-should-i-consider-when-choosing-a-plumber-for-gas-line-work",
+  "name": "What factors should I consider when choosing a plumber for gas line work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a plumber for gas line work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a plumber for gas line work, consider their licensing, insurance, and experience specifically with gas line installations and repairs. It's also important to ensure they are familiar with local codes and regulations in your specific service area, such as Las Vegas or Summerlin. CG Plumbing Solutions offers licensed and insured technicians specializing in gas line services, ensuring adherence to all safety standards.",
+        "@type": "Answer",
+        "description": "Consider the plumber's licensing, insurance, gas line experience, and familiarity with local codes in your area."
+      }
+    }
+  ],
+  "description": "Consider the plumber's licensing, insurance, gas line experience, and familiarity with local codes in your area."
+}

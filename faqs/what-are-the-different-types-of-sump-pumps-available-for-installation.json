@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-different-types-of-sump-pumps-available-for-installation",
+  "name": "What are the different types of sump pumps available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different types of sump pumps available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are primarily two types: submersible and pedestal. Submersible pumps are placed directly in the sump pit, submerged in water, making them quieter and less obtrusive. Pedestal pumps have their motor above the sump pit, making them easier to access for maintenance but generally louder. The right choice depends on your specific needs, such as the size of your sump pit, the volume of water expected, and noise preferences. CG Plumbing Solutions can help you evaluate these factors and recommend the most suitable option for your Las Vegas home, ensuring optimal performance.",
+        "@type": "Answer",
+        "description": "Sump pumps are either submersible (in-pit, quiet) or pedestal (motor above pit, easier access). Choosing depends on pit size, water volume, and noise preference."
+      }
+    }
+  ],
+  "description": "Sump pumps are either submersible (in-pit, quiet) or pedestal (motor above pit, easier access). Choosing depends on pit size, water volume, and noise preference"
+}

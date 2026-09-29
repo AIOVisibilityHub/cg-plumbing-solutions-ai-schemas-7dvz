@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-a-permit-to-install-an-outdoor-kitchen-gas-line-in-las-vegas",
+  "name": "Do I need a permit to install an outdoor kitchen gas line in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install an outdoor kitchen gas line in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in Las Vegas, North Las Vegas, and Henderson, installing or modifying a gas line for an outdoor kitchen typically requires a permit from the local building department. This is crucial for ensuring the installation meets safety standards and local building codes, which are in place to protect homeowners. A professional plumbing company like CG Plumbing Solutions will handle the permit application process and ensure all work is inspected correctly, guaranteeing compliance and safety for your property.",
+        "@type": "Answer",
+        "description": "Yes, permits are typically required in Las Vegas, North Las Vegas, and Henderson to ensure safety and compliance with local building codes for gas line installations."
+      }
+    }
+  ],
+  "description": "Yes, permits are typically required in Las Vegas, North Las Vegas, and Henderson to ensure safety and compliance with local building codes for gas line installa"
+}

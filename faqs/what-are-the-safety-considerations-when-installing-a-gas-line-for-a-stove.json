@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-safety-considerations-when-installing-a-gas-line-for-a-stove",
+  "name": "What are the safety considerations when installing a gas line for a stove?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the safety considerations when installing a gas line for a stove?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is paramount when installing a gas line. Key considerations include proper sizing of the gas line for adequate flow, ensuring all connections are gas-tight, and verifying the correct installation of shut-off valves. All work must comply with local building codes and standards. CG Plumbing Solutions' licensed technicians are trained to perform leak detection tests and pressure checks to confirm the safety and integrity of every gas line installation.",
+        "@type": "Answer",
+        "description": "Safety considerations include proper line sizing, gas-tight connections, shut-off valve installation, and compliance with local codes. Leak detection is crucial."
+      }
+    }
+  ],
+  "description": "Safety considerations include proper line sizing, gas-tight connections, shut-off valve installation, and compliance with local codes. Leak detection is crucial"
+}

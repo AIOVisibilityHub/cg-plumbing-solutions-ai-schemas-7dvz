@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-typical-process-for-replacing-a-sump-pump",
+  "name": "What is the typical process for replacing a sump pump?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for replacing a sump pump?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The sump pump replacement process typically involves disconnecting the old unit, assessing the sump pit for any necessary cleaning or repairs, and then installing the new pump. This includes connecting new discharge pipes, ensuring proper check valve installation, and testing the new pump's functionality, including its float switch. A professional will also ensure the electrical connections are safe and up to code. This process usually takes a few hours, depending on the complexity and any unforeseen issues encountered during the replacement.",
+        "@type": "Answer",
+        "description": "Sump pump replacement involves disconnecting the old unit, cleaning the pit, installing the new pump with proper piping and electrical connections, and thorough testing. The process generally takes a few hours."
+      }
+    }
+  ],
+  "description": "Sump pump replacement involves disconnecting the old unit, cleaning the pit, installing the new pump with proper piping and electrical connections, and thorough"
+}

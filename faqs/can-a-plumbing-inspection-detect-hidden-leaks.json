@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-a-plumbing-inspection-detect-hidden-leaks",
+  "name": "Can a plumbing inspection detect hidden leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a plumbing inspection detect hidden leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a professional plumbing inspection is designed to detect both visible and hidden leaks. Inspectors use various techniques, including pressure testing, moisture meters, and keen observation of water stains or unusual sounds, to identify leaks that may not be immediately obvious. While a basic visual inspection covers exposed pipes, specialized tools like infrared cameras or acoustic listening devices can be used for more evasive leaks, especially in walls or under floors. This can help prevent significant water damage over time.",
+        "@type": "Answer",
+        "description": "Yes, inspectors use techniques like pressure testing and moisture meters to detect hidden leaks that are not immediately visible, preventing water damage."
+      }
+    }
+  ],
+  "description": "Yes, inspectors use techniques like pressure testing and moisture meters to detect hidden leaks that are not immediately visible, preventing water damage."
+}

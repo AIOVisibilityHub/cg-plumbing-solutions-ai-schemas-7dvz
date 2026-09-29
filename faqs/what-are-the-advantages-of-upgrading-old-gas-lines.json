@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-advantages-of-upgrading-old-gas-lines",
+  "name": "What are the advantages of upgrading old gas lines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of upgrading old gas lines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading old gas lines offers several advantages, primarily enhanced safety and improved system efficiency. Older lines, especially those made of galvanized steel, can corrode internally, leading to leaks or reduced gas flow. Replacing them with modern materials like flexible corrugated stainless steel tubing (CSST) or new black iron pipe minimizes leak risks and ensures optimal gas delivery to appliances. This preparation step can prevent future costly repairs and ensure peace of mind regarding your home's gas system integrity.",
+        "@type": "Answer",
+        "description": "Upgrading old gas lines improves safety by preventing leaks and enhances efficiency by ensuring optimal gas flow to appliances."
+      }
+    }
+  ],
+  "description": "Upgrading old gas lines improves safety by preventing leaks and enhances efficiency by ensuring optimal gas flow to appliances."
+}

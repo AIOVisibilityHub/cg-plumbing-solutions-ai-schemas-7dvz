@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-do-whole-house-water-filters-last-and-how-often-do-they-need-maintenanc",
+  "name": "How long do whole house water filters last, and how often do they need maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do whole house water filters last, and how often do they need maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of whole house water filters varies, typically ranging from 3 months to 10 years, depending on the filter type, water quality, and household water usage. Sediment filters may need changing every 3-6 months, while carbon filters can last 6-12 months. Water softeners often require periodic salt replenishment and resin bed cleaning. Regular maintenance is crucial to ensure the system performs effectively and to prolong its lifespan.",
+        "@type": "Answer",
+        "description": "Whole house filter lifespan varies (3 months to 10 years) by type and usage; regular maintenance, including filter changes, is essential for performance."
+      }
+    }
+  ],
+  "description": "Whole house filter lifespan varies (3 months to 10 years) by type and usage; regular maintenance, including filter changes, is essential for performance."
+}

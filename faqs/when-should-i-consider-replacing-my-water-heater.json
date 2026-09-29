@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-my-water-heater",
+  "name": "When should I consider replacing my water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your water heater if it's over 10-12 years old, frequently leaking, producing rusty water, or no longer heating water efficiently. Older units can become less reliable and more expensive to repair than to replace. The type of water heater (tankless vs. traditional tank) also impacts its lifespan and efficiency. For residents in the Las Vegas area, hard water can sometimes accelerate wear and tear, making proper maintenance or timely replacement crucial. CG Plumbing Solutions can assess your current unit and recommend energy-efficient replacement options tailored to your household's needs.",
+        "@type": "Answer",
+        "description": "Consider replacing your water heater if it's over 10-12 years old, leaking, producing rusty water, or inefficient, especially in hard water areas."
+      }
+    }
+  ],
+  "description": "Consider replacing your water heater if it's over 10-12 years old, leaking, producing rusty water, or inefficient, especially in hard water areas."
+}

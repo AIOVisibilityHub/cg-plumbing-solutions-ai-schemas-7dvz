@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-my-garbage-disposal-stops-working-or-makes-unusual-noises",
+  "name": "What should I do if my garbage disposal stops working or makes unusual noises?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my garbage disposal stops working or makes unusual noises?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your garbage disposal stops working, first check if the reset button (usually red and located on the bottom) has tripped. If it's humming but not grinding, it may have an obstruction. Turn off the power at the breaker, then carefully try to dislodge the object using an Allen wrench in the center hole or tongs. Avoid putting your hand inside. If these steps don't work or if it's making loud, unusual noises, it's best to contact a plumber to diagnose and repair the issue safely.",
+        "@type": "Answer",
+        "description": "Check the reset button; if it hums, try clearing obstructions with an Allen wrench after turning off power. If problems persist or noises are unusual, call a plumber."
+      }
+    }
+  ],
+  "description": "Check the reset button; if it hums, try clearing obstructions with an Allen wrench after turning off power. If problems persist or noises are unusual, call a pl"
+}

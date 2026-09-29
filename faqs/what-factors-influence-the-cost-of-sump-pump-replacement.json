@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-influence-the-cost-of-sump-pump-replacement",
+  "name": "What factors influence the cost of sump pump replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of sump pump replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of sump pump replacement is influenced by several factors, including the type of pump chosen (submersible vs. pedestal), its horsepower, and any necessary modifications to your existing plumbing or electrical systems. For example, upgrading to a higher-capacity pump might require more extensive installation work. Additionally, the complexity of accessing the sump pit can affect labor costs. It's advisable to have a professional assessment to understand the specific requirements for your home in areas like Las Vegas or Henderson.",
+        "@type": "Answer",
+        "description": "Cost factors for sump pump replacement include the pump type and horsepower, required plumbing/electrical modifications, and accessibility of the sump pit. A professional assessment helps determine specific needs."
+      }
+    }
+  ],
+  "description": "Cost factors for sump pump replacement include the pump type and horsepower, required plumbing/electrical modifications, and accessibility of the sump pit. A pr"
+}

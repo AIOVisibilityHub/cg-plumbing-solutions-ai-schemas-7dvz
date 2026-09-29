@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-extend-my-existing-gas-line-for-an-outdoor-kitchen",
+  "name": "Can I extend my existing gas line for an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I extend my existing gas line for an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many cases, you can extend your existing gas line to serve an outdoor kitchen. However, this depends on the capacity of your current gas meter and the size of your existing gas lines. Adding new gas appliances requires careful calculation to ensure your current system can handle the increased demand without compromising performance or safety. A licensed plumber will need to assess your current setup to determine if an extension is feasible or if upgrades to your meter or main line are necessary to safely support additional appliances in your home.",
+        "@type": "Answer",
+        "description": "Extending an existing gas line is possible but depends on your current gas meter and line capacity; a licensed plumber must assess feasibility and safety."
+      }
+    }
+  ],
+  "description": "Extending an existing gas line is possible but depends on your current gas meter and line capacity; a licensed plumber must assess feasibility and safety."
+}

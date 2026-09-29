@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-have-my-residential-plumbing-system-inspected",
+  "name": "How often should I have my residential plumbing system inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my residential plumbing system inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to have your residential plumbing system inspected every two years, or annually if your home is older or you've noticed recurring minor issues. Regular inspections can help identify potential problems, such as small leaks, corrosion, or sediment buildup, before they escalate into costly emergencies. For homes in the Las Vegas valley, where hard water is common, more frequent checks on water heaters and pipes can be beneficial. CG Plumbing Solutions can perform routine preventative maintenance to extend the lifespan of your plumbing system.",
+        "@type": "Answer",
+        "description": "Inspect your plumbing every two years, or annually for older homes, to prevent major issues and extend system lifespan."
+      }
+    }
+  ],
+  "description": "Inspect your plumbing every two years, or annually for older homes, to prevent major issues and extend system lifespan."
+}

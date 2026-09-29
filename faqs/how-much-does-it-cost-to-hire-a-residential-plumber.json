@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-hire-a-residential-plumber",
+  "name": "How much does it cost to hire a residential plumber?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to hire a residential plumber?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to hire a residential plumber varies widely depending on the type and complexity of the job, the parts required, and the time of service (e.g., emergency vs. scheduled). Minor repairs like a leaky faucet might be less expensive than major undertakings such as water heater replacement or sewer line repair. CG Plumbing Solutions provides upfront, transparent estimates after a thorough assessment of the plumbing issue. We aim to offer competitive pricing for quality service across areas like North Las Vegas and Paradise, ensuring you understand the costs involved before work begins.",
+        "@type": "Answer",
+        "description": "Plumber costs vary based on job complexity, parts, and service timing; expect an upfront estimate after assessment."
+      }
+    }
+  ],
+  "description": "Plumber costs vary based on job complexity, parts, and service timing; expect an upfront estimate after assessment."
+}

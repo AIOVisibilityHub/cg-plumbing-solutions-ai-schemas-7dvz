@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-water-softener",
+  "name": "How long does it take to install a water softener?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a water softener?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation of a standard water softener typically takes 2-4 hours, depending on your home's existing plumbing configuration and whether new piping is required. The process involves identifying the main water line, cutting into it, and plumbing the softener into the system, often near the water heater or main water entry point. Our technicians at CG Plumbing Solutions aim to complete the installation efficiently while ensuring all connections are secure and the system is functioning correctly.",
+        "@type": "Answer",
+        "description": "Water softener installation usually takes 2-4 hours. It involves connecting the unit to your main water line. CG Plumbing Solutions ensures efficient and correct setup."
+      }
+    }
+  ],
+  "description": "Water softener installation usually takes 2-4 hours. It involves connecting the unit to your main water line. CG Plumbing Solutions ensures efficient and correc"
+}

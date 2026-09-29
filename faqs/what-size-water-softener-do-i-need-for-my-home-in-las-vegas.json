@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-size-water-softener-do-i-need-for-my-home-in-las-vegas",
+  "name": "What size water softener do I need for my home in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What size water softener do I need for my home in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The size of the water softener needed for your home in Las Vegas depends on your household's daily water consumption and the hardness level of your water, which is particularly high in the region. Softeners are rated by grains of hardness they can remove before regeneration. A decision factor is to estimate your average daily water usage (e.g., 75 gallons per person) and multiply it by the local water hardness (typically around 20 grains per gallon in Las Vegas) to determine the necessary capacity. A professional assessment from CG Plumbing Solutions can ensure accurate sizing.",
+        "@type": "Answer",
+        "description": "The correct water softener size depends on your household's daily water usage and the high hardness level of Las Vegas water. Estimate usage and consult a professional for accurate sizing."
+      }
+    }
+  ],
+  "description": "The correct water softener size depends on your household's daily water usage and the high hardness level of Las Vegas water. Estimate usage and consult a profe"
+}

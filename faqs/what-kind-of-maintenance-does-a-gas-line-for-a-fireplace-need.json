@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-maintenance-does-a-gas-line-for-a-fireplace-need",
+  "name": "What kind of maintenance does a gas line for a fireplace need?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does a gas line for a fireplace need?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gas line for a fireplace generally requires minimal maintenance, but periodic professional inspections are crucial for safety and longevity. This includes checking for leaks, inspecting the condition of the pipes for corrosion or damage, and ensuring all connections are secure. It's also important to ensure that the gas shut-off valve is easily accessible and in good working order. Process Clarity: While homeowners can perform basic visual checks, a professional from CG Plumbing Solutions can identify subtle issues or wear that might not be obvious, preventing potential hazards before they escalate.",
+        "@type": "Answer",
+        "description": "Gas lines need periodic professional inspections for leaks, corrosion, damage, and secure connections, ensuring the shut-off valve works properly."
+      }
+    }
+  ],
+  "description": "Gas lines need periodic professional inspections for leaks, corrosion, damage, and secure connections, ensuring the shut-off valve works properly."
+}

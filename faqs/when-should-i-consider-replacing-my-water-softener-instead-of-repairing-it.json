@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-my-water-softener-instead-of-repairing-it",
+  "name": "When should I consider replacing my water softener instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my water softener instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your water softener when repair costs approach or exceed half the price of a new unit, or if the system is old (typically over 10-15 years) and frequently breaks down. Repeated repairs on an aging unit can become less cost-effective than investing in a new, more efficient model. Our technicians can provide an assessment to help you make this practical tradeoff between repair and replacement.",
+        "@type": "Answer",
+        "description": "Consider replacement if repair costs are over half the price of a new unit, or if an old unit (10-15+ years) frequently breaks down. This can be a more cost-effective long-term solution."
+      }
+    }
+  ],
+  "description": "Consider replacement if repair costs are over half the price of a new unit, or if an old unit (10-15+ years) frequently breaks down. This can be a more cost-eff"
+}

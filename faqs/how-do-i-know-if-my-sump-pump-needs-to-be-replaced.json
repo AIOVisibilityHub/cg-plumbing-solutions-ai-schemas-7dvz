@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-sump-pump-needs-to-be-replaced",
+  "name": "How do I know if my sump pump needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my sump pump needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your sump pump may need replacement. These include unusual noises like grinding or banging, frequent cycling on and off, visible rust or corrosion on the unit, or if the pump runs continuously without much water present. If your sump pump is over 7-10 years old, or if it fails to activate during heavy rainfall, it's a strong indication that it's nearing the end of its service life. Regular checks of your sump pump's operation can help identify these issues early.",
+        "@type": "Answer",
+        "description": "Signs your sump pump needs replacement include unusual noises, frequent cycling, visible rust, continuous running, or failure to activate during heavy rainfall. Pumps over 7-10 years old are also candidates for replacement."
+      }
+    }
+  ],
+  "description": "Signs your sump pump needs replacement include unusual noises, frequent cycling, visible rust, continuous running, or failure to activate during heavy rainfall."
+}

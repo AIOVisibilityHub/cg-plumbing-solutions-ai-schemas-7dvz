@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-steps-are-involved-in-the-professional-installation-of-a-battery-backup-sum",
+  "name": "What steps are involved in the professional installation of a battery backup sump pump?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the professional installation of a battery backup sump pump?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The professional installation process typically begins with an assessment of your existing sump pump system and electrical setup to determine the best placement and connection points for the backup unit and battery. This is followed by the physical mounting of the backup pump, battery box, and control unit, ensuring all plumbing and electrical connections are secure and up to code. Finally, the system is thoroughly tested to confirm it activates correctly when the primary power is interrupted and effectively pumps water. As part of our service in areas like North Las Vegas, we ensure that the entire process is transparent, explaining each step and demonstrating the system's operation so you understand your new flood protection.",
+        "@type": "Answer",
+        "description": "Installation involves assessing the existing system, mounting the backup unit and battery, securing all connections, and thorough testing. We ensure transparency throughout the process."
+      }
+    }
+  ],
+  "description": "Installation involves assessing the existing system, mounting the backup unit and battery, securing all connections, and thorough testing. We ensure transparenc"
+}

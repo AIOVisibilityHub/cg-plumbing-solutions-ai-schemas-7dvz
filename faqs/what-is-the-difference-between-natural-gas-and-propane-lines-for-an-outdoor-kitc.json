@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-natural-gas-and-propane-lines-for-an-outdoor-kitc",
+  "name": "What is the difference between natural gas and propane lines for an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between natural gas and propane lines for an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in the fuel source and delivery method. Natural gas is supplied directly to your home via an underground utility line, requiring a permanent connection. Propane, on the other hand, is stored in portable tanks that need to be refilled or exchanged. Natural gas is often more cost-effective for frequent use, while propane offers flexibility in placement. The type of gas line installed depends on your preference and whether natural gas is readily available at your property in areas like Enterprise or Spring Valley. Each fuel type also requires specific appliance compatibility.",
+        "@type": "Answer",
+        "description": "Natural gas is piped in and permanent, while propane uses refillable tanks; choice depends on availability, usage, and appliance compatibility."
+      }
+    }
+  ],
+  "description": "Natural gas is piped in and permanent, while propane uses refillable tanks; choice depends on availability, usage, and appliance compatibility."
+}

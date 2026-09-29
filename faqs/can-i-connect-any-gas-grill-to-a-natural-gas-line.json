@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-connect-any-gas-grill-to-a-natural-gas-line",
+  "name": "Can I connect any gas grill to a natural gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I connect any gas grill to a natural gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not all gas grills are compatible with natural gas lines. Grills are typically designed for either natural gas or propane, and the orifices and regulators differ between the two. A propane grill cannot be directly connected to a natural gas line without a conversion kit specifically designed for that model. Attempting to connect an incompatible grill is a significant safety hazard. CG Plumbing Solutions can help assess your grill's compatibility and advise on safe connection or conversion options.",
+        "@type": "Answer",
+        "description": "No, not all gas grills are compatible with natural gas; propane grills require specific conversion kits for safe connection."
+      }
+    }
+  ],
+  "description": "No, not all gas grills are compatible with natural gas; propane grills require specific conversion kits for safe connection."
+}

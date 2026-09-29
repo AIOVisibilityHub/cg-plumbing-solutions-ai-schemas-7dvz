@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-getting-my-water-tested",
+  "name": "When should I consider getting my water tested?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider getting my water tested?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider water testing if you notice changes in your water's taste, odor, or appearance, experience recurring plumbing issues like clogs or corrosion, or are moving into an older home. It's also advisable if someone in your household has unexplained health issues. In areas like Las Vegas, if you're on a private well or have concerns about specific local contaminants, regular testing is a good preventative measure. CG Plumbing Solutions recommends testing every few years or after any significant plumbing work to ensure ongoing quality.",
+        "@type": "Answer",
+        "description": "Consider testing if water taste, odor, or appearance changes, if plumbing issues recur, when moving into an older home, or if health concerns arise. Regular testing is also advised for private wells or specific local contaminant concerns."
+      }
+    }
+  ],
+  "description": "Consider testing if water taste, odor, or appearance changes, if plumbing issues recur, when moving into an older home, or if health concerns arise. Regular tes"
+}

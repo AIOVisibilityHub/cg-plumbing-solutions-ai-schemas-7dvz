@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-there-different-types-of-batteries-used-in-backup-sump-pump-systems",
+  "name": "Are there different types of batteries used in backup sump pump systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of batteries used in backup sump pump systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are typically two main types of batteries used: lead-acid and AGM (Absorbed Glass Mat) batteries. Lead-acid batteries are more common and generally less expensive, but they may require occasional water refilling and proper ventilation. AGM batteries are maintenance-free, spill-proof, and can tolerate a wider range of temperatures, making them a premium option. When choosing, consider the battery's lifespan, cost, and maintenance requirements, as well as the ventilation available in your sump pump area. Our team can explain the practical tradeoffs between these battery types and help you select the best fit for your specific system and budget, ensuring reliable backup power.",
+        "@type": "Answer",
+        "description": "Two main battery types are lead-acid (common, need maintenance) and AGM (maintenance-free, premium). Consider cost, lifespan, and ventilation when choosing."
+      }
+    }
+  ],
+  "description": "Two main battery types are lead-acid (common, need maintenance) and AGM (maintenance-free, premium). Consider cost, lifespan, and ventilation when choosing."
+}

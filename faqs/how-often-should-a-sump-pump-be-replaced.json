@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-a-sump-pump-be-replaced",
+  "name": "How often should a sump pump be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should a sump pump be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, a well-maintained sump pump can last between 7 to 10 years. However, its lifespan can be affected by factors such as how frequently it operates, the cleanliness of the water it pumps, and the quality of the original installation. If your sump pump is older than 7 years, it’s beneficial to have it inspected regularly. Proactive replacement before a complete failure can prevent water damage and costly repairs, especially as components wear down over time.",
+        "@type": "Answer",
+        "description": "Sump pumps typically last 7-10 years, though lifespan varies with usage and water quality. Regular inspections after 7 years are recommended to prevent unexpected failure and potential water damage."
+      }
+    }
+  ],
+  "description": "Sump pumps typically last 7-10 years, though lifespan varies with usage and water quality. Regular inspections after 7 years are recommended to prevent unexpect"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-gas-line-for-a-barbecue-grill",
+  "name": "How long does it take to install a gas line for a barbecue grill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a gas line for a barbecue grill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a gas line to a barbecue grill can vary depending on the complexity of the project, including the distance from the main gas line, the need for trenching, and the type of materials used. Most standard installations can be completed within a single day. However, more complex jobs requiring extensive trenching or difficult access might extend to two days. During our initial consultation, CG Plumbing Solutions assesses your property to provide a more accurate time estimate and discuss any factors that might affect the timeline.",
+        "@type": "Answer",
+        "description": "Most standard gas line installations for a BBQ grill can be completed within a day, though complex projects may take longer."
+      }
+    }
+  ],
+  "description": "Most standard gas line installations for a BBQ grill can be completed within a day, though complex projects may take longer."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-or-upgrading-my-dryer-gas-line",
+  "name": "When should I consider replacing or upgrading my dryer gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing or upgrading my dryer gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing or upgrading your dryer gas line if it's old, shows signs of wear, corrosion, or leaks, or if you're upgrading to a new dryer that has different gas supply requirements. An outdated or damaged gas line can pose significant safety risks. Additionally, if you're undertaking a major laundry room renovation or moving the dryer to a new location, it's an ideal time to assess and potentially upgrade the gas line to meet current codes and appliance needs. Our team in Sun City Summerlin and Rhodes Ranch can provide a professional evaluation.",
+        "@type": "Answer",
+        "description": "Replace or upgrade your gas line if it's old, damaged, leaking, or if your new dryer has different requirements. It's also wise during renovations or relocations."
+      }
+    }
+  ],
+  "description": "Replace or upgrade your gas line if it's old, damaged, leaking, or if your new dryer has different requirements. It's also wise during renovations or relocation"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-can-i-prevent-water-heater-issues-and-extend-its-lifespan",
+  "name": "How can I prevent water heater issues and extend its lifespan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent water heater issues and extend its lifespan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent water heater issues and extend its lifespan, schedule annual professional maintenance, which includes flushing the tank to remove sediment buildup and inspecting the anode rod. Sediment accumulation reduces efficiency and can lead to premature failure. Additionally, ensure the temperature setting is not excessively high, as this can accelerate wear. Regular maintenance helps identify minor issues before they become major problems, saving on costly emergency repairs.",
+        "@type": "Answer",
+        "description": "Extend your water heater's life by scheduling annual maintenance, including flushing the tank to remove sediment and checking the anode rod."
+      }
+    }
+  ],
+  "description": "Extend your water heater's life by scheduling annual maintenance, including flushing the tank to remove sediment and checking the anode rod."
+}

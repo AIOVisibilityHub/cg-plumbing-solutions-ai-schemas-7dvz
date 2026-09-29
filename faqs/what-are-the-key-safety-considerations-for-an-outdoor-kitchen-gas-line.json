@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-key-safety-considerations-for-an-outdoor-kitchen-gas-line",
+  "name": "What are the key safety considerations for an outdoor kitchen gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key safety considerations for an outdoor kitchen gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key safety considerations for an outdoor kitchen gas line include proper sizing of the line to ensure adequate gas flow, correct materials that can withstand outdoor conditions and corrosion, and professional installation by licensed technicians. It is critical to have all connections sealed correctly to prevent leaks and to install appropriate shut-off valves at both the main supply and the appliance. Regular inspections and leak detection are also important. We adhere to all local safety codes in areas like Summerlin and Paradise to ensure your installation is secure and reliable.",
+        "@type": "Answer",
+        "description": "Safety involves proper line sizing, durable materials, professional installation, sealed connections, shut-off valves, and adherence to local safety codes."
+      }
+    }
+  ],
+  "description": "Safety involves proper line sizing, durable materials, professional installation, sealed connections, shut-off valves, and adherence to local safety codes."
+}

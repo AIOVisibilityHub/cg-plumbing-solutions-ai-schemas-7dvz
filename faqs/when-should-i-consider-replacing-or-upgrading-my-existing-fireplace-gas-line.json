@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/when-should-i-consider-replacing-or-upgrading-my-existing-fireplace-gas-line",
+  "name": "When should I consider replacing or upgrading my existing fireplace gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing or upgrading my existing fireplace gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing or upgrading your fireplace gas line if you notice any signs of corrosion, damage, persistent leaks, or if your current line is undersized for a new, more powerful gas fireplace insert. Age is also a factor, as older lines may not meet current safety standards. A key Decision Factor is if you're upgrading to a higher BTU fireplace; an undersized line can lead to poor flame performance. CG Plumbing Solutions can perform an inspection to assess the condition and adequacy of your current gas line and recommend the best course of action.",
+        "@type": "Answer",
+        "description": "Consider replacement if you see corrosion, damage, leaks, or if the line is undersized for a new, higher BTU fireplace."
+      }
+    }
+  ],
+  "description": "Consider replacement if you see corrosion, damage, leaks, or if the line is undersized for a new, higher BTU fireplace."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-safety-precautions-are-taken-during-gas-line-installation-or-repair",
+  "name": "What safety precautions are taken during gas line installation or repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety precautions are taken during gas line installation or repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During gas line installation or repair, stringent safety precautions are always followed. This includes shutting off the main gas supply, conducting thorough leak tests after work is completed, and ensuring proper ventilation. Technicians also wear appropriate personal protective equipment and use specialized tools. At CG Plumbing Solutions, our plumbers prioritize safety and ensure all work complies with established gas safety protocols to protect your home and family.",
+        "@type": "Answer",
+        "description": "Safety precautions include shutting off gas, leak testing, proper ventilation, and using specialized equipment."
+      }
+    }
+  ],
+  "description": "Safety precautions include shutting off gas, leak testing, proper ventilation, and using specialized equipment."
+}

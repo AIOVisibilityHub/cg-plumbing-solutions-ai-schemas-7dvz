@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-whole-house-water-filtration-system",
+  "name": "What is a whole house water filtration system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a whole house water filtration system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole house water filtration system treats all the water entering your home from a single point, typically near the main water line. This means filtered water is available at every tap, shower, and appliance. These systems are designed to remove various contaminants, improving water quality for drinking, bathing, and general household use. The type of filter installed will determine which specific contaminants are targeted.",
+        "@type": "Answer",
+        "description": "A whole house water filtration system filters all water entering your home, providing clean water at every tap and appliance."
+      }
+    }
+  ],
+  "description": "A whole house water filtration system filters all water entering your home, providing clean water at every tap and appliance."
+}

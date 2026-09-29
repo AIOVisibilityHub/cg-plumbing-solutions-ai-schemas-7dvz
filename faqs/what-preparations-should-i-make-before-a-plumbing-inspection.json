@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-preparations-should-i-make-before-a-plumbing-inspection",
+  "name": "What preparations should I make before a plumbing inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before a plumbing inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a plumbing inspection, it's helpful to ensure that areas around accessible plumbing, such as under sinks, around water heaters, and utility access panels, are clear of obstructions. Having a list of any plumbing concerns or observations you've made, such as dripping faucets or slow drains, can also guide the inspector. For example, if you've noticed a sudden drop in water pressure specifically in your master bathroom in Summerlin, mentioning this upfront can help the inspector focus their attention and diagnose potential issues more efficiently.",
+        "@type": "Answer",
+        "description": "Clear access to plumbing areas and provide a list of any concerns you've noticed, such as a specific drop in water pressure in a particular area of your home."
+      }
+    }
+  ],
+  "description": "Clear access to plumbing areas and provide a list of any concerns you've noticed, such as a specific drop in water pressure in a particular area of your home."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-look-for-when-hiring-a-plumber-to-install-a-gas-line-for-my-stove",
+  "name": "What should I look for when hiring a plumber to install a gas line for my stove?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when hiring a plumber to install a gas line for my stove?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When hiring a plumber for gas line installation, ensure they are licensed and insured to perform gas work in the state of Nevada. Look for experience specifically with gas line installations and ask for references. Verifying their licensing helps ensure that the work will meet all safety regulations and local codes. CG Plumbing Solutions provides licensed and experienced technicians, giving customers peace of mind for safe and compliant installations.",
+        "@type": "Answer",
+        "description": "Look for licensed and insured plumbers experienced in gas line installations, especially those familiar with Nevada regulations, to ensure safety and compliance."
+      }
+    }
+  ],
+  "description": "Look for licensed and insured plumbers experienced in gas line installations, especially those familiar with Nevada regulations, to ensure safety and compliance"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-that-my-existing-sewage-ejector-pump-needs-repair-or-r",
+  "name": "What are the common signs that my existing sewage ejector pump needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my existing sewage ejector pump needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your sewage ejector pump needs attention include unusual noises coming from the pump, a persistent foul odor in the area, slow draining fixtures, or the pump running continuously or not at all. You might also notice wastewater backing up into your basement or other low-level plumbing fixtures. Ignoring these signs can lead to significant plumbing issues and property damage. CG Plumbing Solutions recommends contacting us immediately if you observe any of these symptoms to prevent further complications.",
+        "@type": "Answer",
+        "description": "Signs include unusual noises, foul odors, slow drains, continuous running, or no operation, and wastewater backups. Prompt action is crucial to prevent damage."
+      }
+    }
+  ],
+  "description": "Signs include unusual noises, foul odors, slow drains, continuous running, or no operation, and wastewater backups. Prompt action is crucial to prevent damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-sewage-ejector-pump-and-when-do-i-need-one",
+  "name": "What is a sewage ejector pump and when do I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a sewage ejector pump and when do I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sewage ejector pump is a specialized pump used to move wastewater from fixtures located below the main sewer line, such as in a basement bathroom or laundry room. It's necessary when gravity alone cannot drain the sewage into the municipal sewer system or a septic tank. You generally need one if you're installing plumbing fixtures in a basement or any area where the drain lines are lower than the main sewer line, ensuring proper waste removal and preventing back-ups. CG Plumbing Solutions can assess your home's layout to determine if an ejector pump is essential for your plumbing needs.",
+        "@type": "Answer",
+        "description": "A sewage ejector pump moves wastewater from below the main sewer line. It's needed for basement plumbing or any area where gravity drainage isn't possible."
+      }
+    }
+  ],
+  "description": "A sewage ejector pump moves wastewater from below the main sewer line. It's needed for basement plumbing or any area where gravity drainage isn't possible."
+}

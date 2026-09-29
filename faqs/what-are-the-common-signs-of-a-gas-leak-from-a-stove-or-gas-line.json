@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-of-a-gas-leak-from-a-stove-or-gas-line",
+  "name": "What are the common signs of a gas leak from a stove or gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of a gas leak from a stove or gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a gas leak include a distinct sulfur-like odor (like rotten eggs), a hissing sound near the appliance or pipe, or dying vegetation in the area of an outdoor line. If you suspect a gas leak, evacuate the premises immediately, call your gas company's emergency line, and then contact a professional plumber like CG Plumbing Solutions. Do not turn lights on or off or use any electrical devices, as this is a critical safety step.",
+        "@type": "Answer",
+        "description": "Signs of a gas leak include a rotten egg smell, a hissing sound, or dying plants. Evacuate, call your gas company, and then a plumber."
+      }
+    }
+  ],
+  "description": "Signs of a gas leak include a rotten egg smell, a hissing sound, or dying plants. Evacuate, call your gas company, and then a plumber."
+}

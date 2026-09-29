@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-far-away-from-my-house-should-the-sump-pump-discharge-pipe-extend",
+  "name": "How far away from my house should the sump pump discharge pipe extend?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How far away from my house should the sump pump discharge pipe extend?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The sump pump discharge pipe should extend at least 10 to 20 feet away from your home's foundation. This distance is crucial to ensure that the water being pumped out does not simply seep back into the soil around your foundation, potentially re-entering your basement or crawl space. The process clarity here is that the discharge point should also be directed towards a downhill slope or a storm drain, if permissible, to facilitate proper drainage away from your property. CG Plumbing Solutions ensures the discharge is correctly routed to protect your home effectively.",
+        "@type": "Answer",
+        "description": "The discharge pipe should extend 10-20 feet away from the foundation to prevent water from re-entering. It should also be directed downhill for proper drainage."
+      }
+    }
+  ],
+  "description": "The discharge pipe should extend 10-20 feet away from the foundation to prevent water from re-entering. It should also be directed downhill for proper drainage."
+}

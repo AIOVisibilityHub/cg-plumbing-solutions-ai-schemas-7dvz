@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-does-a-house-plumbing-inspection-typically-cover",
+  "name": "What does a house plumbing inspection typically cover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a house plumbing inspection typically cover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive house plumbing inspection generally involves a visual assessment of exposed plumbing, checking for leaks, corrosion, and proper drainage in bathrooms, kitchens, and utility rooms. Inspectors also examine water heaters, sump pumps, and outdoor spigots. For properties in the Las Vegas area, inspectors often pay close attention to potential issues caused by hard water, such as mineral buildup in pipes or appliances, which can affect their efficiency and lifespan. This detailed check helps identify both immediate concerns and potential future problems.",
+        "@type": "Answer",
+        "description": "A typical plumbing inspection covers exposed pipes, fixtures, water heaters, and drainage systems, with special attention to hard water effects common in the Las Vegas area."
+      }
+    }
+  ],
+  "description": "A typical plumbing inspection covers exposed pipes, fixtures, water heaters, and drainage systems, with special attention to hard water effects common in the La"
+}

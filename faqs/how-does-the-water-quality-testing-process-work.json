@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-does-the-water-quality-testing-process-work",
+  "name": "How does the water quality testing process work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the water quality testing process work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The water quality testing process typically begins with a consultation to understand your concerns and determine appropriate tests. A professional plumber from CG Plumbing Solutions will collect water samples from specific taps in your home, ensuring proper sterile techniques. These samples are then sent to a certified lab for analysis. Once results are available, we'll review them with you, explain any detected issues, and recommend tailored solutions, such as filtration or water softening systems, specifically designed for conditions often found in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "The process involves a consultation, professional collection of water samples by a plumber, lab analysis, and a review of results with recommended solutions."
+      }
+    }
+  ],
+  "description": "The process involves a consultation, professional collection of water samples by a plumber, lab analysis, and a review of results with recommended solutions."
+}

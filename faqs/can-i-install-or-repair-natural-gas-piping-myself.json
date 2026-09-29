@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-install-or-repair-natural-gas-piping-myself",
+  "name": "Can I install or repair natural gas piping myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install or repair natural gas piping myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, natural gas piping installation and repair should only be performed by licensed and qualified professionals. Working with natural gas is inherently dangerous due to the risks of leaks, explosions, and carbon monoxide poisoning if not handled correctly. Professionals have the necessary training, tools, and knowledge of safety protocols and local codes to ensure the work is done safely and correctly. This is a critical decision factor, as DIY attempts can lead to severe hazards and may violate local ordinances, impacting insurance coverage.",
+        "@type": "Answer",
+        "description": "No, natural gas piping work is dangerous and must be done by licensed professionals due to safety risks and compliance with local codes."
+      }
+    }
+  ],
+  "description": "No, natural gas piping work is dangerous and must be done by licensed professionals due to safety risks and compliance with local codes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-black-iron-pipe-and-csst-for-gas-lines",
+  "name": "What is the difference between black iron pipe and CSST for gas lines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between black iron pipe and CSST for gas lines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Black iron pipe and Corrugated Stainless Steel Tubing (CSST) are common materials for gas lines, each with distinct characteristics. Black iron pipe is a rigid, durable material known for its strength and resistance to damage, often used for exposed runs. CSST is a flexible, stainless steel pipe with a yellow or black protective jacket, allowing for easier routing through walls and ceilings with fewer fittings. While CSST can simplify installation in certain scenarios, potentially reducing labor time, black iron often offers greater robustness in areas prone to physical impact. The choice between them depends on installation requirements, local codes, and specific application needs, which a professional can assess during a consultation.",
+        "@type": "Answer",
+        "description": "Black iron pipe is rigid and durable, while CSST is flexible and easier to route. The choice depends on installation needs, codes, and specific application, assessed by a professional."
+      }
+    }
+  ],
+  "description": "Black iron pipe is rigid and durable, while CSST is flexible and easier to route. The choice depends on installation needs, codes, and specific application, ass"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-choose-the-right-size-water-softener-for-my-home",
+  "name": "How do I choose the right size water softener for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size water softener for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right size water softener depends on your household's daily water consumption and the hardness level of your water. An undersized unit may not effectively soften water, while an oversized one can be an unnecessary expense. CG Plumbing Solutions can help calculate the appropriate capacity based on these factors to ensure efficient operation.",
+        "@type": "Answer",
+        "description": "Size is determined by your household's daily water usage and water hardness level to ensure efficient operation."
+      }
+    }
+  ],
+  "description": "Size is determined by your household's daily water usage and water hardness level to ensure efficient operation."
+}

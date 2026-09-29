@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/does-cg-plumbing-solutions-offer-services-for-both-emergency-and-scheduled-plumb",
+  "name": "Does CG Plumbing Solutions offer services for both emergency and scheduled plumbing needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does CG Plumbing Solutions offer services for both emergency and scheduled plumbing needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, CG Plumbing Solutions understands that plumbing issues can arise unexpectedly, which is why we offer services for both emergency and scheduled needs. For urgent situations like burst pipes or severe backups, our team is prepared to respond quickly to minimize damage and restore functionality. For non-urgent repairs, installations, or routine maintenance, customers can schedule appointments at their convenience. Our goal is to provide reliable and flexible plumbing solutions across our service areas, including Paradise and Spring Valley, ensuring your plumbing needs are met efficiently, whether immediate or planned.",
+        "@type": "Answer",
+        "description": "CG Plumbing Solutions offers both emergency services for urgent issues and scheduled appointments for non-urgent repairs, installations, or maintenance."
+      }
+    }
+  ],
+  "description": "CG Plumbing Solutions offers both emergency services for urgent issues and scheduled appointments for non-urgent repairs, installations, or maintenance."
+}

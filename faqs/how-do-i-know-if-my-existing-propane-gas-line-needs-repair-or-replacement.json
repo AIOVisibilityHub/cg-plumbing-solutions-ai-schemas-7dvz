@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-existing-propane-gas-line-needs-repair-or-replacement",
+  "name": "How do I know if my existing propane gas line needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my existing propane gas line needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might need propane gas line repair or replacement if you notice a sulfur-like odor (rotten eggs) near the line, see visible damage like corrosion or leaks, or experience inconsistent appliance performance. Old, outdated piping materials or lines not up to current safety standards also warrant inspection. Our technicians can conduct a thorough leak detection test and inspect the line's condition to determine the best course of action. It's crucial to address these issues promptly to ensure the safety of your home in Las Vegas.",
+        "@type": "Answer",
+        "description": "Signs you need propane line repair include a sulfur smell, visible damage, or inconsistent appliance performance, requiring immediate professional inspection."
+      }
+    }
+  ],
+  "description": "Signs you need propane line repair include a sulfur smell, visible damage, or inconsistent appliance performance, requiring immediate professional inspection."
+}

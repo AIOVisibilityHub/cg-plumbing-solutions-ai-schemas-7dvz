@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-prevent-future-plumbing-problems-in-my-home",
+  "name": "Can I prevent future plumbing problems in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent future plumbing problems in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many common plumbing problems can be prevented with regular maintenance and mindful habits. Avoid pouring grease or harsh chemicals down drains, use drain strainers to catch hair and food particles, and be mindful of what you flush down toilets. Regularly check for small leaks under sinks and around appliances. For homes in the Las Vegas service area, periodic flushing of your water heater can help prevent sediment buildup due to hard water, extending its life and efficiency. CG Plumbing Solutions offers maintenance tips and preventative services to help you keep your plumbing system in top condition.",
+        "@type": "Answer",
+        "description": "Prevent plumbing issues by avoiding grease/chemicals in drains, using strainers, and performing regular checks and maintenance like water heater flushing."
+      }
+    }
+  ],
+  "description": "Prevent plumbing issues by avoiding grease/chemicals in drains, using strainers, and performing regular checks and maintenance like water heater flushing."
+}

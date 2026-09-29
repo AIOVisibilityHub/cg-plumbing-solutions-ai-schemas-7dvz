@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-should-i-consider-when-choosing-a-plumber-for-my-outdoor-kitchen-ga",
+  "name": "What factors should I consider when choosing a plumber for my outdoor kitchen gas line installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a plumber for my outdoor kitchen gas line installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a plumber for your outdoor kitchen gas line, consider their experience with gas line installations, especially for outdoor applications, and verify they are licensed and insured in Nevada. It's important to ask about their knowledge of local building codes and permitting requirements in areas like Seven Hills or Silverado Ranch. Look for a company that offers clear communication, provides detailed estimates, and has a strong reputation for safety and quality workmanship. CG Plumbing Solutions emphasizes adherence to all regulations and provides transparent project details.",
+        "@type": "Answer",
+        "description": "Consider the plumber's experience, licensing, insurance, knowledge of local codes, communication, and reputation for safety and quality."
+      }
+    }
+  ],
+  "description": "Consider the plumber's experience, licensing, insurance, knowledge of local codes, communication, and reputation for safety and quality."
+}

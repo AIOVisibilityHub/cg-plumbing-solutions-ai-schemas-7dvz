@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-a-new-gas-line-for-a-pool-heater",
+  "name": "How long does it take to install a new gas line for a pool heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new gas line for a pool heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a new pool heater gas line can vary significantly, ranging from a few hours to a full day or more, depending on the complexity of the project. Factors influencing this include the length of the run, whether trenching is required, and the ease of access to the main gas supply. An accurate timeline can be provided after a detailed on-site assessment by a CG Plumbing Solutions professional.",
+        "@type": "Answer",
+        "description": "Installation time varies, from a few hours to a day or more, depending on line length, trenching, and access."
+      }
+    }
+  ],
+  "description": "Installation time varies, from a few hours to a day or more, depending on line length, trenching, and access."
+}

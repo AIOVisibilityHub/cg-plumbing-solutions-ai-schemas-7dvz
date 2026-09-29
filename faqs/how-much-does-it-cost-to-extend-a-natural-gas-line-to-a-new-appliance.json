@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-extend-a-natural-gas-line-to-a-new-appliance",
+  "name": "How much does it cost to extend a natural gas line to a new appliance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to extend a natural gas line to a new appliance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to extend a natural gas line varies significantly based on factors such as the length of the new line, the type of piping material used, the complexity of routing (e.g., through walls or crawl spaces), and the need for permits. To get an accurate estimate, it's essential to have a licensed plumber assess your specific situation. CG Plumbing Solutions provides upfront pricing after an on-site evaluation, allowing for a decision factor based on a clear understanding of the project's scope.",
+        "@type": "Answer",
+        "description": "Cost to extend a gas line depends on length, materials, routing complexity, and permits. A plumber can provide an accurate, upfront estimate."
+      }
+    }
+  ],
+  "description": "Cost to extend a gas line depends on length, materials, routing complexity, and permits. A plumber can provide an accurate, upfront estimate."
+}

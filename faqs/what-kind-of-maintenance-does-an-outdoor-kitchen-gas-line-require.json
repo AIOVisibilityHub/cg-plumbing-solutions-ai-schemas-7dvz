@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-kind-of-maintenance-does-an-outdoor-kitchen-gas-line-require",
+  "name": "What kind of maintenance does an outdoor kitchen gas line require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does an outdoor kitchen gas line require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Outdoor kitchen gas lines require minimal but important maintenance to ensure safety and longevity. Regular inspections for leaks, corrosion, or damage to the line and connections are crucial, especially after extreme weather events. Keeping the area around the gas line clear of debris or landscaping overgrowth is also recommended. It's advisable to have a licensed plumber perform a professional check-up periodically to ensure all components are in good working order and comply with current standards, preventing potential issues before they become serious.",
+        "@type": "Answer",
+        "description": "Maintenance involves regular inspections for leaks, corrosion, and damage, keeping the area clear, and periodic professional check-ups by a licensed plumber."
+      }
+    }
+  ],
+  "description": "Maintenance involves regular inspections for leaks, corrosion, and damage, keeping the area clear, and periodic professional check-ups by a licensed plumber."
+}

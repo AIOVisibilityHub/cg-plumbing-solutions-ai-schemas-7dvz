@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-install-a-new-gas-line-for-a-dryer",
+  "name": "How much does it cost to install a new gas line for a dryer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a new gas line for a dryer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a new gas line for a dryer varies depending on factors such as the distance from the main gas supply, the complexity of routing the line, and the materials needed. It also includes the labor for installation and any necessary permits. To get an accurate estimate, CG Plumbing Solutions offers on-site assessments in areas like North Las Vegas and Paradise to determine the specific requirements and provide a detailed quote tailored to your home's layout.",
+        "@type": "Answer",
+        "description": "Costs vary based on distance from the main gas supply, routing complexity, materials, and labor. An on-site assessment is needed for an accurate quote."
+      }
+    }
+  ],
+  "description": "Costs vary based on distance from the main gas supply, routing complexity, materials, and labor. An on-site assessment is needed for an accurate quote."
+}

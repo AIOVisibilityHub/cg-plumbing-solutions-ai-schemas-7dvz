@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-get-a-plumbing-inspection-for-my-home",
+  "name": "How often should I get a plumbing inspection for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I get a plumbing inspection for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's generally recommended to have a professional plumbing inspection at least once every two years for preventative maintenance. However, several factors can influence this frequency. If your home is older, or if you've noticed recurring issues like slow drains, low water pressure, or unexplained increases in your water bill, an annual inspection might be more appropriate. A plumbing inspection is also highly advisable before purchasing a new home to identify any existing issues that could become costly repairs after moving in.",
+        "@type": "Answer",
+        "description": "A plumbing inspection is recommended every two years, or annually for older homes or if you notice recurring issues. It's also crucial before buying a home."
+      }
+    }
+  ],
+  "description": "A plumbing inspection is recommended every two years, or annually for older homes or if you notice recurring issues. It's also crucial before buying a home."
+}

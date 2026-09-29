@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-s-the-difference-between-flexible-and-rigid-gas-lines-for-stoves",
+  "name": "What's the difference between flexible and rigid gas lines for stoves?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between flexible and rigid gas lines for stoves?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flexible gas lines, often made of corrugated stainless steel, are easier to install in tight spaces and can tolerate some movement. Rigid gas lines, typically black iron pipe, offer greater durability and are often preferred for longer, exposed runs. The choice between them depends on installation specifics and local codes. Our technicians at CG Plumbing Solutions can advise on the best material for your specific installation, considering factors like accessibility and code requirements.",
+        "@type": "Answer",
+        "description": "Flexible gas lines are easier for tight spaces; rigid lines offer durability for longer runs. The best choice depends on installation and local codes."
+      }
+    }
+  ],
+  "description": "Flexible gas lines are easier for tight spaces; rigid lines offer durability for longer runs. The best choice depends on installation and local codes."
+}

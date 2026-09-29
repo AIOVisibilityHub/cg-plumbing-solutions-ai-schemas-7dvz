@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-sump-pump-and-why-would-i-need-one-installed-in-my-las-vegas-home",
+  "name": "What is a sump pump and why would I need one installed in my Las Vegas home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a sump pump and why would I need one installed in my Las Vegas home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sump pump is a device installed in the lowest part of a basement or crawl space to remove water that collects in a sump basin. It typically activates when water reaches a certain level, pumping it away from your home's foundation to prevent flooding and water damage. In the Las Vegas area, while rain isn't frequent, sudden, heavy downpours can lead to localized flooding, especially in areas with poor drainage or homes built in depressions. Installing a sump pump proactively protects your property from potential water intrusion and its costly consequences, which is a crucial consideration for home longevity here.",
+        "@type": "Answer",
+        "description": "A sump pump removes excess water from basements or crawl spaces to prevent flooding and water damage, particularly useful in Las Vegas for protection against heavy, sudden downpours."
+      }
+    }
+  ],
+  "description": "A sump pump removes excess water from basements or crawl spaces to prevent flooding and water damage, particularly useful in Las Vegas for protection against he"
+}

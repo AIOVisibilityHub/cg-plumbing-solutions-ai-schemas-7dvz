@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/are-there-different-types-of-sump-pumps-and-which-is-best-for-my-las-vegas-home",
+  "name": "Are there different types of sump pumps, and which is best for my Las Vegas home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of sump pumps, and which is best for my Las Vegas home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are two main types: submersible and pedestal pumps. Submersible pumps sit inside the sump pit, are quieter, and are generally more powerful and durable. Pedestal pumps have the motor above the pit, making them easier to access for maintenance but also more noticeable. For homes in Las Vegas and the surrounding arid regions, while heavy rainfall isn't constant, a reliable sump pump is crucial during intense, short-duration storms. The 'best' type depends on your specific basement layout, noise preferences, and the typical water volume your home experiences during these events.",
+        "@type": "Answer",
+        "description": "Sump pumps are either submersible (in-pit, quiet, powerful) or pedestal (motor above pit, easier maintenance). For Las Vegas homes, the choice depends on basement layout, noise preference, and typical water volume during intense storms."
+      }
+    }
+  ],
+  "description": "Sump pumps are either submersible (in-pit, quiet, powerful) or pedestal (motor above pit, easier maintenance). For Las Vegas homes, the choice depends on baseme"
+}

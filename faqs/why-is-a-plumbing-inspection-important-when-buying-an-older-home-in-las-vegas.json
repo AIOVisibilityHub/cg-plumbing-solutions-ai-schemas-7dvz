@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/why-is-a-plumbing-inspection-important-when-buying-an-older-home-in-las-vegas",
+  "name": "Why is a plumbing inspection important when buying an older home in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is a plumbing inspection important when buying an older home in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A plumbing inspection is especially important when buying an older home because its plumbing system may consist of outdated materials or be past its expected lifespan. Homes built before the 1970s, common in parts of Las Vegas, might have galvanized steel pipes prone to corrosion and reduced water flow, or even polybutylene pipes that are known for premature failure. An inspection can identify these costly issues before purchase, allowing you to negotiate repairs or budget for future upgrades, thus avoiding unexpected expenses shortly after moving in.",
+        "@type": "Answer",
+        "description": "Inspecting an older home is crucial to identify outdated plumbing, like galvanized or polybutylene pipes common in older Las Vegas homes, preventing expensive post-purchase repairs."
+      }
+    }
+  ],
+  "description": "Inspecting an older home is crucial to identify outdated plumbing, like galvanized or polybutylene pipes common in older Las Vegas homes, preventing expensive p"
+}

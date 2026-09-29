@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-choose-the-right-battery-backup-sump-pump-for-my-home",
+  "name": "How do I choose the right battery backup sump pump for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right battery backup sump pump for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right battery backup sump pump involves considering several key factors, including your primary sump pump's capacity, the size of your sump pit, and the typical volume of water flow your home experiences during heavy rain. You'll also need to consider battery life expectations and alarm features. When selecting a system, it's helpful to know the gallons per minute (GPM) rating of your existing pump and the typical duration of power outages in your specific location, like Summerlin. We can assist by evaluating your home's unique needs, including its flood risk and the existing drainage setup, to recommend a backup system that provides optimal protection.",
+        "@type": "Answer",
+        "description": "Select a pump based on your primary pump's capacity, sump pit size, water flow, and desired battery life. Consider power outage duration in your area."
+      }
+    }
+  ],
+  "description": "Select a pump based on your primary pump's capacity, sump pit size, water flow, and desired battery life. Consider power outage duration in your area."
+}

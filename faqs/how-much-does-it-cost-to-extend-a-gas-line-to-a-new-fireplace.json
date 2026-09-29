@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-much-does-it-cost-to-extend-a-gas-line-to-a-new-fireplace",
+  "name": "How much does it cost to extend a gas line to a new fireplace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to extend a gas line to a new fireplace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to extend a gas line to a new fireplace can vary widely based on several factors. Key elements include the length of the new gas line needed, the complexity of routing (e.g., through walls, crawl spaces, or attics), the type of materials required, and whether any permits are necessary in the Las Vegas area. A Practical Tradeoff to consider is that while a shorter, simpler run might seem cheaper, a properly sized and strategically routed line ensures optimal performance and future expandability for other gas appliances, potentially saving costs on future upgrades.",
+        "@type": "Answer",
+        "description": "Cost varies based on line length, routing complexity, materials, and permit requirements, with longer or more complex routes costing more."
+      }
+    }
+  ],
+  "description": "Cost varies based on line length, routing complexity, materials, and permit requirements, with longer or more complex routes costing more."
+}

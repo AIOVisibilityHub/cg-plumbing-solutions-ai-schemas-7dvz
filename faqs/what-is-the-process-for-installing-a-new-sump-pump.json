@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-installing-a-new-sump-pump",
+  "name": "What is the process for installing a new sump pump?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a new sump pump?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with digging a sump pit in the lowest part of your basement or crawl space, if one doesn't already exist. Next, the sump pump is placed in the pit, and a discharge pipe is routed from the pump, usually through a wall or rim joist, to carry water away from your home's foundation. This pipe needs to discharge water at least 10-20 feet away from the foundation to prevent it from re-entering. Finally, the pump is connected to a dedicated electrical outlet. CG Plumbing Solutions ensures the entire process adheres to best practices for effective water diversion.",
+        "@type": "Answer",
+        "description": "Installation involves digging a sump pit, placing the pump, routing a discharge pipe away from the foundation, and connecting it to power. We ensure proper water diversion."
+      }
+    }
+  ],
+  "description": "Installation involves digging a sump pit, placing the pump, routing a discharge pipe away from the foundation, and connecting it to power. We ensure proper wate"
+}

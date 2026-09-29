@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-difference-between-an-ejector-pump-and-a-sump-pump",
+  "name": "What is the difference between an ejector pump and a sump pump?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an ejector pump and a sump pump?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both ejector pumps and sump pumps remove water, they serve different purposes. A sump pump is designed to remove groundwater from a basement or crawl space to prevent flooding. An ejector pump, however, is specifically engineered to handle wastewater, including solids, from plumbing fixtures located below the main sewer line, lifting it to the level where it can drain into the municipal sewer system. Understanding this distinction helps in proper system maintenance and knowing what kind of plumbing issue you're facing.",
+        "@type": "Answer",
+        "description": "Sump pumps remove groundwater, while ejector pumps handle wastewater with solids from fixtures below the main sewer line."
+      }
+    }
+  ],
+  "description": "Sump pumps remove groundwater, while ejector pumps handle wastewater with solids from fixtures below the main sewer line."
+}

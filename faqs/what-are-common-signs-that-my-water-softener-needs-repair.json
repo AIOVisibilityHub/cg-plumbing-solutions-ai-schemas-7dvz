@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-common-signs-that-my-water-softener-needs-repair",
+  "name": "What are common signs that my water softener needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my water softener needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs your water softener needs repair include hard water symptoms returning (e.g., soap scum, dry skin, cloudy dishes), a noticeable change in water pressure, unusual noises coming from the unit, or the softener not regenerating. Our technicians in areas like Las Vegas can diagnose issues ranging from resin bed problems to valve malfunctions, which often manifest as these symptoms.",
+        "@type": "Answer",
+        "description": "Signs include returning hard water symptoms, changes in water pressure, unusual noises, or failure to regenerate. These can indicate issues like resin bed problems or valve malfunctions."
+      }
+    }
+  ],
+  "description": "Signs include returning hard water symptoms, changes in water pressure, unusual noises, or failure to regenerate. These can indicate issues like resin bed probl"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-a-typical-water-softener-replacement-take",
+  "name": "How long does a typical water softener replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical water softener replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard water softener replacement typically takes between 2 to 4 hours to complete. This timeframe can vary depending on the existing plumbing setup, the specific model being installed, and any unforeseen adjustments required during the process. Our licensed technicians work efficiently to minimize disruption to your home. We'll provide an estimated completion time at the beginning of the service appointment and keep you informed of any potential changes.",
+        "@type": "Answer",
+        "description": "A typical water softener replacement takes 2-4 hours. This can vary based on existing plumbing and model. Our technicians work efficiently and provide estimated completion times."
+      }
+    }
+  ],
+  "description": "A typical water softener replacement takes 2-4 hours. This can vary based on existing plumbing and model. Our technicians work efficiently and provide estimated"
+}

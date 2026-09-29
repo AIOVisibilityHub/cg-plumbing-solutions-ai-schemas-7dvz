@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-involved-in-installing-a-new-propane-gas-line-for-an-appliance",
+  "name": "What is involved in installing a new propane gas line for an appliance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in installing a new propane gas line for an appliance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a new propane gas line involves assessing the appliance's BTUs, planning the most efficient and safest route from the propane source to the appliance, and selecting appropriate piping materials. Our technicians ensure the line is properly sized for optimal gas flow and sealed securely to prevent leaks. The process includes connecting to the propane tank, running the line, making the final appliance connection, and thoroughly testing the entire system for safety and functionality. This ensures compliance with local safety codes in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "New propane gas line installation involves planning the route, sizing the pipe, connecting to the source, and extensive safety testing for your appliance."
+      }
+    }
+  ],
+  "description": "New propane gas line installation involves planning the route, sizing the pipe, connecting to the source, and extensive safety testing for your appliance."
+}

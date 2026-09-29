@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-safety-considerations-for-a-natural-gas-bbq-line",
+  "name": "What are the safety considerations for a natural gas BBQ line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the safety considerations for a natural gas BBQ line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is paramount with natural gas lines. Key considerations include ensuring proper installation by a licensed professional to prevent leaks, using appropriate shut-off valves, and positioning the grill safely away from combustible materials and structures. Regular maintenance and leak checks are also vital. CG Plumbing Solutions adheres strictly to all safety protocols and building codes during installation and conducts thorough testing to guarantee the integrity of your gas line, minimizing risks.",
+        "@type": "Answer",
+        "description": "Ensure professional installation, proper shut-off valves, safe grill positioning, and regular leak checks for safety."
+      }
+    }
+  ],
+  "description": "Ensure professional installation, proper shut-off valves, safe grill positioning, and regular leak checks for safety."
+}

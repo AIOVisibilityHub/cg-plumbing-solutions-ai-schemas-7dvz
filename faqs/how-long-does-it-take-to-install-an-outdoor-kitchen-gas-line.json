@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-an-outdoor-kitchen-gas-line",
+  "name": "How long does it take to install an outdoor kitchen gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install an outdoor kitchen gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for installing an outdoor kitchen gas line can vary based on several factors, including the complexity of the project, the length of the gas line needed, and the need for trenching. A straightforward installation might take a day, while more complex projects involving extensive trenching or difficult terrain could extend to several days. Factors like obtaining permits and scheduling inspections can also influence the overall timeline. When you contact us, we'll provide a more accurate estimate after assessing your specific property and project requirements.",
+        "@type": "Answer",
+        "description": "Installation time varies, from one day for simple projects to several days for complex ones, depending on line length, trenching needs, and permit processes."
+      }
+    }
+  ],
+  "description": "Installation time varies, from one day for simple projects to several days for complex ones, depending on line length, trenching needs, and permit processes."
+}

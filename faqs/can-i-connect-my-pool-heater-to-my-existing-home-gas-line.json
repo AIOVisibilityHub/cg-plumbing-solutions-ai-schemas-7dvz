@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-connect-my-pool-heater-to-my-existing-home-gas-line",
+  "name": "Can I connect my pool heater to my existing home gas line?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I connect my pool heater to my existing home gas line?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Connecting a pool heater to an existing home gas line is possible, but it requires careful assessment to ensure the existing line has sufficient capacity (BTUs) to handle the additional demand. An undersized line can lead to inefficient heating and potential safety hazards. A qualified plumber can evaluate your current gas system's capacity and determine if an upgrade or a dedicated line is necessary for your pool heater, preventing issues with other gas appliances.",
+        "@type": "Answer",
+        "description": "Yes, but only if your existing line has sufficient capacity for the added demand; professional assessment is crucial."
+      }
+    }
+  ],
+  "description": "Yes, but only if your existing line has sufficient capacity for the added demand; professional assessment is crucial."
+}

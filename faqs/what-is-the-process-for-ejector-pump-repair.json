@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-the-process-for-ejector-pump-repair",
+  "name": "What is the process for ejector pump repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for ejector pump repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ejector pump repair process typically begins with a thorough inspection to diagnose the root cause of the malfunction, which may involve checking electrical connections, pump components, and the pit itself. Once the issue is identified, our technicians will explain the recommended repairs and provide a quote. Repairs often involve replacing faulty parts, clearing blockages, or addressing electrical problems. We prioritize clear communication throughout, ensuring you understand each step before proceeding with any work.",
+        "@type": "Answer",
+        "description": "Ejector pump repair involves diagnosis, explaining recommended repairs and costs, and then performing replacements or clearing blockages."
+      }
+    }
+  ],
+  "description": "Ejector pump repair involves diagnosis, explaining recommended repairs and costs, and then performing replacements or clearing blockages."
+}

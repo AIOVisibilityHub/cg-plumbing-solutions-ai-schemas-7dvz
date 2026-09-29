@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-i-have-a-plumbing-emergency-like-a-burst-pipe",
+  "name": "What should I do if I have a plumbing emergency, like a burst pipe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I have a plumbing emergency, like a burst pipe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a plumbing emergency, such as a burst pipe, your immediate priority should be to shut off the main water supply to your home to minimize water damage. Locate your main water shut-off valve, typically near your water meter or where the main line enters your house. Next, contact a professional plumber immediately. CG Plumbing Solutions provides emergency services in Las Vegas and surrounding areas. Our technicians are equipped to quickly assess the damage, stop the leak, and perform necessary repairs to restore your plumbing system.",
+        "@type": "Answer",
+        "description": "For a plumbing emergency, first shut off your home's main water supply, then immediately contact a professional plumber for urgent repair."
+      }
+    }
+  ],
+  "description": "For a plumbing emergency, first shut off your home's main water supply, then immediately contact a professional plumber for urgent repair."
+}

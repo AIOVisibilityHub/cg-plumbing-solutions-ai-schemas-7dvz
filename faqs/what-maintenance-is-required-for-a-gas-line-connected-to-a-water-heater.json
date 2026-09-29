@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-maintenance-is-required-for-a-gas-line-connected-to-a-water-heater",
+  "name": "What maintenance is required for a gas line connected to a water heater?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a gas line connected to a water heater?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gas lines connected to water heaters generally require minimal routine maintenance from the homeowner, but periodic professional inspection is crucial for safety and longevity. This typically involves checking for leaks, verifying secure connections, and assessing the condition of the pipe for any corrosion or damage. CG Plumbing Solutions includes gas line inspections as part of our comprehensive water heater service checks, identifying potential issues before they become serious. If you ever detect a gas odor, evacuate immediately and contact your gas provider and a professional plumber. Regular professional checks help ensure safe and efficient operation of your water heater's gas supply.",
+        "@type": "Answer",
+        "description": "Gas lines require minimal homeowner maintenance, but crucial periodic professional inspections for leaks, secure connections, and corrosion. Contact a plumber immediately if you smell gas."
+      }
+    }
+  ],
+  "description": "Gas lines require minimal homeowner maintenance, but crucial periodic professional inspections for leaks, secure connections, and corrosion. Contact a plumber i"
+}

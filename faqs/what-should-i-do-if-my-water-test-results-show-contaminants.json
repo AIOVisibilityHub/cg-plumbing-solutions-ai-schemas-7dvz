@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-should-i-do-if-my-water-test-results-show-contaminants",
+  "name": "What should I do if my water test results show contaminants?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my water test results show contaminants?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your water test results show contaminants, the next step is to consult with a professional plumber. CG Plumbing Solutions will explain the implications of the detected substances and recommend appropriate treatment solutions. This might involve installing a water filtration system, a water softener for hard water common in the Las Vegas valley, or other specialized treatment options. We'll help you understand your options and choose a solution that effectively addresses the specific contaminants while fitting your home's needs and budget.",
+        "@type": "Answer",
+        "description": "Consult with a professional plumber who will explain the results and recommend suitable treatment solutions, such as filtration or water softeners, based on the specific contaminants found."
+      }
+    }
+  ],
+  "description": "Consult with a professional plumber who will explain the results and recommend suitable treatment solutions, such as filtration or water softeners, based on the"
+}

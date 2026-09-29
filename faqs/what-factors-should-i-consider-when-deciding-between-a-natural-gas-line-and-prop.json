@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-factors-should-i-consider-when-deciding-between-a-natural-gas-line-and-prop",
+  "name": "What factors should I consider when deciding between a natural gas line and propane for my grill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when deciding between a natural gas line and propane for my grill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When deciding between a natural gas line and propane, consider your grilling frequency, budget, and convenience preferences. Natural gas offers unlimited fuel and lower per-unit costs, but requires a professional installation and initial setup expense. Propane offers portability and lower upfront grill costs but requires tank refills and storage. Consider your long-term grilling habits and whether the convenience of a permanent natural gas connection outweighs the initial investment and the loss of grill mobility.",
+        "@type": "Answer",
+        "description": "Consider grilling frequency, budget, and convenience; natural gas offers unlimited fuel while propane provides portability with tank refills."
+      }
+    }
+  ],
+  "description": "Consider grilling frequency, budget, and convenience; natural gas offers unlimited fuel while propane provides portability with tank refills."
+}

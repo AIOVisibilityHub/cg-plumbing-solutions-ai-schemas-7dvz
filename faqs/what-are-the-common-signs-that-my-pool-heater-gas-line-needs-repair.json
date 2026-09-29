@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-that-my-pool-heater-gas-line-needs-repair",
+  "name": "What are the common signs that my pool heater gas line needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my pool heater gas line needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your pool heater gas line may need repair include a persistent sulfur or rotten egg smell near the heater, a noticeable drop in water pressure to the heater, or inconsistent heating performance. Visible corrosion on the gas line or pilot light issues can also indicate a problem. It's crucial to address these signs promptly to ensure safety and efficient operation. CG Plumbing Solutions offers inspections to diagnose these issues accurately.",
+        "@type": "Answer",
+        "description": "Signs include sulfur smell, low water pressure to the heater, inconsistent heating, or visible corrosion."
+      }
+    }
+  ],
+  "description": "Signs include sulfur smell, low water pressure to the heater, inconsistent heating, or visible corrosion."
+}

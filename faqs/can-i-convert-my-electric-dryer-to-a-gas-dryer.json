@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/can-i-convert-my-electric-dryer-to-a-gas-dryer",
+  "name": "Can I convert my electric dryer to a gas dryer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my electric dryer to a gas dryer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an electric dryer to a gas dryer is possible, but it requires the installation of a new natural gas line and often modifications to the laundry area's ventilation and electrical setup. You cannot simply swap an electric dryer for a gas model without the proper gas hookup. The feasibility depends on your home's existing infrastructure and whether a gas line can be safely and efficiently routed. CG Plumbing Solutions can evaluate your home in areas like Silverado Ranch or Mountain’s Edge to advise on the best approach.",
+        "@type": "Answer",
+        "description": "Converting requires installing a new gas line and potentially modifying ventilation and electrical systems, not just swapping units. Feasibility depends on your home's infrastructure."
+      }
+    }
+  ],
+  "description": "Converting requires installing a new gas line and potentially modifying ventilation and electrical systems, not just swapping units. Feasibility depends on your"
+}

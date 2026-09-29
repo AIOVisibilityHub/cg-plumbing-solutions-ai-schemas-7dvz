@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-do-i-know-if-my-home-needs-natural-gas-pipe-repair-or-replacement",
+  "name": "How do I know if my home needs natural gas pipe repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my home needs natural gas pipe repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your natural gas piping may need repair or replacement include a sulfur-like odor (rotten eggs), hissing sounds near gas lines, or dead vegetation around outdoor gas meters or lines. If you notice any of these signs, it's crucial to evacuate immediately and call the gas company from a safe location. A professional inspection by a licensed plumber, like those at CG Plumbing Solutions, can accurately diagnose issues and determine the best course of action for safety and efficiency, highlighting a first-party insight into expert assessment.",
+        "@type": "Answer",
+        "description": "Look for a sulfur smell, hissing sounds, or dead plants near gas lines. If you notice these, evacuate and call the gas company, then consult a licensed plumber."
+      }
+    }
+  ],
+  "description": "Look for a sulfur smell, hissing sounds, or dead plants near gas lines. If you notice these, evacuate and call the gas company, then consult a licensed plumber."
+}

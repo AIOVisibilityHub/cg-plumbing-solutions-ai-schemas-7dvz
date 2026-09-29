@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-are-the-common-signs-of-hard-water-in-a-home",
+  "name": "What are the common signs of hard water in a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of hard water in a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of hard water include mineral buildup (limescale) on faucets, showerheads, and dishes, spots on glassware after washing, reduced soap lathering for bathing or laundry, and dry or itchy skin and hair. You might also notice clothes feeling stiff or dull after washing. For homes in Las Vegas and surrounding areas like Henderson, these issues are particularly common due to the naturally high mineral content in the local water supply.",
+        "@type": "Answer",
+        "description": "Signs of hard water include mineral buildup on fixtures, spots on dishes, reduced soap lather, and dry skin/hair, common in areas like Las Vegas."
+      }
+    }
+  ],
+  "description": "Signs of hard water include mineral buildup on fixtures, spots on dishes, reduced soap lather, and dry skin/hair, common in areas like Las Vegas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-to-do-anything-to-prepare-for-a-water-softener-replacement",
+  "name": "Do I need to do anything to prepare for a water softener replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do anything to prepare for a water softener replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a water softener replacement, ensure the area around your existing unit is clear and accessible for our technicians. You may also want to temporarily turn off your main water supply if you're comfortable doing so, though our team can handle this upon arrival. Having an idea of your household's water usage and any specific water concerns can also help us recommend the best replacement unit. Our team will guide you through any necessary steps beforehand.",
+        "@type": "Answer",
+        "description": "Clear the area around the unit and consider turning off your water supply. Knowing your water usage and concerns helps us recommend the best replacement."
+      }
+    }
+  ],
+  "description": "Clear the area around the unit and consider turning off your water supply. Knowing your water usage and concerns helps us recommend the best replacement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-battery-backup-sump-pump-and-do-i-need-one",
+  "name": "What is a battery backup sump pump, and do I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a battery backup sump pump, and do I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A battery backup sump pump operates when your primary pump loses power, typically during a power outage or if your main pump fails. This secondary system is designed to provide temporary but critical protection against flooding, ensuring your basement remains dry even when the electricity is out. The practical tradeoff is that while it adds to the initial installation cost, a battery backup offers an invaluable layer of protection, especially during heavy storms when power outages are more likely and the need for a sump pump is greatest. It's a wise consideration for enhanced home security.",
+        "@type": "Answer",
+        "description": "A battery backup sump pump activates during power outages or primary pump failure, offering crucial temporary flood protection. It's a valuable added security layer."
+      }
+    }
+  ],
+  "description": "A battery backup sump pump activates during power outages or primary pump failure, offering crucial temporary flood protection. It's a valuable added security l"
+}

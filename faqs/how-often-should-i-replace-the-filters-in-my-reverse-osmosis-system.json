@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-often-should-i-replace-the-filters-in-my-reverse-osmosis-system",
+  "name": "How often should I replace the filters in my reverse osmosis system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I replace the filters in my reverse osmosis system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of reverse osmosis (RO) filter replacement depends on your water quality and usage. Typically, pre-filters (sediment and carbon) should be changed every 6-12 months, and the post-carbon filter every 12 months. The RO membrane, which is the core of the system, usually lasts 2-5 years. In areas like Las Vegas with hard water, regular maintenance helps prevent mineral buildup that can shorten filter life. Consistent filter changes ensure your system continues to provide clean, great-tasting water efficiently.",
+        "@type": "Answer",
+        "description": "Pre-filters should be changed every 6-12 months, post-filters every 12 months, and the RO membrane every 2-5 years, depending on water quality and usage."
+      }
+    }
+  ],
+  "description": "Pre-filters should be changed every 6-12 months, post-filters every 12 months, and the RO membrane every 2-5 years, depending on water quality and usage."
+}

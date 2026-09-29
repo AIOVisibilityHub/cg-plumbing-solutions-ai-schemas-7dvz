@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/how-long-does-it-take-to-install-new-natural-gas-piping",
+  "name": "How long does it take to install new natural gas piping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install new natural gas piping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for installing new natural gas piping varies depending on the project's complexity, such as the number of appliances being connected, the length of the runs, and accessibility. A simple extension for one appliance might take a few hours, while a whole-home repipe could take several days. A qualified plumber will provide a timeline after assessing the scope of work. CG Plumbing Solutions aims to complete projects efficiently while maintaining strict safety standards, offering process clarity on timing expectations based on project complexity.",
+        "@type": "Answer",
+        "description": "Installation time varies with project complexity; a simple extension might take hours, while a full repipe could take days. A plumber will provide an estimate."
+      }
+    }
+  ],
+  "description": "Installation time varies with project complexity; a simple extension might take hours, while a full repipe could take days. A plumber will provide an estimate."
+}

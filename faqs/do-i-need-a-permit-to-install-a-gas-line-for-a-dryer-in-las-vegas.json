@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/do-i-need-a-permit-to-install-a-gas-line-for-a-dryer-in-las-vegas",
+  "name": "Do I need a permit to install a gas line for a dryer in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install a gas line for a dryer in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, installing a new gas line for an appliance like a dryer typically requires a permit from the local authority in Las Vegas and surrounding areas. This ensures that the installation complies with safety regulations and building codes. A licensed plumbing professional, like CG Plumbing Solutions, will be familiar with these requirements and can assist in obtaining the necessary permits to ensure your gas line installation is done legally and safely, avoiding potential issues or fines.",
+        "@type": "Answer",
+        "description": "Yes, a permit is generally required from local authorities in Las Vegas for gas line installations to ensure compliance with safety and building codes."
+      }
+    }
+  ],
+  "description": "Yes, a permit is generally required from local authorities in Las Vegas for gas line installations to ensure compliance with safety and building codes."
+}

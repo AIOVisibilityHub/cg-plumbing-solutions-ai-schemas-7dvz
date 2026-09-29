@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-is-a-scale-control-system-and-why-do-i-need-one",
+  "name": "What is a scale control system and why do I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a scale control system and why do I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A scale control system prevents mineral deposits, primarily from hard water, from building up in your pipes, water heaters, and appliances. These deposits, often called scale, can reduce water flow, decrease appliance efficiency, and shorten their lifespan. You might need one if you notice white, crusty buildup on fixtures, reduced water pressure, or appliances failing prematurely, especially in hard water areas like Las Vegas. CG Plumbing Solutions can assess your water quality to determine if a system is beneficial for your home.",
+        "@type": "Answer",
+        "description": "A scale control system prevents mineral buildup in pipes and appliances, extending their lifespan and maintaining efficiency, especially in hard water areas like Las Vegas."
+      }
+    }
+  ],
+  "description": "A scale control system prevents mineral buildup in pipes and appliances, extending their lifespan and maintaining efficiency, especially in hard water areas lik"
+}

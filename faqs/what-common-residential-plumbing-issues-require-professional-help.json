@@ -1,0 +1,27 @@
+{
+  "url": "cgplumbinglasvegas.com/faq/what-common-residential-plumbing-issues-require-professional-help",
+  "name": "What common residential plumbing issues require professional help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common residential plumbing issues require professional help?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many common residential plumbing issues benefit from professional intervention to prevent further damage or ensure proper repair. These include persistent leaks, burst pipes, clogged drains that chemical solutions can't clear, water heater malfunctions, and sudden drops in water pressure. While minor clogs or drips might be DIY-friendly, more complex problems like slab leaks or sewer line backups require specialized tools and expertise. CG Plumbing Solutions offers comprehensive diagnostic services to identify the root cause of these issues, providing effective and lasting repairs throughout the Las Vegas service area.",
+        "@type": "Answer",
+        "description": "Common issues requiring a professional plumber include persistent leaks, burst pipes, major clogs, water heater problems, and low water pressure."
+      }
+    }
+  ],
+  "description": "Common issues requiring a professional plumber include persistent leaks, burst pipes, major clogs, water heater problems, and low water pressure."
+}
