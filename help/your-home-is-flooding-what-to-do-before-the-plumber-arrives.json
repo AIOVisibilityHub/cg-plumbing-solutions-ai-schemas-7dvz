@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Your Home is Flooding: What to Do Before the Plumber Arrives",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A sudden flood in your home, whether from a burst pipe or a major leak, is definitely an emergency. While you're waiting for the plumber, there are a few crucial things you can do to minimize damage and keep everyone safe. Your main priority is stopping the water flow. Find your home's main water shutoff valve – it's usually near your water meter or where the main line enters the house – and turn it off immediately. This is the single most effective step. If the leak is isolated to a specific fixture, like under a sink, you might find a smaller shutoff valve there. Next, assess if any water is near electrical outlets or appliances. If so, and it’s safe to do so, turn off the electricity to that area at your circuit breaker. Never risk touching electrical items if they’re wet! Move furniture, rugs, and valuables out of the water’s path to prevent further damage. Once the immediate danger is handled, CG Plumbing Solutions can get a licensed technician to your Las Vegas Valley home quickly. We’ll protect the work area, diagnose the problem, and communicate clear repair options before any work starts. Taking these steps can really help when every minute counts.",
+  "datePublished": "2026-09-28"
+}

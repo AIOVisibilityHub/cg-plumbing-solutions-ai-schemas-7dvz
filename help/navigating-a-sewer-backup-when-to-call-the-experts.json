@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Navigating a Sewer Backup: When to Call the Experts",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Sewer backups are undeniably one of the most stressful and unsanitary plumbing problems a homeowner or business can face. It's not just about the mess; it's about health hazards, potential property damage, and the sheer disruption it causes. While there are immediate steps you can take, knowing when to call in the professionals is absolutely critical for a safe and effective resolution.\n\nWhen Professional Guidance Helps\n\n- Sewage has entered living areas: If sewage has overflowed into your living spaces, like your basement, kitchen, or bathrooms, you've got a serious contamination issue. This goes beyond simple cleaning and often requires professional restoration and disinfection to ensure your home is safe and sanitary again.\n- Standing water may contact electrical equipment: Any time water, especially contaminated water, is near electrical outlets, appliances, or wiring, it creates an immediate and dangerous electrical hazard. Do not attempt to clean this yourself. A professional can assess the electrical safety and safely manage the situation.\n- The public main may be blocked: If you notice continuous sewage flow even when no water is being used in your home, or if your neighbors are experiencing similar issues, it's very likely a blockage in the public sewer main. In this case, your local municipality or sewer district needs to be contacted first for their inspection before private work proceeds. They are responsible for public infrastructure.\n- The lateral line is damaged or collapsed: If camera inspection reveals that your private sewer lateral is cracked, collapsed, or severely infiltrated by roots, it's not a simple clog. This type of damage requires specialized repair or even excavation and replacement, which are complex jobs for trained plumbers.\n- Occupants are medically vulnerable: If anyone in the household, such as children, the elderly, or individuals with compromised immune systems, is present, the health risks from sewage exposure are significantly higher. It's best to have professionals handle the cleanup and repair to protect their health.\n- Extensive contamination or damage: If walls, flooring, HVAC systems, or multiple rooms are affected, or if porous materials have absorbed sewage, standard household cleaning won't cut it. Professional remediation teams, often working with plumbers, are needed to properly remove, clean, and dry affected areas to prevent mold and lingering health risks.\n\nCG Plumbing Solutions provides 24/7 emergency sewer backup repair services throughout the Las Vegas Valley, including Anthem, Green Valley, and Summerlin. We understand the urgency and the complexities involved. Our licensed technicians are trained to handle these emergencies safely, communicating next steps, and providing code-correct solutions to protect your property and health. We stand behind our work and are here to help you navigate this difficult situation with expertise and clear options before work begins.\n\nIf you're dealing with a sewer backup, don't delay. Call CG Plumbing Solutions now at (702) 843-0899 for immediate, professional assistance.",
+  "datePublished": "2026-09-28"
+}

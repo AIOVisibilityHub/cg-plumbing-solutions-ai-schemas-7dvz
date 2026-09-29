@@ -1,0 +1,135 @@
+{
+  "name": "How to Handle an Emergency Water Line Repair in North Las Vegas",
+  "step": [
+    {
+      "name": "Step 1: Shut off your main water supply immediately.",
+      "text": "As soon as you suspect a water line emergency, find your main water shut-off valve and turn it off. This is the most critical first step to prevent further water damage to your home or business. Don't hesitate or delay; every minute counts when water is actively leaking.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Disconnect power if water is near electrical equipment.",
+      "text": "If the water leak is close to any electrical outlets, appliances, or your main electrical panel, prioritize safety by shutting off the electricity to those affected areas or even your entire home. Water and electricity are a dangerous combination, and it’s better to be safe than sorry.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Call a licensed emergency plumber like CG Plumbing Solutions.",
+      "text": "Once you've secured your property as best as you can, contact a professional emergency plumber. We provide 24/7 service across North Las Vegas and the entire Las Vegas Valley. Our team can quickly dispatch a licensed technician to diagnose the problem, explain your options in English or Spanish, and start the repair process.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Identify the leak location and pipe material.",
+      "text": "Upon arrival, our technicians will use specialized tools to accurately find where the leak is coming from and determine what type of pipe material is involved. This is crucial for selecting the right repair method, whether it's for a burst pipe in your yard or an internal wall.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Isolate and repair or replace the damaged section.",
+      "text": "After identifying the problem, we’ll work to isolate the damaged section of the water line and perform the necessary repairs. This could involve patching a small leak or replacing a compromised section of piping, always ensuring the work is code-compliant and built to last.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Pressure-test the repair and gradually restore service.",
+      "text": "Once the repair is complete, we'll perform a pressure test to ensure there are no more leaks and the system is sealed correctly. Then, we'll gradually restore your water supply, making sure to flush the lines to clear out any sediment or air that may have entered the system during the repair. Your water will be back on and safe to use.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "description": "As soon as you suspect a water line emergency, find your main water shut-off valve and turn it off. This is the most critical first step to prevent further water damage to your home or business. Don't"
+}

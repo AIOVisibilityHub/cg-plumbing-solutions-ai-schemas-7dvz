@@ -1,0 +1,129 @@
+{
+  "name": "How to Handle an Urgent Plumbing Problem Until a Plumber Arrives",
+  "step": [
+    {
+      "name": "Step 1: Locate and Shut Off the Water Source — If you can, turn off the water to the specific fixture that's causing the problem (like a toilet or sink). If you can't find it, or if it's a widespread issue like a burst main pipe, find and turn off your home's main water supply. This is often near your water meter or where the main water line enters your house. This single action is the most important for stopping further flooding.",
+      "text": "Step 1: Locate and Shut Off the Water Source — If you can, turn off the water to the specific fixture that's causing the problem (like a toilet or sink). If you can't find it, or if it's a widespread issue like a burst main pipe, find and turn off your home's main water supply. This is often near your water meter or where the main water line enters your house. This single action is the most important for stopping further flooding.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Contain the Water and Protect Belongings — Once the water is off, or at least slowed, grab towels, buckets, or even a wet/dry vacuum to contain any standing water. Move furniture, electronics, and valuables away from the wet area to prevent further damage. The quicker you act, the less extensive the cleanup and potential repair costs might be.",
+      "text": "Step 2: Contain the Water and Protect Belongings — Once the water is off, or at least slowed, grab towels, buckets, or even a wet/dry vacuum to contain any standing water. Move furniture, electronics, and valuables away from the wet area to prevent further damage. The quicker you act, the less extensive the cleanup and potential repair costs might be.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Avoid Using Affected Fixtures and Stay Safe — If it's a sewer backup, don't flush toilets or run water, as this will only add to the problem. If water is near electrical outlets or appliances, stay away from the area and, if safe, turn off the power to that section of your home. If you smell gas, leave the property immediately and call the gas company from a safe location. Your safety is paramount.",
+      "text": "Step 3: Avoid Using Affected Fixtures and Stay Safe — If it's a sewer backup, don't flush toilets or run water, as this will only add to the problem. If water is near electrical outlets or appliances, stay away from the area and, if safe, turn off the power to that section of your home. If you smell gas, leave the property immediately and call the gas company from a safe location. Your safety is paramount.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Document the Damage — Before any significant cleanup, take photos or videos of the plumbing problem and any resulting damage. This documentation can be incredibly helpful for insurance claims or simply for your plumber to understand the initial situation. It's tough in the moment, but try to get those shots!",
+      "text": "Step 4: Document the Damage — Before any significant cleanup, take photos or videos of the plumbing problem and any resulting damage. This documentation can be incredibly helpful for insurance claims or simply for your plumber to understand the initial situation. It's tough in the moment, but try to get those shots!",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Call a Licensed Emergency Plumber — Once you’ve taken these initial steps, reach out to a professional. Companies like CG Plumbing Solutions are ready to dispatch licensed technicians for burst pipes, sewage backups, failed water heaters, and more. Describe the issue clearly, and mention any steps you've already taken. We'll communicate next steps and help you get things back to normal.",
+      "text": "Step 5: Call a Licensed Emergency Plumber — Once you’ve taken these initial steps, reach out to a professional. Companies like CG Plumbing Solutions are ready to dispatch licensed technicians for burst pipes, sewage backups, failed water heaters, and more. Describe the issue clearly, and mention any steps you've already taken. We'll communicate next steps and help you get things back to normal.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Locate and Shut Off the Water Source — If you can, turn off the water to the specific fixture that's causing the problem (like a toilet or sink). If you can't find it, or if it's a widespread "
+}

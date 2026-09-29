@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Your Water Line Might Be Leaking Underground",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering a hidden water line leak can be pretty stressful, especially when it's underground. You might notice soggy spots in your yard, unusually high water bills, or a sudden drop in water pressure. These are all big clues that something's not right beneath the surface. Water lines can leak for a few reasons, like shifting soil, corrosion from age, or even damage from construction or landscaping. It's a common issue in areas with older plumbing infrastructure or dynamic ground conditions.\n\n**What Can Change the Right Choice**\nWhen you're facing an underground leak, a few things really matter. First, is the leak on your property or the utility side? That affects who's responsible for the repair. Then, consider the extent of the damage. Is it a small crack or a major rupture? The pipe material, like copper or PEX, also plays a role in how it can be repaired. If you've got an older home in Las Vegas, for example, your pipes might be more susceptible to corrosion, which needs a specific repair approach. Also, if the leak is close to your home's foundation or near electrical lines, that's an immediate safety concern that elevates the urgency and complexity.\n\nIdentifying the exact location of an underground leak often requires specialized equipment, like acoustic leak detectors. Trying to dig up your yard without a precise location can cause more damage and cost you more in the long run. We also need to think about potential contamination if the pipe is breached, as FEMA notes this is a real risk. A professional plumber has the tools and expertise to pinpoint the problem without unnecessary disruption and can advise on any water quality precautions.\n\n**When Professional Guidance Helps**\nHonestly, when the leak is underground, a qualified professional is almost always important. If you can't find your main shutoff or it won't fully close, or if there's any chance of water contamination, it's time to call in the experts. Excavation is usually involved, and you want someone who knows how to handle local utility requirements and different pipe materials. It's not just about fixing the pipe; it's about ensuring safety and compliance. We can help confirm whether the break is on your side or the utility's, so you know who's responsible.\n\nNeed to get to the bottom of an underground water leak? Call CG Plumbing Solutions for reliable leak detection and repair.",
+  "datePublished": "2026-09-28"
+}

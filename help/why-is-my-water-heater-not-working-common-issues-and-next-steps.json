@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why is My Water Heater Not Working? Common Issues and Next Steps",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Nothing's worse than stepping into a cold shower when you're expecting hot water. A malfunctioning water heater can really throw a wrench in your day. Whether it's making strange noises, leaking, or just not producing any hot water, it's a problem that needs a speedy solution. Understanding some common reasons why your water heater might be acting up can help you describe the issue to a professional and get it fixed faster.\n\nOne common culprit is the pilot light going out if you have a gas water heater. This can happen due to a draft or a faulty thermocouple. For electric water heaters, a tripped circuit breaker or a faulty heating element could be the issue. Sometimes, strange noises like rumbling or popping indicate sediment buildup in the tank, which can reduce efficiency and even lead to premature failure. If you see water pooling around the base of your unit, that's a clear sign of a leak, which could be from a loose connection or a failing tank.\n\nLow water pressure from your hot water taps specifically could point to sediment accumulation or issues with the dip tube. And if your hot water supply runs out too quickly, it might be an issue with the heating elements, the thermostat, or simply that your water heater is too small for your household's needs or is aging past its typical service life, especially in areas like North Las Vegas where hard water can contribute to sediment buildup.\n\n**Common Mistakes to Avoid**\n\nWhen your water heater is on the fritz, it's tempting to try a quick DIY fix. However, messing with gas lines, electrical components, or attempting to drain a hot water tank without proper knowledge can be dangerous and cause more damage. For instance, continuing to use a water heater that's actively leaking can cause significant water damage and potential electrical hazards. Ignoring strange noises can lead to a complete breakdown, often at the least convenient time. Don't try to force a repair if you're unsure; it's always better to call a professional. Also, make sure you don't overlook checking your home's circuit breaker for an electric water heater issue, as sometimes the fix is that simple!\n\nIf you're dealing with a cold shower or a leaky tank, it's time to call in the experts. CG Plumbing Solutions provides water heater repair and installation services across the Las Vegas Valley. We'll diagnose the problem, explain your options for repair or replacement, and get your hot water flowing again. Give us a call at (702) 843-0899.",
+  "datePublished": "2026-09-28"
+}

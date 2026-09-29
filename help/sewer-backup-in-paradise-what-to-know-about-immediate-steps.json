@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Sewer Backup in Paradise: What to Know About Immediate Steps",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A sewer backup in your Paradise home or business is definitely one of the most unpleasant plumbing emergencies you can experience. It's messy, unsanitary, and can cause significant damage if not handled quickly and correctly. Knowing what immediate steps to take can help protect your property and your family's health until professional help arrives. Don't underestimate the hazards involved; this isn't a DIY job for the faint of heart.\n\nFirst and foremost, stop using any water-using fixtures in your property immediately. That means no flushing toilets, no running faucets, and no using dishwashers or washing machines. Every bit of water you use will just add to the backup. Next, if safe to do so, try to block off the affected area to prevent pets or family members from tracking contaminants through the property. Keep everyone, especially children, away from the contaminated water. Never enter standing water, especially if it's near electrical outlets or appliances, as there could be electrical hazards. If the backup is severe, you might want to contact your local sewer authority to see if the blockage is in the public main, as that's their responsibility. While waiting for a plumber, document the damage with photos or videos for insurance purposes. Once you've taken these initial precautions, it's time to call a professional. CG Plumbing Solutions provides 24/7 emergency service and has the expertise to handle sewer line and drain line issues safely and efficiently across Paradise, offering clear options and code-conscious work.\n\nCommon Mistakes to Avoid: Do not continue using water, attempt to clean up sewage without proper protective equipment, or delay calling a licensed plumber. These mistakes can worsen the situation and create health risks.",
+  "datePublished": "2026-09-28"
+}

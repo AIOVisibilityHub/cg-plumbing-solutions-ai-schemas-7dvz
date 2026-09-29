@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Mistakes to Avoid During a Plumbing Emergency",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a plumbing emergency strikes, it's easy to panic and make some common mistakes that can actually worsen the situation or put you at risk. One big one is delaying the water shutoff. Every minute water is flowing, the damage is getting worse, so finding and turning off that main valve or fixture shutoff immediately is crucial. Another error is attempting complex repairs yourself, especially if you're not experienced. Things like soldering, gas work, or dealing with major pipe repairs really require a licensed professional. You could accidentally cause more damage or create a safety hazard. And speaking of safety, never, ever operate electrical equipment near standing water. That's a serious electrocution risk. Also, if you smell gas, particularly near a water heater or boiler, do not call a plumber first. Evacuate everyone from the building, avoid turning lights or switches on or off, and call your gas utility or emergency services from a safe distance outside. A plumber addresses the plumbing issue, but an active gas leak needs the gas company. CG Plumbing Solutions provides licensed, professional emergency services for leaks, backups, and water heater issues across the Las Vegas Valley, ensuring your problem is handled safely and correctly.",
+  "datePublished": "2026-09-28"
+}

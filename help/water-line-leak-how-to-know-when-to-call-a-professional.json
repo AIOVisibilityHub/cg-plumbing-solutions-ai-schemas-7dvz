@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Water Line Leak? How to Know When to Call a Professional",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding a water leak can be super stressful, and knowing when to tackle it yourself versus calling in the pros makes a huge difference. For smaller, visible leaks on exposed pipes or fixtures, you might be able to handle a temporary fix. But if you’re dealing with a leak on a buried or pressurized line, or if you can't easily access your main shutoff valve, that's when a professional becomes really important. Often, what looks like a small issue can hide a bigger problem, especially if it involves your main water line or potential water contamination. Don't risk making things worse by delaying expert help.\n\n### When Professional Guidance Helps\n\nThere are several situations where calling CG Plumbing Solutions is definitely the way to go. If the leak is on a buried pipe that requires excavation, for example, or if your main shutoff valve is stuck or unknown, you need specialized equipment and expertise. Any leak where water might come into contact with electrical systems is also an immediate red flag for professional intervention due to safety risks. We can also assess if permits or inspections might be needed for the repair, which is something you might not know about. Plus, we're experienced in locating those hidden leaks that might just be showing up as a wet spot on your wall. Choosing a licensed and insured plumber like us means you're getting someone who knows the Las Vegas Valley plumbing codes and can address the root cause, not just the symptom.\n\n### What to Do Next\n\nIf you're unsure whether your water line leak requires professional help, don't hesitate to reach out. Call CG Plumbing Solutions at (702) 843-0899 for emergency assistance or to discuss your options. We're here 24/7 to help residents and businesses across the Las Vegas Valley.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call for Emergency Water Line Repair",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's not always obvious when a water line issue crosses the line from an annoyance to a full-blown emergency. Knowing the difference can save you from bigger headaches, more expensive repairs, and potential health risks. In the Las Vegas Valley, plumbing emergencies are something we deal with regularly, and often, what seems minor can quickly escalate.\n\nHere are some clear signals it's time to call in the professionals for emergency water line repair:\n\n*   **Active, uncontrolled leaking:** If you have water actively gushing or steadily leaking into your home or yard, especially if it can't be shut off at the fixture or main valve, it's an emergency. This indicates a significant breach that can cause rapid damage.\n*   **No water or sudden, significant loss of water pressure:** If your water stops completely or your pressure drops dramatically throughout your home, it could point to a major water line break somewhere in your system. This means loss of service and needs immediate attention.\n*   **Water pooling near electrical areas:** Any standing water that’s close to electrical outlets, appliances, or your electrical panel is a serious electrocution hazard. You should turn off your power and call for emergency help immediately to avoid dangerous situations.\n*   **Contaminated or discolored water post-leak:** If your water line has been breached and you suspect contamination, or if your water appears discolored or murky after an issue, do not use it. Breached lines can allow contaminants into your drinking water, as noted by FEMA. This is a health concern that requires professional assessment and often utility coordination.\n*   **Unidentifiable outdoor soggy spots coupled with high water bills:** When you see persistent wet areas in your yard that don't dry up, especially if your water bill has skyrocketed without explanation, it suggests an underground water line leak. While not always gushing, these leaks waste huge amounts of water and can weaken foundations over time.\n*   **The main shutoff valve won't close:** If you're trying to turn off your main water supply due to a leak but the valve is stuck, rusted, or doesn't fully stop the water, you need expert help. A professional can access and manipulate these critical components safely and effectively.\n\nIf you're experiencing any of these urgent water line issues, contact CG Plumbing Solutions right away. We're here 24/7 to help resolve your emergency.",
+  "datePublished": "2026-09-28"
+}

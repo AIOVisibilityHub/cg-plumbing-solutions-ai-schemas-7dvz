@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Preparing for Your Emergency Plumbing Call",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a plumbing emergency strikes, you want help fast. Calling for 24/7 emergency plumbing service can feel chaotic, but a little preparation on your end can make the whole process smoother and help us diagnose and fix things quicker. We're here to help you through it, serving the Las Vegas Valley with prompt, responsive service.\n\nWhat to Prepare Before You Start:\n\n1.  **Shut Off the Water (if safe):** If you haven't already, try to shut off the main water supply to your home or the specific fixture that's leaking. This is the single most effective thing you can do to prevent further water damage. Just remember, don't force a stuck valve, and if you can't find it or it's unsafe, don't worry – we can help.\n2.  **Clear the Area:** Make sure the plumber can easily access the problem spot. If it's under a sink, clear out all the cleaning supplies and other items. If it's a water heater, make sure there's a clear path to it. This saves precious time during an emergency visit.\n3.  **Document the Damage:** Take a few quick photos or videos of the issue, especially if water is actively flowing or there's visible damage. This can be helpful for us to understand the scope before arrival and for any insurance claims you might need to make later. Note the exact location of the leak or backup.\n4.  **Gather Information:** Be ready to tell us what happened, when it started, and any specific symptoms you've noticed (e.g., gurgling drains, no hot water, low pressure). If you know the age of your water heater or recent plumbing work, that can be useful too.\n5.  **Discuss the Plan:** When you call CG Plumbing Solutions at (702) 843-0899, we'll ask you about the issue and give you an estimated arrival time. Make sure to confirm any diagnostic fees or after-hours charges. We believe in clear communication and want you to understand your options before any work begins. Our goal is to provide a solution that addresses the underlying cause, not just a temporary fix.",
+  "datePublished": "2026-09-28"
+}

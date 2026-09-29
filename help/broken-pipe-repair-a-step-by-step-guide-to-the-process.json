@@ -1,0 +1,129 @@
+{
+  "name": "Broken Pipe Repair: A Step-by-Step Guide to the Process",
+  "step": [
+    {
+      "name": "Step 1: Isolate the Water Supply. The first crucial step is to shut off the water to the affected line, or if necessary, the entire main water supply to your property. This stops the leak and prevents further water damage while repairs are being made. This also allows plumbers to safely work on the pipe without pressure.",
+      "text": "Step 1: Isolate the Water Supply. The first crucial step is to shut off the water to the affected line, or if necessary, the entire main water supply to your property. This stops the leak and prevents further water damage while repairs are being made. This also allows plumbers to safely work on the pipe without pressure.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Locate and Access the Break. Plumbers use various methods, like listening devices or moisture meters, to pinpoint the exact location of the break, especially if it's hidden. Once located, they'll carefully open walls, ceilings, or excavate ground to gain clear access to the damaged section of pipe. This is where professional expertise really shines to minimize intrusive work.",
+      "text": "Step 2: Locate and Access the Break. Plumbers use various methods, like listening devices or moisture meters, to pinpoint the exact location of the break, especially if it's hidden. Once located, they'll carefully open walls, ceilings, or excavate ground to gain clear access to the damaged section of pipe. This is where professional expertise really shines to minimize intrusive work.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Remove the Damaged Section. After the break is exposed, the plumber will cut out the compromised section of pipe. They ensure enough healthy pipe remains on either side to create a strong, reliable connection for the new material. This prevents weak points in the future and ensures a clean repair.",
+      "text": "Step 3: Remove the Damaged Section. After the break is exposed, the plumber will cut out the compromised section of pipe. They ensure enough healthy pipe remains on either side to create a strong, reliable connection for the new material. This prevents weak points in the future and ensures a clean repair.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Install Compatible Replacement Materials. A new piece of pipe, matching the existing material and size, is then cut and fitted into place. Proper fittings are used to create secure, watertight connections, often involving soldering for copper or crimping for PEX, ensuring durability and code compliance. The new section is secured and supported.",
+      "text": "Step 4: Install Compatible Replacement Materials. A new piece of pipe, matching the existing material and size, is then cut and fitted into place. Proper fittings are used to create secure, watertight connections, often involving soldering for copper or crimping for PEX, ensuring durability and code compliance. The new section is secured and supported.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Test for Leaks and Restore Service. Before closing up walls or backfilling trenches, the repaired section is pressurized and thoroughly inspected for any leaks. This critical step confirms the integrity of the repair. Once verified as watertight, the main water supply can be gradually restored, and any access points are repaired and closed.",
+      "text": "CG Plumbing Solutions handles broken pipe repairs across the Las Vegas Valley. We provide clear options and code-conscious service, ensuring your repair is done right.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Isolate the Water Supply. The first crucial step is to shut off the water to the affected line, or if necessary, the entire main water supply to your property. This stops the leak and prevents"
+}

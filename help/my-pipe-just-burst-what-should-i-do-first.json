@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Pipe Just Burst: What Should I Do First?",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding a burst pipe can be really alarming, and your first thought might be to panic! But taking quick, decisive action can minimize damage. First things first: stop the water. Locate your main water shutoff valve and turn it off immediately. This is usually near your water heater or where the main line enters your home. Once the water's off, open up faucets throughout your house and flush toilets to relieve any remaining pressure in the system. If the burst pipe is near electrical components, and you can safely do so, consider turning off power to that area. Don't try to clamp or tape the pipe as a long-term fix; those are usually temporary at best. Your priority right now is to stop the flow and prevent further damage, then call in the pros to assess and repair it correctly. Remember, getting it fixed right means you won't have to worry about it again soon. \n\nWhat to Do Next\n\nAfter you've shut off the water, document the damage with photos or videos for insurance purposes. Clear out any standing water you can safely manage. Then, reach out to a professional plumber like CG Plumbing Solutions. We're available 24/7 for emergencies across the Las Vegas Valley and can quickly dispatch to help you get things back to normal.",
+  "datePublished": "2026-09-28"
+}

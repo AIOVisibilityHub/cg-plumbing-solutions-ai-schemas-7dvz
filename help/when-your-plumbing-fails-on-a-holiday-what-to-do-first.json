@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Plumbing Fails on a Holiday: What to Do First",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's never a good time for a plumbing emergency, but during the holidays, it can feel extra stressful. Burst pipes, clogged drains, or a failed water heater can really put a damper on your celebrations. The good news is, acting quickly can make a big difference in limiting damage and getting things back to normal. First off, find your main water shutoff valve and turn it off. This is crucial for stopping water flow if you have an active leak, like a burst pipe. If it's just one fixture, try its shutoff. Next, protect the area from further damage; move valuables, and be super careful around any wet electrical outlets or devices. \n\n### What to Do Next\nOnce the immediate crisis is contained, take some pictures or videos of the damage. This helps with diagnosis later and can be useful for insurance. If it's a frozen pipe, remember to keep the faucet open and only use gentle heat – a hairdryer or hot water towels work, but never an open flame! Then, it’s time to call a professional. Look for a licensed and insured plumber like CG Plumbing Solutions who offers 24/7 emergency service, even on holidays. We'll communicate next steps, dispatch a technician, and make sure your property is protected while we diagnose and resolve the issue. Knowing what to do in those first few minutes can save you a lot of headache.",
+  "datePublished": "2026-09-28"
+}

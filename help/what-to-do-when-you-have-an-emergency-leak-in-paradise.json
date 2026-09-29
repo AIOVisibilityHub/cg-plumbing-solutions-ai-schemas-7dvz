@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When You Have an Emergency Leak in Paradise",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding an unexpected leak in your Paradise home can be alarming, but acting quickly and calmly can prevent extensive damage. Whether it's a slow drip or a sudden burst, knowing the immediate steps to take can make a huge difference before professional help arrives. The goal is to contain the water, ensure safety, and prepare for the plumber.\n\nWhat to Do Next\nThe very first thing you should do is try to isolate the water source. If you can identify the leaking fixture—like a toilet or a sink—look for a small shut-off valve nearby and turn it clockwise until the water stops. If you can't find a fixture valve or the leak is more widespread, head straight to your main water shut-off valve for your Paradise property and turn it off. This will stop water flow to the entire house. Once the water is off, avoid using any electrical appliances in standing water and move any valuables out of the affected area if it's safe to do so. Document the damage with photos or videos. Then, call a professional like CG Plumbing Solutions immediately. They handle emergency leak repairs and can safely diagnose and fix the source, often preventing secondary issues like mold or structural damage. Don't wait; even small leaks can cause significant problems over time.",
+  "datePublished": "2026-09-28"
+}

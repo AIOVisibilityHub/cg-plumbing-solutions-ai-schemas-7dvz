@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Emergency Drain Cleaning in Las Vegas: What to Prepare Before You Start",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with an emergency drain backup in Las Vegas can be a messy and frustrating experience. While you wait for a professional plumber from CG Plumbing Solutions to arrive, there are a few things you can do to prepare your home and help us resolve the issue more efficiently. Getting things ready beforehand can speed up the diagnostic process and make the repair go smoother.\n\n### What to Prepare Before You Start\n\n- [ ] Stop using all water fixtures — why this matters: If multiple drains are backed up, or if sewage is rising, immediately cease all water usage (toilets, sinks, showers, washing machines) to prevent further overflow and damage. Each additional drop of water will only worsen the situation.\n- [ ] Clear access to affected drains and cleanouts — why this matters: Make sure our technicians can easily get to the clogged sinks, tubs, toilets, and especially any main line cleanout access points, which are often located outside or in basements. Removing clutter saves valuable diagnostic time.\n- [ ] Note down symptoms: specific drains affected and timeline — why this matters: Having a clear record of which drains are clogged, when the problem started, and if it's been getting worse helps us quickly understand the scope of the issue. Did it start slowly, or was it a sudden backup?\n- [ ] Secure pets and children away from affected areas — why this matters: Sewage backups can contain harmful bacteria and pathogens. Keeping pets and children away from contaminated areas ensures their safety and allows our team to work without distraction.\n- [ ] Be ready to discuss if a public sewer issue is suspected — why this matters: If you suspect the blockage might be in the public sewer main (e.g., continuous sewage flow even when no fixtures are running), we'll need to know. This helps us coordinate with the utility if necessary, though we recommend you call us first to investigate if the issue is on your property.\n- [ ] Have contact information for CG Plumbing Solutions handy — why this matters: In an emergency, having our phone number, (702) 843-0899, readily available allows for immediate contact and quicker dispatch of a licensed technician to your Las Vegas property.\n\n### How to use this checklist\nThis checklist is designed to help you organize your thoughts and prepare your home before our emergency drain cleaning team arrives. Following these steps can help us diagnose and resolve your drain issues more efficiently and safely.",
+  "datePublished": "2026-09-28"
+}

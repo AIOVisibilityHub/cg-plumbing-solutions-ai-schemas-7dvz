@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When a Holiday Plumbing Issue Can't Wait",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Holidays are for celebrations, not plumbing disasters, but sometimes they happen. When you're faced with a burst pipe, a backed-up sewer, or no hot water on a holiday, it's natural to wonder if it's truly an emergency that needs immediate attention. The truth is, many holiday plumbing problems absolutely can't wait because they pose risks to your property or even your health. We’re talking about active leaks that can cause significant water damage, or sewer issues that create unsanitary conditions. Delaying these repairs, even for a holiday, can lead to much bigger headaches, like mold growth if wet materials aren't dried within 24-48 hours. That's why licensed and insured companies like CG Plumbing Solutions offer 24/7 emergency service, even on holidays, to address these critical situations across the Las Vegas Valley. They’re equipped to handle urgent leaks, sewer backups, and water heater failures, making sure you don't have to put your holiday festivities completely on hold because of a plumbing crisis. \n\nWhat Can Change the Right Choice\nWhen assessing whether to call an emergency plumber on a holiday, consider the specifics. Is water actively flowing and can it be isolated? If you can't shut off the water supply locally or at the main valve, or if the leak is substantial and affecting ceilings, walls, or electrical equipment, then immediate professional help is definitely needed. If you detect a gas smell or see sparking near water, evacuate and call emergency services right away. For issues involving sewage or contaminated water, prompt attention is crucial for health reasons. A qualified professional can quickly diagnose the issue, explain your options, and make code-compliant repairs, often preventing more extensive damage and cost down the line. CG Plumbing Solutions is ready to assist, offering bilingual support to help you communicate your needs effectively.\n\nWhat to Do Next\nIf you're experiencing a plumbing emergency this holiday, don't delay. Contact CG Plumbing Solutions at (702) 843-0899 for immediate assistance in Las Vegas and the surrounding areas.",
+  "datePublished": "2026-09-28"
+}

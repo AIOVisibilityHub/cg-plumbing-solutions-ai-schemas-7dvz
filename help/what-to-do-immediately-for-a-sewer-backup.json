@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do Immediately for a Sewer Backup",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A sewer backup is one of the most unpleasant and urgent plumbing emergencies you can face. Wastewater entering your home or business is not only destructive but also a significant health hazard. Swift action is critical to minimize damage and ensure safety. For immediate help in the Las Vegas Valley, CG Plumbing Solutions is here 24/7. But before we arrive, there are some crucial first steps you need to take.\n\n**What to Do Next**\n\nFirst and foremost, stop using any and all plumbing fixtures immediately. This means no flushing toilets, no running sinks, no showers, and no using dishwashers or washing machines. Any water you use will only contribute to the backup. The goal is to prevent more wastewater from entering your property.\n\nNext, ensure the safety of everyone in the building. Keep people and pets far away from the affected area. Sewage water can carry harmful bacteria and pathogens, and if there's standing water, there's a risk of electrical shock. Do not enter any areas with standing water, especially if it's near electrical outlets or appliances. If you suspect electrical hazards, it's crucial to address those first, perhaps by turning off the main power supply if it's safe to do so.\n\nThen, if you suspect the problem might be with the public sewer main rather than just your private lateral, contact your local municipality or sewer district right away. They can inspect the public system, and it's important to know their assessment before private work begins. This is particularly relevant in areas like Las Vegas where identifying the source is key to the solution. Document the event by taking photos or videos for insurance purposes, but only if it's safe to do so.\n\nFinally, once safety is secured and the necessary calls are made, call CG Plumbing Solutions. We'll dispatch a licensed technician quickly to diagnose the cause, whether it's a blocked lateral, a burst pipe, or another issue. We'll clearly communicate the next steps and ensure the work is done properly, safely, and up to code.",
+  "datePublished": "2026-09-28"
+}

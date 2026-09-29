@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Dealing with a Plumbing Emergency on the Weekend: Your First Steps",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Plumbing emergencies rarely care about your schedule, and that definitely includes weekends! When you're relaxing on a Saturday or Sunday and suddenly faced with a burst pipe or a backed-up sewer, it can feel like a total nightmare. But don't panic – taking the right first steps can make a huge difference in containing the problem and getting it fixed quickly. It’s all about smart, immediate action.\n\nFirst off, if you're seeing active leaks or flooding, your absolute top priority is to stop the water flow. If it’s a specific fixture, try turning off its local valve. If that doesn't work, or you have a major issue like a burst pipe, locate and turn off your home’s main water supply. This is often outside near your meter or where the main line enters your house. Next, try to protect your belongings by moving them away from the water. Lay down towels or buckets to catch any drips and minimize damage. If water is anywhere near electrical outlets or appliances, keep a safe distance and consider turning off the power to that area at your breaker box if you can do so safely. Never touch wet electrical items! Finally, snap some photos or videos of the problem and any damage. This documentation is super helpful for your plumber and potentially for insurance purposes. Once these immediate safety and containment steps are done, then it's time to get a professional involved.\n\nWhat to Expect During the Process\nWhen you call CG Plumbing Solutions on the weekend, we’ll assess your situation over the phone and dispatch a licensed technician. They'll arrive ready to diagnose, explain your options clearly, and get your plumbing back to normal. We know weekend emergencies are stressful, so we focus on clear communication and efficient service.\n\nWhat to Do Next\nDon't let a weekend plumbing emergency ruin your entire time off. Call CG Plumbing Solutions for 24/7 emergency service in the Las Vegas Valley. Our team is ready to help.",
+  "datePublished": "2026-09-28"
+}

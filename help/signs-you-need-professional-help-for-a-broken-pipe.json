@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs You Need Professional Help for a Broken Pipe",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Sometimes a broken pipe is obvious—a gushing leak demands immediate attention. Other times, the signs are more subtle, and it can be tempting to try a DIY fix. But for many situations, especially those involving pressurized lines, concealed pipes, or recurring issues, calling a professional plumber in the Las Vegas Valley is definitely the smartest move. Ignoring these signals or attempting an improper fix can lead to far greater damage and expense down the road.\n\nWhen Professional Guidance Helps:\n- **Low Water Pressure from a Specific Fixture:** If only one faucet or shower has weak flow, it could signal a break or clog in its dedicated supply line, which needs expert diagnosis.\n- **Unexplained Spikes in Water Bills:** A sudden increase in your water usage could point to a hidden leak within your property's plumbing system.\n- **Soggy Spots in Your Yard or Walls:** Wet, discolored, or soft areas in unexpected places are classic indicators of an underground or in-wall pipe break.\n- **Recurring Clogs or Drips:** If the same drain keeps backing up or a faucet won't stop dripping even after minor fixes, it suggests a deeper issue than a simple clog, possibly a damaged pipe.\n- **Water Discoloration or Odors:** Rusty water or a persistent musty/sewer smell can indicate pipe corrosion or a sewer line break, both serious problems.\n- **Hearing Running Water When No Fixtures Are On:** This ghost sound often means water is escaping somewhere it shouldn't be, possibly behind walls or under floors.\n- **Foundation Cracks or Shifting:** While not always plumbing-related, a persistent underground leak can erode soil and compromise your home's foundation.\n\nIf you're noticing any of these signs, especially in older homes, it's time to call in a licensed and insured professional like CG Plumbing Solutions. They have the tools and expertise to accurately detect, diagnose, and repair complex pipe issues, ensuring code-compliant and lasting solutions.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Water Heater Leaking? What to Expect in Summerlin",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A leaking water heater in your Summerlin home is a definite emergency, signaling potential equipment failure and significant water damage. It’s not just about losing hot water; it’s about managing a situation that can quickly escalate. Understanding what's happening and what comes next can help you stay calm and make informed decisions.\n\nCommon Mistakes to Avoid\nWhen your water heater is leaking, there are several crucial mistakes to avoid that can make the situation worse or put your safety at risk. Don't try to make internal repairs yourself; water heaters are complex and involve hot water, high pressure, and sometimes gas or electricity. Another common error is failing to shut off the water *and* the power source to the unit immediately. If it's an electric heater, turn off the breaker; for gas, turn off the gas supply valve. Never use electrical appliances or a vacuum cleaner near standing water from the leak. Postponing professional help is also a mistake; even a small leak can indicate a failing unit that needs urgent attention. A licensed plumber, like those at CG Plumbing Solutions, can safely assess the leak, determine if repair or replacement is needed for your Summerlin home, and ensure all connections are up to code.",
+  "datePublished": "2026-09-28"
+}

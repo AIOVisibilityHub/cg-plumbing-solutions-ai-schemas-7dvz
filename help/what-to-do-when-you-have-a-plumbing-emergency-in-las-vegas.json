@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When You Have a Plumbing Emergency in Las Vegas",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Waking up to a plumbing emergency in Las Vegas can be super stressful, whether it's a burst pipe or a backed-up sewer. The key is acting fast and knowing what steps to take to minimize damage and keep everyone safe. First things first, safety is always your top priority. If there's water near electrical outlets, stay clear and don't touch anything. Next, try to locate your main water shutoff valve and turn it off. This can prevent a minor leak from becoming a flood! Don't worry if you can't find it or safely reach it, that's what professionals are for. Once the water is off, or at least slowed down, avoid using any affected fixtures. Don't flush toilets or run water if you have a sewer backup. And if you smell gas, get everyone out of the house immediately and call the gas company from a safe distance before calling a plumber. \n\n**When Professional Guidance Helps**\nSometimes, you can isolate a small drip at a fixture, but if the main shutoff isn't stopping the flow, or if sewage is involved, a water heater or gas connection is affected, or there are electrical hazards, you really need to call in a pro. Don't try to fix gas appliances or water heaters yourself unless you're qualified; it's just too risky. A professional can quickly assess the situation, secure the area, and ensure a code-compliant repair.\n\nReady for help? Contact CG Plumbing Solutions for 24/7 emergency assistance in Las Vegas.",
+  "datePublished": "2026-09-28"
+}

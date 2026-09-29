@@ -1,0 +1,129 @@
+{
+  "name": "How to Prepare for a Holiday Plumbing Emergency in North Las Vegas",
+  "step": [
+    {
+      "name": "Step 1: Locate your main water shut-off valve. This is crucial for stopping an active leak quickly. You need to know exactly where it is in your North Las Vegas home and how to turn it off before a plumbing emergency strikes. Practice turning it off and on so you're not fumbling when time is of the essence.",
+      "text": "Step 1: Locate your main water shut-off valve. This is crucial for stopping an active leak quickly. You need to know exactly where it is in your North Las Vegas home and how to turn it off before a plumbing emergency strikes. Practice turning it off and on so you're not fumbling when time is of the essence.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Know how to shut off individual fixture valves. For toilets, sinks, and appliances like washing machines, there are usually smaller shut-off valves directly at the fixture. If a single fixture is leaking, closing its valve can contain the problem without turning off water to your entire home. Make sure these valves aren't stuck and turn easily.",
+      "text": "Step 2: Know how to shut off individual fixture valves. For toilets, sinks, and appliances like washing machines, there are usually smaller shut-off valves directly at the fixture. If a single fixture is leaking, closing its valve can contain the problem without turning off water to your entire home. Make sure these valves aren't stuck and turn easily.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Keep emergency contact information handy. Have the number for a trusted 24/7 emergency plumber like CG Plumbing Solutions readily available. You don't want to be searching online in a panic during a crisis, especially on a holiday. Store it in your phone and maybe even on the fridge.",
+      "text": "Step 3: Keep emergency contact information handy. Have the number for a trusted 24/7 emergency plumber like CG Plumbing Solutions readily available. You don't want to be searching online in a panic during a crisis, especially on a holiday. Store it in your phone and maybe even on the fridge.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Understand basic electrical safety around water. If there's standing water from a leak, never enter it, especially if it's near electrical outlets, appliances, or panels. Know how to safely shut off power to affected areas at your breaker box, but only if you can do so without stepping into water. Safety is always paramount.",
+      "text": "Step 4: Understand basic electrical safety around water. If there's standing water from a leak, never enter it, especially if it's near electrical outlets, appliances, or panels. Know how to safely shut off power to affected areas at your breaker box, but only if you can do so without stepping into water. Safety is always paramount.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Document any visible damage. Take photos or videos of the leak and any resulting damage as soon as it's safe to do so. This documentation can be helpful for your plumber to understand the scope of the problem and for any potential insurance claims later on.",
+      "text": "Step 5: Document any visible damage. Take photos or videos of the leak and any resulting damage as soon as it's safe to do so. This documentation can be helpful for your plumber to understand the scope of the problem and for any potential insurance claims later on.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Locate your main water shut-off valve. This is crucial for stopping an active leak quickly. You need to know exactly where it is in your North Las Vegas home and how to turn it off before a pl"
+}

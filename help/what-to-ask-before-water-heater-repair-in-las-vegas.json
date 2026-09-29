@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Ask Before Water Heater Repair in Las Vegas",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your water heater acts up in your Las Vegas home, getting it repaired quickly is a priority. But before you agree to any work, asking the right questions can ensure you're getting a reliable fix and a fair deal. You want to feel confident in the plumber you choose and the solutions they propose.\n\nFirst, clarify the exact source of the problem. Is the leak from the tank, a valve, or a connection? A good plumber should be able to pinpoint this accurately. Next, ask for a detailed explanation of the repair needed and why. What specific parts will be replaced or fixed? It’s also crucial to ask for an itemized estimate before any work begins, so you understand all the costs involved. Inquire about the plumber's experience with your specific type of water heater—conventional or tankless, gas or electric—as different systems require specialized knowledge. You'll also want to confirm their licensure and insurance, ensuring they meet professional standards. Don't forget to ask about any warranties on parts or labor for the repair, as this gives you peace of mind.\n\nQuestions to Ask Before You Decide\nBeyond the repair specifics, you might want to ask about the plumber's response time, especially if it's an emergency, and how quickly they can get the necessary parts. If a replacement is recommended, ask why repair isn't practical and what the advantages of a new unit would be. Also, inquire about proper installation practices, like ensuring required service clearances are maintained and safety controls are accessible. For gas units, ask how they ensure proper venting and carbon monoxide safety. CG Plumbing Solutions provides clear communication, written options, and answers to all your questions, ensuring you're fully informed before we start any water heater repair in your Las Vegas home.",
+  "datePublished": "2026-09-28"
+}

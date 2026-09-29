@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Prepare Before Emergency Water Line Repair",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with a burst pipe or a serious water leak is definitely an emergency, and being prepared can really help streamline the repair process. Before our team arrives, there are a few things you can get ready that will make a big difference. First and foremost, you'll want to locate and shut off your main water valve if you haven't already. This is critical to stop the flow of water and prevent further damage. If you're unsure where it is, don't worry, our plumbers can help, but it's good to know for future emergencies. Next, try to clear the area around the suspected leak. Moving furniture, boxes, or anything else out of the way provides clear access for our technicians to assess and repair the problem quickly. If you know when the house was built or what kind of pipes you have (like copper, PEX, or galvanized), that information can also be super helpful for our team. Finally, if you've noticed any other related issues, like electrical concerns from flooding or changes in water pressure, make a note of them to share with the plumber. This helps us get the full picture and ensure a comprehensive solution.\n\nWhat Can Change the Right Choice\nKnowing the exact location and severity of the leak, as well as the type of pipe material involved, are key factors that will influence the repair approach. Our team at CG Plumbing Solutions can provide clear options once we've assessed the situation. Contact us anytime for emergency water line repair in the Las Vegas Valley.",
+  "datePublished": "2026-09-28"
+}

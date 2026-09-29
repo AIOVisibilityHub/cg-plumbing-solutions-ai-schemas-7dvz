@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Deciding Between Water Heater Repair or Replacement in Las Vegas",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your water heater acts up, especially with a leak, you're faced with a big question: repair or replace? It’s a common dilemma for homeowners in Las Vegas, and the right answer depends on a few key factors like the age of your unit, the severity of the problem, and your budget. Making an informed decision can save you money and headaches down the road.\n\n**How to Compare Your Options**\n- **Age of the Unit:** Generally, if your water heater is more than 10-12 years old, replacing it often makes more financial sense than pouring money into repairs. Older units are less efficient and more prone to new problems.\n- **Cost of Repair vs. Replacement:** Get a clear estimate for both options. If the repair cost is more than 50% of the cost of a new unit, replacement is usually the better investment. Consider that new units often come with better energy efficiency, saving you on utility bills.\n- **Severity of the Problem:** Minor issues like a faulty T&P valve, a broken thermostat, or a small leak from a connection point are often repairable. However, if the tank itself is corroded or ruptured, replacement is almost always the only safe and reliable option.\n- **Frequency of Repairs:** If your water heater has been needing frequent repairs lately, it’s a strong signal that it's nearing the end of its life. Investing in a new unit will provide more reliability and peace of mind.\n- **Warranty:** Check if your current unit is still under warranty. If so, some repairs might be covered, influencing your decision. New units come with fresh warranties, offering protection against future issues.\n\nUltimately, a professional assessment is crucial. CG Plumbing Solutions can help you weigh these factors, providing clear options before any work begins, so you can make the best choice for your home and budget.",
+  "datePublished": "2026-09-28"
+}

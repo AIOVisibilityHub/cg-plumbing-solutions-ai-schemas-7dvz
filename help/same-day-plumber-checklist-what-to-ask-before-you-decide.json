@@ -1,0 +1,163 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Same-Day Plumber Checklist: What to Ask Before You Decide",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Same-Day Plumber Checklist: What to Ask Before You Decide",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Are you licensed and insured in Nevada? — This is non-negotiable for your protection and peace of mind. We…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Are you licensed and insured in Nevada? — This is non-negotiable for your protection and peace of mind. We operate under Nevada plumbing license C-1D/0093216."
+      },
+      {
+        "name": "What is your estimated arrival window? — 'Same-day' is great, but a specific 2-4 hour window helps you plan…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "What is your estimated arrival window? — 'Same-day' is great, but a specific 2-4 hour window helps you plan your day better. Remember, actual response can depend on workload and travel distance."
+      },
+      {
+        "name": "What are your diagnostic or call-out fees? — Understand if there's a charge just for them to show up and di…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "What are your diagnostic or call-out fees? — Understand if there's a charge just for them to show up and diagnose the problem, especially for after-hours or emergency calls. We'll be transparent about this."
+      },
+      {
+        "name": "Will I get a written estimate before work begins? — Always get a detailed, written quote that outlines the…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Will I get a written estimate before work begins? — Always get a detailed, written quote that outlines the scope of work and all costs before giving the go-ahead. Our approach is clear communication and written options."
+      },
+      {
+        "name": "What is your warranty on parts and labor? — A reputable plumber stands behind their work. Know what kind of…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "What is your warranty on parts and labor? — A reputable plumber stands behind their work. Know what kind of guarantee you're getting for the repair."
+      },
+      {
+        "name": "Can you complete the repair today, or just diagnose it? — Some companies might only offer a same-day inspec…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Can you complete the repair today, or just diagnose it? — Some companies might only offer a same-day inspection. Confirm they have the ability and parts to actually fix the issue on the spot."
+      },
+      {
+        "name": "Do you handle this specific type of problem? — Whether it's a water heater, a drain backup, or a gas line i…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Do you handle this specific type of problem? — Whether it's a water heater, a drain backup, or a gas line issue, make sure they have the expertise for your particular situation. We offer a broad menu of services."
+      },
+      {
+        "name": "Do you serve my specific area? — Verify they cover your location in the Las Vegas Valley, like Summerlin, H…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Do you serve my specific area? — Verify they cover your location in the Las Vegas Valley, like Summerlin, Henderson, or North Las Vegas. We serve a wide area, including these communities."
+      }
+    ]
+  },
+  "articleBody": "When a plumbing issue pops up and you need it fixed today, picking the right same-day plumber is crucial. It’s not just about who can get there fastest, but who can get the job done right, safely, and transparently. This checklist will help you ask the right questions to make an informed decision for your Las Vegas Valley home or business.\n\n- [ ] **Are you licensed and insured in Nevada?** — This is non-negotiable for your protection and peace of mind. We operate under Nevada plumbing license C-1D/0093216.\n- [ ] **What is your estimated arrival window?** — 'Same-day' is great, but a specific 2-4 hour window helps you plan your day better. Remember, actual response can depend on workload and travel distance.\n- [ ] **What are your diagnostic or call-out fees?** — Understand if there's a charge just for them to show up and diagnose the problem, especially for after-hours or emergency calls. We'll be transparent about this.\n- [ ] **Will I get a written estimate before work begins?** — Always get a detailed, written quote that outlines the scope of work and all costs before giving the go-ahead. Our approach is clear communication and written options.\n- [ ] **What is your warranty on parts and labor?** — A reputable plumber stands behind their work. Know what kind of guarantee you're getting for the repair.\n- [ ] **Can you complete the repair today, or just diagnose it?** — Some companies might only offer a same-day inspection. Confirm they have the ability and parts to actually fix the issue on the spot.\n- [ ] **Do you handle this specific type of problem?** — Whether it's a water heater, a drain backup, or a gas line issue, make sure they have the expertise for your particular situation. We offer a broad menu of services.\n- [ ] **Do you serve my specific area?** — Verify they cover your location in the Las Vegas Valley, like Summerlin, Henderson, or North Las Vegas. We serve a wide area, including these communities.\n\nHow to use this checklist:\n\nKeep this checklist handy when you're making that urgent call. It'll help you quickly gather the essential information you need to choose a reliable and effective same-day plumber, like CG Plumbing Solutions, who can provide immediate, quality service without any unwelcome surprises.",
+  "datePublished": "2026-09-28"
+}

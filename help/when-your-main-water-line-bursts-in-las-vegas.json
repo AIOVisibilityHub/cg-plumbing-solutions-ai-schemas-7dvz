@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Main Water Line Bursts in Las Vegas",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering a burst water line can be incredibly stressful, especially if it's your main line. You might notice a sudden drop in water pressure, unexpected wet spots in your yard, or even flooding in your home. The first thing you need to do is quickly locate and shut off your main water supply. This can prevent further damage to your property. If water is near electrical equipment, it's also crucial to disconnect the power to avoid hazards. Don't delay this step; acting fast can make a huge difference in limiting the damage and repair costs.\n\n### What to Expect During the Process\nWhen CG Plumbing Solutions responds to a burst water line emergency, our licensed technicians are focused on clear communication and getting your water back on safely. We'll start by accurately identifying the leak's location and the type of pipe material involved. This helps us determine the best repair method, whether it's a simple patch or a section replacement. For underground leaks, we use specialized equipment to pinpoint the issue without unnecessary excavation. We always provide written options before any work begins, ensuring you understand the path forward. After the repair, we'll pressure-test the line to confirm it's secure, then gradually restore your water service, flushing the lines to remove any sediment. Our goal is to make a stressful situation as manageable as possible for you.\n\n### When Professional Guidance Helps\nTrying to diagnose or repair a main water line on your own, especially when it's underground or involves significant flooding, can lead to bigger problems. A qualified professional becomes essential when the main shutoff isn't working, the leak is underground, or you suspect water contamination. We have the right tools for leak detection, excavation if needed, and pressure testing to ensure a durable repair. Plus, we're familiar with local Las Vegas Valley requirements for materials and service reconnection. Our 24/7 emergency service means we're always ready to help protect your property and get things flowing again.\n\nIf you're dealing with a burst main water line in Las Vegas, contact CG Plumbing Solutions right away at (702) 843-0899 for emergency assistance.",
+  "datePublished": "2026-09-28"
+}

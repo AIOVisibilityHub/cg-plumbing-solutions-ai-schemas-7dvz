@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hiring for Burst Pipe Repair in Las Vegas: Questions to Ask",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a pipe bursts, you're not just dealing with water, you're dealing with a plumbing emergency that needs swift, reliable attention. Choosing the right professional for burst pipe repair in the Las Vegas Valley is a crucial decision that can impact the quality of the fix and your home's recovery. You want someone who understands the urgency and has the expertise to handle it correctly. Here are some key questions to ask before you decide on a plumber.\n\nWhat to Prepare Before You Start\nBefore calling, try to locate your main water shutoff valve and turn it off. This helps you discuss the situation more clearly and demonstrates you've taken initial protective steps.\n\nQuestions to Ask Before You Decide:\n- \"Are you licensed and insured for plumbing work in Nevada?\" — This is non-negotiable. CG Plumbing Solutions, for example, operates under Nevada license C-1D/0093216, ensuring they meet state requirements.\n- \"What's your typical response time for a burst pipe emergency in my area (e.g., Summerlin, Henderson)?\" — A rapid response can greatly reduce water damage. Companies offering 24/7 emergency service, like CG Plumbing Solutions, are often best.\n- \"Do you have experience with my pipe material (e.g., PEX, copper, galvanized)?\" — Different pipe types require specific repair techniques and materials.\n- \"Will I receive a written estimate before work begins, detailing the scope and warranty?\" — Clear communication about costs and the work to be done prevents surprises.\n- \"Can you help coordinate with water damage restoration contractors if needed?\" — A plumber who can work alongside or recommend restoration services can simplify the entire recovery process.",
+  "datePublished": "2026-09-28"
+}

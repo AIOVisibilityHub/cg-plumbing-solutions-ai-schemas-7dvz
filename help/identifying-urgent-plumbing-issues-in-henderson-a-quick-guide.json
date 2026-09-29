@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Identifying Urgent Plumbing Issues in Henderson: A Quick Guide",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's tough to know sometimes if a plumbing problem is just an inconvenience or a full-blown emergency. In Henderson, recognizing the signs of an urgent plumbing issue can save you a lot of trouble, stress, and potential property damage. Not everything needs a 2 AM call, but some things definitely do! Knowing what to look for helps you react appropriately and quickly.\n\nAn active leak where water is visibly gushing or dripping continuously, especially from a pipe, is a definite emergency. If you see water spreading rapidly, that's your cue to act fast. Another big red flag is a complete loss of hot water or a water heater that's actively leaking. Water heaters can cause significant damage if they fail completely, and no one wants a cold shower! Sewage backing up into your toilet, shower, or drains is another critical situation. This isn't just unpleasant; it's a health hazard that requires immediate attention. If multiple drains are clogged or backing up at the same time, it often points to a main sewer line issue, which also needs a quick response. And, of course, if you can't shut off water at a fixture, or if you smell gas near any plumbing appliance, that's an immediate safety concern where you should vacate and call emergency services or your gas utility first.\n\nWhen Professional Guidance Helps: For any of these urgent issues – active leaks, water heater failures, sewage backups, or multiple clogged drains – calling a licensed 24/7 emergency plumber like CG Plumbing Solutions is crucial. We can quickly diagnose the problem and provide the necessary repairs.",
+  "datePublished": "2026-09-28"
+}

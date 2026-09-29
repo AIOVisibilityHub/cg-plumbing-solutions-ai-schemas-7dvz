@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Clogged Drain Emergency: Knowing When to Call for Help",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with a clogged drain can be more than just a nuisance; sometimes, it's a full-blown emergency. Knowing when to pick up the phone and call a professional can save you a lot of stress, potential damage, and costly repairs down the line. It's all about understanding the signals your plumbing is sending you.\n\nWhen Professional Guidance Helps\n\n- Multiple fixtures affected: If you notice more than just one sink or toilet backing up, it's a big red flag. This often points to a blockage in your main sewer line, which is definitely a job for the pros.\n- Sewage surfacing: Any time you see sewage coming up into your tubs, showers, or toilets, that's an immediate emergency. This isn't just gross; it's a serious health hazard and needs expert attention fast.\n- Recurring clogs: If you've cleared the same drain multiple times and the problem keeps coming back, there's an underlying issue. It could be tree roots, a buildup of grease, or even a damaged pipe that needs proper diagnosis and repair.\n- Mechanical clearing fails: Tried a plunger or a basic snake and it just won't budge? That blockage is likely too deep or too tough for DIY methods. Professionals have specialized equipment, like hydro-jetting, that can tackle even the most stubborn clogs.\n- Suspected pipe damage or root intrusion: If you're hearing strange noises, seeing water pooling around drains, or smelling sewage, there might be structural damage or roots growing into your pipes. A camera inspection is usually needed here to pinpoint the exact problem without destructive digging.\n- Electrical hazards or contaminated water: Standing water, especially if it's mixed with sewage, can create dangerous electrical situations. Never wade into it without ensuring the power is off. Contaminated water is also a health risk. Plumbers can safely assess and manage these dangers.\n\nCG Plumbing Solutions offers 24/7 emergency clogged drain service across the Las Vegas Valley. We're licensed, insured, and ready to respond quickly, protecting your property and diagnosing the problem with clear communication. Don't hesitate if you're experiencing any of these signs. We'll dispatch a licensed technician to assess the situation and provide code-correct solutions.\n\nIf you're facing a clogged drain emergency, call CG Plumbing Solutions right away at (702) 843-0899. We're here to help, day or night.",
+  "datePublished": "2026-09-28"
+}

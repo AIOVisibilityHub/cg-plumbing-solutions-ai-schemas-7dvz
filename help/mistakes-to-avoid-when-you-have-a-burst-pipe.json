@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When You Have a Burst Pipe",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a pipe bursts, it's easy to panic, but some common mistakes can actually make the situation worse. Let's talk about what not to do. First, don't keep using water after you've noticed the break. This just adds to the flooding and potential damage. Shutting off your main water supply immediately is step number one! Another big no-no is touching electrical equipment if there's standing water. Water and electricity are a dangerous mix, and safety should always come first. Also, resist the urge to try a permanent repair yourself without understanding why the pipe burst in the first place. Temporary solutions like repair tape or clamps are fine for a moment, but they're not a substitute for a professional, lasting fix. Finally, don't start a major cleanup before you've documented the damage with photos, especially if you plan to involve your insurance. This evidence can be really important later on. What Can Change the Right Choice: The severity of the burst, its location (e.g., inside a wall), and whether it involves a main supply line all dictate how quickly and comprehensively a professional needs to step in. For any serious burst pipe issue, contacting CG Plumbing Solutions for expert assistance is your best bet to avoid these pitfalls.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,157 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Plumbing Breaks: A Repair Checklist",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "When Your Plumbing Breaks: A Repair Checklist",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 7,
+    "itemListElement": [
+      {
+        "name": "Locate and shut off your main water valve — why this immediately stops further water flow and damage to you…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Locate and shut off your main water valve — why this immediately stops further water flow and damage to your property."
+      },
+      {
+        "name": "Turn off the water supply to the specific fixture if possible — why isolating the break minimizes water los…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Turn off the water supply to the specific fixture if possible — why isolating the break minimizes water loss while you assess the situation."
+      },
+      {
+        "name": "Open nearby faucets to drain remaining water from the pipes — why this relieves pressure and helps clear th…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Open nearby faucets to drain remaining water from the pipes — why this relieves pressure and helps clear the lines for inspection."
+      },
+      {
+        "name": "Identify the general location and type of break (e.g., supply line, drainpipe) — why this information helps…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Identify the general location and type of break (e.g., supply line, drainpipe) — why this information helps the plumber diagnose and prepare for the repair more quickly."
+      },
+      {
+        "name": "Clear the area around the broken pipe for accessibility — why providing clear access allows technicians to…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Clear the area around the broken pipe for accessibility — why providing clear access allows technicians to work efficiently and safely."
+      },
+      {
+        "name": "Take photos or videos of the damage before cleanup — why this documentation is essential for any potential…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Take photos or videos of the damage before cleanup — why this documentation is essential for any potential insurance claims."
+      },
+      {
+        "name": "Note any associated issues like reduced water pressure or soggy spots — why these details can offer clues t…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Note any associated issues like reduced water pressure or soggy spots — why these details can offer clues to the cause and extent of the problem."
+      }
+    ]
+  },
+  "articleBody": "A broken pipe, whether it's a slow leak or a full-blown gush, can throw a wrench in your day. Knowing how to react and what to prepare can make a huge difference in limiting damage and getting your Las Vegas property back to normal. This checklist helps you manage the situation and prepare for professional help effectively.\n\n- [ ] Locate and shut off your main water valve — why this immediately stops further water flow and damage to your property.\n- [ ] Turn off the water supply to the specific fixture if possible — why isolating the break minimizes water loss while you assess the situation.\n- [ ] Open nearby faucets to drain remaining water from the pipes — why this relieves pressure and helps clear the lines for inspection.\n- [ ] Identify the general location and type of break (e.g., supply line, drainpipe) — why this information helps the plumber diagnose and prepare for the repair more quickly.\n- [ ] Clear the area around the broken pipe for accessibility — why providing clear access allows technicians to work efficiently and safely.\n- [ ] Take photos or videos of the damage before cleanup — why this documentation is essential for any potential insurance claims.\n- [ ] Note any associated issues like reduced water pressure or soggy spots — why these details can offer clues to the cause and extent of the problem.\n\nHow to use this checklist:\nGo through these items methodically as soon as you discover a broken pipe. This helps you gather critical information, mitigate immediate damage, and be ready to provide a licensed plumber, like those at CG Plumbing Solutions, with everything they need for a swift and effective repair. Don't skip steps, especially shutting off the water, to protect your property.",
+  "datePublished": "2026-09-28"
+}

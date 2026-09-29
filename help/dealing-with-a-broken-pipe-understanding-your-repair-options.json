@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Dealing with a Broken Pipe: Understanding Your Repair Options",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding a broken pipe can be unnerving, whether it’s a small crack or a more significant split. The good news is, there are usually several ways to tackle it, and understanding your options is key. First, you or your plumber will need to isolate the affected section of pipe by shutting off the main water supply or just the specific branch if possible. Then, it's about figuring out the pipe's material—like copper, PVC, or PEX—because that totally changes the repair approach. A small, accessible crack might be a straightforward cut-and-replace of a section. For a failed joint, it might just need re-doing with the right fittings and sealants. But if it's a larger issue, especially behind a wall or under a floor, you might be looking at a more involved process. Temporary fixes, like repair tape or clamps, are great for buying some time before a pro arrives, but they're rarely permanent solutions. Don't try to patch it without properly drying and cleaning the pipe, or use incompatible materials; that’s a recipe for disaster. What to Expect During the Process: Expect the plumber to thoroughly inspect the damage, explain the repair versus replacement options, provide a clear estimate, and pressure-test the repair once it's done. This ensures the fix is solid and won't leak again. If you're dealing with a broken pipe, reach out to CG Plumbing Solutions to discuss the best repair strategy for your situation.",
+  "datePublished": "2026-09-28"
+}

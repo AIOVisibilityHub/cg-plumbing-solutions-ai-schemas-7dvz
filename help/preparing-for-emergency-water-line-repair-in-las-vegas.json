@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Preparing for Emergency Water Line Repair in Las Vegas",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a water line emergency hits, like a burst pipe, it can feel overwhelming. But taking a few quick steps can really help minimize damage and get things ready for a speedy repair. First off, locating and closing your main water shutoff valve is crucial to stopping the flow and preventing further damage. It's usually near where your water line enters your home or near your water meter. Once the water's off, try to keep people and pets away from any wet electrical equipment – water and electricity are a dangerous mix! Also, take a few pictures of the visible damage; it can be helpful for your plumber and any insurance claims.\n\n### What to Prepare Before You Start\n\nBefore our team arrives, there are a few things that can make the repair process smoother. Knowing the general location of the leak, even if it's just a wet spot in the yard, helps us pinpoint the problem faster. If you have any recent plumbing work or renovation details, sharing those can also be useful. We’ll need clear access to the area where the leak is suspected, so clearing away any items beforehand can save time. And if you're curious about whether the leak is on your property's service line or a utility main, that's a good question to have ready. Don't worry if you don't have all the answers; our licensed technicians at CG Plumbing Solutions are experts at diagnosing and resolving these issues efficiently. Our goal is to get your water back on safely and quickly, with clear communication every step of the way, serving all corners of the Las Vegas Valley.\n\n### What to Do Next\n\nIf you’re facing a water line emergency in Las Vegas, North Las Vegas, or Henderson, call CG Plumbing Solutions right away at (702) 843-0899. We're available 24/7 for emergency dispatch.",
+  "datePublished": "2026-09-28"
+}

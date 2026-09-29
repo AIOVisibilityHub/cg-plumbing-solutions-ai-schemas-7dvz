@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Preparing for a Plumber to Fix Your Broken Pipe",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you've got a broken pipe, getting ready for the plumber can help speed up the repair process and potentially save you some stress. It’s all about having a few things sorted before they even arrive. First, if you haven't already, try to locate and shut off your main water supply. Knowing where this is located is super helpful and can stop further damage. If you can, move any items or furniture away from the affected area to give the plumber clear access. Take some photos or even a video of the leak and any visible damage; this can help the plumber understand the scope before they even start. Think about when you first noticed the issue, any strange sounds, or if you've had low water pressure lately, as these details can be clues. Also, if you know what kind of pipes you have—like copper, PEX, or PVC—that's great information to share. What to Prepare Before You Start: Have answers ready for questions about when the leak started, where you think it's coming from, and if you've tried any temporary fixes. This information helps your CG Plumbing Solutions technician diagnose and resolve the issue more efficiently. Don't forget to ask about the repair process and any potential impact on your daily routine. Contact CG Plumbing Solutions to schedule your broken pipe repair.",
+  "datePublished": "2026-09-28"
+}

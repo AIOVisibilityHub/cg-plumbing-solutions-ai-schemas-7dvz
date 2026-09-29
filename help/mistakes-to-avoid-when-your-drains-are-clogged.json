@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Your Drains Are Clogged",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A clogged drain can be a real headache, and it's easy to make a few common missteps that can actually worsen the problem or delay a proper fix. Whether it's a slow-draining sink or a full-blown backup, knowing what *not* to do is just as important as knowing what *to do*. CG Plumbing Solutions sees these issues all the time in Las Vegas homes and businesses, so we've got some insights to share.\n\n**Common Mistakes to Avoid**\n\n- **Continuing to use fixtures:** When a drain is clogged, the absolute worst thing you can do is keep running water into it. Flushing toilets, running dishwashers, or taking showers will only add more water to the already blocked system, increasing the risk of an overflow and potential water damage. Stop all water usage immediately.\n- **Over-relying on chemical drain cleaners:** While these can seem like a quick fix, they often only clear a small path through a blockage and don't address the root cause. Plus, the harsh chemicals can be corrosive to your pipes over time, leading to more expensive repairs down the line. They're also not great for the environment.\n- **Assuming a temporary fix is a permanent one:** Sometimes a clog clears a little, and you think the problem is gone. However, if the underlying issue (like grease buildup, tree roots, or damaged pipes) isn't resolved, that clog is likely to return, often worse than before. A temporary improvement isn't a long-term solution.\n- **Ignoring multiple clogged fixtures:** If more than one drain in your home or business is slow or backed up, it's a strong indicator that the problem isn't just a simple hairball in a shower trap. This often points to a blockage in the main sewer line, which is a much more serious issue requiring professional attention. Don't assume it's just bad luck with individual drains.\n- **Not contacting the local sewer authority for continuous flow:** If you notice wastewater flowing continuously even when no water is being used in your property, it could indicate a blocked public main. In this scenario, your first call should be to the local sewer authority, not just a plumber. This helps ensure the correct team addresses the problem efficiently.\n\nFor any stubborn or recurring drain issues in the Las Vegas Valley, especially if you suspect a bigger problem, it's always best to call a licensed professional. CG Plumbing Solutions offers 24/7 emergency service and can accurately diagnose and repair the issue, providing clear options before any work begins.",
+  "datePublished": "2026-09-28"
+}

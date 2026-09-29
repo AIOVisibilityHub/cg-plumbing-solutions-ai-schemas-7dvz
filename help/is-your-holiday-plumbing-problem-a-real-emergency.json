@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Holiday Plumbing Problem a Real Emergency?",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Holidays bring cheer, but they can also bring unexpected plumbing surprises. You might wonder if that dripping faucet or slow drain truly warrants an emergency call during festive times. Deciding what constitutes a 'real emergency' can save you hassle and potentially bigger problems down the road. Our Las Vegas team often helps homeowners and businesses navigate these decisions.\n\nA plumbing issue usually qualifies as an emergency if it poses a significant risk to your property, health, or safety. Think uncontrolled water leaks, especially from burst pipes, which can cause extensive water damage to walls, flooring, and ceilings. Sewage backups are another major concern, bringing health hazards and potential contamination. No hot water, especially in colder months, can also be an emergency, disrupting daily life and comfort.\n\nOn the other hand, a minor drip that can be contained, a slightly slow drain that isn't completely blocked, or a running toilet that you can temporarily manage might not require an immediate, after-hours emergency call. While these still need attention, they might be able to wait until regular business hours without causing further damage.\n\nWhen in doubt, it’s always best to call a professional. We're here 24/7, and our technicians can help you assess the situation over the phone. We'll communicate next steps and dispatch a licensed expert if needed. Don't make the mistake of forcing a seized shut-off valve or trying a complex repair yourself, especially if the source is concealed or near electrical systems. That's when professional guidance helps immensely.",
+  "datePublished": "2026-09-28"
+}

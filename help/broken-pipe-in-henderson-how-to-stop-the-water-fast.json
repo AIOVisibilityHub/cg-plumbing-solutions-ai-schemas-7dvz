@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Broken Pipe in Henderson: How to Stop the Water Fast",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A broken pipe in your Henderson home can quickly turn into a major headache if not handled swiftly. The absolute first thing you need to do is locate and turn off your main water supply. Knowing where this valve is before an emergency happens can save you a lot of trouble. This immediate action prevents more water from gushing out, limiting potential water damage to your property. Once the main water is off, open up all your faucets, especially those on the lowest floor, to help drain the remaining water out of your pipes. This relieves pressure and helps clear out the system.\n\n### How to Compare Your Options\nWhen you're dealing with a broken pipe, especially if it's concealed behind a wall or underground, you'll need professional help. You might be wondering if the pipe is actually broken or just leaking at a joint. A good plumber will first identify the exact nature and location of the damage. They might use specialized equipment to pinpoint the issue without unnecessary demolition. Consider whether the proposed solution involves a targeted repair of just the damaged section or if a full replacement of a larger portion is recommended due to corrosion or widespread issues. Ask about the materials they plan to use and ensure they are compatible with your existing plumbing. Also, inquire about leak testing after the repair and what kind of warranty is offered on the work. For complex repairs, like those under a slab or involving extensive access, understanding the repair process and potential restoration needs is crucial. A professional can help you navigate these choices, ensuring a durable and safe resolution.\n\nIf you have a broken pipe in Henderson, contact CG Plumbing Solutions for expert diagnosis and repair options.",
+  "datePublished": "2026-09-28"
+}

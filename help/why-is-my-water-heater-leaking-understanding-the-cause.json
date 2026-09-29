@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Is My Water Heater Leaking? Understanding the Cause",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A leaking water heater is definitely a cause for concern, but understanding where the water is coming from can help you and your plumber address the issue effectively. Leaks can originate from several spots on your unit, each indicating a different problem. It's not always the end for your water heater, but quick action is essential to prevent water damage and potential hazards.\n\nFirstly, check if the water is coming directly from the tank itself. This often points to a ruptured or corroded tank, especially in older units, and usually means replacement is needed. However, the leak might be coming from a connection point, like the cold-water inlet or hot-water outlet pipes, which can often be tightened or repaired. Another common source is the temperature and pressure relief (T&P) valve, a critical safety device designed to open if pressure or temperature gets too high. If this valve is dripping or discharging, it could signal excessive pressure in the tank or a faulty valve that needs replacement. Lastly, don't overlook the drain valve at the bottom of the tank; sometimes, these can loosen or fail.\n\n**What Can Change the Right Choice**\nThe source of the leak significantly impacts whether you need a simple repair or a full replacement. If it’s just a loose connection or a faulty T&P valve, a repair is often straightforward. But if the tank itself is compromised due to age, rust, or a crack, then a replacement is generally the safer and more cost-effective long-term solution. Your plumber will assess the leak source, the age of your unit, and its overall condition to help you make the best decision. Don't forget that if you smell gas with a gas water heater, you need to leave the area immediately and call the gas utility.\n\nDealing with a leaking water heater? Contact CG Plumbing Solutions for expert diagnosis and repair options.",
+  "datePublished": "2026-09-28"
+}

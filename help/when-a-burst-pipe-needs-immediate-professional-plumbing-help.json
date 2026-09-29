@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When a Burst Pipe Needs Immediate Professional Plumbing Help",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering a burst pipe is definitely one of those moments that makes your heart sink. It's not just about the water gushing out; it's the potential damage to your home. But how do you know when it’s beyond a quick DIY fix and absolutely requires a professional emergency plumber? Well, if you've got water actively spraying or flooding an area, especially near electrical outlets or inside walls, it's time to call in the pros. The risk of significant water damage, or even electrical hazards, is just too high to handle on your own. CG Plumbing Solutions understands the urgency of these situations and is equipped to respond quickly across the Las Vegas Valley.\n\n**What Can Change the Right Choice**\nYour immediate actions are super important. If you can safely turn off the main water supply to your home, do it! This can dramatically reduce the damage. Also, consider the location of the burst. A pipe inside a wall or ceiling is a much more complex repair than an exposed pipe under a sink. If water is pooling near appliances or electrical panels, prioritizing safety by avoiding the area and cutting power (if safe to do so) is key before any plumbing work begins. Don't forget that larger, concealed repairs might even require specific permits, which a licensed plumber will know how to handle.\n\nTrying to patch a burst pipe yourself often leads to temporary fixes that fail quickly, leaving you with a bigger mess later. A licensed and insured plumber, like those at CG Plumbing Solutions, has the right tools and expertise to assess the full extent of the damage, make code-compliant repairs, and ensure the problem is truly resolved. They can also provide bilingual support, which is super helpful when you're stressed. When water is running where it shouldn't be, don't hesitate to reach out. We're here to help protect your home.",
+  "datePublished": "2026-09-28"
+}

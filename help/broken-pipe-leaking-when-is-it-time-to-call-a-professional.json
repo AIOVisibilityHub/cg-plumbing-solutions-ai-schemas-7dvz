@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Broken Pipe Leaking: When Is It Time to Call a Professional?",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A leaking broken pipe, even a small one, can quickly escalate from an annoyance to a major problem. While it might seem tempting to try a quick DIY patch, knowing when to bring in the experts can save you a lot of headache and expense down the line. If your broken pipe is concealed within a wall, ceiling, or even underground, it's definitely time to call in a pro. These aren't simple fixes, and trying to tackle them yourself could lead to more damage to your home or the pipe itself. Also, if the leak is from your main water supply or any potable water line, or if it's repeatedly recurring, you absolutely need professional help. Plumbers have the right tools for leak detection, ensuring the problem is fully identified and properly repaired, not just temporarily masked. They can also ensure that any repairs are up to code and won't cause issues later. \n\nWhen Professional Guidance Helps\n\nProfessional assistance is crucial when the break is concealed, underground, difficult to access, or connected to your main water service. If the issue is related to low water pressure, extensive flooding, or any structural damage, that's another clear signal to call in a licensed and insured plumber. CG Plumbing Solutions has experience with all sorts of pipe materials and failure types and serves the entire Las Vegas Valley. Don't hesitate to reach out for a lasting solution.",
+  "datePublished": "2026-09-28"
+}

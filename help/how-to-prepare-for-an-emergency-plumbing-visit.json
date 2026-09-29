@@ -1,0 +1,129 @@
+{
+  "name": "How to Prepare for an Emergency Plumbing Visit",
+  "step": [
+    {
+      "name": "Step 1: Locate and Shut Off the Main Water Valve — Turning off the main water supply to your home is crucial for most water-related emergencies. This stops the flow, preventing further damage. Knowing exactly where it is beforehand, and how to operate it, will save precious minutes. If you can’t locate it or it’s stuck, tell the dispatcher right away.",
+      "text": "Step 1: Locate and Shut Off the Main Water Valve — Turning off the main water supply to your home is crucial for most water-related emergencies. This stops the flow, preventing further damage. Knowing exactly where it is beforehand, and how to operate it, will save precious minutes. If you can’t locate it or it’s stuck, tell the dispatcher right away.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Clear the Area Around the Problem — Move any furniture, rugs, or personal items away from the immediate vicinity of the leak or backup. This creates a clear workspace for the plumber and protects your belongings from further damage. A clear path means faster access for diagnosis and repair.",
+      "text": "Step 2: Clear the Area Around the Problem — Move any furniture, rugs, or personal items away from the immediate vicinity of the leak or backup. This creates a clear workspace for the plumber and protects your belongings from further damage. A clear path means faster access for diagnosis and repair.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Document the Damage with Photos or Video — Before any cleanup or repairs begin, take pictures or video of the affected area and any visible damage. This documentation can be incredibly helpful for insurance claims later on, showing the extent of the emergency before intervention. It's a quick step that provides important evidence.",
+      "text": "Step 3: Document the Damage with Photos or Video — Before any cleanup or repairs begin, take pictures or video of the affected area and any visible damage. This documentation can be incredibly helpful for insurance claims later on, showing the extent of the emergency before intervention. It's a quick step that provides important evidence.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Protect Yourself and Pets from Hazards — If there's standing water, especially near electrical outlets or appliances, avoid the area. If you suspect a gas leak, evacuate immediately and call the gas company or 911 from a safe location. Prioritize safety over trying to inspect the problem up close. Keep pets away from the affected zone too.",
+      "text": "Step 4: Protect Yourself and Pets from Hazards — If there's standing water, especially near electrical outlets or appliances, avoid the area. If you suspect a gas leak, evacuate immediately and call the gas company or 911 from a safe location. Prioritize safety over trying to inspect the problem up close. Keep pets away from the affected zone too.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Be Ready to Explain the Problem Clearly — When you call, be prepared to describe exactly what happened, when it started, and any specific symptoms you've noticed. The more detail you can provide, the better the plumber can understand the situation and bring the right tools. Mention if you've already shut off the water or if you smell gas.",
+      "text": "Step 5: Be Ready to Explain the Problem Clearly — When you call, be prepared to describe exactly what happened, when it started, and any specific symptoms you've noticed. The more detail you can provide, the better the plumber can understand the situation and bring the right tools. Mention if you've already shut off the water or if you smell gas.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Locate and Shut Off the Main Water Valve — Turning off the main water supply to your home is crucial for most water-related emergencies. This stops the flow, preventing further damage. Knowing"
+}

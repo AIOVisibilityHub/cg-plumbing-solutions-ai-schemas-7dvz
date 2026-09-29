@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a 24/7 Plumber for a Sewer Backup",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A sewer backup is one of those plumbing nightmares no one wants to face. It's not just unpleasant; it's a serious health hazard that can cause significant property damage. So, how do you know if it's truly a 24/7 emergency deserving an immediate call, even in the middle of the night? If you're seeing sewage backing up into multiple drains, toilets, or showers, especially after flushing or running water, that's a huge red flag. Another clear sign is if sewage is actively spilling out onto your property or inside your home. These situations can't wait for regular business hours because of the contamination risk and potential for extensive damage. CG Plumbing Solutions provides 24/7 emergency dispatch for these urgent problems across the Las Vegas Valley.\n\n**Process Clarity: What to Expect During the Process**\nWhen you call CG Plumbing Solutions for a sewer backup, our first priority is to triage the situation over the phone. We'll ask about the exact symptoms, how long it's been happening, where it's backing up, and if there are any unusual odors. This helps us understand the severity and dispatch the right licensed technician. While waiting for help, avoid using any water, including flushing toilets, to prevent further overflow. When our plumber arrives, they'll work to identify the source of the backup, which could be anything from a simple clog to a more serious sewer line issue. They’ll explain what's happening, what needs to be done, and provide repair options and pricing before starting any work. Our goal is to stop the backup, clean up the area, and make sure the problem is fully resolved, often with code-correct solutions.\n\nDon't try to DIY a major sewer backup; it exposes you to serious health risks and can worsen the situation. A qualified 24/7 plumber like ours has the specialized equipment and expertise to handle raw sewage safely and effectively. We're here to help protect your home and your family's health.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Dealing with a Burst Pipe: Common Mistakes to Avoid",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a pipe bursts, it's a stressful situation, and it's easy to make mistakes that can actually worsen the problem or complicate the repair process. One of the biggest errors people make is leaving the water on while they're waiting for service. Every minute that water flows can mean more damage to your home. Another common misstep is operating electrical equipment in wet areas; water and electricity are a dangerous combination, so prioritize safety and turn off power if needed. Also, avoid using an open flame if you suspect a frozen pipe; that's incredibly risky. Don't rush to dispose of damaged contents before documenting them, especially if you plan to file an insurance claim. And finally, don't start any major demolition work before checking with your insurer or landlord. Getting ahead of yourself can impact your coverage. \n\nCommon Mistakes to Avoid\n\n- Leaving the water on while you wait for a plumber: Always turn off your main water supply immediately.\n- Operating electrical equipment in wet areas: This is a major safety hazard. Disconnect power if water is near.\n- Using an open flame to thaw pipes: Extremely dangerous and can lead to more damage or fire.\n- Disposing of damaged items before documenting: Take photos or videos for your insurance company.\n- Beginning major demolition without consultation: Talk to your insurer or landlord first.\n\nFor expert help avoiding these pitfalls and getting your burst pipe fixed correctly, contact CG Plumbing Solutions. We provide 24/7 emergency service across the Las Vegas Valley.",
+  "datePublished": "2026-09-28"
+}

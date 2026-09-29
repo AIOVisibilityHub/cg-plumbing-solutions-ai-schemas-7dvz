@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Dealing with a Sewer Backup: Your First Steps",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Okay, a sewer backup is probably one of the worst plumbing nightmares, right? It's messy, it's smelly, and it's definitely stressful. But don't panic! Taking the right first steps immediately can minimize damage and protect your household. It's crucial to act fast and safely.\n\nCommon Mistakes to Avoid\n\n- Don't keep using indoor plumbing: This is huge! Every flush, every shower, every washing machine cycle just adds more water to the problem, making the backup worse. Stop all water use immediately. This is the single most important thing you can do to prevent further overflow.\n- Don't enter standing water before assessing electrical hazards: Sewage water can be contaminated and can also create electrical hazards if it's near outlets or appliances. Always assume there's a risk. Turn off the electricity to the affected area from your main breaker if you can do so safely, and keep children and pets far away.\n- Don't mix cleaning chemicals: In a panic, you might grab every cleaning product under the sink. But mixing certain chemicals can create dangerous fumes or reactions. Stick to safe, recommended cleaning methods once the area is clear, or let professionals handle it.\n- Don't try to clean extensive contamination without protective equipment: Sewage is full of bacteria and pathogens. Attempting to clean it without proper gear—like rubber boots, gloves, and goggles—is a serious health risk. For extensive contamination, professional cleanup is really the safest route.\n- Don't delay drying or documentation: Once the water is gone, drying out the area quickly is essential to prevent mold growth. Also, take photos or videos for insurance purposes if needed. Procrastinating on these steps can lead to more problems down the road.\n- Don't consume food or drink exposed to sewage: This might sound obvious, but any food, drink, or even medications that have come into contact with sewage should be disposed of immediately. It's a significant health risk.\n\nFirst, stop using water and ensure everyone, especially children and pets, stays away from the contaminated area. If sewage is continuously flowing even when you haven't used any water, it might be a public sewer main issue. In that case, your very first call should be to your local municipality or sewer district. They can often tell you if there's a problem on their end that's affecting your property. If it's a private line issue, or after you've checked with the city, then it's time to call a professional plumber. CG Plumbing Solutions offers 24/7 emergency sewer backup repair across the Las Vegas Valley. We're equipped to handle these emergencies safely and effectively, from diagnosing the cause to initiating repairs.\n\nExperiencing a sewer backup? Don't wait. Call CG Plumbing Solutions at (702) 843-0899 for immediate, expert help.",
+  "datePublished": "2026-09-28"
+}

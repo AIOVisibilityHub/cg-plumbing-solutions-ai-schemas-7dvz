@@ -1,0 +1,117 @@
+{
+  "name": "What to Do When Your Main Water Line Bursts",
+  "step": [
+    {
+      "name": "Step 1: Locate and Shut Off the Main Water Supply: This is your absolute first priority. Knowing where your main water shutoff valve is located before an emergency happens is crucial. It's usually near your water meter or where the main water line enters your house. Turn it clockwise until the water stops flowing. If you can't find it or it's seized, you might need to contact your water provider to shut off service at the street. Don't force a seized valve; you could make things worse.",
+      "text": "Step 1: Locate and Shut Off the Main Water Supply: This is your absolute first priority. Knowing where your main water shutoff valve is located before an emergency happens is crucial. It's usually near your water meter or where the main water line enters your house. Turn it clockwise until the water stops flowing. If you can't find it or it's seized, you might need to contact your water provider to shut off service at the street. Don't force a seized valve; you could make things worse.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Prevent Electrical Hazards: If water is near electrical outlets, appliances, or your electrical panel, exercise extreme caution. Water and electricity are a dangerous mix. If it's safe to do so, turn off the electricity to the affected areas at your circuit breaker. If not, stay clear of standing water and contact an electrician immediately after handling the water shutoff.",
+      "text": "Step 2: Prevent Electrical Hazards: If water is near electrical outlets, appliances, or your electrical panel, exercise extreme caution. Water and electricity are a dangerous mix. If it's safe to do so, turn off the electricity to the affected areas at your circuit breaker. If not, stay clear of standing water and contact an electrician immediately after handling the water shutoff.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Clear the Area and Document Damage: Move any furniture, rugs, or valuables out of the immediate area of the leak to prevent further damage. If you can, begin safely soaking up standing water. Before you start a major cleanup, grab your phone and take photos or videos of the damage. This documentation will be super helpful for insurance claims down the road. Don't start trying to",
+      "text": "Step 3: Clear the Area and Document Damage: Move any furniture, rugs, or valuables out of the immediate area of the leak to prevent further damage. If you can, begin safely soaking up standing water. Before you start a major cleanup, grab your phone and take photos or videos of the damage. This documentation will be super helpful for insurance claims down the road. Don't start trying to",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Locate and Shut Off the Main Water Supply: This is your absolute first priority. Knowing where your main water shutoff valve is located before an emergency happens is crucial. It's usually nea"
+}

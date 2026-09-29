@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Common Mistakes with Emergency Leak Repair in Enterprise",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "- [ ] Confirm the leak's origin — why it matters: Sometimes, what looks like a pipe leak is actually coming from a roof, window, or appliance, leading to misdirected repairs. Identifying the true source prevents wasted effort and ensures the correct fix.\n- [ ] Shut off the appropriate water supply — why it matters: Not shutting off the water means the leak continues, causing more damage. Knowing if it's a main valve or a fixture valve prevents unnecessary water disruption to your entire Enterprise home.\n- [ ] Avoid using tape or sealant as a permanent fix — why it matters: While temporary patches might seem like a quick solution, they often fail under pressure, leading to a recurrence of the leak and potentially greater damage later on. Professional repair is essential for lasting results.\n- [ ] Keep electronics away from standing water — why it matters: Water and electricity are a dangerous combination. Using or even having electrical devices near standing water from a leak poses a serious risk of electric shock or fire.\n- [ ] Document the damage for records — why it matters: Taking photos or videos of the leak and affected areas provides crucial evidence for insurance claims or landlord communication, detailing the extent of the problem before repairs begin.\n- [ ] Call a licensed professional promptly — why it matters: Delaying expert help allows water damage to spread, increasing repair costs and the potential for mold. A professional can diagnose concealed leaks and handle repairs safely and effectively.\n\nHow to use this checklist: When faced with an emergency leak in your Enterprise home, use this checklist to guide your immediate actions and ensure you're taking the right steps while waiting for professional plumbing assistance. It helps you focus on safety and prevention until your plumber arrives.",
+  "datePublished": "2026-09-28"
+}

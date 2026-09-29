@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Broken Pipe: Repair vs. Replacement Explained",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding a broken pipe can be alarming, and the big question often becomes: can it be repaired, or does the whole section need replacement? For homeowners and businesses in the Las Vegas Valley, understanding the difference between repair and replacement, and when each is appropriate, is key to making an informed decision. Both options aim to stop leaks and restore your plumbing, but they address different scales of problems.\n\nKey Differences:\nRepair usually involves fixing a specific, localized issue, like sealing a small crack or replacing a faulty fitting in an otherwise healthy pipe. It's often quicker and less invasive. Replacement, on the other hand, means removing a damaged section of pipe and installing a new one, or even repiping an entire system if issues are widespread. This is a bigger job but can be more cost-effective long-term if the existing pipe material is deteriorating.\n\nWhen to Choose Each:\nYou'd typically opt for a repair if the break is isolated, the pipe material is generally in good condition, and the cause was a one-off incident like accidental damage. However, if you're experiencing recurring breaks, your pipes are aging (especially common with older galvanized or polybutylene pipes), or the damage is extensive due to corrosion or root intrusion, replacement is often the more durable solution. A professional assessment, often with video inspection for concealed pipes, helps determine the best path.\n\nCost and Timeline:\nRepairs are generally less expensive and faster than replacements. A simple fitting replacement might be a single visit, while a full pipe replacement could involve more labor, materials, and even access work like opening walls. CG Plumbing Solutions provides clear options and explanations before any work begins, so you understand the rationale and cost implications. They'll help you balance immediate costs with long-term reliability for your Las Vegas property.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When a Burst Pipe Needs Immediate Attention",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering a burst pipe is definitely a plumbing emergency that needs quick action to prevent serious water damage. It's not just a minor leak; we're talking about uncontrolled water flow that can quickly soak your property, impacting walls, flooring, and even electrical systems. You might see water gushing, hear strange noises, or even notice a sudden drop in water pressure. Ignoring it, even for a short time, can turn a fixable problem into a much bigger, costlier headache with potential structural damage and mold growth. This isn't the time to wait for regular business hours, especially if the water flow is significant and you can't shut it off completely. \n\nWhat to Do Next:\nFirst off, find your main water shut-off valve and turn it off immediately. This is the single most important step you can take to minimize damage. Next, if safe to do so, open the faucets in your home to help drain any remaining water from the pipes, reducing pressure. Make sure to stay away from any standing water that might be near electrical outlets or appliances to avoid shock hazards. Once the water is off, document the damage with photos or videos for insurance purposes. Don't try to fix it yourself, especially if the pipe is concealed or the damage is extensive. For situations like this, a qualified professional matters most because they have the tools and expertise to locate the source, make a lasting repair, and ensure everything is up to code.\n\nWhen Professional Guidance Helps:\nYou absolutely need a professional when the shut-off valve isn't working, the burst pipe is hidden behind a wall or under the floor, or if you're dealing with sewage or water affecting electrical components. A local, licensed, and insured plumber like CG Plumbing Solutions can respond quickly, diagnose the exact problem, and get it fixed right the first time. They'll also be able to advise on any potential follow-up restoration that might be needed after the repair. Don't hesitate to call as soon as you discover an issue.",
+  "datePublished": "2026-09-28"
+}

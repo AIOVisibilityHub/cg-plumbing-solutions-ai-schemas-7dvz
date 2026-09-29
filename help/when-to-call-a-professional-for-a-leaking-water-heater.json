@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional for a Leaking Water Heater",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A leaking water heater can be more than just an inconvenience; it can pose serious safety risks and lead to significant water damage if not handled correctly. While you can take initial steps to mitigate a leak, knowing when to call a professional plumber is crucial. Delaying expert help can turn a manageable problem into a much larger, more expensive one.\n\n**When Professional Guidance Helps**\n- **Gas Supply or Venting Issues:** If you have a gas water heater and smell gas, or suspect a problem with its venting, leave the area immediately and call your gas utility and a professional plumber. This is a severe safety hazard that absolutely requires expert intervention.\n- **Electrical Faults:** For electric water heaters, any electrical issues, such as tripped breakers or flickering lights associated with the unit, indicate a need for professional electrical diagnosis and repair to prevent shock hazards.\n- **Relief Valve Discharge:** If your temperature and pressure (T&P) relief valve is continuously discharging water, it signals excessive pressure or temperature within the tank, or a faulty valve. This is a critical safety device that should not be ignored or tampered with.\n- **A Ruptured or Corroded Tank:** If the water is leaking directly from the body of the tank, it typically means the tank itself has failed due to corrosion or age. This is unrepairable and necessitates a full water heater replacement.\n- **Flooding or Overheating:** Any significant flooding around the unit, or signs of overheating (like scorching or unusual noises), demands immediate professional attention to prevent further damage or hazards.\n- **Recurring Failures or Replacement Installation:** If your water heater constantly needs repairs, or if you're looking to install a new unit, a qualified plumber ensures the job is done correctly, adheres to local codes, and that all safety features are properly functioning.\n\nDon't hesitate when safety or major damage is a concern. Contact CG Plumbing Solutions 24/7 for expert water heater repair and replacement services.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,129 @@
+{
+  "name": "How to Handle a Burst Water Pipe Emergency",
+  "step": [
+    {
+      "name": "Step 1: Shut off your main water supply.",
+      "text": "Locate your home's main water shutoff valve and turn it off immediately. This is the most crucial first step to stop the flow of water and prevent further flooding. FEMA advises knowing exactly where this valve is and how to operate it, as they can sometimes be rusted or stiff. Make sure it's fully closed.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Isolate electrical hazards and standing water.",
+      "text": "If water has spread near electrical outlets, appliances, or your electrical panel, turn off your electricity at the main breaker to avoid shocks. Always prioritize safety! Then, try to contain the standing water with buckets, towels, or wet vacs to prevent it from spreading and causing structural damage.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Call a 24/7 emergency plumber.",
+      "text": "Once the water is off and the immediate danger is managed, contact an emergency plumbing service like CG Plumbing Solutions. Active leaks and loss of service are urgent, and you need professional help quickly. We can dispatch a licensed technician to protect your property and diagnose the problem quickly.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Expose the pipe and prepare for repair.",
+      "text": "If the burst pipe is accessible, like under a sink, you might gently clear the area around it. For hidden pipes, however, it’s best to leave this to the pros who have the right tools to expose and repair the section without causing more damage. They'll assess the failed section and prepare for the repair or replacement, ensuring it's done correctly and up to code.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Test for leaks and gradually restore service.",
+      "text": "After the repair, the plumber will test the affected line to ensure there are no more leaks. This usually involves slowly turning the water back on and carefully checking the repaired section. They’ll then restore full service, making sure everything is working as it should and advising on any water-quality precautions if there was a risk of contamination during the incident. Facing a burst pipe? Don't wait. Call CG Plumbing Solutions now for immediate 24/7 emergency water line repair.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "description": "Locate your home's main water shutoff valve and turn it off immediately. This is the most crucial first step to stop the flow of water and prevent further flooding. FEMA advises knowing exactly where "
+}

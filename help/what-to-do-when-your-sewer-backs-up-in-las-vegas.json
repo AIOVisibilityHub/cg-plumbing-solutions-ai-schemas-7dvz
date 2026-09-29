@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When Your Sewer Backs Up in Las Vegas",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A sewer backup is one of those plumbing nightmares that no one wants to deal with. It's messy, unsanitary, and can cause significant damage to your home. Knowing the immediate steps to take can help minimize the impact and keep everyone safe until professional help arrives. Don't panic, but do act quickly.\n\nYour first priority is safety and limiting the damage. Immediately stop all indoor water use – no flushing toilets, no running faucets, no showers, no laundry. This prevents more wastewater from entering your home. Next, keep people and pets away from the contaminated area. Sewage carries harmful bacteria and viruses, so direct contact should be avoided at all costs. Check if there's any electricity near standing water; if so, identify the nearest breaker and safely turn off power to that area. If the flow of sewage continues even when no water is being used in your home, it could indicate a blockage in the public sewer main. In this scenario, contact the local municipal sewer authority right away so they can investigate.\n\nWhat to Expect During the Process\n\nOnce you call CG Plumbing Solutions, our emergency response team will get to you quickly. We'll start by assessing the situation to determine if the problem is in your private lateral or the public main. Our process often involves isolating the source of the backup, safely pumping out standing wastewater, and then using specialized equipment to locate and clear the blockage. After the immediate issue is resolved, we’ll work on removing contaminated materials and beginning the cleanup process to mitigate further damage and prevent mold growth.\n\nFacing a sewer backup? Call CG Plumbing Solutions 24/7 for immediate emergency sewer backup repair service in Las Vegas and the surrounding areas. We're here to help.",
+  "datePublished": "2026-09-28"
+}

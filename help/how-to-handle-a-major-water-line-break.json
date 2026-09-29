@@ -1,0 +1,141 @@
+{
+  "name": "How to Handle a Major Water Line Break",
+  "step": [
+    {
+      "name": "Step 1: Shut Off Your Main Water Supply — This is your absolute first priority! Locate your main water shutoff valve, usually near the water meter or where the main line enters your home, and turn it clockwise until the water stops. This prevents further flooding and damage.",
+      "text": "Step 1: Shut Off Your Main Water Supply — This is your absolute first priority! Locate your main water shutoff valve, usually near the water meter or where the main line enters your home, and turn it clockwise until the water stops. This prevents further flooding and damage.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Identify and Address Electrical Hazards — If water has reached any electrical outlets, appliances, or wiring, immediately turn off the power to those affected areas at your electrical panel. Do not touch any flooded areas near electricity until power is confirmed off to protect yourself from shock.",
+      "text": "Step 2: Identify and Address Electrical Hazards — If water has reached any electrical outlets, appliances, or wiring, immediately turn off the power to those affected areas at your electrical panel. Do not touch any flooded areas near electricity until power is confirmed off to protect yourself from shock.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Try to Locate the Leak and Assess Damage — Once the water is off and electrical hazards are managed, try to find where the water is coming from. This helps your plumber pinpoint the issue faster. Note if the leak is underground, inside a wall, or impacting multiple areas.",
+      "text": "Step 3: Try to Locate the Leak and Assess Damage — Once the water is off and electrical hazards are managed, try to find where the water is coming from. This helps your plumber pinpoint the issue faster. Note if the leak is underground, inside a wall, or impacting multiple areas.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Clear the Area and Mitigate Further Damage — Move any furniture, carpets, or belongings away from the water to prevent further damage. You can start to remove standing water if it's safe to do so, but don't try to dry out areas if you suspect contaminated water or hidden moisture.",
+      "text": "Step 4: Clear the Area and Mitigate Further Damage — Move any furniture, carpets, or belongings away from the water to prevent further damage. You can start to remove standing water if it's safe to do so, but don't try to dry out areas if you suspect contaminated water or hidden moisture.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Contact a 24/7 Emergency Plumber — With the immediate danger contained, call CG Plumbing Solutions right away. We offer 24/7 emergency service in the Las Vegas Valley and can dispatch a licensed plumber to diagnose the exact issue, discuss repair options, and get your water restored safely and efficiently.",
+      "text": "Step 5: Contact a 24/7 Emergency Plumber — With the immediate danger contained, call CG Plumbing Solutions right away. We offer 24/7 emergency service in the Las Vegas Valley and can dispatch a licensed plumber to diagnose the exact issue, discuss repair options, and get your water restored safely and efficiently.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Prepare for Professional Inspection and Repair — Our plumber will arrive, thoroughly inspect the situation, which may include using specialized tools for hidden leaks. They’ll explain the necessary repairs, whether it’s a simple fix or requires excavation, and get your water line back in working order.",
+      "text": "Step 6: Prepare for Professional Inspection and Repair — Our plumber will arrive, thoroughly inspect the situation, which may include using specialized tools for hidden leaks. They’ll explain the necessary repairs, whether it’s a simple fix or requires excavation, and get your water line back in working order.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Monitor for Additional Issues After Repair — Once the repair is complete and water is restored, keep an eye out for any lingering dampness, new leaks, or changes in water pressure. Sometimes one leak can indicate stress elsewhere in the system, and early detection helps prevent future problems.",
+      "text": "What to Expect During the Process Our licensed plumbers will provide clear options and code-compliant service, ensuring your home is treated respectfully. We'll handle everything from diagnosis to repair, explaining each step along the way. For immediate assistance with water line emergencies, call CG Plumbing Solutions.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Shut Off Your Main Water Supply — This is your absolute first priority! Locate your main water shutoff valve, usually near the water meter or where the main line enters your home, and turn it "
+}

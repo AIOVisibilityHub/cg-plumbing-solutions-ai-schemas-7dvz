@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "No Hot Water: When to Call for Emergency Repair",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Waking up to no hot water, especially in the middle of a Las Vegas winter, is never fun. While some issues might be simple fixes, others really do warrant an emergency call to a professional plumber. How can you tell the difference? If you've checked the obvious, like a tripped circuit breaker for an electric heater or a pilot light that's gone out on a gas unit, and you still have no hot water, it's time to consider professional help. More serious indicators include strange noises coming from your water heater, discolored water, or any signs of leaking – even small puddles can quickly escalate. \n\nQuestions to Ask Before You Decide\n\n- **Is there a strong gas odor?** If you smell gas, evacuate your home immediately and call your gas utility or emergency services from a safe location. Do not use your phone inside or turn on any lights. This is a critical safety situation that needs professional handling. \n- **Is the tank actively leaking?** Even a slow drip can quickly become a flood, causing significant water damage. A leaking tank often means it needs to be replaced. \n- **Are there any signs of electrical damage?** For electric water heaters, if you see scorched wiring, flickering lights, or repeatedly tripped breakers, it could indicate an electrical fault that needs immediate attention from a qualified professional. \n- **Is the temperature-and-pressure relief (TPR) valve failing?** If water is constantly discharging from this valve, it's a sign of excessive pressure or temperature inside the tank, which is a serious safety concern. \n- **Is the water excessively hot or cold, or discolored?** These symptoms can point to various internal issues that require expert diagnosis and repair. \n\nIf you answer yes to any of these questions, or if you're just unsure, it's definitely time to call in the experts. CG Plumbing Solutions is here for 24/7 emergency water heater repair throughout the Las Vegas Valley. Don't wait for a small problem to become a big disaster. Call us at (702) 843-0899 for prompt and reliable service.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Water Heater Failed on a Sunday in Henderson: Now What?",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Waking up to no hot water, especially on a Sunday, is nobody's idea of a good start to the day! A failed water heater can throw a wrench into your whole weekend, making even simple tasks like showering or washing dishes a chilly ordeal. But before you stress too much about your cold shower in Henderson, let's look at what you can do.\n\nFirst off, check for anything obvious. Is the pilot light out on a gas heater? Is a circuit breaker tripped for an electric one? Sometimes it's a quick fix you can handle yourself. However, if you see water leaking from the unit, or it's making strange noises, that's a clear sign you'll need professional help.\n\nDon't delay if you suspect a leak. Even a small amount of water can cause significant damage to your home if left unattended. If you can safely access it, turn off the water supply to the water heater and, for gas heaters, turn off the gas supply. This can prevent further damage and make the situation safer.\n\n### What Can Change the Right Choice\n\nDeciding whether to call a plumber right away or wait can depend on a few things. Is the water heater actively leaking and causing damage? Is it a complete failure with no hot water at all, or just inconsistent? If it's a full breakdown, especially with water pooling, calling a weekend plumber is usually the best bet. They can assess if it's a repairable issue or if you're looking at a replacement. Remember, waiting too long with a leaking unit can turn a manageable repair into a much bigger problem. For any urgent water heater issues in Henderson, CG Plumbing Solutions offers 24/7 emergency service to get things sorted quickly.",
+  "datePublished": "2026-09-28"
+}

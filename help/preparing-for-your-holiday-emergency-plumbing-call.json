@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Preparing for Your Holiday Emergency Plumbing Call",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Facing a plumbing emergency during the holidays can be stressful, but being prepared for your service call can make the process smoother. When you've got a burst pipe or a sudden water heater failure, the last thing you want is more hassle. Knowing what information to have ready for the plumber can help them prioritize your call and arrive ready to tackle the problem efficiently. Emergency service providers like CG Plumbing Solutions are accustomed to handling urgent situations across the Las Vegas Valley, but clear communication from your end really helps.\n\nWhat to Prepare Before You Start\nBefore calling, try to gather some key details. First, can you tell if the situation is urgent? Is water actively flowing, or is it a slower drip? If it's a leak, identify the affected fixture or the general area. Can you shut off the water to that specific fixture, or will the main water supply need to be turned off? It's helpful to know if water has reached any electrical equipment or if there's sewage involved. Also, have an idea of when the problem started. Once you've called, the plumber will likely give you an estimated arrival time and explain how holiday emergency charges are calculated. While waiting, ensure the area is as clear as possible and keep people away from any standing water, especially near electrical outlets. Documenting any visible damage with photos can also be useful for later assessment. With CG Plumbing Solutions, you'll get clear communication and written options before any work begins, ensuring you understand the steps they'll take to resolve your holiday plumbing crisis.\n\nWhat to Do Next\nIf you have a holiday plumbing emergency, call CG Plumbing Solutions at (702) 843-0899 to get expert help in the Las Vegas Valley.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Faucet Won't Stop Dripping After Hours in Las Vegas",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's late, everyone's asleep, and suddenly that incessant drip-drip-drip from your faucet is driving you crazy. While a single dripping faucet might not seem like a huge emergency, leaving it can waste a lot of water and even damage your sink or cabinetry over time. So, what do you do when you've got an after-hours drip in Las Vegas?\n\nFirst, don't panic! Check if there's a shutoff valve directly under the sink. Turning that handle clockwise will stop the water to just that faucet, potentially buying you time until morning. If there isn't one, or it doesn't work, you might need to find your home's main water shutoff valve. This is usually near your water meter or where the main line enters your house. Shutting off the main water will stop all water flow, so keep that in mind.\n\nNext, assess the situation. Is the drip turning into a stream? Is water spreading and causing damage? If it's just a steady drip that's contained, you might be able to wait. But if it's escalating, or you're unsure, it's probably time to consider calling in the pros.\n\n### When Professional Guidance Helps\n\nSometimes, even a small leak can point to bigger issues, or you might simply not be comfortable fiddling with your home's plumbing. That's totally okay! If you can't locate the shutoff valve, the leak is getting worse, or you suspect it's more than just a simple washer, a licensed plumber can diagnose the root cause and handle the repair safely and effectively. They'll have the right tools and expertise to fix it, even in the middle of the night. Plus, for issues like hidden leaks, a professional is key.\n\nIf you're dealing with an after-hours plumbing issue in Las Vegas, don't hesitate to reach out to CG Plumbing Solutions. We're here 24/7 to help.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,129 @@
+{
+  "name": "What to Expect During Emergency Leak Detection and Repair",
+  "step": [
+    {
+      "name": "Step 1: Initial Assessment and Isolation",
+      "text": "When you call CG Plumbing Solutions for an emergency leak, the first thing they'll do upon arrival is a quick assessment. This involves understanding the location, flow rate, and duration of the leak, and whether it's involving sewage or affecting electrical components. The immediate priority is to identify the source and isolate the water supply, either at the fixture or the main valve, to stop further damage. This initial step is crucial for safety and containment.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Detailed Leak Detection",
+      "text": "For concealed leaks—those hidden inside walls, ceilings, or under slabs—the team will use their expertise to pinpoint the exact source without unnecessary damage. This isn't just about patching the visible wet spot; it's about finding where the leak truly originates. They'll assess accessible pipework or fixtures to determine the best course of action. They're looking for recurring issues, not just the symptom.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Explaining Options and Written Estimate",
+      "text": "Once the leak is located and the water is controlled, the plumber will explain what's wrong. They'll provide clear, written options for repair or replacement, especially if it's an aging unit or pipe. You'll understand the scope of work and the costs involved before any repair begins. This transparency is a hallmark of CG Plumbing Solutions.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Performing the Repair",
+      "text": "Depending on the leak's severity and location, the team will perform either a temporary or permanent repair. This could involve fixing a burst pipe, repairing a faulty water heater, or replacing a corroded section of plumbing. They focus on quality workmanship that's code-conscious, ensuring the repair is effective and long-lasting. For complex issues like gas lines or major water damage, they ensure all safety requirements are met.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Testing and Follow-up Advice",
+      "text": "After the repair, the plumbing system will be thoroughly tested to ensure there's no continued leakage. The plumber will then advise you on next steps, which may include recommendations for drying out wet areas, coordinating with water-damage restoration providers if needed, or discussing any required long-term solutions like repiping. They'll also provide documentation of the findings and repairs for your records. Their goal is to ensure your home or business is left clean, safe, and dry. What to Do Next If you have an active leak and need immediate assistance, contact CG Plumbing Solutions at (702) 843-0899 for 24/7 emergency leak repair service in Las Vegas and the surrounding areas.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "description": "When you call CG Plumbing Solutions for an emergency leak, the first thing they'll do upon arrival is a quick assessment. This involves understanding the location, flow rate, and duration of the leak,"
+}

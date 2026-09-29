@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Handle a Burst Pipe in Enterprise, NV",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A burst pipe in your Enterprise home can be a real headache, creating a chaotic mess fast. But don't panic! Taking the right actions immediately can save you a lot of grief and property damage. The first and most crucial step is to shut off your main water supply. This is usually found near your water meter or where the main line enters your home. Knowing where this is *before* an emergency hits is a total game-changer. If you can't locate it or it's unsafe to reach, don't force it. Next, if the burst pipe is near any electrical appliances or outlets, cut off the power to that area at your circuit breaker to prevent electrical hazards. You don't want water and electricity mixing! Once you've minimized the water flow, start documenting the damage with photos or videos. This will be helpful for insurance claims down the line. Finally, resist the urge to try and fix it yourself, especially if it's a significant burst or in a hard-to-reach spot. Professional plumbers have the right tools and expertise to handle it safely and effectively.\n\n**Common Mistakes to Avoid**\nOne frequent mistake people make is waiting to see if a leak stops on its own. Leaks rarely fix themselves, and waiting only allows more water damage to occur. Another common error is attempting to repair a major burst pipe without the proper skills, which can often worsen the problem. Also, never enter water that's near exposed electrical equipment. Your safety is paramount. Let the pros handle the tricky stuff.\n\nFacing a burst pipe? Call CG Plumbing Solutions for immediate emergency plumbing service in Enterprise.",
+  "datePublished": "2026-09-28"
+}

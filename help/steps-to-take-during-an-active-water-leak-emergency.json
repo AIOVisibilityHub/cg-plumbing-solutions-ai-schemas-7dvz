@@ -1,0 +1,129 @@
+{
+  "name": "Steps to Take During an Active Water Leak Emergency",
+  "step": [
+    {
+      "name": "Step 1: Locate the Leak and Turn Off the Water Supply — Your absolute first priority is to stop the flow of water. If the leak is coming from a single fixture (like a toilet or sink), look for a small shut-off valve nearby and turn it clockwise until the water stops. If you can't find a local valve or the leak is more widespread, immediately head to your main water shut-off valve, usually located outside your home or in the garage, and turn it off. This will stop water to the entire property.",
+      "text": "Step 1: Locate the Leak and Turn Off the Water Supply — Your absolute first priority is to stop the flow of water. If the leak is coming from a single fixture (like a toilet or sink), look for a small shut-off valve nearby and turn it clockwise until the water stops. If you can't find a local valve or the leak is more widespread, immediately head to your main water shut-off valve, usually located outside your home or in the garage, and turn it off. This will stop water to the entire property.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Assess for Electrical Hazards and Contamination — Water and electricity don't mix. If the leak is near electrical outlets, appliances, or wiring, do NOT enter the area if there's standing water. Call emergency services if you suspect an electrical hazard. For sewage leaks, avoid contact with contaminated water and ensure proper ventilation.",
+      "text": "Step 2: Assess for Electrical Hazards and Contamination — Water and electricity don't mix. If the leak is near electrical outlets, appliances, or wiring, do NOT enter the area if there's standing water. Call emergency services if you suspect an electrical hazard. For sewage leaks, avoid contact with contaminated water and ensure proper ventilation.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Contain the Water and Protect Valuables — While the water is off, work quickly to contain any standing water. Use buckets, towels, or wet vacs. Move furniture, electronics, and other valuables out of the affected area if it's safe to do so. Taking photos of the damage at this stage can be helpful for insurance purposes.",
+      "text": "Step 3: Contain the Water and Protect Valuables — While the water is off, work quickly to contain any standing water. Use buckets, towels, or wet vacs. Move furniture, electronics, and other valuables out of the affected area if it's safe to do so. Taking photos of the damage at this stage can be helpful for insurance purposes.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Contact a Professional Emergency Plumber — Once the water is off and the area is secured, it's time to call a licensed and insured plumber. Companies like CG Plumbing Solutions offer 24/7 emergency service across the Las Vegas Valley for urgent leaks, water heater failures, and sewer backups. They'll dispatch a technician to diagnose the problem and provide code-correct repair options.",
+      "text": "Step 4: Contact a Professional Emergency Plumber — Once the water is off and the area is secured, it's time to call a licensed and insured plumber. Companies like CG Plumbing Solutions offer 24/7 emergency service across the Las Vegas Valley for urgent leaks, water heater failures, and sewer backups. They'll dispatch a technician to diagnose the problem and provide code-correct repair options.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Facilitate Repair and Plan for Cleanup — The plumber will work to identify the failed component and perform the necessary repair. Once fixed, they'll test the system for continued leakage. Discuss with them any recommendations for drying out the affected area, as drying within 24-48 hours is key to preventing mold growth. They can also advise on necessary next steps for any significant water damage.",
+      "text": "When a leak emergency strikes, quick and informed action is your best defense. For immediate, professional help in the Las Vegas Valley, call CG Plumbing Solutions at (702) 843-0899.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Locate the Leak and Turn Off the Water Supply — Your absolute first priority is to stop the flow of water. If the leak is coming from a single fixture (like a toilet or sink), look for a small"
+}

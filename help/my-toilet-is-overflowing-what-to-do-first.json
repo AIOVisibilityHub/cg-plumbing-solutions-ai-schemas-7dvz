@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Toilet is Overflowing: What to Do First",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "An overflowing toilet can quickly turn into a messy and stressful situation, but knowing what to do immediately can prevent a lot of damage. First things first, don't flush it again! That'll just make things worse. Your immediate goal is to stop the water flow. Look behind the toilet for the small shut-off valve, usually a chrome or plastic handle, and turn it clockwise until the water stops running into the bowl. This is a crucial first step that can save your floors and prevent further mess. Once the water flow is stopped, try to figure out if it's just a simple clog in the toilet itself or if the issue might be further down the drain line. If the water was backing up rapidly, and especially if other drains in your home are also slow or backing up, it could point to a more serious main sewer line blockage. In cases like this, it's really important to avoid using any other water fixtures like sinks or showers until a professional can assess the situation. You don't want to add more water to an already blocked system. Keeping kids and pets away from any contaminated water is a good safety measure, too. When you're dealing with an active overflow, consider the potential for contaminated water, especially if it's sewage. You'll want to wear gloves and maybe even eye protection if you need to touch anything. Don't operate electrical items near standing water. If it looks like a bigger mess than you can handle, or if the water has spread, it’s definitely time to get a professional involved to handle the cleanup safely and effectively. They can help you determine the cause and prevent future issues. \n\nWhat to Do Next\nIf you've stopped the water and cleared a minor clog yourself, great! But if the water flow continues, other drains are affected, or you're unsure about the cause, don't hesitate. Contact CG Plumbing Solutions right away at (702) 843-0899. We're available 24/7 in the Las Vegas Valley to help with urgent plumbing emergencies.",
+  "datePublished": "2026-09-28"
+}

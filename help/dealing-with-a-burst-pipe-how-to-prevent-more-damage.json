@@ -1,0 +1,135 @@
+{
+  "name": "Dealing with a Burst Pipe: How to Prevent More Damage",
+  "step": [
+    {
+      "name": "Step 1: Shut Off Your Main Water Supply — Locate your home's main water shutoff valve and turn it off immediately. This is the single most important step to prevent more water from gushing out and causing extensive damage.",
+      "text": "Step 1: Shut Off Your Main Water Supply — Locate your home's main water shutoff valve and turn it off immediately. This is the single most important step to prevent more water from gushing out and causing extensive damage.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Relieve Water Pressure — Open the faucets at the lowest points in your home and flush toilets to drain any remaining water from the pipes. This helps reduce pressure and clear the lines.",
+      "text": "Step 2: Relieve Water Pressure — Open the faucets at the lowest points in your home and flush toilets to drain any remaining water from the pipes. This helps reduce pressure and clear the lines.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Power Down Safely — If the burst pipe is near electrical outlets or appliances, safely turn off the power to those areas at your electrical panel. Do not touch wet electrical equipment.",
+      "text": "Step 3: Power Down Safely — If the burst pipe is near electrical outlets or appliances, safely turn off the power to those areas at your electrical panel. Do not touch wet electrical equipment.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Document the Damage — Before any cleanup begins, take clear photos and videos of all affected areas and any damaged property. This documentation is crucial for insurance purposes.",
+      "text": "Step 4: Document the Damage — Before any cleanup begins, take clear photos and videos of all affected areas and any damaged property. This documentation is crucial for insurance purposes.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Call a Licensed Plumber — Contact a local Las Vegas plumbing professional like CG Plumbing Solutions right away. They can locate the exact source of the burst, assess the extent of the damage, and perform a code-compliant repair.",
+      "text": "Step 5: Call a Licensed Plumber — Contact a local Las Vegas plumbing professional like CG Plumbing Solutions right away. They can locate the exact source of the burst, assess the extent of the damage, and perform a code-compliant repair.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Plan for Water Extraction — If there's significant standing water, discuss water extraction and drying with your plumber or a restoration specialist. Addressing moisture quickly prevents mold growth and further structural issues.",
+      "text": "Step 6: Plan for Water Extraction — If there's significant standing water, discuss water extraction and drying with your plumber or a restoration specialist. Addressing moisture quickly prevents mold growth and further structural issues.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Shut Off Your Main Water Supply — Locate your home's main water shutoff valve and turn it off immediately. This is the single most important step to prevent more water from gushing out and cau"
+}

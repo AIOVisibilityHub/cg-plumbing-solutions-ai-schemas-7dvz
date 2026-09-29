@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Toilet Overflows in Las Vegas: What to Do First",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A toilet overflowing can quickly turn into a stressful and messy situation, especially in your Las Vegas home. Don't panic! Taking quick action can minimize damage and keep your family safe. It’s a common emergency we see, and knowing what to do immediately can make a big difference.\n\nFirst, resist the urge to flush again. This only adds more water to the problem. The most crucial first step is to stop the water flow. If the tank is still filling, lift the float ball or arm inside the tank. If that doesn't work, locate the shut-off valve, usually on the wall behind the toilet near the base, and turn it clockwise until the water stops. Next, try to contain the water with towels or old rags to prevent it from spreading further into your bathroom or surrounding areas. If the water has spread, be mindful that it might be contaminated, so avoid direct contact without protection. Once the immediate water flow is stopped, you can start assessing the situation more calmly.\n\nWhat to Do Next\nIf your toilet continues to overflow after you've tried to stop the water, or if you suspect the blockage is deeper than just the toilet, it's time to call in the professionals. CG Plumbing Solutions offers 24/7 emergency services for just these kinds of urgent plumbing issues in Las Vegas. We can quickly diagnose whether it's a simple clog or a more serious drain line problem and provide clear options before any work begins.",
+  "datePublished": "2026-09-28"
+}

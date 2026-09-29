@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Drains Won't Clear: What to Do Next",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s super frustrating when your drains just won't cooperate, isn't it? A stubborn clog can quickly turn from an annoyance into a real headache, especially if it's impacting multiple fixtures or you suspect something more serious is going on. Before you reach for that harsh chemical cleaner again, let's talk about what's really happening and your best next steps to get things flowing smoothly.\n\nFirst, stop using water immediately in any affected areas. This prevents more water from backing up and potentially overflowing. See if the issue is isolated to one sink or if multiple drains in your home are struggling – this can tell you a lot about the blockage's location. If your toilet, shower, and kitchen sink are all gurgling, it might be a main line issue. You should also check for an accessible cleanout in your yard or basement; sometimes you can see if it’s overflowing. If it’s just one fixture, the problem is likely closer to that spot. Repeated chemical drain cleaners often don't solve the core issue and can actually damage your pipes over time, so it's usually best to avoid them.\n\nWhat Can Change the Right Choice\nKnowing whether the clog is in a private drain, your building's sewer lateral, or even the public sewer main is a huge decision factor. If you suspect the public sewer is involved (for example, if sewage is flowing even when you haven’t used any water inside), you should contact your municipality or sewer authority right away. They might need to inspect their main line before you hire anyone for private work. For issues within your property, a professional plumber like CG Plumbing Solutions can use tools like mechanical cable augers or hydro-jetting to clear blockages, and even camera inspections to identify recurring causes like roots, grease buildup, or damaged pipes. This helps ensure the problem is truly resolved, not just temporarily fixed. If your drains keep clogging even after cleaning, it's definitely a sign you need a deeper look. CG Plumbing Solutions is here 24/7 across the Las Vegas Valley to help you figure out what’s going on and get it fixed right, whether it’s a simple clog or something more complex.\n\nReady to get your drains flowing freely? Give us a call at (702) 843-0899 for clear communication and dependable workmanship.",
+  "datePublished": "2026-09-28"
+}

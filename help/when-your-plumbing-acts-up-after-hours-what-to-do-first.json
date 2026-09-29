@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Plumbing Acts Up After Hours: What to Do First",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's never fun when a plumbing problem pops up after normal business hours, right? Whether it’s a burst pipe, a mysterious leak, or a water heater acting crazy, knowing what to do immediately can really minimize damage and stress. Your first move isn’t always to call the plumber, though that's crucial soon after. It’s about taking quick, smart steps to get things under control.\n\nFirst, if you have a visible leak or burst pipe, try to locate the shut-off valve for that specific fixture. If you can’t find it, or the problem is widespread, head straight for your main water shut-off valve. This is usually near your water meter or where the main line enters your house. Turning it off quickly can prevent a small leak from becoming a flood. Once the water flow is stopped, try to drain any remaining water from the pipes by opening the lowest faucet in your home. This helps relieve pressure and gets standing water out. Next, and this is super important, keep an eye out for any water near electrical outlets or appliances. If water and electricity are mixing, stay clear and call an electrician if you can't isolate the power safely. Finally, try to document the damage with photos or videos. This is a huge help later on, especially if you need to talk to your landlord or insurance company. Once you've got things safely contained, then it's time to reach out to a professional.\n\nWhat to Do Next\nAfter taking those initial steps, the most important thing is to call a reliable, licensed 24/7 plumber like CG Plumbing Solutions. We're here for emergencies across the Las Vegas Valley, ready to assess the situation and get things fixed right.",
+  "datePublished": "2026-09-28"
+}

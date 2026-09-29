@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Expect When Calling for 24/7 Plumbing in North Las Vegas",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a plumbing emergency hits your North Las Vegas home or business in the middle of the night, you're probably wondering what happens when you call a 24/7 plumber. It's totally normal to feel a bit overwhelmed, but understanding the process can really help. CG Plumbing Solutions aims to make that experience as clear and stress-free as possible, even when things are chaotic.\n\nWhen you call us for an emergency, the first thing we'll do is triage the situation. We'll ask you about the symptoms – is it an active leak, a sewer backup, no hot water, or something else? We'll also want to confirm if you've already shut off the main water supply if it's a leak, or if there's any gas involved (in which case, safety first – call the gas company!). This initial conversation helps us understand the urgency and dispatch the right licensed technician with the right tools. We'll give you an estimated arrival window, though remember that response times can vary based on location, traffic, and workload, especially for urgent calls. When our technician arrives, their priority is to stabilize the immediate hazard, like stopping a leak, and then diagnose the root cause. They'll explain what's going on, offer clear repair options, and provide a written estimate before any work begins. There are no surprise charges. We want you to feel confident in the solutions we propose.\n\nWhat to Expect During the Process: You can expect clear communication, a professional assessment, and transparent pricing. Our goal is to protect your property and provide lasting solutions for your plumbing emergency.",
+  "datePublished": "2026-09-28"
+}

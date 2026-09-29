@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When You Have a Plumbing Emergency",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Experiencing a sudden plumbing emergency can be super stressful, whether it's a burst pipe, a water heater leak, or a nasty sewer backup. Knowing what to do in those first few moments can really minimize damage and help your plumber get things fixed faster. Don't panic! Taking quick, decisive action is key to keeping a bad situation from getting worse. We see active leaks, water entering ceilings, water-heater leaks, and sewer backups all the time – they definitely warrant prompt attention.\n\nWhat to Do Next:\n\n1.  **Stop the Water Source:** If it's a fixture leak, try to shut off the water directly at that fixture first. If that's not possible or the leak is widespread (like a main line or water heater), find your main water shutoff valve and turn it off immediately. It’s usually located where the main water line enters your house. This is crucial for stopping active flow and preventing more damage.\n2.  **Avoid Electrical Hazards:** If water is pooling near electrical outlets, appliances, or panels, stay clear! Water and electricity are a dangerous mix. Don't touch anything electrical in or near the wet area. Your safety is always the top priority.\n3.  **Contain the Damage:** Grab buckets, towels, or anything else you can to contain the water and prevent it from spreading. Move any valuable items, furniture, or electronics out of the affected area if it's safe to do so. This can save you a lot of headache with property damage.\n4.  **Stop Using Fixtures During a Backup:** If you're dealing with a sewer backup, don't flush toilets or run water down any drains. This will only add to the problem and make the backup worse. Try to use an alternative bathroom if possible.\n5.  **Call for Professional Help:** Once the immediate risk is managed, call a licensed and insured plumber like CG Plumbing Solutions right away. We offer 24/7 emergency services for the Las Vegas Valley. Be ready to explain the issue, where the leak is, and whether you've shut off the water. We'll give you an estimated arrival window and discuss any diagnostic or after-hours fees upfront.",
+  "datePublished": "2026-09-28"
+}

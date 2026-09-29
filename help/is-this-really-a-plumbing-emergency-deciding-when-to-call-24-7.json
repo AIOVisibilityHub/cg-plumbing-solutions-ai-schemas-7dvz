@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is This Really a Plumbing Emergency? Deciding When to Call 24/7",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It can be tough to figure out if that dripping faucet or slow drain warrants a middle-of-the-night call to an emergency plumber. You don't want to overreact, but you definitely don't want to let a small problem become a catastrophe. Knowing what truly qualifies as an emergency can save you stress, potential damage, and help you make the right call. An actual emergency usually involves uncontrolled water, a health hazard, or something that could cause significant property damage if not addressed immediately. It's all about assessing the risk and urgency.\n\nWhen to Call a Professional Immediately:\n- [ ] **Burst or actively leaking pipe with visible water** — This means water is gushing or steadily flowing, uncontrolled, and you can't stop it at the fixture or main shut-off. This can cause severe damage quickly.\n- [ ] **No hot water or a water heater that has completely failed** — While not always a 'flood' emergency, no hot water can disrupt daily life, especially for families, and a failed water heater often signals a more complex issue that needs professional attention to avoid future leaks or hazards.\n- [ ] **Sewage backing up into a toilet, shower, or drain** — This is a serious health hazard. Contaminated water needs immediate containment and cleanup by professionals who can address the blockage safely and effectively.\n- [ ] **Water that can't be shut off at the fixture** — If you've tried turning off the water to a running toilet or a leaky faucet and it just won't stop, you need help to prevent continuous waste and potential overflow.\n- [ ] **Multiple drains clogged or backing up at the same time** — This often points to a main sewer line issue, which requires specialized equipment and expertise to resolve properly. A single slow drain might wait, but multiple ones suggest a bigger problem.\n- [ ] **Suspected gas leak** — If you smell gas, evacuate your property immediately, don't use electrical switches or phones inside, and call your gas utility or 911 from a safe location. This is not a plumbing repair, but a life-safety emergency where plumbers might only come after the gas company has made it safe.\n\nHow to use this checklist: If you check off one or more of these items, it's highly likely you're dealing with a genuine plumbing emergency that requires a prompt response from a licensed and insured 24/7 plumber, like CG Plumbing Solutions. Don't wait for morning; quick action protects your property and your peace of mind.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When a Pipe Bursts in Your Las Vegas Home",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering a burst pipe is definitely not fun, but knowing what to do immediately can save you a lot of hassle and potential damage. First things first, you've gotta shut off that main water supply—this is critical! Once the water is off, open up any faucets and flush toilets to help drain any remaining water from the system. This reduces the pressure and the amount of water escaping. It's also super important to stay clear of water that's near electrical outlets or appliances; water and electricity don't mix, and safety is paramount. If it's safe to do so, quickly move any valuable items away from the flooded area. Before you start soaking anything up, take a few pictures of the pipe and any damage caused; this can be really helpful later for insurance or restoration pros. Remember, a burst pipe is an emergency, not just a small leak, so acting fast is key to minimizing structural issues, mold growth, or electrical hazards. Don't try to make a permanent repair yourself right away; temporary fixes like clamps or tape are just that—temporary. This is definitely a situation where you'll want licensed and insured pros, like us at CG Plumbing Solutions, on the job to get things fixed properly. What to do next: Give CG Plumbing Solutions a call right away for emergency service.",
+  "datePublished": "2026-09-28"
+}

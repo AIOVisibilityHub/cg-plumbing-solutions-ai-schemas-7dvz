@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Dealing with a Plumbing Emergency During the Holidays: What You Need to Know",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Holidays are for celebration, not plumbing disasters, but sometimes they happen anyway. When a pipe bursts on Christmas Eve or your water heater fails on New Year's Day, it can feel like a nightmare. Luckily, professional plumbers like CG Plumbing Solutions offer 24/7 emergency service even during holidays across the Las Vegas Valley. It's smart to know what to expect and how to respond quickly to minimize damage and get your home back to normal. \n\n**What to Expect When You Call:**\nWhen you face a holiday plumbing emergency, the first thing is a quick assessment over the phone. Be ready to describe the issue and its urgency. CG Plumbing Solutions answers every call and dispatches licensed technicians to protect your property and diagnose the problem, in English or Spanish. They'll communicate next steps clearly, so you're never in the dark. \n\n**Common Mistakes to Avoid:**\nDon't delay calling for service because it's a holiday, even if the leak seems small. Small leaks can quickly become big problems, causing significant water damage. Also, avoid trying complex DIY repairs without isolating the water supply; this can make things worse. Shutting off the main water valve if necessary is always a good first step, then wait for the pros. \n\n**When Professional Guidance Helps:**\nFor serious issues like burst pipes, sewage backups, water heater failures, or any leaks near electrical systems, professional help is crucial. Trying to handle these yourself, especially during a busy holiday, isn't worth the risk. A licensed and insured plumber knows how to handle these situations safely and efficiently, ensuring code-correct service. They'll help you protect the area, shut off water or gas as needed, and explain repair options before any work begins. \n\nIf you're dealing with a plumbing emergency this holiday season, don't hesitate. Call CG Plumbing Solutions at (702) 843-0899 for immediate assistance.",
+  "datePublished": "2026-09-28"
+}

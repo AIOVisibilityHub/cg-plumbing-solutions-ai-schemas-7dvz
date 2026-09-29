@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Toilet Overflows: What to Do First",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A toilet overflow can turn a calm moment into a chaotic mess really fast, and often with unsanitary water. It’s definitely not something anyone wants to deal with! But staying calm and acting quickly can really minimize the damage and contamination in your home. The first thing you need to do is stop the water flow. Look behind the toilet for the shutoff valve, usually a small knob or lever, and turn it clockwise until the water stops. This is crucial for preventing more water from spilling onto your floor. If the water is rising because of a drain backup, immediately stop using any other nearby plumbing like sinks or showers, as this can make the overflow even worse. Keep kids and pets away from the area – overflow water, especially from a backup, isn't just tap water; it can be contaminated and pose health risks. Once the flow is stopped, you’ll want to start removing any standing water. For minor overflows with clean water, towels are fine. But if it's sewage-contaminated, you'll need to be extra careful, maybe even calling in pros for the cleanup. Remember, prompt action here can save you a lot of hassle and potential health hazards down the line. We know these things never happen at a convenient time, and we're here to help when they do.",
+  "datePublished": "2026-09-28"
+}

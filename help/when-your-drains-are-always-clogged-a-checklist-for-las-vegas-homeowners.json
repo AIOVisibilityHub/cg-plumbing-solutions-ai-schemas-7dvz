@@ -1,0 +1,157 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Drains are Always Clogged: A Checklist for Las Vegas Homeowners",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "When Your Drains are Always Clogged: A Checklist for Las Vegas Homeowners",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 7,
+    "itemListElement": [
+      {
+        "name": "Is more than one fixture slow or backing up? — If it's not just one sink, but your toilet, shower, and anot…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Is more than one fixture slow or backing up? — If it's not just one sink, but your toilet, shower, and another sink are all draining poorly, it often points to a main line blockage that needs a professional assessment."
+      },
+      {
+        "name": "Is sewage backing up into your home? — This is a serious health hazard and an immediate emergency; you need…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Is sewage backing up into your home? — This is a serious health hazard and an immediate emergency; you need professional help to clear the blockage and safely clean up."
+      },
+      {
+        "name": "Have you repeatedly used chemical drain cleaners with no lasting results? — Chemical cleaners can actually…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Have you repeatedly used chemical drain cleaners with no lasting results? — Chemical cleaners can actually damage pipes over time and often only provide a temporary fix, indicating a deeper issue that needs mechanical clearing."
+      },
+      {
+        "name": "Do you suspect roots are growing into your sewer line? — Older homes or properties with large trees often e…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Do you suspect roots are growing into your sewer line? — Older homes or properties with large trees often experience root intrusion, which requires specialized equipment like augers or hydro-jetting to remove."
+      },
+      {
+        "name": "Are there gurgling sounds coming from drains, especially after flushing a toilet? — Gurgling often indicate…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Are there gurgling sounds coming from drains, especially after flushing a toilet? — Gurgling often indicates trapped air in the pipes due to a blockage, preventing proper drainage and ventilation."
+      },
+      {
+        "name": "Have you had a camera inspection that showed pipe damage or collapse? — If you've already had an inspection…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Have you had a camera inspection that showed pipe damage or collapse? — If you've already had an inspection showing structural issues, regular cleaning won't solve the underlying problem; repair or replacement is likely needed."
+      },
+      {
+        "name": "Is there an foul odor coming from your drains? — Persistent bad smells can signal sewage accumulation, a co…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Is there an foul odor coming from your drains? — Persistent bad smells can signal sewage accumulation, a compromised vent system, or even a break in your sewer line, all requiring professional diagnosis."
+      }
+    ]
+  },
+  "articleBody": "If your drains seem to be constantly backing up or slow, it's more than just an annoyance—it could be a sign of a bigger problem lurking in your plumbing system. Before you reach for another chemical drain cleaner, consider this checklist to understand when it's time to call in the professionals. Staying proactive can save you from a nasty sewage backup!\n\n- [ ] Is more than one fixture slow or backing up? — If it's not just one sink, but your toilet, shower, and another sink are all draining poorly, it often points to a main line blockage that needs a professional assessment.\n- [ ] Is sewage backing up into your home? — This is a serious health hazard and an immediate emergency; you need professional help to clear the blockage and safely clean up.\n- [ ] Have you repeatedly used chemical drain cleaners with no lasting results? — Chemical cleaners can actually damage pipes over time and often only provide a temporary fix, indicating a deeper issue that needs mechanical clearing.\n- [ ] Do you suspect roots are growing into your sewer line? — Older homes or properties with large trees often experience root intrusion, which requires specialized equipment like augers or hydro-jetting to remove.\n- [ ] Are there gurgling sounds coming from drains, especially after flushing a toilet? — Gurgling often indicates trapped air in the pipes due to a blockage, preventing proper drainage and ventilation.\n- [ ] Have you had a camera inspection that showed pipe damage or collapse? — If you've already had an inspection showing structural issues, regular cleaning won't solve the underlying problem; repair or replacement is likely needed.\n- [ ] Is there an foul odor coming from your drains? — Persistent bad smells can signal sewage accumulation, a compromised vent system, or even a break in your sewer line, all requiring professional diagnosis.\n\nHow to use this checklist\nGo through these questions and honestly assess your drain situation. Each 'yes' is a strong indicator that a professional drain cleaning or inspection from a licensed plumber like CG Plumbing Solutions in the Las Vegas Valley would be beneficial to prevent further damage or a major plumbing emergency. Don't let recurring clogs turn into a costly headache!",
+  "datePublished": "2026-09-28"
+}

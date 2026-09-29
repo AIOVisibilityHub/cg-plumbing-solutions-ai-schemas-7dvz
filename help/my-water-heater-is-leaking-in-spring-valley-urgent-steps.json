@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Water Heater is Leaking in Spring Valley: Urgent Steps",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering your water heater is leaking in your Spring Valley home can be alarming, but acting quickly can prevent further damage and keep everyone safe. It's a common emergency that requires immediate attention, as unchecked leaks can lead to significant water damage and even safety hazards.\n\nYour first priority is safety. If you smell gas, hear hissing, or see smoke, everyone needs to leave the house immediately and call emergency services or your gas utility from a safe distance outside. Do not operate any electrical switches. If there's no gas concern, carefully locate and turn off the water supply to the water heater. There's usually a cold water shut-off valve above the unit; turn it clockwise until the water stops. Next, you need to shut off the power to the unit. For electric water heaters, find the breaker in your electrical panel and switch it off. For gas water heaters, turn the gas valve to the 'off' position, following the manufacturer's instructions. Once the water and energy sources are off, begin to contain the leaking water with towels or buckets to minimize damage to your flooring and belongings. Identifying the source of the leak, whether it's from the tank, a connection, or a valve, is crucial for assessing the damage and planning the next steps.\n\nWhen Professional Guidance Helps\nWhile you can take these initial steps, a leaking water heater often signals a more serious issue that needs professional assessment. Especially if the leak is from the tank itself, the temperature-and-pressure relief valve, or if you're unsure about shutting off gas or electrical components, it's definitely time to call in the experts. CG Plumbing Solutions is ready to respond to water heater emergencies in Spring Valley, diagnosing the leak source and explaining whether a repair is practical or if replacement is the safer, more cost-effective option.",
+  "datePublished": "2026-09-28"
+}

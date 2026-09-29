@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When Your Drain is Backed Up in North Las Vegas: Mistakes to Avoid",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A backed-up drain can quickly turn a normal day into a messy nightmare. It’s tempting to try a quick fix, but some common mistakes can make the situation worse or even dangerous. When you've got a stubborn clog in North Las Vegas, knowing what not to do is just as important as knowing what to do. Our local team sees these issues all the time and we’re ready to help, but preventing further problems is key.\n\nCommon Mistakes to Avoid\n- [ ] Continuing to use fixtures connected to a blocked drain: This is a big no-no! If your sink or toilet is backed up, using other fixtures can just push more water into the already overwhelmed system, potentially causing an overflow and more extensive water damage. Shut off the water to the affected fixture if possible, or even the main water supply if the backup is severe.\n- [ ] Entering standing water near electrical equipment: Water and electricity don't mix. If there's standing water in your basement or bathroom and electrical outlets or appliances are nearby, stay clear. You could be at risk of electric shock. Call an expert immediately.\n- [ ] Applying chemical drain cleaners: While they promise a quick fix, chemical drain cleaners can be corrosive and often don't solve the root problem. They can damage your pipes, especially older ones, and create a hazardous situation for anyone who later works on the drain, including our plumbers. Skip the chemicals and opt for professional diagnosis.\n- [ ] Cleaning up before photographing damage for possible insurance documentation: Before you start mopping up, take some photos or videos of the backup and any resulting damage. This documentation can be crucial if you need to file an insurance claim later on. It’s easy to overlook when you’re stressed, but it’s an important step.\n- [ ] Failing to shut off the main water supply for severe backups: For major backups, especially those affecting multiple drains or showing signs of a sewer issue, shutting off your home's main water supply is the safest first step. This stops new water from entering the system and prevents further overflow. Know where your main shutoff valve is located!\n\nIf you're facing a stubborn drain backup in North Las Vegas, avoid these pitfalls and contact CG Plumbing Solutions. We can diagnose the problem safely and effectively.",
+  "datePublished": "2026-09-28"
+}

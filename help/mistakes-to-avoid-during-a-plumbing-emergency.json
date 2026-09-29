@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid During a Plumbing Emergency",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Facing a plumbing emergency is no fun, but what you do (or don't do) in those crucial first moments can significantly impact the outcome. We've seen homeowners make a few common missteps that can unfortunately worsen the situation or make repairs more complicated. Our team at CG Plumbing Solutions is here 24/7 for the Las Vegas Valley, ready to help, but knowing these pitfalls can save you time, money, and stress.\n\nCommon Mistakes to Avoid:\n\n1.  **Waiting to See if It Stops:** Don't delay! Active leaks and persistent issues rarely resolve themselves. Waiting can lead to much more extensive water damage, mold growth, or even structural problems. Prompt action is always best, especially with active leaks, sewer backups, or water spreading quickly.\n2.  **Ignoring the Main Water Shutoff:** Forgetting or failing to shut off your main water supply when there's a significant leak is a big one. This simple step can prevent thousands of dollars in water damage. If you're unsure where it is, locate it *before* an emergency strikes. If it's stuck or inaccessible, that's okay, just let us know.\n3.  **Using Plumbing During a Backup:** If your drains are backing up or your toilet isn't flushing properly due to a sewer issue, resist the urge to keep using other sinks or flushing toilets. This will only add more wastewater to an already overwhelmed system, potentially causing overflows in other fixtures.\n4.  **Applying Chemical Drain Cleaners:** For clogs or slow drains, especially during an emergency, chemical drain cleaners can be tempting. However, they can often make the problem worse, damage pipes, and create a hazardous situation for our plumbers. It’s always better to let a professional assess the blockage.\n5.  **Attempting Repairs Near Electrical Hazards:** If water is pooling near electrical outlets, appliances, or your electrical panel, do not attempt to fix anything yourself. This creates an extremely dangerous electrical shock risk. Keep everyone away from the area and call us immediately. We're licensed and insured to handle these situations safely.\n\nWhen Professional Guidance Helps:\n\nIf you're dealing with major flooding, a sewer backup, a failed or inaccessible shutoff valve, water heater problems, or any situation involving electrical risk, a qualified professional is absolutely essential. Don't hesitate to call CG Plumbing Solutions at (702) 843-0899. We’ll provide clear options and code-compliant service.",
+  "datePublished": "2026-09-28"
+}

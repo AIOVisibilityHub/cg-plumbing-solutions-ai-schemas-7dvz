@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Your Sewer Keeps Backing Up and What It Means",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A sewer backup isn't just unpleasant; it's a clear sign that something is seriously wrong with your plumbing system. When your sewer keeps backing up, it's your home telling you it needs attention. Ignoring it or just clearing the immediate mess without understanding the root cause can lead to even bigger, more expensive problems down the line. Let's unpack why this keeps happening and what it really means for your property.\n\nWhat Can Change the Right Choice\n\nUnderstanding the source of your sewer backup is the biggest decision factor in figuring out the right solution. Here are the main culprits and what they imply:\n\n- Public Sewer Main Blockage: Sometimes, the problem isn't even on your property. If sewage is flowing into your home continuously, even when you haven't used any water, it's a strong indicator that the public sewer main might be blocked. In this scenario, your immediate first step should be to contact your local municipality or sewer district. They'll need to investigate and clear their main line. You shouldn't hire a private plumber for this until you've confirmed it's not a public issue, as they might charge you for a problem outside your responsibility.\n- Private Lateral Blockage: This is the pipe that connects your home's plumbing to the public sewer main. Blockages here are common and can be caused by a variety of issues, including:\n  - Tree Root Intrusion: Roots from nearby trees are notorious for growing into tiny cracks in your sewer line, expanding and causing severe blockages. This requires professional intervention, often including hydro-jetting or even pipe repair/replacement.\n  - Grease and Debris Buildup: Over time, pouring grease down drains and flushing non-flushable items can create significant clogs in your lateral line. Regular maintenance and careful disposal habits can prevent this, but once a major backup occurs, it needs professional clearing.\n  - Damaged or Collapsed Pipes: Older pipes can corrode, crack, or even collapse due to shifting soil, heavy loads above ground, or just age. A camera inspection is crucial here to assess the pipe's condition. If the pipe is damaged, it might need repair or replacement, which often involves excavation.\n\n- Multiple Fixtures Affected vs. Single Fixture: If only one toilet or drain is backing up, it's likely a localized clog within your home's internal plumbing. If multiple fixtures are backing up simultaneously, especially on lower levels, it points strongly to a main sewer line issue, either private or public.\n\nFor any sewer backup, especially recurring ones, a qualified professional is essential. They have the expertise and equipment, like camera inspections, to accurately diagnose the problem and recommend the most effective, code-compliant solution. CG Plumbing Solutions offers 24/7 emergency sewer backup repair services across the Las Vegas Valley, from Enterprise to Henderson. We'll help you pinpoint the cause and get your system running smoothly and safely again. We communicate next steps and help protect the work area during our service calls.\n\nConcerned about a recurring sewer backup? Don't let it worsen. Contact CG Plumbing Solutions at (702) 843-0899 for an expert diagnosis and reliable repair.",
+  "datePublished": "2026-09-28"
+}

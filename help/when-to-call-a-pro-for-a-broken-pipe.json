@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Pro for a Broken Pipe",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dealing with a broken pipe can be tricky, and it's not always obvious when you need to call in the experts. Sure, a small, accessible leak might seem like something you can handle, but a 'broken pipe' is a broad term that covers everything from tiny cracks to full-blown splits. Here are some signs it's time to bring in a professional plumber from CG Plumbing Solutions: \n- **The break is inside a wall, ceiling, slab, or crawl space:** These hidden leaks can cause serious structural damage and mold if not addressed properly, and you'll need specialized tools and expertise to locate and repair them without making a bigger mess. \n- **It involves a main service line or sewer line:** These are critical parts of your home's plumbing system, and repairs here often require specific permits and knowledge to ensure safety and code compliance. \n- **There's extensive water damage:** If you're seeing soggy drywall, warped floors, or persistent dampness, a plumber can fix the source, but you might also need a water restoration professional. \n- **The problem persists after a temporary shutoff or DIY attempt:** Sometimes a temporary patch or clamp doesn't quite hold, or the leak comes back. This indicates a deeper issue that needs a lasting solution. \n- **The repair requires opening finished surfaces:** If you need to cut into walls or floors to access the pipe, a professional can minimize damage and ensure proper repair and restoration. \n- **You're unsure of the pipe material or failure cause:** Different pipe materials (copper, PEX, PVC) require specific repair methods, and understanding why it broke helps prevent future problems. What to Do Next: If you're experiencing any of these situations, don't hesitate to contact CG Plumbing Solutions for skilled broken pipe repair.",
+  "datePublished": "2026-09-28"
+}

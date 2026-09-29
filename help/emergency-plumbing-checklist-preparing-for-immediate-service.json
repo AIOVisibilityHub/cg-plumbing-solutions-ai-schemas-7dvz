@@ -1,0 +1,157 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Emergency Plumbing Checklist: Preparing for Immediate Service",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Emergency Plumbing Checklist: Preparing for Immediate Service",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 7,
+    "itemListElement": [
+      {
+        "name": "Locate your main water shutoff valve — knowing exactly where this is can save your home from significant wa…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Locate your main water shutoff valve — knowing exactly where this is can save your home from significant water damage. It's usually near the water meter or where the main line enters your house."
+      },
+      {
+        "name": "Clear access to the affected area — move any furniture, boxes, or personal items that might be blocking the…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Clear access to the affected area — move any furniture, boxes, or personal items that might be blocking the plumber's access to the leak or drain issue. This helps them get straight to work."
+      },
+      {
+        "name": "Shut off local fixture valves if safe — for a leaky faucet or toilet, turning off the small valve underneat…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Shut off local fixture valves if safe — for a leaky faucet or toilet, turning off the small valve underneath can stop the flow without shutting down water to your whole home. Only do this if the valve isn't seized or damaged."
+      },
+      {
+        "name": "Turn off electricity if water is near outlets/appliances — water and electricity are a dangerous combinatio…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Turn off electricity if water is near outlets/appliances — water and electricity are a dangerous combination, so flip the breaker to the affected zone if there's any risk of contact. Prioritize your safety above all else."
+      },
+      {
+        "name": "Document the damage with photos/videos — before you clean up too much, snap some pictures or record a video…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Document the damage with photos/videos — before you clean up too much, snap some pictures or record a video of the active leak or overflow. This is invaluable for insurance purposes later."
+      },
+      {
+        "name": "Have contact info ready — keep the phone number for CG Plumbing Solutions ((702) 843-0899) handy for quick…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Have contact info ready — keep the phone number for CG Plumbing Solutions ((702) 843-0899) handy for quick dispatch."
+      },
+      {
+        "name": "Prepare questions for the plumber — think about what you want to ask regarding the cause, repair options, c…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Prepare questions for the plumber — think about what you want to ask regarding the cause, repair options, cost, and timeline. This helps ensure clear communication."
+      }
+    ]
+  },
+  "articleBody": "When a plumbing emergency strikes, things can get pretty chaotic. Having a quick checklist in mind can really help you stay organized, minimize damage, and make the plumber's job easier when they arrive. This isn't about doing the plumbing work yourself, but about taking smart, safe preparatory steps.\n\n- [ ] **Locate your main water shutoff valve** — knowing exactly where this is can save your home from significant water damage. It's usually near the water meter or where the main line enters your house.\n- [ ] **Clear access to the affected area** — move any furniture, boxes, or personal items that might be blocking the plumber's access to the leak or drain issue. This helps them get straight to work.\n- [ ] **Shut off local fixture valves if safe** — for a leaky faucet or toilet, turning off the small valve underneath can stop the flow without shutting down water to your whole home. Only do this if the valve isn't seized or damaged.\n- [ ] **Turn off electricity if water is near outlets/appliances** — water and electricity are a dangerous combination, so flip the breaker to the affected zone if there's any risk of contact. Prioritize your safety above all else.\n- [ ] **Document the damage with photos/videos** — before you clean up too much, snap some pictures or record a video of the active leak or overflow. This is invaluable for insurance purposes later.\n- [ ] **Have contact info ready** — keep the phone number for CG Plumbing Solutions ((702) 843-0899) handy for quick dispatch.\n- [ ] **Prepare questions for the plumber** — think about what you want to ask regarding the cause, repair options, cost, and timeline. This helps ensure clear communication.\n\nHow to use this checklist: This checklist is designed to be a quick reference during a stressful plumbing emergency. Go through these items calmly and methodically. Your safety is paramount, so don't attempt any action that feels unsafe or beyond your comfort level. These steps help prevent further damage and ensure CG Plumbing Solutions can get your plumbing back in shape efficiently. We serve Las Vegas, North Las Vegas, and all surrounding areas with emergency plumbing services.",
+  "datePublished": "2026-09-28"
+}

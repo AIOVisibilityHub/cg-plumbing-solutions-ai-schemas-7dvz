@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid with Holiday Plumbing Disasters",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a plumbing emergency strikes during the holidays, it's easy to panic and make some common mistakes that can worsen the situation or even create new hazards. Nobody wants their festive plans ruined by a leaky pipe or a backed-up drain, but knowing what *not* to do is just as important as knowing what to do. As a locally owned, licensed, and insured plumbing company serving the Las Vegas Valley, CG Plumbing Solutions often sees these issues firsthand.\n\nCommon Mistakes to Avoid\n- [ ] **Continuing to use a leaking fixture** — why it matters: Using a fixture that's actively leaking, especially if you can't turn off its local water supply, only increases water damage and potential mold growth. Shut it down if possible. \n- [ ] **Forcing a stuck shutoff valve** — why it matters: If a shutoff valve is stuck, forcing it can break it completely, turning a manageable leak into a full-blown flood. It's better to try the main water shutoff if the fixture valve isn't cooperating. \n- [ ] **Entering water near outlets or electrical panels** — why it matters: Water and electricity are a dangerous mix. Standing in water near live electrical components can lead to electrocution. Stay clear and prioritize safety. \n- [ ] **Using chemical drain openers for severe clogs** — why it matters: Chemical drain openers are often ineffective for serious blockages and can damage your pipes, creating a toxic mess for plumbers to deal with. \n- [ ] **Attempting complex repairs involving gas, sewage, or concealed pipes** — why it matters: These types of repairs require specialized expertise, tools, and often permits. DIY attempts can be dangerous, violate code, and cause more expensive damage. Always call a professional for these situations. \n- [ ] **Delaying professional help for significant leaks or sewer backups** — why it matters: The longer you wait, the more extensive the water damage can become, increasing repair costs and the risk of mold. Prompt action is key to mitigating damage. \n\nHow to use this checklist\nUse this checklist to quickly assess your holiday plumbing emergency. If you find yourself doing any of these 'mistakes,' it's a strong signal that professional help is needed immediately. \n\nWhat to Do Next\nFor reliable, code-compliant plumbing solutions during your holiday emergency, contact CG Plumbing Solutions at (702) 843-0899. Their 24/7 service ensures you get the expert help you need.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Unexpected Leak on Christmas? How to Get Help Fast",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding an unexpected leak during the holidays is never fun, but quick action can save you a lot of stress and money. Whether it's a slow drip or a sudden gush, knowing who to call and what steps to take right away can make all the difference. In the Las Vegas Valley, professional plumbing services are available 24/7, even on holidays, to tackle these urgent problems.\n\n**What to Do Next:**\nThe very first thing to do is locate the source of the leak if possible. If it's coming from a specific fixture, try to shut off its supply valve. For more widespread leaks or if you can't find the source, head straight for your home's main water shut-off valve and turn it off. This will stop the water flow and prevent further damage. Then, clear the area of any valuables and contain the water as best you can. Take a quick photo of the damage for your records before cleanup.\n\n**Questions to Ask Before You Decide:**\nWhen you call for emergency help, ask about their holiday availability and response time. CG Plumbing Solutions answers every call and dispatches licensed technicians to protect your property and diagnose the problem. It's also smart to confirm their licensing and insurance (like Nevada License C-1D/0093216 for CG Plumbing Solutions) and whether they offer clear, written options before any work starts. Knowing this upfront helps you make an informed decision, even under pressure.\n\n**When Professional Guidance Helps:**\nAny leak that's actively flowing, near electrical components, or causing significant flooding definitely requires immediate professional attention. Also, if you have a sewer backup or a water heater failure, these are critical emergencies. Don't risk electrocution or contaminating your home by trying to fix it yourself, especially when you're already stressed by holiday plans. Licensed plumbers have the expertise and tools to handle these situations safely and effectively, ensuring code-correct service. \n\nFor fast, reliable emergency leak repair during the holidays in the Las Vegas Valley, call CG Plumbing Solutions at (702) 843-0899.",
+  "datePublished": "2026-09-28"
+}

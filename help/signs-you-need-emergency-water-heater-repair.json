@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs You Need Emergency Water Heater Repair",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Nobody likes a cold shower, especially when you're expecting hot water! Your water heater is a pretty essential part of your daily routine, so when it starts acting up, it’s a big deal. Knowing the signs that indicate you need emergency repair can help you react quickly and prevent further damage or safety issues. If you notice active leaking from your water heater, that’s a major red flag. It could be from a connection, a relief valve, or even the tank itself, and any leak can cause significant water damage if not addressed quickly. Another clear sign is a complete loss of hot water, especially if it’s accompanied by unusual noises or a leak. That usually means something serious is going on inside the unit. And definitely don’t ignore any unusual pressure, strange rumbling or banging sounds, or any discolored water coming from your hot taps. Most critically, if you smell gas near a gas water heater, or if your carbon monoxide detector goes off, evacuate immediately and call emergency services or your gas utility from outside the building. These are serious safety concerns that require immediate professional attention. We're here 24/7 for exactly these kinds of emergencies, ensuring your home stays safe and warm.\n\n### What to Do Next\n\n*   **Active Leaking**: If you see water actively leaking from your water heater, shut off the water supply to the unit immediately if it's safe to do so.\n*   **No Hot Water/Strange Noises**: A sudden lack of hot water combined with odd sounds often indicates an internal problem requiring professional diagnosis.\n*   **Unusual Pressure or Discoloration**: Don't ignore signs of unusual pressure or rust-colored water; these can signal internal issues or tank corrosion.\n*   **Gas Odor/CO Alarm**: If you smell gas or your carbon monoxide alarm sounds, leave the building immediately and call emergency services from a safe location. Do not attempt to operate any appliances.",
+  "datePublished": "2026-09-28"
+}

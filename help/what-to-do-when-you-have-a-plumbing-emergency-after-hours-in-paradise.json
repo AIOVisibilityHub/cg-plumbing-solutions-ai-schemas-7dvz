@@ -1,0 +1,141 @@
+{
+  "name": "What to Do When You Have a Plumbing Emergency After Hours in Paradise",
+  "step": [
+    {
+      "name": "Step 1: [ ] Shut off the main water supply — why it's critical to stop furt…",
+      "text": "[ ] Shut off the main water supply — why it's critical to stop further water damage.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: [ ] Turn off any affected appliances (like a leaking water heater)…",
+      "text": "[ ] Turn off any affected appliances (like a leaking water heater) — why it prevents further issues or hazards.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: [ ] Clear the area of valuables and anything that can be easily dam…",
+      "text": "[ ] Clear the area of valuables and anything that can be easily damaged — why it helps protect your belongings.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: [ ] Avoid contact with sewage or standing water near electricity —…",
+      "text": "[ ] Avoid contact with sewage or standing water near electricity — why personal safety is the top priority.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: [ ] Note the specific location and visible signs of the problem — w…",
+      "text": "[ ] Note the specific location and visible signs of the problem — why it helps the plumber diagnose quickly.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: [ ] Have your address and contact information ready — why it stream…",
+      "text": "[ ] Have your address and contact information ready — why it streamlines the dispatch process.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: [ ] Ask about after-hours rates and estimated arrival times — why i…",
+      "text": "[ ] Ask about after-hours rates and estimated arrival times — why it helps manage expectations.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "description": "[ ] Shut off the main water supply — why it's critical to stop further water damage."
+}

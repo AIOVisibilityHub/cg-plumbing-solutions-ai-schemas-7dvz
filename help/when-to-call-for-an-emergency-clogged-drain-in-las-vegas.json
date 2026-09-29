@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call for an Emergency Clogged Drain in Las Vegas",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A clogged drain can be a real headache, but knowing when it escalates to an emergency can save you a lot of trouble and potential damage. While a slow-draining sink might just need a routine cleaning, other signs scream \"call a pro, now!\" We see folks in Las Vegas trying to tackle big clogs themselves, which often makes things worse. It's smart to know the difference.\n\nWhen Professional Guidance Helps\n\n- [ ] **Multiple fixtures affected** — If your toilet, sink, and shower are all gurgling or backing up, it's probably not just a local clog. This points to a deeper issue in your main line, which needs expert attention to diagnose and fix properly.\n- [ ] **Water backing up or overflowing** — Any situation where wastewater is actually flowing out of a fixture, especially near electrical outlets or equipment, is an immediate hazard. Don't wait; this can cause serious property damage and safety risks.\n- [ ] **Sewage odor or signs of sewage** — A foul smell, particularly a sewage odor, indicates that the blockage is significant and could be related to your sewer line. Sewage contains harmful bacteria, so it's critical to address this quickly and safely.\n- [ ] **Chemical drain cleaners failed** — If you've tried a store-bought chemical solution and the clog is still there, continuing to use these can damage your pipes and make the professional's job harder. It's time to step back and let a licensed plumber take over.\n\nDon't let a minor inconvenience turn into a major disaster. If you're seeing any of these serious signs, it's definitely time to get a professional on the line. Call CG Plumbing Solutions in Las Vegas right away for 24/7 emergency service.",
+  "datePublished": "2026-09-28"
+}

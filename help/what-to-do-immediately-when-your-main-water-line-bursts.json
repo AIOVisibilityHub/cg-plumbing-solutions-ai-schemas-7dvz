@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do Immediately When Your Main Water Line Bursts",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A burst main water line is a serious emergency that needs fast action to prevent massive water damage. It can happen without warning, but knowing what to do in the first few minutes can make a huge difference. Your absolute first step is to locate and shut off your main water supply. This is typically a valve near your water meter or where the main line enters your home. Don't delay this step; every second counts when water is gushing. Once the water is off, try to keep everyone, especially kids and pets, away from the affected area, especially if there's any chance of water coming into contact with electrical outlets or appliances. Documenting the damage with photos or videos can also be helpful for your plumber and potentially for insurance later.\n\n### Common Mistakes to Avoid\n\nWhen a main water line bursts, panic can set in, leading to some common mistakes that can worsen the situation or delay repairs. One big one is delaying the shutoff – hoping it will stop on its own or trying to find another solution first. Another is attempting to operate an unfamiliar curb-stop valve without knowing how, as this can sometimes cause more issues or doesn't actually turn off your private line. Don't leave electrical equipment energized near the water; if you can safely turn off power to the affected area at your breaker, do so. And please, don't try to continue using your plumbing system; this will just reintroduce water pressure and exacerbate the leak. Finally, avoid repairing only the visible damage without figuring out the underlying cause; our professionals are trained to find and fix the root of the problem. For any significant leak, especially a main line, professional assistance is key for a safe, lasting fix. CG Plumbing Solutions provides 24/7 emergency service across the Las Vegas Valley, so you're never alone when these emergencies strike.\n\n### What to Do Next\n\nIf your main water line has burst, call CG Plumbing Solutions immediately at (702) 843-0899. We offer 24/7 emergency service to handle urgent water line repairs in Las Vegas and surrounding areas like Summerlin and Enterprise.",
+  "datePublished": "2026-09-28"
+}

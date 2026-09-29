@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Preparing for an Emergency Plumber Visit in Las Vegas",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you've got a plumbing emergency in your Las Vegas home, the last thing you want to do is scramble when the plumber arrives. Being prepared, even in a stressful situation, can actually make the service call much smoother and faster. Think of it as doing a little prep work to help your plumber help you more efficiently. It really helps us get right to fixing the problem.\n\nFirst, if it's a leak or burst pipe, try to have the main water shut off before the plumber gets there. This is always step one in preventing further damage. Knowing where your main shut-off valve is located (often in the garage, basement, or outside) is invaluable. Second, clear the area around the plumbing issue as much as you can. Move furniture, rugs, or anything that might be in the way so our technicians have clear access to the problem. If it's a water heater issue, make sure the area around it is clear. Third, if you've documented the issue with photos or videos, have those ready. Any details you can share about when it started, what you've observed, or what you've tried (like shutting off a valve) can be really helpful for diagnosis. Finally, be ready to discuss potential solutions and ask questions. Our licensed technicians from CG Plumbing Solutions will explain everything in clear terms, offer written options, and ensure you approve the work before we start. We serve the entire Las Vegas Valley, so we'll be there when you need us.\n\nWhat to Prepare Before You Start: Have your main water shut off (if applicable), clear the work area, gather any observations or documentation, and be ready to communicate clearly with your plumber.",
+  "datePublished": "2026-09-28"
+}

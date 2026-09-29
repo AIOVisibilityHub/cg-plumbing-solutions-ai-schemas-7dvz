@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Faucet is Leaking: When to Call for Emergency Leak Repair",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A leaky faucet might seem like a minor annoyance, but not all leaks are created equal. While a slow drip can often wait for a scheduled repair, certain types of leaks demand immediate emergency attention to prevent significant property damage, health risks, or even structural issues. It's crucial to understand when your leak crosses the line from a nuisance to an urgent plumbing emergency, especially here in the Las Vegas Valley where hard water can accelerate issues. CG Plumbing Solutions, a licensed and insured local company, specializes in emergency leak repair, ready to respond 24/7.\n\nWhen Professional Guidance Helps\nKnowing when to call a professional for emergency leak repair can save you a lot of trouble and expense. Here are some key indicators:\n*   **Active, uncontrolled flow:** If water is gushing or flowing rapidly and you can't shut it off, either at the fixture or the main water supply, this is a clear emergency. Uncontrolled water can quickly flood your home, causing extensive damage to flooring, walls, and foundations. \n*   **Concealed leaks (inside walls, ceilings, floors):** If you suspect a leak hidden behind a wall, above a ceiling, or under the floor, don't delay. These leaks can go unnoticed for a while, leading to severe structural damage, wood rot, and mold growth before you even see visible water. A plumber with leak detection capabilities is essential here.\n*   **Leaks near electrical systems:** Any leak, visible or concealed, that is close to electrical outlets, wiring, or your electrical panel is a serious electrocution hazard. Shut off your main power if safe, and call for emergency help immediately.\n*   **Sewage or contaminated water leaks:** Leaks involving sewage or wastewater pose significant health risks due to bacteria and pathogens. These require immediate professional remediation to protect your health and property. \n*   **Water heater leaks:** A leaking water heater, especially if it's significant or combined with other issues like no hot water or strange noises, needs prompt attention. It could indicate a failing unit or a burst tank, leading to flooding. \n*   **Repeated leaks in the same area or burst pipes:** If you're constantly dealing with leaks in the same spot, or if a pipe has burst, it often points to a larger underlying issue like deteriorating pipes that might require repiping. \n\nWhat to Do Next\nIf your leak matches any of these emergency scenarios, don't wait. Contact CG Plumbing Solutions at (702) 843-0899 for prompt and reliable emergency leak repair service in the Las Vegas Valley.",
+  "datePublished": "2026-09-28"
+}

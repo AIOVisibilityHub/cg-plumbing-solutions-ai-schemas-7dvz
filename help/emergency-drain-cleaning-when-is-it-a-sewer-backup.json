@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Emergency Drain Cleaning: When is it a Sewer Backup?",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's one thing to have a slow kitchen sink, but a full-blown sewer backup? That's an entirely different, and much more serious, plumbing emergency. Knowing the difference and recognizing the signs of a true sewer issue can help you react quickly and get the right help. If you're seeing wastewater backing up in multiple fixtures – say, your toilet and your bathtub are both overflowing, or flushing the toilet causes water to come up in the shower – that's a strong indicator of a main sewer line blockage, not just a local drain clog. Also, any unpleasant odors from drains, especially in basement floor drains, can signal a sewer problem.\n\n### Decision Factor: What Can Change the Right Choice\n\nThe key decision factor here is scope: Is the problem isolated to one fixture, or is it affecting your entire home's drainage system? If it's just one sink or toilet, a localized clog might be the culprit. But if multiple drains are affected, particularly on lower levels, or if you notice sewage odors, you're likely dealing with a blockage in your main building drain or private sewer lateral. In such cases, it's critical to stop using all water-using appliances and fixtures immediately. Using water will only add to the backup. It's also important to identify if the issue could be with the municipal sewer line; sometimes, city main line problems can cause backups in homes. For these more complex situations, a professional drain cleaning service like CG Plumbing Solutions, which offers 24/7 emergency service and has camera inspection capabilities, is essential to accurately diagnose and resolve the issue without further damage or contamination in your Las Vegas Valley home. They can tell you if it's your responsibility or if the city needs to be involved.\n\n### What to Do Next\n\nIf you suspect a sewer backup, stop using water and call CG Plumbing Solutions immediately at (702) 843-0899. Our licensed and insured plumbers are ready to provide 24/7 emergency drain cleaning and sewer services across the Las Vegas Valley, including Enterprise and Spring Valley.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Drain Clogs and You Need Help Fast",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's never fun when a drain decides to quit on you, especially in a hurry. You might have standing water, an unpleasant smell, or just a slow drain making life inconvenient. Knowing whether it's a small, local clog or something bigger like a sewer lateral issue is key. The good news is, for homes and businesses across the Las Vegas Valley, CG Plumbing Solutions is here 24/7 to help figure it out and get things flowing again.\n\n**What to Do Next**\n\nFirst, stop using the affected fixture immediately. Running more water only makes the problem worse and can lead to an overflow. Next, try to see if other drains in your home or business are also affected. Is the toilet backing up when you flush a different one? Is the shower draining slowly at the same time the kitchen sink is struggling? If multiple fixtures are acting up, that points to a more significant blockage, possibly in your main sewer line.\n\nThen, consider if there are any unusual odors, especially a sewage smell, coming from your drains. This is a red flag! While you might be tempted to reach for chemical drain cleaners, these can sometimes cause more harm than good to your pipes and aren't a permanent fix. CG Plumbing Solutions can safely inspect the line with appropriate equipment, whether it's a minor blockage or something more complex like roots or pipe damage.\n\nFinally, once the immediate issue is addressed, it’s important to understand the underlying cause. Was it grease buildup, foreign objects, or something structural? Our team in Las Vegas is equipped to diagnose the problem, explain your options clearly, and ensure your drainage system is running smoothly and up to code. Don't hesitate to reach out if you're dealing with a stubborn clog, day or night.",
+  "datePublished": "2026-09-28"
+}

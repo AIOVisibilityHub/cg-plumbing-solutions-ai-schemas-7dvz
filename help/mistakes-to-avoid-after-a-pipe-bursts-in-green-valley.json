@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid After a Pipe Bursts in Green Valley",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a pipe bursts in your Green Valley home, it's easy to panic and make decisions that could worsen the situation or complicate repairs. Knowing what *not* to do is just as important as knowing what *to* do.\n\n- [ ] **Delaying the main shutoff** — why it matters: The longer water flows, the more extensive and costly the water damage will be. Locate your main water shutoff valve *before* an emergency and know how to use it.\n- [ ] **Attempting to thaw a ruptured pipe before stopping the water** — why it matters: If a frozen pipe has already ruptured, thawing it without shutting off the water first will lead to an immediate gush, escalating the flooding.\n- [ ] **Using a blowtorch, propane heater, or other open flame to thaw pipes** — why it matters: This is extremely dangerous and can cause fires, serious burns, or further damage to plumbing materials. Always use safe, controlled heat sources like a hairdryer or warm towels if you must thaw, but never if the pipe has burst.\n- [ ] **Overlooking additional frozen or cracked sections** — why it matters: A burst pipe often indicates underlying issues like widespread freezing or corrosion. Focusing only on the visible break can mean another problem is just waiting to happen.\n- [ ] **Cleaning up before documenting damage** — why it matters: Thoroughly documenting the damage with photos or videos *before* cleanup is crucial for any potential insurance claims. Don't touch anything until you've captured the full extent of the issue.\n- [ ] **Restoring water at full pressure immediately after a repair** — why it matters: Turning water back on too quickly can put undue stress on new connections or reveal missed leaks with greater force. Always restore water gradually and check carefully.\n\n### How to use this checklist\nThis checklist serves as a quick reference for immediate actions and precautions after a pipe bursts. Use it to guide your first steps, ensuring you address the most critical aspects of safety and damage control, and avoid common pitfalls before professional help arrives. Each item helps minimize further damage and prepares you for an efficient repair process.\n\nFor professional help avoiding these and other issues with a burst pipe in Green Valley, call CG Plumbing Solutions.",
+  "datePublished": "2026-09-28"
+}

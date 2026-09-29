@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Main Drain Needs Professional Cleaning",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Your home's main drain is like the superhighway for all your wastewater. When it gets clogged, it’s not just one fixture acting up; it's often a whole house problem that can quickly turn into a messy and unhealthy situation. Knowing the signs that your main drain needs professional attention can save you a lot of grief and potential damage. We see these issues all the time in Las Vegas homes, and getting ahead of them is always better.\n\nHere are some clear signals that your main drain system needs a professional eye:\n\n*   **Multiple fixtures are slow or backing up:** If your toilet gurgles when you flush the sink, or both your shower and kitchen sink are draining slowly, that's a classic sign. Multiple slow or backing-up fixtures generally indicate a larger-line problem rather than an isolated clog in one pipe.\n*   **Sewage backing up into toilets, showers, or drains:** This is perhaps the most urgent sign. If raw sewage or wastewater is coming up through any of your drains, especially in lower-level fixtures like basement floor drains, it means there's a serious blockage in your main sewer line. This is a health hazard and requires immediate professional attention. Keep people and pets away from the area.\n*   **Strong, foul sewer odors:** If you're noticing persistent sewer smells wafting through your home, especially near drains or in the basement, it could be a sign of a main drain blockage or a sewer line issue. These odors aren't just unpleasant; they can indicate the presence of harmful gases.\n*   **Water coming out of your floor drain:** If water, particularly dirty or foul-smelling water, starts to back up out of your floor drain, especially after using other plumbing fixtures, your main drain is likely overwhelmed or blocked. This usually happens in basements or utility rooms.\n*   **Gurgling noises from drains or toilets:** Unusual gurgling sounds coming from drains or toilets when you're not even using them (or when you use another fixture) often indicate air being trapped in the plumbing system due to a blockage further down the line.\n*   **Consistent re-clogging after DIY attempts:** If you've tried plunging or using basic drain cleaners, and the clog keeps coming back, it's a strong indicator that the blockage is deep within the main line and needs more powerful, professional equipment to clear it.\n\nIf you're noticing any of these signs, don't delay. Contact CG Plumbing Solutions for expert main drain cleaning and get your plumbing flowing freely again.",
+  "datePublished": "2026-09-28"
+}

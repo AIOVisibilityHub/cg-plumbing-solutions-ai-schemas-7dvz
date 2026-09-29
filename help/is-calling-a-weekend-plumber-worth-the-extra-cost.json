@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Calling a Weekend Plumber Worth the Extra Cost?",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s a common dilemma: you have a plumbing problem on a Saturday or Sunday, and you're wondering if you should call a weekend plumber or just wait until Monday. While weekend services often come with a premium, deciding whether it’s 'worth it' really depends on the specific situation. Not all plumbing issues are created equal, and some simply can't wait.\n\nThink about the urgency of your problem. An active, uncontrolled leak or a burst pipe? That's a definite 'yes' for a weekend plumber. Water damage can escalate rapidly, costing you far more in repairs than any after-hours fee. The same goes for sewage backups, which are not only messy but pose serious health risks. No hot water in the middle of winter, or a major clog that makes your essential fixtures unusable? These are strong contenders for immediate weekend attention too, especially if they impact your family's comfort or business operations. However, a slow drain that's not actively overflowing, a dripping faucet that you can temporarily contain, or a running toilet that isn't causing water waste, might be able to wait until Monday without significant harm. You just need to be sure it's truly isolated and won't worsen over the next 24-48 hours. Consider the potential for further damage, your comfort, and safety above all else.\n\nWhat Can Change the Right Choice\nThe best way to decide is to honestly assess the severity. If it threatens your property, health, or safety, waiting is not an option. If you’re unsure, call a professional like CG Plumbing Solutions. We can help you determine the urgency and provide clear options before any work begins.\n\nWhat to Do Next\nIf you're dealing with a plumbing problem this weekend and need expert advice or immediate service in the Las Vegas Valley, reach out to CG Plumbing Solutions. We're available 24/7 for urgent needs.",
+  "datePublished": "2026-09-28"
+}

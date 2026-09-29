@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs You Need a Weekend Plumber Now, Not Later",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Plumbing problems don't punch a time clock, and they certainly don't care that it's your weekend. While some issues can definitely wait until Monday, others are screaming for immediate attention. Knowing the difference can save you a lot of stress, money, and potential property damage. Here are some clear signs that you really shouldn't put off calling a plumber until the work week starts.\n\n*   **Active, Uncontrolled Leaks or Burst Pipes:** If water is gushing or steadily dripping and you can't stop it, this is a top priority. Water damage spreads fast, affecting walls, floors, and even foundations. Waiting can turn a repair into a major renovation.\n*   **Sewage Backup into Your Home:** This isn't just gross; it's a serious health hazard. Raw sewage contains harmful bacteria and needs to be addressed immediately by professionals to prevent contamination.\n*   **No Hot Water (Especially in Winter):** A sudden loss of hot water, particularly if your water heater is leaking, can disrupt your entire household. It often indicates a significant issue with the unit that needs prompt attention.\n*   **Water Near Electrical Systems:** Any water contacting or threatening electrical outlets, wiring, or appliances is extremely dangerous. This requires immediate professional intervention to prevent electrocution or fire hazards.\n*   **Multiple Drains Clogged Simultaneously:** If several sinks, tubs, or toilets are backed up, it often points to a main sewer line issue. These can quickly escalate into sewage backing up into your living spaces if not fixed fast.\n*   **A Strong Smell of Gas:** If you ever smell gas, your first step is to leave the property and contact your gas utility or emergency services immediately. After they've handled the gas line itself, a licensed plumber can address any necessary repairs to your gas appliances.\n\nCommon Mistakes to Avoid\nA big mistake is trying to ",
+  "datePublished": "2026-09-28"
+}

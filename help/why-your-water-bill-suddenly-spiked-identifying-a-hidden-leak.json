@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Your Water Bill Suddenly Spiked: Identifying a Hidden Leak",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Seeing a sudden jump in your water bill can be alarming, especially when your usage habits haven't changed. Often, an unexpected spike is a tell-tale sign of a hidden water leak. These leaks can be tricky because they're not always visible, happening behind walls, under floors, or even underground. Ignoring them can lead to significant water waste, costly damage, and even mold growth. \n\n**What to Prepare Before You Start:**\nBefore calling a professional, you can do a few simple checks. First, check all visible fixtures for drips, even slow ones. Look under sinks and around toilets. Next, listen for the sound of running water when no faucets are open. You can also check your water meter: note the reading, then avoid using any water for an hour or two, and recheck the meter. If it's moved, you likely have a leak. \n\n**Process Clarity:**\nThe usual process for handling hidden leaks starts with professional leak detection. Plumbers use specialized equipment to pinpoint the exact location of the leak without unnecessary damage to your property. Once located, they'll isolate the leak, assess any electrical or contamination hazards, and then proceed with either a temporary or permanent repair. After the repair, they'll test to ensure no more leakage and document any damage for potential insurance claims. \n\n**When Professional Guidance Helps:**\nHiring a qualified professional becomes essential when a leak is concealed, recurring, or beyond your ability to safely isolate. This is particularly true for pressurized leaks, those connected to water heaters or gas appliances, or leaks located behind finished surfaces like drywall. CG Plumbing Solutions offers comprehensive leak detection and repair services across the Las Vegas Valley, including Enterprise, Spring Valley, and Henderson. Their licensed technicians can diagnose the issue, explain repair options, and ensure the work is code-correct.\n\nIf you suspect a hidden leak is causing your high water bill, don't wait. Contact CG Plumbing Solutions at (702) 843-0899 to get it checked out.",
+  "datePublished": "2026-09-28"
+}

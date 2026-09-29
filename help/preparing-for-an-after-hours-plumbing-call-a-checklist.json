@@ -1,0 +1,157 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Preparing for an After-Hours Plumbing Call: A Checklist",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Preparing for an After-Hours Plumbing Call: A Checklist",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 7,
+    "itemListElement": [
+      {
+        "name": "Locate your main water shut-off valve — knowing exactly where this is can be the difference between a small…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Locate your main water shut-off valve — knowing exactly where this is can be the difference between a small leak and a significant flood."
+      },
+      {
+        "name": "Identify the affected fixture or area — clearly pointing out the problem source helps the plumber narrow do…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Identify the affected fixture or area — clearly pointing out the problem source helps the plumber narrow down their search immediately."
+      },
+      {
+        "name": "Clear the area around the plumbing issue — moving furniture or stored items out of the way provides easy ac…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Clear the area around the plumbing issue — moving furniture or stored items out of the way provides easy access for the technician."
+      },
+      {
+        "name": "Note any unusual sounds or smells — these can be crucial diagnostic clues for the plumber, indicating gas l…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Note any unusual sounds or smells — these can be crucial diagnostic clues for the plumber, indicating gas leaks or deeper pipe issues."
+      },
+      {
+        "name": "Gather any relevant plumbing records — knowing the age of your water heater or last drain cleaning can help…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Gather any relevant plumbing records — knowing the age of your water heater or last drain cleaning can help in understanding recurring problems."
+      },
+      {
+        "name": "Have your contact and access information ready — this ensures the plumber can reach you and easily get into…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Have your contact and access information ready — this ensures the plumber can reach you and easily get into your property, especially if you're not on-site."
+      },
+      {
+        "name": "Prepare questions about after-hours fees and payment — understanding the cost structure upfront avoids surp…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Prepare questions about after-hours fees and payment — understanding the cost structure upfront avoids surprises and helps you make informed decisions."
+      }
+    ]
+  },
+  "articleBody": "Facing a plumbing emergency after hours can be pretty chaotic, but a little preparation can make a big difference when you need to call in a professional. Getting things organized beforehand helps your plumber diagnose the issue faster and get to work resolving it, potentially saving you time and further damage.\n\n- [ ] **Locate your main water shut-off valve** — knowing exactly where this is can be the difference between a small leak and a significant flood.\n- [ ] **Identify the affected fixture or area** — clearly pointing out the problem source helps the plumber narrow down their search immediately.\n- [ ] **Clear the area around the plumbing issue** — moving furniture or stored items out of the way provides easy access for the technician.\n- [ ] **Note any unusual sounds or smells** — these can be crucial diagnostic clues for the plumber, indicating gas leaks or deeper pipe issues.\n- [ ] **Gather any relevant plumbing records** — knowing the age of your water heater or last drain cleaning can help in understanding recurring problems.\n- [ ] **Have your contact and access information ready** — this ensures the plumber can reach you and easily get into your property, especially if you're not on-site.\n- [ ] **Prepare questions about after-hours fees and payment** — understanding the cost structure upfront avoids surprises and helps you make informed decisions.\n\nHow to use this checklist: Go through these points as soon as you realize you have an after-hours plumbing problem. Having this information ready when you call can make the process much smoother and faster. It allows the dispatcher and technician to arrive prepared, knowing what they're walking into.\n\nWhat to Do Next\nOnce you’ve gone through this checklist, give CG Plumbing Solutions a call at (702) 843-0899. Our licensed technicians are ready for 24/7 emergency dispatch throughout the Las Vegas Valley.",
+  "datePublished": "2026-09-28"
+}

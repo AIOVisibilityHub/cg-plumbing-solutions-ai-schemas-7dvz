@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Understanding Your Water Heater Leak: Repair vs. Replace",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering a leak from your water heater can be really unsettling, and your first thought might be, \"Can this be fixed, or do I need a whole new unit?\" It’s a common question, and the answer often depends on what’s actually causing the leak. Sometimes, a leak is minor, like from a loose connection or a faulty pressure relief valve. These are often straightforward repairs that can extend the life of your existing water heater without a huge cost. However, if the leak is coming directly from the tank itself, especially if it’s older and showing signs of rust or corrosion, then repair usually isn't an option. Tank leaks typically mean the internal lining has failed, and once that happens, replacement is almost always the only safe and effective solution. Other factors, like the age of your unit, its overall efficiency, and the cost of the repair versus a new unit, all play a role in this decision. A good plumber will diagnose the specific source of the leak, explain your options clearly, and help you weigh the pros and cons of repairing versus replacing. We’re all about giving you clear communication and written options, so you can make the best choice for your home and budget.\n\n### How to Compare Your Options\n\n*   **Identify the Leak Source**: Pinpoint exactly where the leak is coming from (e.g., connection, valve, or tank) as this heavily influences repair feasibility.\n*   **Assess Water Heater Age**: Older units (10+ years) with leaks, especially from the tank, are often better candidates for replacement due to diminishing returns on repairs.\n*   **Compare Repair vs. Replacement Cost**: Get clear, written estimates for both repair and replacement. If repair cost approaches 50% of a new unit, replacement might be more cost-effective long-term.\n*   **Consider Efficiency**: Newer water heaters are often more energy-efficient. Factor in potential energy savings if considering a replacement.\n*   **Evaluate Future Reliability**: A major repair on an aging unit might fix one problem, but other components could fail soon after. A new unit offers greater reliability and peace of mind.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Mistakes During a Plumbing Emergency",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a plumbing emergency strikes, it's natural to want to fix it fast. But sometimes, in our haste, we can actually make things worse, or even put ourselves at risk. Knowing what *not* to do can be just as important as knowing what *to* do. For instance, if you have a sewer backup, resist the urge to flush toilets or run water; that just adds to the overflow. Also, using chemical drain cleaners and then trying to plunge the same drain can create dangerous fumes and splashes. Nobody wants that!\n\n**Common Mistakes to Avoid**\n\n- Continuing to use water when there's a sewer backup: This will only exacerbate the issue and potentially bring more sewage into your home or business. Just don't do it.\n- Entering electrically hazardous standing water: If water is near outlets or electrical panels, it's a huge shock risk. Stay clear and, if safe, shut off the power first.\n- Attempting complex repairs without isolating the water supply: Trying to fix a leak without turning off the water can lead to more flooding and make the repair much harder. Always isolate the source.\n- Failing to document damage before cleanup: Take photos or videos of the problem and any damage it caused *before* you start cleaning up. This can be vital for insurance claims later.\n- Using chemical drain cleaners before plunging: The chemicals can react dangerously with plungers or snakes, creating fumes or corrosive splashes. It's best to leave serious clogs to the pros.\n\nWhen you're facing an urgent plumbing problem, remember that CG Plumbing Solutions is here to help. We provide 24/7 emergency service across the Las Vegas Valley. Our licensed technicians are trained to safely handle all kinds of emergencies, from burst pipes to water heater failures, and we’ll always explain your options clearly before any work begins. Don't make a bad situation worse; call in the experts when things get tricky. We're ready to respond in English or Spanish.",
+  "datePublished": "2026-09-28"
+}

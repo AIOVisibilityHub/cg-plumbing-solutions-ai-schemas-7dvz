@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid During a Plumbing Crisis",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a plumbing emergency hits, it’s easy to panic and make decisions that could actually worsen the situation or lead to bigger bills. From gushing water to strange smells, these situations are stressful, but a few common missteps can turn a bad day into a nightmare. Understanding what not to do can be just as important as knowing what to do. You want to protect your property and ensure your family's safety, so steering clear of these pitfalls is key to managing the crisis effectively. Think of it as a playbook for what not to do when things go wrong.\n\nCommon Mistakes to Avoid:\n\n- **Continuing to run taps or appliances during an overflow:** If you have an overflow, whether from a toilet or sink, don't try to use other water sources. This only adds more water to the problem, making the overflow worse and increasing potential damage.\n\n- **Flushing during a sewer backup:** A sewer backup means the main line is clogged. Flushing the toilet will just send more wastewater into your home, exacerbating the unsanitary situation and cleanup.\n\n- **Touching electrical equipment in contaminated or standing water:** Water and electricity are a dangerous combination. If there's standing water near outlets or appliances, stay away. Attempting to shut off power or unplug things can lead to electrocution.\n\n- **Attempting to relight pilot lights on your own:** If your water heater pilot light has gone out, or you suspect a gas issue, don't try to fix it yourself. Gas is highly flammable and dangerous. This is a job for trained professionals or the gas company.\n\n- **Trying to resolve a suspected gas leak without calling the utility:** If you smell gas, evacuate immediately and call your gas provider or 911 from a safe location. Do not use phones, switches, or anything that could create a spark inside the property. This is a life-threatening situation, not a plumbing DIY.\n\n- **Choosing solely on the phrase “24/7” without checking credentials:** Just because a company advertises 24/7 service doesn't mean they're licensed, insured, or reputable. Always confirm their credentials and ask about after-hours rates. You want real expertise, not just availability.\n\n- **Allowing unnecessary replacement before the cause is established:** A quick fix might seem appealing, but don't greenlight a major replacement (like a water heater) until a licensed plumber has properly diagnosed the root cause. Sometimes a repair is all that's needed, or the problem is elsewhere entirely.\n\n- **Using a general service when the problem involves gas, contaminated water, or a main sewer line:** Some emergencies require specialized expertise or are even matters for utility companies or emergency services first. Knowing when to call the right professional (e.g., the gas company for a gas leak) is crucial.\n\nWhat to Do Next:\nWhen in doubt, and especially if any of these scenarios apply, reach out to a licensed and insured emergency plumbing service like CG Plumbing Solutions. We're available 24/7 to help you navigate these critical situations safely and effectively.",
+  "datePublished": "2026-09-28"
+}

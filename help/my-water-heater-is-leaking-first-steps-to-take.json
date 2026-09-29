@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Water Heater is Leaking: First Steps to Take",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Discovering a leaking water heater can be pretty alarming, but taking the right first steps can prevent more extensive damage to your home. Your immediate priority is to stop the water flow and cut off the energy supply to the unit. First, locate the cold-water supply valve leading into your water heater – it's usually a handle or knob on the pipe at the top or side of the heater – and turn it clockwise until it's fully closed. This will stop new water from entering the tank. Next, you need to turn off the energy source. If you have an electric water heater, head to your electrical panel and switch off the dedicated circuit breaker for the unit. For gas water heaters, find the gas shut-off valve on the gas line leading to the heater, often near the bottom, and turn it to the 'OFF' position. You might also set the control dial on the unit itself to 'OFF' or 'PILOT'. \n\nWhat to Prepare Before You Start\n\nBefore doing anything else, identify whether the leak is coming from the tank itself or a connection, valve, or pipe. A leak from the tank usually means it's time for a replacement, while other leaks might be repairable. If you detect any strong gas odor, **do not touch any electrical switches or use any flames**. Get everyone out of the house immediately and call your gas utility or emergency services from a safe location. This is a critical safety step you should never ignore. Once the water and energy are safely off, you can start to contain the leaking water with towels or a wet-dry vacuum to prevent further damage. If the leak is significant, it's wise to call a professional right away. CG Plumbing Solutions offers 24/7 emergency water heater repair in the Las Vegas Valley, and we're ready to help you safely assess and fix the problem. \n\nWhen you're ready to get professional help, remember to call us at (702) 843-0899 for immediate assistance.",
+  "datePublished": "2026-09-28"
+}

@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Compare Your Options for Broken Pipe Repair",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're faced with a broken pipe, figuring out the best repair approach can feel overwhelming. There's often more than one way to tackle the problem, and understanding your options helps you make an informed decision. You'll want to consider whether the pipe can be repaired with a targeted fix or if an entire section needs replacement. Sometimes a small patch might seem easier, but if the underlying issue (like corrosion or ground movement) isn't addressed, you'll be dealing with another break soon. Think about the location of the break too: is it easily accessible, or will it require opening up walls, floors, or even digging outside? This impacts both cost and disruption. Also, consider the type of pipe material; older pipes might need different solutions than newer ones. \n\nHow to Compare Your Options\n\nWhen getting quotes, ask about these key points: \n- **The plumber's proposed repair method:** Will they replace a section or attempt a patch? What's their reasoning? \n- **Experience with your pipe material:** Do they frequently work with copper, PEX, galvanized, or whatever pipe type you have?\n- **Access and restoration work:** What's involved in reaching the pipe, and who is responsible for repairing walls or landscaping afterward? \n- **Testing procedures:** How will they ensure the repair is leak-free before they finish? \n- **Warranty terms:** What kind of guarantee do they offer on their work? \n\nCG Plumbing Solutions offers clear communication and written options before any work begins, ensuring you understand the repair process and costs. Serving the Las Vegas Valley, we're here to help.",
+  "datePublished": "2026-09-28"
+}

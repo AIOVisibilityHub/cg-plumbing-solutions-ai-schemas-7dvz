@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Preparing for an Emergency Plumber: What to Do Before They Arrive",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When a plumbing emergency hits, like a geyser in your living room or a sewage backup, it’s easy to panic. But a few quick actions can make a huge difference in minimizing damage and helping your emergency plumber get to work faster. Think of it as a pre-game warm-up for the pros! First things first, if you have an active leak, try to locate and turn off the water supply to the affected fixture, or even your home's main water shutoff if necessary. This is crucial for limiting further damage.\n\n**What to Prepare Before You Start**\n\n- [ ] Isolate the water source — If you know where the water is coming from (e.g., a toilet, a sink, a burst pipe), try to turn off the water to that specific fixture or the main supply valve to your house. This prevents more water from flooding.\n- [ ] Clear the area around the problem — Move furniture, rugs, or anything valuable away from the water to protect them and give the plumber clear access to the affected spot. Every minute counts here.\n- [ ] Contain the water — Use towels, buckets, or even a wet vac if you have one to limit the spread of water and prevent it from seeping into other areas or downstairs. This can help reduce structural damage.\n- [ ] Note symptoms and location — Be ready to tell the plumber exactly what happened, when it started, and where the problem is. This information helps them diagnose the issue quicker and more accurately.\n- [ ] Be mindful of safety — If water is near electrical outlets or an electrical panel, avoid the area. If you smell gas, leave the property immediately and call your gas utility from a safe location. Your safety is always paramount.\n\nHaving these steps in mind can really help. When you call CG Plumbing Solutions for an emergency, you can let our dispatcher know what you've done. We'll communicate next steps and dispatch a licensed technician quickly to diagnose the issue and get things fixed. Our goal is to protect your property and resolve the problem efficiently.",
+  "datePublished": "2026-09-28"
+}

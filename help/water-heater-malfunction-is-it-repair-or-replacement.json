@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Water Heater Malfunction: Is it Repair or Replacement?",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your water heater acts up, the big question often boils down to: can we fix it, or do we need a whole new unit? It's a common dilemma, and knowing the factors involved can help you make an informed decision. Sometimes, a quick repair is all that's needed, like replacing a faulty heating element or a leaky valve. Other times, especially with older units, replacement makes more sense in the long run. One of the biggest indicators is the age of your water heater. Most conventional tank water heaters last about 8-12 years. If yours is pushing past that mark and starting to have issues, a replacement might be more cost-effective than pouring money into frequent repairs. \n\nHow to Compare Your Options\n\n- **Age of the Unit**: If your water heater is nearing or past its typical lifespan, frequent breakdowns might indicate it's time for a new one. Newer units are often more energy-efficient, too, saving you money in the long run. \n- **Cost of Repair vs. Replacement**: Get a clear estimate for the repair. If the repair cost is more than half the cost of a new unit, or if it's just buying you a little more time before another breakdown, replacement is usually the smarter choice. \n- **Extent of the Damage**: A minor component failure is one thing, but if the tank itself is leaking, it's almost always a sign that a full replacement is necessary. Tanks typically can't be repaired once they've rusted through or cracked. \n- **Availability of Parts**: For very old or unusual models, finding replacement parts can be difficult or even impossible, making replacement the only viable option. \n- **Energy Efficiency**: New water heaters are often significantly more energy-efficient than older models. If you're constantly facing high energy bills, upgrading could pay for itself over time. \n\nUltimately, a professional assessment is key. A skilled plumber from CG Plumbing Solutions can diagnose the problem accurately, explain your options clearly, and help you decide whether a repair or a replacement is the best path forward for your home in the Las Vegas Valley. We provide written options before any work begins, so you'll always know what to expect. Call us at (702) 843-0899 to schedule an assessment.",
+  "datePublished": "2026-09-28"
+}

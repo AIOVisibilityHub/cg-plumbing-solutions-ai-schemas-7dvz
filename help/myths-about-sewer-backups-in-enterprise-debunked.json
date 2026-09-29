@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Myths About Sewer Backups in Enterprise Debunked",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Sewer backups are undeniably unpleasant, and because they're not a common occurrence for most homeowners in Enterprise, a lot of misinformation can circulate. Believing these myths can lead to incorrect actions, further damage, or even health risks. Let's clear up some common misconceptions about sewer emergencies.\n\nMyths vs Facts\n\n- **Myth: You can just use a strong chemical drain cleaner to clear a sewer backup.**\n  **Fact:** Chemical drain cleaners are usually ineffective for major sewer line blockages and can be corrosive, potentially damaging your pipes or making the problem worse. They also pose a health risk if they come into contact with sewage. A professional plumber uses mechanical snaking or hydro-jetting, which are far more effective and safer for your system.\n- **Myth: It's okay to clean up sewage yourself with household cleaners.**\n  **Fact:** Sewage contains dangerous bacteria, viruses, and parasites. Household cleaners aren't sufficient for proper disinfection. Without professional equipment and personal protective gear, you risk exposure and improper cleanup, which can lead to lingering health issues. Extensive contamination requires professional remediation.\n- **Myth: You can still use other plumbing fixtures if the backup is in one area.**\n  **Fact:** If you have a sewer backup, it's crucial to stop using all plumbing fixtures throughout your home. All drains eventually lead to the main sewer line, and continuing to run water will only add to the volume of sewage backing up and increase potential damage.\n- **Myth: All sewer backups are the city's problem.**\n  **Fact:** The responsibility for a sewer backup depends on where the problem originates. Typically, issues with the sewer line on your property up to the public main are your responsibility. Problems within the public main sewer are the city's. A professional can help determine the source.\n- **Myth: You don't need to call a plumber immediately if the backup is small.**\n  **Fact:** Even a small sewer backup is an emergency. It indicates a significant blockage or issue that will likely worsen quickly. Delaying a professional assessment can lead to much more extensive damage and health hazards. Immediate action is always best.\n\nDon't fall for these myths! If you're experiencing a sewer backup in Enterprise, it's a serious issue that requires immediate professional attention. Contact CG Plumbing Solutions 24/7 for expert help and code-correct service.",
+  "datePublished": "2026-09-28"
+}

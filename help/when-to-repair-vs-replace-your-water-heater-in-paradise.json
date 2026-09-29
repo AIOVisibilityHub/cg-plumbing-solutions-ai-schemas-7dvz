@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Repair vs. Replace Your Water Heater in Paradise",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding whether to repair or replace your water heater in Paradise can feel like a tough call, especially when it unexpectedly breaks down. It's not always a clear-cut choice, and weighing your options carefully can save you money and headaches in the long run.\n\nGenerally, if your water heater is relatively new—say, less than 8-10 years old—and the repair is for a component like a faulty thermostat, a heating element, or a minor leak in an easily accessible connection, then repair is often the more economical choice. These fixes can extend the life of your unit without a huge investment. However, if your water heater is older, nearing or past its average lifespan, or if the repair involves a significant issue like a tank leak, extensive rust, or multiple component failures, replacement usually makes more sense. An aging unit will likely face more problems soon, and investing in a new, more efficient model can provide better performance, reliability, and potentially lower energy bills.\n\nHow to Compare Your Options\nWhen faced with this decision, consider the cost of the repair versus the cost of a new unit, including installation. Ask your plumber for a detailed breakdown of both options. Think about the age and overall condition of your current water heater; if it's already showing signs of rust or has required frequent repairs, it might be a money pit. Also, consider the efficiency of a new model; modern water heaters, including tankless options, are often significantly more energy-efficient than older units, which can lead to long-term savings. CG Plumbing Solutions can provide a clear diagnosis of your Paradise water heater's condition and present transparent options for both repair and replacement, helping you make an informed decision that's right for your home and budget.",
+  "datePublished": "2026-09-28"
+}

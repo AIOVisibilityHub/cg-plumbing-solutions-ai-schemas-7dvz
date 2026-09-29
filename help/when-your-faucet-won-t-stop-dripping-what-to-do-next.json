@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Faucet Won't Stop Dripping: What to Do Next",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A persistently dripping faucet isn't just annoying; it can waste a ton of water and signal bigger issues brewing in your plumbing. You might think it's a minor thing, but those drips add up on your water bill and can point to worn-out components that need attention. Fixing it sooner rather than later can save you from more extensive repairs down the line.\n\nFirst off, check if you can just tighten the handle a bit more. Sometimes that's all it takes for a minor drip. If that doesn't work, try to locate the shutoff valve for that specific fixture, usually under the sink or behind the toilet. Turning that off stops the immediate drip and gives you a moment to assess the situation without water everywhere. If the fixture's valve is seized or won't turn, don't force it; you could cause a bigger problem. In that case, you might need to shut off the main water supply to your home, which is typically near the water meter or where the main line enters your house. This is a good skill to know anyway!\n\nOnce the water is off, inspect the faucet. Is it visibly corroded? Are there hard-water stains that suggest a long-term leak? These observations can help a plumber diagnose the problem quickly. It's often just a worn-out washer or O-ring, but sometimes it could be a more complex valve issue. Don't try to dismantle things if you're not sure what you're doing; you might end up with more parts than you started with and a bigger mess.\n\n**When Professional Guidance Helps**\n\nIf you've tried shutting off the local valve and the drip continues, or if the main shutoff is difficult to access or operate, that's definitely the time to call in the pros. CG Plumbing Solutions deals with these kinds of issues every day in Las Vegas, North Las Vegas, and Henderson. We can diagnose whether a simple repair or a full replacement makes more sense, especially if it's an older faucet. We'll give you clear options before we start any work, ensuring you understand the path forward.\n\nReady to get that drip stopped for good? Give CG Plumbing Solutions a call at (702) 843-0899. We're here to help get your fixtures working perfectly again.",
+  "datePublished": "2026-09-28"
+}

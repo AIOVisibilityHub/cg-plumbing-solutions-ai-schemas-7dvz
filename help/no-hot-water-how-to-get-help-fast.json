@@ -1,0 +1,106 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "No Hot Water? How to Get Help Fast",
+  "publisher": {
+    "url": "cgplumbinglasvegas.com",
+    "name": "CG Plumbing Solutions",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Silverado Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Mountain’s Edge",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Aliante",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Rhodes Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Whitney Ranch",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Waking up to no hot water can definitely throw a wrench in your day, and sometimes it signals a bigger issue than just a chilly shower. When your water heater fails, it can be a sign of a true emergency, especially if there's a leak or a strange smell involved. Your first step should be to check if your water heater has an obvious leak. If it does, you'll want to shut off the water supply to the unit. For electric models, turn off the power at the circuit breaker. If it’s a gas water heater, turn off the gas supply valve – it’s usually a knob or lever near the bottom of the heater. Now, this next bit is super important: if you smell gas, evacuate your home immediately and call your gas provider or emergency services from outside. Do not try to diagnose or fix a gas leak yourself. For any other water heater issue, like a complete lack of hot water, banging noises, or rust-colored water, it’s time to call in the experts. CG Plumbing Solutions offers 24/7 emergency services throughout the Las Vegas Valley for these kinds of problems. Our licensed technicians can quickly diagnose the issue, explain your options, and get your hot water flowing again with code-correct service.",
+  "datePublished": "2026-09-28"
+}
