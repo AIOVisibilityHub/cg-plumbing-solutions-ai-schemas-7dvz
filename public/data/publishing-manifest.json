@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-30T00:02:00.066Z",
+  "generatedAt": "2026-09-30T00:02:36.203Z",
   "client": {
     "name": "CG Plumbing Solutions",
     "canonicalUrl": "https://cgplumbinglasvegas.aiovisibility.net",
@@ -350,7 +350,7 @@
   },
   "package": {
     "totalFiles": 2640,
-    "totalBytes": 9840272,
+    "totalBytes": 9773608,
     "stats": {
       "qna": 0,
       "faqs": 2023,
@@ -13460,67 +13460,67 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 22097,
+        "bytes": 16816,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 108434,
+        "bytes": 103301,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 238122,
+        "bytes": 232972,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 20533,
+        "bytes": 15511,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1481842,
+        "bytes": 1476812,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 21755,
+        "bytes": 16724,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 46687,
+        "bytes": 41703,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 379150,
+        "bytes": 374061,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 139724,
+        "bytes": 134565,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 182981,
+        "bytes": 177851,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 167202,
+        "bytes": 162036,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 49462,
+        "bytes": 44402,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 77871,
+        "bytes": 72703,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -13532,7 +13532,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 9693,
+        "bytes": 9664,
         "purpose": "LLM hint"
       },
       {
@@ -13552,32 +13552,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1723,
+        "bytes": 1665,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1204836,
+        "bytes": 1204778,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 343938,
+        "bytes": 343909,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 343938,
+        "bytes": 343909,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 9655,
+        "bytes": 9626,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 416602,
+        "bytes": 416573,
         "purpose": "Repository README"
       },
       {
@@ -13595,7 +13595,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/cg-plumbing-solutions-ai-schemas-7dvz",
-      "pagesUrl": "https://aiovisibilityhub.github.io/cg-plumbing-solutions-ai-schemas-7dvz/",
+      "pagesUrl": "http://cgplumbinglasvegas.aiovisibility.net/",
       "repo": "AIOVisibilityHub/cg-plumbing-solutions-ai-schemas-7dvz"
     }
   }

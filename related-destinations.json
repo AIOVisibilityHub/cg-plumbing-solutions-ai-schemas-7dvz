@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-30T00:02:00.038Z",
+  "generatedAt": "2026-09-30T00:02:36.175Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -36,13 +36,13 @@
       "role": "mirror-pages",
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.github.io/cg-plumbing-solutions-ai-schemas-7dvz/ai-data.html"
+      "url": "http://cgplumbinglasvegas.aiovisibility.net/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/cg-plumbing-solutions-ai-schemas-7dvz",
-      "pagesUrl": "https://aiovisibilityhub.github.io/cg-plumbing-solutions-ai-schemas-7dvz/",
+      "pagesUrl": "http://cgplumbinglasvegas.aiovisibility.net/",
       "repo": "AIOVisibilityHub/cg-plumbing-solutions-ai-schemas-7dvz"
     }
   }
