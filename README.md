@@ -2375,7 +2375,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/will-replacing-cast-iron-pipes-impact-my-home-s-foundation-or-structure.json`](./faqs/will-replacing-cast-iron-pipes-impact-my-home-s-foundation-or-structure.json) — schema
 - [`faqs/will-replacing-galvanized-pipes-affect-my-home-s-value.json`](./faqs/will-replacing-galvanized-pipes-affect-my-home-s-value.json) — schema
 
-### Help Articles (285)
+### Help Articles (286)
 - [`help/avoiding-common-mistakes-with-emergency-leak-repair-in-enterprise.json`](./help/avoiding-common-mistakes-with-emergency-leak-repair-in-enterprise.json) — schema
 - [`help/avoiding-major-damage-from-a-toilet-overflow-in-your-las-vegas-home.json`](./help/avoiding-major-damage-from-a-toilet-overflow-in-your-las-vegas-home.json) — schema
 - [`help/avoiding-mistakes-during-a-plumbing-emergency.json`](./help/avoiding-mistakes-during-a-plumbing-emergency.json) — schema
@@ -2528,6 +2528,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/preventing-costly-mistakes-during-a-plumbing-emergency-in-north-las-vegas.json`](./help/preventing-costly-mistakes-during-a-plumbing-emergency-in-north-las-vegas.json) — schema
 - [`help/preventing-future-burst-pipes-after-a-repair-in-henderson.json`](./help/preventing-future-burst-pipes-after-a-repair-in-henderson.json) — schema
 - [`help/preventing-toilet-overflows-a-checklist-for-summerlin-homeowners.json`](./help/preventing-toilet-overflows-a-checklist-for-summerlin-homeowners.json) — schema
+- [`help/publishing-plan.json`](./help/publishing-plan.json) — schema
 - [`help/questions-to-ask-before-hiring-a-same-day-plumber.json`](./help/questions-to-ask-before-hiring-a-same-day-plumber.json) — schema
 - [`help/same-day-plumber-checklist-what-to-ask-before-you-decide.json`](./help/same-day-plumber-checklist-what-to-ask-before-you-decide.json) — schema
 - [`help/sewer-backup-in-my-home-immediate-steps-to-take.json`](./help/sewer-backup-in-my-home-immediate-steps-to-take.json) — schema
@@ -2662,7 +2663,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/your-home-is-flooding-what-to-do-before-the-plumber-arrives.json`](./help/your-home-is-flooding-what-to-do-before-the-plumber-arrives.json) — schema
 - [`help/your-sewer-backup-cleanup-checklist-in-enterprise.json`](./help/your-sewer-backup-cleanup-checklist-in-enterprise.json) — schema
 
-### Public Pages (14)
+### Public Pages (13)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
 - [`articles/care-and-maintenance.html`](./articles/care-and-maintenance.html) — LLM-optimized public page
@@ -2671,7 +2672,6 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`articles/planning-and-preparation.html`](./articles/planning-and-preparation.html) — LLM-optimized public page
 - [`articles/pricing-and-estimates.html`](./articles/pricing-and-estimates.html) — LLM-optimized public page
 - [`articles/services-and-process.html`](./articles/services-and-process.html) — LLM-optimized public page
-- [`articles/unassigned.html`](./articles/unassigned.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page
