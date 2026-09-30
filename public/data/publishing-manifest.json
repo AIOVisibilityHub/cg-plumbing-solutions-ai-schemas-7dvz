@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-29T21:56:08.618Z",
+  "generatedAt": "2026-09-30T00:02:00.066Z",
   "client": {
     "name": "CG Plumbing Solutions",
     "canonicalUrl": "https://cgplumbinglasvegas.aiovisibility.net",
@@ -350,7 +350,7 @@
   },
   "package": {
     "totalFiles": 2640,
-    "totalBytes": 9735338,
+    "totalBytes": 9840272,
     "stats": {
       "qna": 0,
       "faqs": 2023,
@@ -3332,6 +3332,11 @@
       {
         "path": "help/when-your-water-heater-needs-professional-repair.json",
         "bytes": 3113,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/publishing-plan.json",
+        "bytes": 86911,
         "purpose": "schema"
       }
     ],
@@ -13455,72 +13460,67 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 16816,
+        "bytes": 22097,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 103301,
+        "bytes": 108434,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 232972,
+        "bytes": 238122,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 15511,
+        "bytes": 20533,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1476812,
+        "bytes": 1481842,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 17142,
+        "bytes": 21755,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 41703,
+        "bytes": 46687,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 367554,
+        "bytes": 379150,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 133935,
+        "bytes": 139724,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 180670,
+        "bytes": 182981,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 165534,
+        "bytes": 167202,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 55696,
+        "bytes": 49462,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 76103,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "articles/unassigned.html",
-        "bytes": 33934,
+        "bytes": 77871,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -13557,17 +13557,17 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 1204844,
+        "bytes": 1204836,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 343956,
+        "bytes": 343938,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 343956,
+        "bytes": 343938,
         "purpose": "Extended LLM context (markdown)"
       },
       {
@@ -13577,17 +13577,17 @@
       },
       {
         "path": "README.md",
-        "bytes": 416619,
+        "bytes": 416602,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 363300,
+        "bytes": 363301,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1659,
+        "bytes": 1565,
         "purpose": "Standard sitemap"
       }
     ]
