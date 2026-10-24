@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-30T00:02:36.203Z",
+  "generatedAt": "2026-10-24T22:24:37.476Z",
   "client": {
     "name": "CG Plumbing Solutions",
     "canonicalUrl": "https://cgplumbinglasvegas.aiovisibility.net",
@@ -345,28 +345,31 @@
       "Centennial Hills",
       "Sun City Summerlin",
       "Rhodes Ranch",
-      "Whitney Ranch"
+      "Whitney Ranch ",
+      "Section 10",
+      "Chinatown / West Sahara",
+      "Anthem, Henderson"
     ]
   },
   "package": {
-    "totalFiles": 2640,
-    "totalBytes": 9773608,
+    "totalFiles": 2635,
+    "totalBytes": 9791622,
     "stats": {
-      "qna": 0,
       "faqs": 2023,
-      "press": 0,
-      "total": 2612,
-      "awards": 0,
-      "reviews": 0,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 285,
       "services": 296,
       "webpages": 0,
+      "personnel": 1,
+      "products": 0,
       "locations": 1,
-      "personnel": 6,
+      "awards": 0,
       "caseStudies": 0,
-      "helpArticles": 285,
-      "organization": 1
+      "organization": 1,
+      "press": 0,
+      "reviews": 0,
+      "qna": 0,
+      "research": 0,
+      "total": 2607
     }
   },
   "entrypoints": {
@@ -1865,32 +1868,7 @@
     "team": [
       {
         "path": "team/felipe-cuan-profile.json",
-        "bytes": 3973,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/felipe-cuan-las-vegas.json",
-        "bytes": 3817,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/felipe-cuan-north-las-vegas.json",
-        "bytes": 3823,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/felipe-cuan-henderson.json",
-        "bytes": 3817,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/felipe-cuan-summerlin.json",
-        "bytes": 3817,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/felipe-cuan-spring-valley.json",
-        "bytes": 3821,
+        "bytes": 3444,
         "purpose": "schema"
       }
     ],
@@ -1898,13 +1876,6 @@
       {
         "path": "locations/cg-plumbing-solutions.json",
         "bytes": 319,
-        "purpose": "schema"
-      }
-    ],
-    "organization": [
-      {
-        "path": "organization/cg-plumbing-solutions-organization.json",
-        "bytes": 33086,
         "purpose": "schema"
       }
     ],
@@ -3332,11 +3303,6 @@
       {
         "path": "help/when-your-water-heater-needs-professional-repair.json",
         "bytes": 3113,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/publishing-plan.json",
-        "bytes": 86911,
         "purpose": "schema"
       }
     ],
@@ -13457,70 +13423,82 @@
         "purpose": "schema"
       }
     ],
+    "organization": [
+      {
+        "path": "organization/cg-plumbing-solutions-organization.json",
+        "bytes": 33788,
+        "purpose": "schema"
+      }
+    ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 16816,
+        "bytes": 22523,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 103301,
+        "bytes": 88948,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 232972,
+        "bytes": 254444,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 15511,
+        "bytes": 21590,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1476812,
+        "bytes": 1482842,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 16724,
+        "bytes": 23173,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 41703,
+        "bytes": 26157,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 374061,
+        "bytes": 373430,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 134565,
+        "bytes": 139881,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 177851,
+        "bytes": 186587,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 162036,
+        "bytes": 171487,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 44402,
+        "bytes": 61543,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 72703,
+        "bytes": 82058,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/unassigned.html",
+        "bytes": 39754,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -13532,7 +13510,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 9664,
+        "bytes": 12126,
         "purpose": "LLM hint"
       },
       {
@@ -13552,42 +13530,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1665,
+        "bytes": 6666,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1204778,
+        "bytes": 1208143,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 343909,
+        "bytes": 345929,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 343909,
+        "bytes": 345929,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 9626,
+        "bytes": 12088,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 416573,
+        "bytes": 418552,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 363301,
+        "bytes": 362785,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1565,
+        "bytes": 1659,
         "purpose": "Standard sitemap"
       }
     ]

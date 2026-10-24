@@ -15,13 +15,7 @@
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/services/repiping-service.json</loc></url>
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/services/new-construction-plumbing-service.json</loc></url>
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/team/felipe-cuan-profile.json</loc></url>
-  <url><loc>https://cgplumbinglasvegas.aiovisibility.net/team/felipe-cuan-las-vegas.json</loc></url>
-  <url><loc>https://cgplumbinglasvegas.aiovisibility.net/team/felipe-cuan-north-las-vegas.json</loc></url>
-  <url><loc>https://cgplumbinglasvegas.aiovisibility.net/team/felipe-cuan-henderson.json</loc></url>
-  <url><loc>https://cgplumbinglasvegas.aiovisibility.net/team/felipe-cuan-summerlin.json</loc></url>
-  <url><loc>https://cgplumbinglasvegas.aiovisibility.net/team/felipe-cuan-spring-valley.json</loc></url>
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/locations/cg-plumbing-solutions.json</loc></url>
-  <url><loc>https://cgplumbinglasvegas.aiovisibility.net/organization/cg-plumbing-solutions-organization.json</loc></url>
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/services/emergency-plumbing-service.json</loc></url>
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/services/24-7-emergency-plumber-service.json</loc></url>
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/services/emergency-plumbing-repair-service.json</loc></url>
@@ -2614,7 +2608,7 @@
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/faqs/what-is-a-backflow-preventer-and-do-i-need-one-for-my-outdoor-kitchen.json</loc></url>
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/faqs/what-type-of-pipes-are-best-for-outdoor-kitchen-plumbing.json</loc></url>
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/faqs/what-should-i-consider-before-planning-outdoor-kitchen-plumbing.json</loc></url>
-  <url><loc>https://cgplumbinglasvegas.aiovisibility.net/help/publishing-plan.json</loc></url>
+  <url><loc>https://cgplumbinglasvegas.aiovisibility.net/organization/cg-plumbing-solutions-organization.json</loc></url>
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/index.html</loc></url>
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/about.html</loc></url>
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/services.html</loc></url>
@@ -2628,6 +2622,7 @@
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/articles/pricing-and-estimates.html</loc></url>
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/articles/local-service-guidance.html</loc></url>
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/articles/care-and-maintenance.html</loc></url>
+  <url><loc>https://cgplumbinglasvegas.aiovisibility.net/articles/unassigned.html</loc></url>
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/robots.txt</loc></url>
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/llms.txt</loc></url>
   <url><loc>https://cgplumbinglasvegas.aiovisibility.net/index.html</loc></url>
