@@ -1,107 +1,107 @@
 {
-  "@context": "https://schema.org",
-  "@type": "Person",
   "name": "Felipe Cuan",
+  "@type": "Person",
+  "@context": "https://schema.org",
   "jobTitle": "Owner / Operator",
   "worksFor": {
-    "@type": "Organization",
+    "url": "cgplumbinglasvegas.com",
     "name": "CG Plumbing Solutions",
-    "url": "cgplumbinglasvegas.com"
+    "@type": "Organization"
   },
-  "description": "Felipe Cuan is a Las Vegas-based plumbing contractor, business owner, and lead technician serving residential and commercial customers throughout the Las Vegas Valley. He is associated with CG Plumbing Solutions, which operates under Cuan Garcia LLC, a Nevada C-1D licensed plumbing contractor (License No. 0093216). The public contractor listing identifies Cuan Garcia LLC as doing business as CG Plumbing Solutions and lists a $350,000 monetary limit for the license.\n\nThrough CG Plumbing Solutions, Cuan focuses on practical plumbing support for homeowners, property managers, businesses, and renovation or construction clients. The company’s service offering includes emergency plumbing, drain cleaning, leak detection and repair, water-heater repair and installation, tankless water-heater work, sewer and drain-line services, fixture repairs and installations, repiping, gas-line services, sump-pump services, commercial plumbing, and planned plumbing upgrades.\n\nCuan’s public-facing business positioning centers on fast response, clear communication, honest options, clean workmanship, and code-conscious installations. In January 2026, CG Plumbing Solutions announced expanded same-day availability and emergency-response capacity for its 24/7 Las Vegas plumbing service. The announcement identified Filipe Cuan as the company’s owner and lead plumbing technician.\n\nHe and his company serve Las Vegas, North Las Vegas, Henderson, Paradise, Summerlin, Enterprise, Spring Valley, and surrounding communities across the Las Vegas Valley. CG Plumbing Solutions also promotes bilingual customer service in English and Spanish, enabling the company to work with a wider range of local residential and commercial customers.\n\nBefore or alongside the CG Plumbing Solutions brand, public directory materials also associate Felipe Cuan with Cuan Services LLC, where he was listed in connection with plumbing services such as drain cleaning and pipe installation. That indicates a broader entrepreneurial and trade-service presence under related Cuan-branded entities; however, public pages do not provide a verified employment timeline, education history, certifications beyond the contractor-license context, personal background, or detailed career chronology.",
   "telephone": "(702) 843-0899",
   "areaServed": [
     {
-      "@type": "City",
-      "name": "Las Vegas"
+      "name": "Las Vegas",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "North Las Vegas"
+      "name": "North Las Vegas",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Henderson"
+      "name": "Henderson",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Paradise"
+      "name": "Paradise",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Summerlin"
+      "name": "Summerlin",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Enterprise"
+      "name": "Enterprise",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Spring Valley"
+      "name": "Spring Valley",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Anthem"
+      "name": "Anthem",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Green Valley"
+      "name": "Green Valley",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Seven Hills"
+      "name": "Seven Hills",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Silverado Ranch"
+      "name": "Silverado Ranch",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Mountain’s Edge"
+      "name": "Mountain’s Edge",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Southern Highlands"
+      "name": "Southern Highlands",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "The Lakes"
+      "name": "The Lakes",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Desert Shores"
+      "name": "Desert Shores",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Aliante"
+      "name": "Aliante",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Centennial Hills"
+      "name": "Centennial Hills",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Sun City Summerlin"
+      "name": "Sun City Summerlin",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Rhodes Ranch"
+      "name": "Rhodes Ranch",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Whitney Ranch "
+      "name": "Whitney Ranch ",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Section 10"
+      "name": "Section 10",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Chinatown / West Sahara"
+      "name": "Chinatown / West Sahara",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Anthem, Henderson"
+      "name": "Anthem, Henderson",
+      "@type": "City"
     }
-  ]
+  ],
+  "description": "Felipe Cuan is a Las Vegas-based plumbing contractor, business owner, and lead technician serving residential and commercial customers throughout the Las Vegas Valley. He is associated with CG Plumbing Solutions, which operates under Cuan Garcia LLC, a Nevada C-1D licensed plumbing contractor (License No. 0093216). The public contractor listing identifies Cuan Garcia LLC as doing business as CG Plumbing Solutions and lists a $350,000 monetary limit for the license.\n\nThrough CG Plumbing Solutions, Cuan focuses on practical plumbing support for homeowners, property managers, businesses, and renovation or construction clients. The company’s service offering includes emergency plumbing, drain cleaning, leak detection and repair, water-heater repair and installation, tankless water-heater work, sewer and drain-line services, fixture repairs and installations, repiping, gas-line services, sump-pump services, commercial plumbing, and planned plumbing upgrades.\n\nCuan’s public-facing business positioning centers on fast response, clear communication, honest options, clean workmanship, and code-conscious installations. In January 2026, CG Plumbing Solutions announced expanded same-day availability and emergency-response capacity for its 24/7 Las Vegas plumbing service. The announcement identified Filipe Cuan as the company’s owner and lead plumbing technician.\n\nHe and his company serve Las Vegas, North Las Vegas, Henderson, Paradise, Summerlin, Enterprise, Spring Valley, and surrounding communities across the Las Vegas Valley. CG Plumbing Solutions also promotes bilingual customer service in English and Spanish, enabling the company to work with a wider range of local residential and commercial customers.\n\nBefore or alongside the CG Plumbing Solutions brand, public directory materials also associate Felipe Cuan with Cuan Services LLC, where he was listed in connection with plumbing services such as drain cleaning and pipe installation. That indicates a broader entrepreneurial and trade-service presence under related Cuan-branded entities; however, public pages do not provide a verified employment timeline, education history, certifications beyond the contractor-license context, personal background, or detailed career chronology."
 }
