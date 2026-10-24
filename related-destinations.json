@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-30T00:02:36.175Z",
+  "generatedAt": "2026-10-24T22:24:37.445Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -13,7 +13,30 @@
     "name": "CG Plumbing Solutions",
     "canonicalUrl": "https://cgplumbinglasvegas.aiovisibility.net",
     "primaryWebsiteUrl": "cgplumbinglasvegas.com",
-    "aiDataHub": "https://cgplumbinglasvegas.aiovisibility.net/ai-data.html"
+    "aiDataHub": "https://cgplumbinglasvegas.aiovisibility.net/ai-data.html",
+    "sameAs": [
+      "https://www.linkedin.com/company/cg-plumbing-solutions/",
+      "https://www.instagram.com/cg_plumbing_solutions_lasvegas/",
+      "https://www.facebook.com/cgplumbinglasvegas/",
+      "https://beacons.ai/cgplumbing",
+      "https://www.yelp.com/biz/cg-plumbing-solutions-las-vegas",
+      "https://www.mapquest.com/us/nevada/cg-plumbing-solutions-778545232",
+      "https://www.yellowpages.com/las-vegas-nv/mip/cg-plumbing-solutions-581692338",
+      "https://yellow-pages.us.com/nevada/las-vegas/plumbers-page-4",
+      "https://zipleaf.us/Companies/CG-Plumbing-Solutions",
+      "https://wanderboat.ai/local-businesses/united-states/las-vegas/cg-plumbing-solutions/9Sbs4H2dQo2LfGrp2xFvAQ",
+      "https://www.nevadacontractors.org/contractor/cuan-garcia-llc/0093216",
+      "https://news.marketersmedia.com/cg-plumbing-solutions-expands-emergency-plumbing-services-in-las-vegas/89181028",
+      "https://zenodo.org/records/23048056",
+      "https://aiovisibilityhub.srht.site/",
+      "https://aiovisibilityhub.codeberg.page/cg-plumbing-solutions-ai-schemas/",
+      "https://www.kaggle.com/datasets/aiovisibilityhub/cg-plumbing-solutions-ai-schemas",
+      "https://aiovisibilityhub-cg-plumbing-solutions-ai-schemas.static.hf.space/index.html",
+      "https://cg-plumbing-solutions-ai-schemas-iuit-9c727a.gitlab.io/",
+      "https://cgplumbinglasvegas.aiovisibility.net",
+      "https://github.com/AIOVisibilityHub/cg-plumbing-solutions-ai-schemas-7dvz",
+      "https://aiovisibility.net/profiles/cg-plumbing-solutions"
+    ]
   },
   "related": [
     {
@@ -37,6 +60,101 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "http://cgplumbinglasvegas.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on linkedin.com",
+      "url": "https://www.linkedin.com/company/cg-plumbing-solutions/"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on instagram.com",
+      "url": "https://www.instagram.com/cg_plumbing_solutions_lasvegas/"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on facebook.com",
+      "url": "https://www.facebook.com/cgplumbinglasvegas/"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on beacons.ai",
+      "url": "https://beacons.ai/cgplumbing"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on yelp.com",
+      "url": "https://www.yelp.com/biz/cg-plumbing-solutions-las-vegas"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on mapquest.com",
+      "url": "https://www.mapquest.com/us/nevada/cg-plumbing-solutions-778545232"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on yellowpages.com",
+      "url": "https://www.yellowpages.com/las-vegas-nv/mip/cg-plumbing-solutions-581692338"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on yellow-pages.us.com",
+      "url": "https://yellow-pages.us.com/nevada/las-vegas/plumbers-page-4"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on zipleaf.us",
+      "url": "https://zipleaf.us/Companies/CG-Plumbing-Solutions"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on wanderboat.ai",
+      "url": "https://wanderboat.ai/local-businesses/united-states/las-vegas/cg-plumbing-solutions/9Sbs4H2dQo2LfGrp2xFvAQ"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on nevadacontractors.org",
+      "url": "https://www.nevadacontractors.org/contractor/cuan-garcia-llc/0093216"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on news.marketersmedia.com",
+      "url": "https://news.marketersmedia.com/cg-plumbing-solutions-expands-emergency-plumbing-services-in-las-vegas/89181028"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on zenodo.org",
+      "url": "https://zenodo.org/records/23048056"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on aiovisibilityhub.srht.site",
+      "url": "https://aiovisibilityhub.srht.site/"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on aiovisibilityhub.codeberg.page",
+      "url": "https://aiovisibilityhub.codeberg.page/cg-plumbing-solutions-ai-schemas/"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on kaggle.com",
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/cg-plumbing-solutions-ai-schemas"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on aiovisibilityhub-cg-plumbing-solutions-ai-schemas.static.hf.space",
+      "url": "https://aiovisibilityhub-cg-plumbing-solutions-ai-schemas.static.hf.space/index.html"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on cg-plumbing-solutions-ai-schemas-iuit-9c727a.gitlab.io",
+      "url": "https://cg-plumbing-solutions-ai-schemas-iuit-9c727a.gitlab.io/"
+    },
+    {
+      "role": "same-as",
+      "label": "CG Plumbing Solutions on aiovisibility.net",
+      "url": "https://aiovisibility.net/profiles/cg-plumbing-solutions"
     }
   ],
   "destinations": {
