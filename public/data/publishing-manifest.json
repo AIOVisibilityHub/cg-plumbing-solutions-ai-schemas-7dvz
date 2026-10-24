@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-24T22:27:03.135Z",
+  "generatedAt": "2026-10-24T22:28:45.560Z",
   "client": {
     "name": "CG Plumbing Solutions",
     "canonicalUrl": "https://cgplumbinglasvegas.aiovisibility.net",
@@ -353,7 +353,7 @@
   },
   "package": {
     "totalFiles": 2635,
-    "totalBytes": 9717195,
+    "totalBytes": 9791622,
     "stats": {
       "faqs": 2023,
       "helpArticles": 285,
@@ -13433,72 +13433,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 17029,
+        "bytes": 22523,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 83602,
+        "bytes": 88948,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 249072,
+        "bytes": 254444,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 16355,
+        "bytes": 21590,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1477599,
+        "bytes": 1482842,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 17929,
+        "bytes": 23173,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 20960,
+        "bytes": 26157,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 368128,
+        "bytes": 373430,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 134509,
+        "bytes": 139881,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 181244,
+        "bytes": 186587,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 166108,
+        "bytes": 171487,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 56270,
+        "bytes": 61543,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 76677,
+        "bytes": 82058,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 34508,
+        "bytes": 39754,
         "purpose": "LLM-optimized public page"
       }
     ],
